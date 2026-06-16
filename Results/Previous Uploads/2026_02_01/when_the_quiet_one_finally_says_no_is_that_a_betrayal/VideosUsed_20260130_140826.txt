@@ -1,4 +1,0 @@
-file 'D:\CodingProjects\YoutubeShorts\BackgroundClips\Screen_Recording_20251130_171341_Subway Surf - Trim.mp4'
-file 'D:\CodingProjects\YoutubeShorts\BackgroundClips\Screen_Recording_20251221_203432_Subway Surf - Trim.mp4'
-file 'D:\CodingProjects\YoutubeShorts\BackgroundClips\Screen_Recording_20251221_200028_Subway Surf - Trim.mp4'
-file 'D:\CodingProjects\YoutubeShorts\BackgroundClips\Screen_Recording_20251221_201512_Subway Surf - Trim.mp4'
