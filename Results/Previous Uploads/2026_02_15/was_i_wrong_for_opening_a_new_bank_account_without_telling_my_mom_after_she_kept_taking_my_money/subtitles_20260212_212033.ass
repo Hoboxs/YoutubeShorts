@@ -1,0 +1,182 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.29,0:00:06.04,Default,,0,0,0,,\N{\k36}I'M {\k21}19 {\k16}AND
+Dialogue: 0,0:00:06.04,0:00:06.96,Default,,0,0,0,,\N{\k17}TRYING {\k14}TO {\k12}GET {\k13}MY {\k33}FINANCES
+Dialogue: 0,0:00:06.96,0:00:07.70,Default,,0,0,0,,\N{\k28}UNDER {\k29}CONTROL {\k16}FOR
+Dialogue: 0,0:00:07.70,0:00:08.38,Default,,0,0,0,,\N{\k9}THE {\k16}FIRST {\k18}TIME {\k11}IN {\k12}MY
+Dialogue: 0,0:00:08.38,0:00:08.74,Default,,0,0,0,,\N{\k35}LIFE.
+Dialogue: 0,0:00:09.22,0:00:10.08,Default,,0,0,0,,\N{\k31}GROWING {\k24}UP, {\k11}MY
+Dialogue: 0,0:00:10.08,0:00:10.74,Default,,0,0,0,,\N{\k24}PARENTS {\k27}DIDN'T {\k14}LET
+Dialogue: 0,0:00:10.74,0:00:11.51,Default,,0,0,0,,\N{\k14}ME {\k19}WORK {\k24}DURING {\k19}HIGH
+Dialogue: 0,0:00:11.51,0:00:12.32,Default,,0,0,0,,\N{\k22}SCHOOL {\k24}BECAUSE {\k11}THEY {\k22}WANTED
+Dialogue: 0,0:00:12.32,0:00:12.96,Default,,0,0,0,,\N{\k17}ME {\k24}FOCUSED {\k22}ON
+Dialogue: 0,0:00:12.96,0:00:13.38,Default,,0,0,0,,\N{\k41}ACADEMICS.
+Dialogue: 0,0:00:14.22,0:00:14.93,Default,,0,0,0,,\N{\k19}I {\k14}DID {\k19}WELL, {\k5}I
+Dialogue: 0,0:00:14.93,0:00:15.58,Default,,0,0,0,,\N{\k28}GRADUATED {\k35}FROM
+Dialogue: 0,0:00:15.58,0:00:16.32,Default,,0,0,0,,\N{\k14}VALOR {\k8}DE {\k25}TORI, {\k17}BUT
+Dialogue: 0,0:00:16.32,0:00:16.96,Default,,0,0,0,,\N{\k7}IT {\k20}ALSO {\k21}MEANT {\k14}I
+Dialogue: 0,0:00:16.96,0:00:17.76,Default,,0,0,0,,\N{\k17}NEVER {\k25}REALLY {\k10}HAD {\k26}CONTROL
+Dialogue: 0,0:00:17.76,0:00:18.60,Default,,0,0,0,,\N{\k27}OVER {\k14}MY {\k12}OWN {\k30}MONEY.
+Dialogue: 0,0:00:19.23,0:00:20.07,Default,,0,0,0,,\N{\k24}A {\k16}FEW {\k17}YEARS {\k25}AGO,
+Dialogue: 0,0:00:20.26,0:00:20.87,Default,,0,0,0,,\N{\k7}MY {\k26}GRANDMOTHER {\k27}GAVE
+Dialogue: 0,0:00:20.87,0:00:21.51,Default,,0,0,0,,\N{\k16}ME {\k19}ABOUT {\k28}$7
+Dialogue: 0,0:00:21.51,0:00:22.17,Default,,0,0,0,,\N{\k37}A {\k16}YEAR {\k12}TO
+Dialogue: 0,0:00:22.17,0:00:22.80,Default,,0,0,0,,\N{\k12}HELP {\k14}ME {\k11}GET {\k24}STARTED
+Dialogue: 0,0:00:22.80,0:00:23.19,Default,,0,0,0,,\N{\k17}WITH {\k21}COLLEGE.
+Dialogue: 0,0:00:24.10,0:00:24.71,Default,,0,0,0,,\N{\k32}ANYTIME {\k29}I
+Dialogue: 0,0:00:24.71,0:00:25.32,Default,,0,0,0,,\N{\k10}HAD {\k16}CHECKS {\k16}FOR {\k17}CASH
+Dialogue: 0,0:00:25.32,0:00:26.03,Default,,0,0,0,,\N{\k17}TO {\k17}DEPOSIT {\k35}GROWING
+Dialogue: 0,0:00:26.03,0:00:26.73,Default,,0,0,0,,\N{\k24}UP, {\k5}MY {\k17}MOM
+Dialogue: 0,0:00:26.73,0:00:27.39,Default,,0,0,0,,\N{\k14}WOULD {\k14}PUT {\k14}IT {\k14}INTO {\k9}A
+Dialogue: 0,0:00:27.39,0:00:28.14,Default,,0,0,0,,\N{\k14}JOINT {\k35}SAVINGS {\k24}ACCOUNT
+Dialogue: 0,0:00:28.14,0:00:28.76,Default,,0,0,0,,\N{\k17}THAT {\k14}SHE {\k16}SAID {\k14}WAS
+Dialogue: 0,0:00:28.76,0:00:29.48,Default,,0,0,0,,\N{\k21}MINE, {\k12}BUT {\k12}I
+Dialogue: 0,0:00:29.48,0:00:30.35,Default,,0,0,0,,\N{\k21}DIDN'T {\k16}HAVE {\k19}DIRECT {\k30}ACCESS
+Dialogue: 0,0:00:30.35,0:00:30.82,Default,,0,0,0,,\N{\k26}TO {\k19}IT.
+Dialogue: 0,0:00:31.57,0:00:32.17,Default,,0,0,0,,\N{\k22}WHEN {\k7}I {\k30}FINALLY
+Dialogue: 0,0:00:32.17,0:00:32.89,Default,,0,0,0,,\N{\k20}WENT {\k14}TO {\k21}OPEN {\k15}MY
+Dialogue: 0,0:00:32.89,0:00:33.50,Default,,0,0,0,,\N{\k12}OWN {\k19}CHECKING {\k28}ACCOUNT
+Dialogue: 0,0:00:33.50,0:00:34.29,Default,,0,0,0,,\N{\k20}AT {\k21}18, {\k5}MY
+Dialogue: 0,0:00:34.29,0:00:34.96,Default,,0,0,0,,\N{\k12}MOM {\k21}CAME {\k17}WITH {\k14}ME
+Dialogue: 0,0:00:34.96,0:00:35.64,Default,,0,0,0,,\N{\k11}AND {\k32}SUGGESTED {\k24}WE
+Dialogue: 0,0:00:35.64,0:00:36.46,Default,,0,0,0,,\N{\k15}JUST {\k16}KEEP {\k17}THE {\k32}EXISTING
+Dialogue: 0,0:00:36.46,0:00:37.06,Default,,0,0,0,,\N{\k33}SAVINGS {\k26}ACCOUNT
+Dialogue: 0,0:00:37.06,0:00:37.34,Default,,0,0,0,,\N{\k28}JOINT.
+Dialogue: 0,0:00:37.93,0:00:38.64,Default,,0,0,0,,\N{\k38}I {\k20}DIDN'T {\k11}THINK
+Dialogue: 0,0:00:38.64,0:00:39.28,Default,,0,0,0,,\N{\k24}MUCH {\k14}OF {\k7}IT {\k10}AT {\k7}THE
+Dialogue: 0,0:00:39.28,0:00:39.47,Default,,0,0,0,,\N{\k19}TIME,
+Dialogue: 0,0:00:40.15,0:00:40.75,Default,,0,0,0,,\N{\k20}BUT {\k11}WHEN {\k10}I {\k17}CHECKED
+Dialogue: 0,0:00:40.75,0:00:41.61,Default,,0,0,0,,\N{\k12}THE {\k23}BALANCE, {\k7}THERE
+Dialogue: 0,0:00:41.61,0:00:42.52,Default,,0,0,0,,\N{\k12}WAS {\k17}ONLY {\k15}ABOUT {\k44}$1
+Dialogue: 0,0:00:42.52,0:00:43.20,Default,,0,0,0,,\N{\k32},000 {\k35}LEFT.
+Dialogue: 0,0:00:44.03,0:00:44.89,Default,,0,0,0,,\N{\k21}SHE {\k6}HAD {\k29}PREVIOUSLY {\k28}TOLD
+Dialogue: 0,0:00:44.89,0:00:45.60,Default,,0,0,0,,\N{\k17}ME {\k16}SHE {\k35}OCCASIONALLY
+Dialogue: 0,0:00:45.60,0:00:46.21,Default,,0,0,0,,\N{\k29}BORROWED {\k16}FROM {\k15}IT
+Dialogue: 0,0:00:46.21,0:00:46.82,Default,,0,0,0,,\N{\k10}AND {\k7}WOULD {\k16}PAY {\k25}BACK,
+Dialogue: 0,0:00:47.07,0:00:47.70,Default,,0,0,0,,\N{\k7}AND {\k8}I {\k23}BELIEVED {\k22}HER.
+Dialogue: 0,0:00:48.43,0:00:49.15,Default,,0,0,0,,\N{\k24}I {\k11}HAD {\k12}NO {\k23}IDEA
+Dialogue: 0,0:00:49.15,0:00:49.88,Default,,0,0,0,,\N{\k14}THE {\k20}BALANCE {\k17}HAD {\k20}DROPPED
+Dialogue: 0,0:00:49.88,0:00:50.34,Default,,0,0,0,,\N{\k17}THAT {\k28}MUCH.
+Dialogue: 0,0:00:51.03,0:00:51.65,Default,,0,0,0,,\N{\k20}NOT {\k14}LONG {\k27}AFTER
+Dialogue: 0,0:00:51.65,0:00:52.84,Default,,0,0,0,,\N{\k16}THAT, {\k6}MY {\k14}OLD {\k64}1999
+Dialogue: 0,0:00:52.84,0:00:53.84,Default,,0,0,0,,\N{\k63}MERCURY {\k36}GRANDMA
+Dialogue: 0,0:00:53.84,0:00:54.46,Default,,0,0,0,,\N{\k25}KEY {\k35}FINALLY
+Dialogue: 0,0:00:54.46,0:00:54.70,Default,,0,0,0,,\N{\k24}DIED.
+Dialogue: 0,0:00:55.43,0:00:56.10,Default,,0,0,0,,\N{\k35}MY {\k30}MOM'S
+Dialogue: 0,0:00:56.10,0:00:56.92,Default,,0,0,0,,\N{\k11}SIDE {\k12}OF {\k7}THE {\k21}FAMILY {\k28}PUSHED
+Dialogue: 0,0:00:56.92,0:00:57.60,Default,,0,0,0,,\N{\k14}HARD {\k15}FOR {\k12}ME {\k13}TO {\k12}GET
+Dialogue: 0,0:00:57.60,0:00:58.03,Default,,0,0,0,,\N{\k11}A {\k12}NEW {\k19}CAR.
+Dialogue: 0,0:00:58.70,0:00:59.42,Default,,0,0,0,,\N{\k33}I {\k14}WAS {\k24}HESITANT,
+Dialogue: 0,0:00:59.60,0:01:00.25,Default,,0,0,0,,\N{\k28}ESPECIALLY {\k27}WHEN {\k10}I
+Dialogue: 0,0:01:00.25,0:01:00.96,Default,,0,0,0,,\N{\k24}FOUND {\k14}OUT {\k14}THE {\k17}MONTHLY
+Dialogue: 0,0:01:00.96,0:01:01.57,Default,,0,0,0,,\N{\k32}PAYMENT {\k17}WOULD {\k11}BE
+Dialogue: 0,0:01:01.57,0:01:02.28,Default,,0,0,0,,\N{\k21}AROUND {\k48}$900,
+Dialogue: 0,0:01:02.67,0:01:03.42,Default,,0,0,0,,\N{\k11}BUT {\k12}I {\k14}WAS {\k15}TOLD {\k20}I
+Dialogue: 0,0:01:03.42,0:01:04.23,Default,,0,0,0,,\N{\k19}WOULDN'T {\k10}HAVE {\k12}TO {\k17}SHOULDER {\k21}THE
+Dialogue: 0,0:01:04.23,0:01:04.85,Default,,0,0,0,,\N{\k20}FULL {\k14}AMOUNT {\k28}RIGHT
+Dialogue: 0,0:01:04.85,0:01:05.07,Default,,0,0,0,,\N{\k21}AWAY.
+Dialogue: 0,0:01:05.85,0:01:06.48,Default,,0,0,0,,\N{\k35}MY {\k14}DAD {\k12}AND
+Dialogue: 0,0:01:06.48,0:01:07.12,Default,,0,0,0,,\N{\k14}HIS {\k14}MOM {\k19}GAVE {\k16}ME
+Dialogue: 0,0:01:07.12,0:01:08.70,Default,,0,0,0,,\N{\k15}ANOTHER {\k37}$7, {\k62}$500
+Dialogue: 0,0:01:08.70,0:01:09.40,Default,,0,0,0,,\N{\k15}TO {\k14}HELP, {\k6}AND {\k14}MY
+Dialogue: 0,0:01:09.40,0:01:10.06,Default,,0,0,0,,\N{\k29}MOM'S {\k17}PARENTS {\k18}PUT
+Dialogue: 0,0:01:10.06,0:01:11.12,Default,,0,0,0,,\N{\k20}ABOUT {\k39}$3 {\k46}TO
+Dialogue: 0,0:01:11.12,0:01:11.90,Default,,0,0,0,,\N{\k14}DO {\k64}SO.
+Dialogue: 0,0:01:11.90,0:01:13.04,Default,,0,0,0,,\N{\k1}I {\k114}WAS
+Dialogue: 0,0:01:13.04,0:01:14.00,Default,,0,0,0,,\N{\k77}TOLD {\k18}THAT
+Dialogue: 0,0:01:14.00,0:01:14.71,Default,,0,0,0,,\N{\k7}THE {\k20}MONEY {\k14}FROM {\k14}MY {\k15}DAD
+Dialogue: 0,0:01:14.71,0:01:15.43,Default,,0,0,0,,\N{\k15}AND {\k32}GRANDMOTHER {\k23}HAD
+Dialogue: 0,0:01:15.43,0:01:16.15,Default,,0,0,0,,\N{\k15}RUN {\k18}OUT {\k12}AND {\k7}THAT {\k17}I'D
+Dialogue: 0,0:01:16.15,0:01:16.95,Default,,0,0,0,,\N{\k7}NEED {\k14}TO {\k21}START {\k35}CONTRIBUTING
+Dialogue: 0,0:01:16.95,0:01:17.35,Default,,0,0,0,,\N{\k40}AGAIN.
+Dialogue: 0,0:01:18.29,0:01:18.90,Default,,0,0,0,,\N{\k18}I'VE {\k7}BEEN {\k34}ACTIVELY
+Dialogue: 0,0:01:18.90,0:01:19.92,Default,,0,0,0,,\N{\k25}JOB {\k21}HUNTING {\k54}APPLICATIONS,
+Dialogue: 0,0:01:20.18,0:01:20.87,Default,,0,0,0,,\N{\k33}INTERVIEWS, {\k3}THE
+Dialogue: 0,0:01:20.87,0:01:21.56,Default,,0,0,0,,\N{\k18}WORKS, {\k21}BUT {\k15}SINCE {\k12}I
+Dialogue: 0,0:01:21.56,0:01:22.43,Default,,0,0,0,,\N{\k21}DIDN'T {\k12}HAVE {\k14}JOB {\k39}EXPERIENCE
+Dialogue: 0,0:01:22.43,0:01:23.28,Default,,0,0,0,,\N{\k18}IN {\k14}HIGH {\k23}SCHOOL, {\k7}I'VE
+Dialogue: 0,0:01:23.28,0:01:24.18,Default,,0,0,0,,\N{\k7}HAD {\k23}TROUBLE {\k26}LANDING {\k32}SOMETHING
+Dialogue: 0,0:01:24.18,0:01:24.50,Default,,0,0,0,,\N{\k31}STABLE.
+Dialogue: 0,0:01:25.43,0:01:26.14,Default,,0,0,0,,\N{\k40}I'VE {\k9}BEEN {\k20}DOING
+Dialogue: 0,0:01:26.14,0:01:26.76,Default,,0,0,0,,\N{\k43}DOOR-DASH {\k15}IN {\k2}THE
+Dialogue: 0,0:01:26.76,0:01:27.54,Default,,0,0,0,,\N{\k21}MEANTIME, {\k5}BUT {\k22}IT'S
+Dialogue: 0,0:01:27.54,0:01:27.95,Default,,0,0,0,,\N{\k41}INCONSISTENT.
+Dialogue: 0,0:01:28.71,0:01:29.59,Default,,0,0,0,,\N{\k34}I {\k20}ALSO {\k33}RECEIVED
+Dialogue: 0,0:01:29.59,0:01:30.73,Default,,0,0,0,,\N{\k18}ABOUT {\k29}$2 {\k65},00,
+Dialogue: 0,0:01:30.73,0:01:31.51,Default,,0,0,0,,\N{\k6}ZERO {\k20}BACK {\k15}FROM {\k12}MY {\k23}COLLEGE
+Dialogue: 0,0:01:31.51,0:01:32.15,Default,,0,0,0,,\N{\k35}FINANCIAL {\k28}AID
+Dialogue: 0,0:01:32.15,0:01:32.40,Default,,0,0,0,,\N{\k24}REFUND.
+Dialogue: 0,0:01:33.06,0:01:33.84,Default,,0,0,0,,\N{\k39}I {\k20}WANTED {\k18}TO
+Dialogue: 0,0:01:33.84,0:01:34.45,Default,,0,0,0,,\N{\k14}SET {\k17}SOME {\k29}ASIDE
+Dialogue: 0,0:01:34.45,0:01:35.06,Default,,0,0,0,,\N{\k18}FOR {\k17}DAILY {\k24}EXPENSES
+Dialogue: 0,0:01:35.06,0:01:35.81,Default,,0,0,0,,\N{\k28}AND {\k11}USE {\k14}A {\k21}PORTION
+Dialogue: 0,0:01:35.81,0:01:36.51,Default,,0,0,0,,\N{\k22}TO {\k14}FUND {\k33}SOMETHING
+Dialogue: 0,0:01:36.51,0:01:37.14,Default,,0,0,0,,\N{\k35}SPECIAL {\k14}FROM {\k12}MY
+Dialogue: 0,0:01:37.14,0:01:38.07,Default,,0,0,0,,\N{\k26}PARTNER {\k17}FOR {\k50}VALENTINE'S
+Dialogue: 0,0:01:38.07,0:01:38.21,Default,,0,0,0,,\N{\k14}DAY.
+Dialogue: 0,0:01:38.90,0:01:39.62,Default,,0,0,0,,\N{\k19}WHEN {\k12}THE {\k21}REFUND {\k18}HIT
+Dialogue: 0,0:01:39.62,0:01:40.37,Default,,0,0,0,,\N{\k15}MY {\k23}GANT, {\k9}MY
+Dialogue: 0,0:01:40.37,0:01:41.23,Default,,0,0,0,,\N{\k18}MOM {\k29}IMMEDIATELY {\k37}INSISTED
+Dialogue: 0,0:01:41.23,0:01:41.84,Default,,0,0,0,,\N{\k20}ON {\k15}MONEY {\k24}NEEDED
+Dialogue: 0,0:01:41.84,0:01:42.48,Default,,0,0,0,,\N{\k11}TO {\k12}GO {\k15}TO {\k10}WHAT {\k14}THE
+Dialogue: 0,0:01:42.48,0:01:43.21,Default,,0,0,0,,\N{\k14}CAR {\k11}AND {\k14}SAID {\k12}I {\k21}COULDN'T
+Dialogue: 0,0:01:43.21,0:01:43.79,Default,,0,0,0,,\N{\k20}USE {\k9}IT {\k28}FREELY.
+Dialogue: 0,0:01:44.57,0:01:45.29,Default,,0,0,0,,\N{\k32}BECAUSE {\k15}THE {\k23}SAVINGS
+Dialogue: 0,0:01:45.29,0:01:46.00,Default,,0,0,0,,\N{\k32}ACCOUNT {\k15}IS {\k21}STILL
+Dialogue: 0,0:01:46.00,0:01:46.70,Default,,0,0,0,,\N{\k23}JOINED, {\k4}I {\k28}TECHNICALLY
+Dialogue: 0,0:01:46.70,0:01:47.45,Default,,0,0,0,,\N{\k35}NEEDED {\k15}HER {\k23}APPROVAL
+Dialogue: 0,0:01:47.45,0:01:48.48,Default,,0,0,0,,\N{\k18}TO {\k14}MOVE {\k26}FUNDS. {\k43}I
+Dialogue: 0,0:01:48.48,0:01:49.95,Default,,0,0,0,,\N{\k95}TRANSFERRED {\k51}$200
+Dialogue: 0,0:01:49.95,0:01:50.57,Default,,0,0,0,,\N{\k48}FOR {\k14}SOME
+Dialogue: 0,0:01:50.57,0:01:51.23,Default,,0,0,0,,\N{\k20}EARLY {\k26}SHOPPING {\k19}AND
+Dialogue: 0,0:01:51.23,0:01:51.70,Default,,0,0,0,,\N{\k12}DATE {\k34}PLANS.
+Dialogue: 0,0:01:52.40,0:01:53.20,Default,,0,0,0,,\N{\k17}A {\k10}FEW {\k15}DAYS {\k35}LATER,
+Dialogue: 0,0:01:53.50,0:01:54.28,Default,,0,0,0,,\N{\k6}I {\k15}CHECKED {\k20}MY {\k15}CART {\k20}AND
+Dialogue: 0,0:01:54.28,0:01:54.92,Default,,0,0,0,,\N{\k17}NEARLY {\k26}ALL {\k14}OF {\k6}THE
+Dialogue: 0,0:01:54.92,0:01:55.70,Default,,0,0,0,,\N{\k26}REFUND {\k17}WAS {\k15}GONE {\k18}ABOUT
+Dialogue: 0,0:01:55.70,0:01:56.54,Default,,0,0,0,,\N{\k51}$50 {\k32}REMAINED.
+Dialogue: 0,0:01:57.37,0:01:58.20,Default,,0,0,0,,\N{\k14}WHEN {\k12}I {\k31}CONFRONTED {\k24}HER,
+Dialogue: 0,0:01:58.43,0:01:59.04,Default,,0,0,0,,\N{\k7}SHE {\k16}SAID {\k11}I {\k15}SHOULD {\k8}HAVE
+Dialogue: 0,0:01:59.04,0:01:59.68,Default,,0,0,0,,\N{\k14}LISTENED {\k19}TO {\k7}HER {\k12}AND {\k10}THAT
+Dialogue: 0,0:01:59.68,0:02:00.43,Default,,0,0,0,,\N{\k11}I {\k29}COULDN'T {\k12}BE {\k21}TRUSTED
+Dialogue: 0,0:02:00.43,0:02:01.14,Default,,0,0,0,,\N{\k20}WITH {\k14}MY {\k12}OWN {\k23}MONEY.
+Dialogue: 0,0:02:01.92,0:02:02.68,Default,,0,0,0,,\N{\k20}SHE {\k19}ALSO {\k20}BROUGHT {\k16}UP
+Dialogue: 0,0:02:02.68,0:02:03.40,Default,,0,0,0,,\N{\k11}THE {\k14}FACT {\k18}THAT {\k11}I {\k16}MOVED
+Dialogue: 0,0:02:03.40,0:02:04.26,Default,,0,0,0,,\N{\k15}IN {\k12}WITH {\k13}MY {\k12}DAD {\k32}RECENTLY
+Dialogue: 0,0:02:04.26,0:02:04.95,Default,,0,0,0,,\N{\k21}AND {\k21}IMPLIED {\k14}THAT {\k11}IF
+Dialogue: 0,0:02:04.95,0:02:05.87,Default,,0,0,0,,\N{\k14}I {\k24}WANTED {\k53}INDEPENDENCE,
+Dialogue: 0,0:02:06.40,0:02:07.09,Default,,0,0,0,,\N{\k3}I {\k14}SHOULD {\k12}BE {\k21}PREPARED {\k17}TO
+Dialogue: 0,0:02:07.09,0:02:08.15,Default,,0,0,0,,\N{\k20}COVER {\k18}THE {\k15}ENTIRE {\k51}$900
+Dialogue: 0,0:02:08.15,0:02:08.90,Default,,0,0,0,,\N{\k53}MONTHLY {\k20}CAR
+Dialogue: 0,0:02:08.90,0:02:09.50,Default,,0,0,0,,\N{\k28}PAYMENT {\k31}MYSELF.
+Dialogue: 0,0:02:10.19,0:02:10.87,Default,,0,0,0,,\N{\k32}AT {\k11}THIS {\k24}POINT,
+Dialogue: 0,0:02:11.12,0:02:11.96,Default,,0,0,0,,\N{\k9}I'M {\k25}SERIOUSLY {\k48}CONSIDERING
+Dialogue: 0,0:02:11.96,0:02:12.75,Default,,0,0,0,,\N{\k35}OPENING {\k15}A {\k28}COMPLETELY
+Dialogue: 0,0:02:12.75,0:02:13.36,Default,,0,0,0,,\N{\k32}SEPARATE {\k28}ACCOUNT
+Dialogue: 0,0:02:13.36,0:02:14.03,Default,,0,0,0,,\N{\k19}AT {\k7}A {\k20}DIFFERENT {\k19}BANK
+Dialogue: 0,0:02:14.03,0:02:14.69,Default,,0,0,0,,\N{\k18}WITHOUT {\k31}TELLING {\k15}HER,
+Dialogue: 0,0:02:15.19,0:02:15.81,Default,,0,0,0,,\N{\k21}JUST {\k18}SO {\k8}I {\k13}CAN
+Dialogue: 0,0:02:15.81,0:02:16.43,Default,,0,0,0,,\N{\k9}HAVE {\k28}CONTROL {\k24}OVER
+Dialogue: 0,0:02:16.43,0:02:17.12,Default,,0,0,0,,\N{\k14}MY {\k13}OWN {\k40}FINANCES.
+Dialogue: 0,0:02:17.91,0:02:18.96,Default,,0,0,0,,\N{\k36}I {\k18}FEEL {\k50}CONFLICTED
+Dialogue: 0,0:02:18.96,0:02:19.75,Default,,0,0,0,,\N{\k17}BECAUSE {\k16}SHE {\k15}INSISTS {\k29}SHE'S
+Dialogue: 0,0:02:19.75,0:02:20.36,Default,,0,0,0,,\N{\k18}TRYING {\k12}TO {\k18}TEACH {\k12}ME
+Dialogue: 0,0:02:20.36,0:02:21.25,Default,,0,0,0,,\N{\k55}RESPONSIBILITY, {\k6}BUT
+Dialogue: 0,0:02:21.25,0:02:21.86,Default,,0,0,0,,\N{\k12}IT {\k12}FEELS {\k19}MORE {\k16}LIKE
+Dialogue: 0,0:02:21.86,0:02:22.58,Default,,0,0,0,,\N{\k19}I'M {\k13}BEING {\k20}SHUT {\k18}OUT
+Dialogue: 0,0:02:22.58,0:02:23.28,Default,,0,0,0,,\N{\k7}OF {\k24}DECISIONS {\k23}ABOUT {\k14}MY
+Dialogue: 0,0:02:23.28,0:02:23.68,Default,,0,0,0,,\N{\k15}OWN {\k24}MONEY.
+Dialogue: 0,0:02:24.41,0:02:25.15,Default,,0,0,0,,\N{\k36}SO, {\k9}AM
+Dialogue: 0,0:02:25.15,0:02:25.90,Default,,0,0,0,,\N{\k8}I {\k19}WRONG {\k12}FOR {\k19}WANTING {\k14}TO
+Dialogue: 0,0:02:25.90,0:02:26.53,Default,,0,0,0,,\N{\k21}OPEN {\k12}A {\k7}NEW {\k21}ACCOUNT
+Dialogue: 0,0:02:26.53,0:02:27.52,Default,,0,0,0,,\N{\k14}AND {\k23}HANDLE {\k16}MY {\k43}FINANCES
+Dialogue: 0,0:02:27.52,0:02:28.09,Default,,0,0,0,,\N{\k57}INDEPENDENTLY?

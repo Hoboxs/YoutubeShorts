@@ -1,0 +1,99 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.89,0:00:04.58,Default,,0,0,0,,\N{\k18}I {\k16}LIVE {\k20}WITH {\k13}A
+Dialogue: 0,0:00:04.58,0:00:05.29,Default,,0,0,0,,\N{\k29}HOUSEMATE {\k13}WHO {\k28}RECENTLY
+Dialogue: 0,0:00:05.29,0:00:06.09,Default,,0,0,0,,\N{\k40}UNDERWENT {\k13}A {\k25}MEDICAL
+Dialogue: 0,0:00:06.09,0:00:06.78,Default,,0,0,0,,\N{\k26}PROCEDURE {\k23}AND {\k18}HAS
+Dialogue: 0,0:00:06.78,0:00:07.46,Default,,0,0,0,,\N{\k12}BEEN {\k37}RESTRICTED {\k17}TO
+Dialogue: 0,0:00:07.46,0:00:08.27,Default,,0,0,0,,\N{\k5}A {\k18}VERY {\k24}PLAIN {\k33}RECOVERY
+Dialogue: 0,0:00:08.27,0:00:09.17,Default,,0,0,0,,\N{\k25}DIET {\k22}THAT {\k41}EXCLUDES
+Dialogue: 0,0:00:09.17,0:00:09.80,Default,,0,0,0,,\N{\k17}MOST {\k14}OF {\k16}THE {\k14}FOOD
+Dialogue: 0,0:00:09.80,0:00:10.56,Default,,0,0,0,,\N{\k13}SHE {\k33}USUALLY {\k28}LOVES.
+Dialogue: 0,0:00:11.24,0:00:12.24,Default,,0,0,0,,\N{\k29}SHE'S {\k10}BEEN {\k59}UNDERSTANDABLY
+Dialogue: 0,0:00:12.24,0:00:12.93,Default,,0,0,0,,\N{\k35}FRUSTRATED {\k33}ABOUT
+Dialogue: 0,0:00:12.93,0:00:13.43,Default,,0,0,0,,\N{\k12}IT {\k13}FOR {\k24}WEEKS.
+Dialogue: 0,0:00:14.35,0:00:15.17,Default,,0,0,0,,\N{\k12}I'M {\k8}IN {\k13}MY {\k14}LATE {\k33}TWENTIES
+Dialogue: 0,0:00:15.17,0:00:15.92,Default,,0,0,0,,\N{\k20}AND {\k15}WORK {\k12}A {\k25}DEMANDING
+Dialogue: 0,0:00:15.92,0:00:16.60,Default,,0,0,0,,\N{\k25}JOB {\k16}THAT {\k26}OFTEN
+Dialogue: 0,0:00:16.60,0:00:17.30,Default,,0,0,0,,\N{\k17}KEEPS {\k19}ME {\k14}OUT {\k17}LATE,
+Dialogue: 0,0:00:17.51,0:00:18.14,Default,,0,0,0,,\N{\k35}ESPECIALLY {\k26}ONE
+Dialogue: 0,0:00:18.14,0:00:18.87,Default,,0,0,0,,\N{\k28}EVENING {\k13}A {\k14}WEEK {\k17}WHEN
+Dialogue: 0,0:00:18.87,0:00:19.53,Default,,0,0,0,,\N{\k8}I {\k9}HAVE {\k10}TO {\k21}COMMUTE {\k16}TO
+Dialogue: 0,0:00:19.53,0:00:20.35,Default,,0,0,0,,\N{\k3}A {\k24}DECENT {\k16}BRANCH {\k37}OFFICE,
+Dialogue: 0,0:00:20.55,0:00:21.30,Default,,0,0,0,,\N{\k14}WHICH {\k12}ADDS {\k10}A {\k13}LONG {\k24}DRIVE
+Dialogue: 0,0:00:21.30,0:00:22.01,Default,,0,0,0,,\N{\k17}ON {\k16}BOTH {\k25}ENDS {\k12}OF
+Dialogue: 0,0:00:22.01,0:00:22.30,Default,,0,0,0,,\N{\k10}THE {\k17}DAY.
+Dialogue: 0,0:00:23.19,0:00:23.83,Default,,0,0,0,,\N{\k22}BY {\k9}THE {\k14}TIME {\k17}I
+Dialogue: 0,0:00:23.83,0:00:24.44,Default,,0,0,0,,\N{\k14}GET {\k16}HOME {\k14}ONE {\k16}THOSE
+Dialogue: 0,0:00:24.44,0:00:25.12,Default,,0,0,0,,\N{\k19}NIGHTS, {\k12}I'M
+Dialogue: 0,0:00:25.12,0:00:25.85,Default,,0,0,0,,\N{\k23}EXHAUSTED {\k26}AND {\k23}STARVING,
+Dialogue: 0,0:00:26.10,0:00:26.85,Default,,0,0,0,,\N{\k17}SO {\k11}I {\k26}USUALLY {\k19}PICK
+Dialogue: 0,0:00:26.85,0:00:27.51,Default,,0,0,0,,\N{\k16}UP {\k26}TICKET {\k23}AS
+Dialogue: 0,0:00:27.51,0:00:28.14,Default,,0,0,0,,\N{\k8}A {\k21}SMALL {\k16}WAY {\k16}TO
+Dialogue: 0,0:00:28.14,0:00:28.92,Default,,0,0,0,,\N{\k43}DECOMPRESS {\k12}AND {\k22}ENJOY
+Dialogue: 0,0:00:28.92,0:00:29.33,Default,,0,0,0,,\N{\k15}MY {\k26}EVENING.
+Dialogue: 0,0:00:30.12,0:00:30.76,Default,,0,0,0,,\N{\k39}ONE {\k24}NIGHT
+Dialogue: 0,0:00:30.76,0:00:31.55,Default,,0,0,0,,\N{\k17}I {\k16}GRABBED {\k17}A {\k5}DISH {\k21}I'D
+Dialogue: 0,0:00:31.55,0:00:32.65,Default,,0,0,0,,\N{\k12}BEEN {\k28}CRAVING, {\k27}WHICH
+Dialogue: 0,0:00:32.65,0:00:33.39,Default,,0,0,0,,\N{\k28}ALSO {\k24}HAPPENS {\k21}TO
+Dialogue: 0,0:00:33.39,0:00:34.32,Default,,0,0,0,,\N{\k10}BE {\k17}ONE {\k6}OF {\k11}MY {\k46}HOUSEMATE'S
+Dialogue: 0,0:00:34.32,0:00:34.79,Default,,0,0,0,,\N{\k21}FAVOURITE {\k25}MEALS.
+Dialogue: 0,0:00:35.74,0:00:36.38,Default,,0,0,0,,\N{\k19}I {\k14}ATE {\k10}IT {\k20}CASUALLY
+Dialogue: 0,0:00:36.38,0:00:37.24,Default,,0,0,0,,\N{\k19}IN {\k3}A {\k14}SHARED {\k20}LIVING {\k28}SPACE
+Dialogue: 0,0:00:37.24,0:00:37.89,Default,,0,0,0,,\N{\k23}WHILE {\k28}WATCHING {\k14}A
+Dialogue: 0,0:00:37.89,0:00:38.93,Default,,0,0,0,,\N{\k21}SHOW, {\k19}DIDN'T
+Dialogue: 0,0:00:38.93,0:00:39.61,Default,,0,0,0,,\N{\k16}COMMENT {\k17}ON {\k17}IT, {\k5}AND
+Dialogue: 0,0:00:39.61,0:00:40.24,Default,,0,0,0,,\N{\k20}STORED {\k15}THE {\k26}LEFTOVERS
+Dialogue: 0,0:00:40.24,0:00:41.02,Default,,0,0,0,,\N{\k21}IN {\k6}A {\k23}SEPARATE {\k26}FRIDGE
+Dialogue: 0,0:00:41.02,0:00:41.70,Default,,0,0,0,,\N{\k11}SO {\k11}THEY {\k26}WOULDN'T {\k17}AFFECT
+Dialogue: 0,0:00:41.70,0:00:42.11,Default,,0,0,0,,\N{\k15}HER {\k14}AT {\k11}ALL.
+Dialogue: 0,0:00:43.02,0:00:43.70,Default,,0,0,0,,\N{\k19}THE {\k14}NEXT {\k34}MORNING,
+Dialogue: 0,0:00:43.88,0:00:44.57,Default,,0,0,0,,\N{\k14}THOUGH, {\k14}SHE {\k11}WAS
+Dialogue: 0,0:00:44.57,0:00:45.79,Default,,0,0,0,,\N{\k46}NOTICEABLY {\k75}PASSIVE-AGGRESSIVE
+Dialogue: 0,0:00:45.79,0:00:46.43,Default,,0,0,0,,\N{\k14}AND {\k12}TOLD {\k15}ME {\k21}I'D
+Dialogue: 0,0:00:46.43,0:00:47.21,Default,,0,0,0,,\N{\k12}BEEN {\k9}IN {\k20}CONSIDER {\k35}FOR
+Dialogue: 0,0:00:47.21,0:00:47.84,Default,,0,0,0,,\N{\k17}EATING {\k24}FOOD {\k20}SHE
+Dialogue: 0,0:00:47.84,0:00:48.70,Default,,0,0,0,,\N{\k19}LIKES {\k24}WHILE {\k15}SHE {\k26}CAN'T
+Dialogue: 0,0:00:48.70,0:00:48.96,Default,,0,0,0,,\N{\k7}HAVE {\k17}THEM.
+Dialogue: 0,0:00:49.84,0:00:50.57,Default,,0,0,0,,\N{\k19}SHE {\k11}WENT {\k14}ON {\k12}TO {\k15}SAY
+Dialogue: 0,0:00:50.57,0:00:51.25,Default,,0,0,0,,\N{\k17}THAT {\k30}EVERYONE {\k9}IN {\k10}THE
+Dialogue: 0,0:00:51.25,0:00:52.11,Default,,0,0,0,,\N{\k14}HOUSE {\k20}SHOULD {\k19}AVOID {\k32}EATING
+Dialogue: 0,0:00:52.11,0:00:52.74,Default,,0,0,0,,\N{\k16}HER {\k24}FAVOURITE {\k21}THINGS
+Dialogue: 0,0:00:52.74,0:00:53.35,Default,,0,0,0,,\N{\k28}AROUND {\k17}HER {\k15}UNTIL
+Dialogue: 0,0:00:53.35,0:00:54.15,Default,,0,0,0,,\N{\k25}SHE'S {\k16}FULLY {\k37}RECOVERED,
+Dialogue: 0,0:00:54.34,0:00:55.00,Default,,0,0,0,,\N{\k13}BECAUSE {\k22}SEEING {\k14}THEM {\k15}MAKES
+Dialogue: 0,0:00:55.00,0:00:55.57,Default,,0,0,0,,\N{\k20}HER {\k15}FEEL {\k21}WORSE.
+Dialogue: 0,0:00:56.24,0:00:57.03,Default,,0,0,0,,\N{\k39}I {\k39}SYMPATHISE
+Dialogue: 0,0:00:57.03,0:00:57.89,Default,,0,0,0,,\N{\k14}WITH {\k11}THE {\k14}FACT {\k16}THAT {\k29}RECOVERY
+Dialogue: 0,0:00:57.89,0:00:58.56,Default,,0,0,0,,\N{\k30}IS {\k14}HARD {\k21}AND
+Dialogue: 0,0:00:58.56,0:00:59.21,Default,,0,0,0,,\N{\k28}LIMITING, {\k7}BUT
+Dialogue: 0,0:00:59.21,0:00:59.84,Default,,0,0,0,,\N{\k10}I {\k20}ALSO {\k17}FEEL {\k14}THAT
+Dialogue: 0,0:00:59.84,0:01:00.47,Default,,0,0,0,,\N{\k21}WORKING {\k15}LONG {\k25}HOURS
+Dialogue: 0,0:01:00.47,0:01:01.07,Default,,0,0,0,,\N{\k12}AND {\k17}TAKING {\k29}CARE
+Dialogue: 0,0:01:01.07,0:01:01.71,Default,,0,0,0,,\N{\k7}OF {\k24}MYSELF {\k32}INCLUDES
+Dialogue: 0,0:01:01.71,0:01:02.32,Default,,0,0,0,,\N{\k21}BEING {\k24}ABLE {\k14}TO
+Dialogue: 0,0:01:02.32,0:01:03.50,Default,,0,0,0,,\N{\k14}EITHER {\k10}DO {\k1}WHAT {\k7}I {\k20}WANT, {\k39}ESPECIALLY
+Dialogue: 0,0:01:03.50,0:01:04.21,Default,,0,0,0,,\N{\k28}WHEN {\k11}I {\k32}WASN'T
+Dialogue: 0,0:01:04.21,0:01:04.87,Default,,0,0,0,,\N{\k37}INTENTIONALLY {\k28}RUBBING
+Dialogue: 0,0:01:04.87,0:01:05.59,Default,,0,0,0,,\N{\k16}IT {\k11}IN {\k7}OR {\k35}INTERFERING
+Dialogue: 0,0:01:05.59,0:01:06.31,Default,,0,0,0,,\N{\k26}WITH {\k9}HER {\k22}DIET {\k13}IN
+Dialogue: 0,0:01:06.31,0:01:06.70,Default,,0,0,0,,\N{\k18}ANY {\k20}WAY.
+Dialogue: 0,0:01:07.59,0:01:08.48,Default,,0,0,0,,\N{\k28}NOW {\k16}I'M {\k14}STUCK {\k29}WONDERING
+Dialogue: 0,0:01:08.48,0:01:09.21,Default,,0,0,0,,\N{\k29}WHETHER {\k23}ENJOYING {\k20}MY
+Dialogue: 0,0:01:09.21,0:01:09.87,Default,,0,0,0,,\N{\k14}OWN {\k18}FOOD {\k17}IN {\k15}SHARED
+Dialogue: 0,0:01:09.87,0:01:10.51,Default,,0,0,0,,\N{\k21}SPACES {\k42}DURING
+Dialogue: 0,0:01:10.51,0:01:11.21,Default,,0,0,0,,\N{\k14}HER {\k32}RECOVERY {\k23}REALLY
+Dialogue: 0,0:01:11.21,0:01:11.90,Default,,0,0,0,,\N{\k15}MAKES {\k20}ME {\k32}UNFAIR,
+Dialogue: 0,0:01:12.20,0:01:12.81,Default,,0,0,0,,\N{\k7}OR {\k14}IF {\k14}THIS {\k9}IS {\k15}AN
+Dialogue: 0,0:01:12.81,0:01:13.64,Default,,0,0,0,,\N{\k22}UNREASONABLE {\k59}EXPECTATION
+Dialogue: 0,0:01:13.64,0:01:14.28,Default,,0,0,0,,\N{\k28}BEING {\k28}PLACED {\k7}ON
+Dialogue: 0,0:01:14.28,0:01:14.87,Default,,0,0,0,,\N{\k31}EVERYONE {\k28}ELSE.

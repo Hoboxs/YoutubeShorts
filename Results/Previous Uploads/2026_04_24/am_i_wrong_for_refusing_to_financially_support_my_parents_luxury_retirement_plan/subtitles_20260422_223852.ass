@@ -1,0 +1,151 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.36,0:00:04.99,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I'M {\k4}A {\k43}THIRTY
+Dialogue: 0,0:00:04.99,0:00:05.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}FIVE-YEAR-OLD {\k24}MAN
+Dialogue: 0,0:00:05.66,0:00:06.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}WORKING {\k17}IN {\k32}HEALTHCARE,
+Dialogue: 0,0:00:06.48,0:00:07.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}AND {\k17}I'M {\k4}AN {\k17}ONLY
+Dialogue: 0,0:00:07.25,0:00:07.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}CHILD.
+Dialogue: 0,0:00:08.35,0:00:08.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MY
+Dialogue: 0,0:00:08.56,0:00:09.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}PARENTS {\k14}ARE {\k17}BOTH {\k22}IN
+Dialogue: 0,0:00:09.32,0:00:10.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THEIR {\k11}LATE {\k51}60S
+Dialogue: 0,0:00:10.09,0:00:10.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AND {\k26}DEALING {\k19}WITH {\k27}SERIOUS
+Dialogue: 0,0:00:10.93,0:00:11.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}HEALTH {\k31}ISSUES.
+Dialogue: 0,0:00:12.32,0:00:12.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MY
+Dialogue: 0,0:00:12.50,0:00:13.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}MOTHER {\k17}HAS {\k8}A {\k56}SLOW-PROGRESSING
+Dialogue: 0,0:00:13.56,0:00:14.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}ILLNESS, {\k29}AND
+Dialogue: 0,0:00:14.17,0:00:14.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k27}FATHER {\k19}IS {\k14}IN
+Dialogue: 0,0:00:14.92,0:00:15.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}EARLY {\k33}STAGES
+Dialogue: 0,0:00:15.53,0:00:16.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}OF {\k24}COGNITIVE {\k39}DECLINE.
+Dialogue: 0,0:00:17.19,0:00:17.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}RIGHT
+Dialogue: 0,0:00:17.42,0:00:18.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}NOW, {\k23}THEY'RE
+Dialogue: 0,0:00:18.21,0:00:19.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}STILL {\k26}LIVING {\k43}INDEPENDENTLY
+Dialogue: 0,0:00:19.05,0:00:19.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WITH {\k16}SOME {\k25}HELP,
+Dialogue: 0,0:00:19.98,0:00:20.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}BUT {\k16}THEY'VE {\k28}STARTED {\k28}PLANNING
+Dialogue: 0,0:00:20.80,0:00:21.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FOR {\k12}THE {\k17}NEXT {\k19}PHASE
+Dialogue: 0,0:00:21.51,0:00:22.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OF {\k10}THEIR {\k29}LIVES.
+Dialogue: 0,0:00:22.80,0:00:23.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}THEY'VE
+Dialogue: 0,0:00:23.07,0:00:23.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BECOME {\k23}VERY {\k30}FOCUSED
+Dialogue: 0,0:00:23.80,0:00:24.44,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ON {\k19}MOVING {\k28}INTO
+Dialogue: 0,0:00:24.44,0:00:25.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}A {\k18}HIGH-END {\k32}SENIOR
+Dialogue: 0,0:00:25.14,0:00:25.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}RESIDENCE {\k21}IN {\k14}ONE
+Dialogue: 0,0:00:25.82,0:00:26.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}OF {\k14}THE {\k16}MOST {\k40}UPSCALE
+Dialogue: 0,0:00:26.60,0:00:27.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}NEIGHBORHOODS {\k24}IN {\k9}OUR
+Dialogue: 0,0:00:27.23,0:00:27.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}CITY.
+Dialogue: 0,0:00:28.00,0:00:28.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}THE
+Dialogue: 0,0:00:28.39,0:00:29.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}PLACE {\k21}COSTS {\k33}ROUGHLY
+Dialogue: 0,0:00:29.16,0:00:29.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k73}$10,000
+Dialogue: 0,0:00:29.89,0:00:31.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}A {\k12}MONTH {\k22}FOR {\k5}A {\k51}ONE-BEDROOM
+Dialogue: 0,0:00:31.00,0:00:31.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}UNIT, {\k21}AND {\k9}THAT {\k24}ONLY
+Dialogue: 0,0:00:31.82,0:00:32.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}COVERS {\k30}BASIC {\k21}LIVING,
+Dialogue: 0,0:00:32.60,0:00:32.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}MEALS,
+Dialogue: 0,0:00:33.24,0:00:33.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ACTIVITIES,
+Dialogue: 0,0:00:34.02,0:00:34.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}AND {\k14}LIGHT {\k37}HOUSEKEEPING.
+Dialogue: 0,0:00:35.39,0:00:35.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}ANY
+Dialogue: 0,0:00:35.75,0:00:36.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}ADDITIONAL {\k18}CARE {\k17}WOULD
+Dialogue: 0,0:00:36.52,0:00:37.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}COST {\k50}SIGNIFICANTLY
+Dialogue: 0,0:00:37.15,0:00:37.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}MORE.
+Dialogue: 0,0:00:38.25,0:00:38.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}FINANCIALLY,
+Dialogue: 0,0:00:38.92,0:00:39.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THEY {\k10}HAVE {\k5}A {\k16}STEADY {\k25}MONTHLY
+Dialogue: 0,0:00:39.57,0:00:40.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}INCOME {\k15}THAT {\k21}COVERS
+Dialogue: 0,0:00:40.21,0:00:40.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THEIR {\k17}CURRENT {\k24}LIFESTYLE
+Dialogue: 0,0:00:40.82,0:00:41.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AND {\k14}SOME {\k30}SAVINGS
+Dialogue: 0,0:00:41.52,0:00:42.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}SET {\k35}ASIDE,
+Dialogue: 0,0:00:42.29,0:00:42.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}BUT {\k34}REALISTICALLY,
+Dialogue: 0,0:00:43.38,0:00:44.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THEY {\k29}WOULDN'T {\k14}BE {\k16}ABLE
+Dialogue: 0,0:00:44.10,0:00:44.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}TO {\k28}SUSTAIN {\k21}LIVING
+Dialogue: 0,0:00:44.71,0:00:45.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IN {\k7}A {\k16}PLACE {\k20}LIKE
+Dialogue: 0,0:00:45.34,0:00:45.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THIS {\k39}LONG-TERM,
+Dialogue: 0,0:00:46.17,0:00:46.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ESPECIALLY {\k30}ONCE
+Dialogue: 0,0:00:46.78,0:00:47.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THEIR {\k10}CARE {\k17}NEEDS {\k34}INCREASE.
+Dialogue: 0,0:00:48.34,0:00:48.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THE
+Dialogue: 0,0:00:48.53,0:00:49.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}EXPECTATION,
+Dialogue: 0,0:00:49.39,0:00:50.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ALTHOUGH {\k17}NOT {\k35}DIRECTLY
+Dialogue: 0,0:00:50.10,0:00:50.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}STATED, {\k7}IS
+Dialogue: 0,0:00:50.71,0:00:51.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THAT {\k11}I {\k12}WOULD {\k17}STEP {\k15}IN
+Dialogue: 0,0:00:51.39,0:00:52.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AND {\k14}HELP {\k17}COVER {\k16}THE {\k15}COSTS
+Dialogue: 0,0:00:52.11,0:00:52.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHEN {\k14}THEIR {\k17}MONEY {\k20}RUNS
+Dialogue: 0,0:00:52.82,0:00:53.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}OUT. {\k80}WHILE
+Dialogue: 0,0:00:53.96,0:00:54.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k11}COULD {\k30}TECHNICALLY {\k23}AFFORD
+Dialogue: 0,0:00:54.75,0:00:55.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k35}CONTRIBUTE,
+Dialogue: 0,0:00:55.74,0:00:56.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}IT {\k11}WOULD {\k16}MEAN {\k29}TAKING
+Dialogue: 0,0:00:56.39,0:00:57.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ON {\k1}A {\k46}LONG-TERM
+Dialogue: 0,0:00:57.02,0:00:57.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}AND {\k38}POTENTIALLY {\k35}INCREASING
+Dialogue: 0,0:00:57.89,0:00:58.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}FINANCIAL {\k55}RESPONSIBILITY
+Dialogue: 0,0:00:58.79,0:00:59.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}THAT {\k10}COULD {\k21}IMPACT
+Dialogue: 0,0:00:59.43,0:01:00.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}MY {\k16}OWN {\k25}FUTURE
+Dialogue: 0,0:01:00.10,0:01:00.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}PLANS,
+Dialogue: 0,0:01:00.78,0:01:01.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}INCLUDING {\k27}WHERE {\k12}I
+Dialogue: 0,0:01:01.42,0:01:01.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}LIVE,
+Dialogue: 0,0:01:02.07,0:01:02.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MY {\k21}CAREER {\k28}FLEXIBILITY,
+Dialogue: 0,0:01:03.35,0:01:04.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}AND {\k34}STARTING {\k11}A {\k32}FAMILY.
+Dialogue: 0,0:01:04.79,0:01:05.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}I'VE
+Dialogue: 0,0:01:05.06,0:01:05.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}SUGGESTED {\k28}OTHER
+Dialogue: 0,0:01:05.73,0:01:06.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SENIOR {\k20}LIVING {\k31}OPTIONS
+Dialogue: 0,0:01:06.51,0:01:07.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THAT {\k7}ARE {\k22}STILL {\k31}COMFORTABLE
+Dialogue: 0,0:01:07.35,0:01:08.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}AND {\k37}WELL-RATED {\k20}BUT
+Dialogue: 0,0:01:08.15,0:01:09.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MORE {\k36}FINANCIALLY {\k53}SUSTAINABLE.
+Dialogue: 0,0:01:10.04,0:01:10.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HOWEVER,
+Dialogue: 0,0:01:10.70,0:01:11.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THOSE {\k14}HAVE {\k12}BEEN {\k32}DISMISSED
+Dialogue: 0,0:01:11.40,0:01:12.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AS {\k15}NOT {\k15}GOOD {\k23}ENOUGH.
+Dialogue: 0,0:01:12.84,0:01:13.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MY
+Dialogue: 0,0:01:13.00,0:01:13.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}MOTHER, {\k14}IN {\k41}PARTICULAR,
+Dialogue: 0,0:01:14.07,0:01:14.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}TENDS {\k13}TO {\k24}FOCUS {\k17}ON
+Dialogue: 0,0:01:14.73,0:01:15.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WHAT {\k11}SHE {\k29}DOESN'T {\k10}LIKE
+Dialogue: 0,0:01:15.42,0:01:16.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}ABOUT {\k39}OPTIONS,
+Dialogue: 0,0:01:16.31,0:01:17.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}EVEN {\k16}WHEN {\k14}THEY {\k7}ARE {\k34}OBJECTIVELY
+Dialogue: 0,0:01:17.18,0:01:17.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}GOOD.
+Dialogue: 0,0:01:18.14,0:01:18.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}FROM
+Dialogue: 0,0:01:18.31,0:01:18.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k44}PERSPECTIVE,
+Dialogue: 0,0:01:19.54,0:01:20.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THIS {\k21}FEELS {\k20}LIKE
+Dialogue: 0,0:01:20.18,0:01:20.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}CHOOSING {\k12}A {\k31}LIFESTYLE
+Dialogue: 0,0:01:20.87,0:01:21.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THAT {\k21}EXCEEDS {\k24}WHAT
+Dialogue: 0,0:01:21.54,0:01:22.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THEY {\k14}CAN {\k31}REASONABLY {\k44}AFFORD,
+Dialogue: 0,0:01:22.71,0:01:23.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}WITH {\k10}THE {\k23}ASSUMPTION {\k21}THAT
+Dialogue: 0,0:01:23.35,0:01:24.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I'LL {\k9}MAKE {\k16}UP {\k14}THE {\k21}DIFFERENCE
+Dialogue: 0,0:01:24.12,0:01:24.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}LATER.
+Dialogue: 0,0:01:25.28,0:01:26.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I'M {\k7}NOT {\k20}TRYING {\k15}TO {\k26}ABANDON
+Dialogue: 0,0:01:26.12,0:01:26.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THEM, {\k6}I {\k15}WANT {\k14}THEM
+Dialogue: 0,0:01:26.84,0:01:27.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}TO {\k6}BE {\k18}SAFE, {\k28}COMFORTABLE,
+Dialogue: 0,0:01:28.04,0:01:28.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AND {\k12}WELL {\k23}CARED {\k18}FOR.
+Dialogue: 0,0:01:29.40,0:01:29.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:01:29.62,0:01:30.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}JUST {\k25}DON'T {\k18}THINK {\k17}IT'S
+Dialogue: 0,0:01:30.37,0:01:31.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}FAIR {\k15}FOR {\k7}ME {\k12}TO {\k9}BE {\k38}RESPONSIBLE
+Dialogue: 0,0:01:31.34,0:01:32.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FOR {\k21}FUNDING {\k14}A {\k29}LUXURY
+Dialogue: 0,0:01:32.23,0:01:33.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}ARRANGEMENT {\k59}LONG-TERM,
+Dialogue: 0,0:01:33.45,0:01:34.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}ESPECIALLY {\k34}WHEN
+Dialogue: 0,0:01:34.21,0:01:35.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THERE {\k10}ARE {\k28}SOLID {\k39}ALTERNATIVES.
+Dialogue: 0,0:01:35.81,0:01:36.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AT
+Dialogue: 0,0:01:36.01,0:01:36.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k17}SAME {\k28}TIME,
+Dialogue: 0,0:01:36.65,0:01:37.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k14}FEEL {\k29}GUILTY.
+Dialogue: 0,0:01:37.95,0:01:38.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}THEY'RE
+Dialogue: 0,0:01:38.20,0:01:39.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}GOING {\k15}THROUGH {\k23}DIFFICULT {\k26}HEALTH
+Dialogue: 0,0:01:39.00,0:01:39.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k45}CHALLENGES,
+Dialogue: 0,0:01:39.79,0:01:40.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}AND {\k19}I'M {\k2}IN {\k7}A {\k23}POSITION
+Dialogue: 0,0:01:40.43,0:01:41.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WHERE {\k9}I {\k9}COULD {\k20}HELP.
+Dialogue: 0,0:01:41.78,0:01:41.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}PART
+Dialogue: 0,0:01:41.98,0:01:42.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k11}ME {\k30}WONDERS {\k19}IF
+Dialogue: 0,0:01:42.73,0:01:43.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}I {\k12}SHOULD {\k19}JUST {\k16}WANT
+Dialogue: 0,0:01:43.40,0:01:44.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THEM {\k14}TO {\k7}HAVE {\k11}THE {\k24}EASIEST
+Dialogue: 0,0:01:44.12,0:01:44.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}AND {\k28}NICEST {\k29}SETUP
+Dialogue: 0,0:01:44.92,0:01:45.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}POSSIBLE.
+Dialogue: 0,0:01:46.01,0:01:46.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BUT
+Dialogue: 0,0:01:46.15,0:01:46.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ANOTHER {\k21}PART {\k14}OF {\k11}ME
+Dialogue: 0,0:01:46.81,0:01:47.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}FEELS {\k14}LIKE {\k18}IT'S {\k25}REASONABLE
+Dialogue: 0,0:01:47.59,0:01:48.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}TO {\k23}EXPECT {\k20}THEM
+Dialogue: 0,0:01:48.28,0:01:49.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k17}CHOOSE {\k28}SOMETHING {\k52}SUSTAINABLE
+Dialogue: 0,0:01:49.40,0:01:50.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ON {\k14}THEIR {\k14}OWN {\k39}RESOURCES,
+Dialogue: 0,0:01:50.78,0:01:51.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}RATHER {\k18}THAN {\k19}RELYING {\k26}ON
+Dialogue: 0,0:01:51.57,0:01:52.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}ME {\k16}FOR {\k9}AN {\k43}OPEN-ENDED
+Dialogue: 0,0:01:52.43,0:01:52.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}COMMITMENT.
+Dialogue: 0,0:01:53.42,0:01:53.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AM
+Dialogue: 0,0:01:53.59,0:01:54.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k15}WRONG {\k15}FOR {\k20}SETTING
+Dialogue: 0,0:01:54.20,0:01:54.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THAT {\k28}BOUNDARY?

@@ -1,0 +1,225 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:00:05.70,Default,,80,80,60,,{\k21}I {\k8}HAVE {\k8}A {\k32}13-YEAR-OLD
+Dialogue: 0,0:00:06.13,0:00:06.82,Default,,80,80,60,,{\k32}DAUGHTER, {\k8}WHO
+Dialogue: 0,0:00:06.82,0:00:07.41,Default,,80,80,60,,{\k12}I {\k13}CALL {\k16}MAYA. {\k17}MY
+Dialogue: 0,0:00:08.19,0:00:09.03,Default,,80,80,60,,{\k10}SISTER-IN-LAW {\k15}HAS
+Dialogue: 0,0:00:09.03,0:00:09.69,Default,,80,80,60,,{\k14}TWO {\k22}BOYS, {\k13}AGES
+Dialogue: 0,0:00:09.69,0:00:10.30,Default,,80,80,60,,{\k20}8 {\k13}AND {\k26}11,
+Dialogue: 0,0:00:10.51,0:00:11.32,Default,,80,80,60,,{\k9}WHO {\k8}ARE {\k22}VERY {\k17}INVOLVED {\k22}IN
+Dialogue: 0,0:00:11.32,0:00:11.96,Default,,80,80,60,,{\k17}TRAVEL {\k27}HOCKEY {\k18}AND
+Dialogue: 0,0:00:11.96,0:00:12.98,Default,,80,80,60,,{\k23}BASEBALL. {\k32}OVER
+Dialogue: 0,0:00:12.98,0:00:13.66,Default,,80,80,60,,{\k32}OVER {\k11}THE {\k24}LAST
+Dialogue: 0,0:00:13.66,0:00:14.50,Default,,80,80,60,,{\k14}YEAR {\k25}SHE {\k13}GOTTEN {\k30}REALLY
+Dialogue: 0,0:00:14.50,0:00:15.38,Default,,80,80,60,,{\k25}INTO {\k24}SOCIAL {\k38}MEDIA
+Dialogue: 0,0:00:15.38,0:00:16.12,Default,,80,80,60,,{\k11}AND {\k25}STARTED {\k36}BUILDING
+Dialogue: 0,0:00:16.12,0:00:16.89,Default,,80,80,60,,{\k19}AN {\k21}ONLINE {\k35}PRESENCE
+Dialogue: 0,0:00:16.89,0:00:17.60,Default,,80,80,60,,{\k28}AROUND {\k24}BEING {\k17}A
+Dialogue: 0,0:00:17.60,0:00:18.92,Default,,80,80,60,,{\k25}SPORTS {\k28}MOM. {\k19}SHE
+Dialogue: 0,0:00:18.92,0:00:19.98,Default,,80,80,60,,{\k19}SHE {\k21}POSTS {\k16}HOTEL {\k26}REVIEWS
+Dialogue: 0,0:00:19.98,0:00:20.96,Default,,80,80,60,,{\k21}FROM {\k32}TOURNAMENTS, {\k12}TRAVEL
+Dialogue: 0,0:00:20.96,0:00:21.80,Default,,80,80,60,,{\k17}TIPS, {\k12}GAME
+Dialogue: 0,0:00:21.80,0:00:22.67,Default,,80,80,60,,{\k33}PHOTOS, {\k10}AND
+Dialogue: 0,0:00:22.67,0:00:23.30,Default,,80,80,60,,{\k24}SIMILAR {\k37}CONTENT,
+Dialogue: 0,0:00:23.30,0:00:24.10,Default,,80,80,60,,{\k23}AND {\k19}SHE {\k12}TALKED {\k24}ABOUT
+Dialogue: 0,0:00:24.10,0:00:24.73,Default,,80,80,60,,{\k23}WANTING {\k16}TO {\k14}TURN {\k9}IT
+Dialogue: 0,0:00:24.73,0:00:25.33,Default,,80,80,60,,{\k16}INTO {\k12}A {\k10}FULL {\k21}FAMILY
+Dialogue: 0,0:00:25.33,0:00:26.53,Default,,80,80,60,,{\k26}BRAND. {\k39}WHEN
+Dialogue: 0,0:00:26.53,0:00:27.37,Default,,80,80,60,,{\k12}HER {\k21}BOYS {\k19}WERE {\k30}YOUNGER,
+Dialogue: 0,0:00:27.69,0:00:28.32,Default,,80,80,60,,{\k6}SHE {\k16}USED {\k11}TO {\k14}SAY {\k14}SHE
+Dialogue: 0,0:00:28.32,0:00:29.01,Default,,80,80,60,,{\k14}WISHED {\k16}SHE {\k7}HAD {\k12}A {\k19}DAUGHTER
+Dialogue: 0,0:00:29.01,0:00:29.71,Default,,80,80,60,,{\k21}SO {\k16}SHE {\k12}COULD {\k19}DO
+Dialogue: 0,0:00:29.71,0:00:30.66,Default,,80,80,60,,{\k20}MORE {\k21}GIRLY {\k51}ACTIVITIES.
+Dialogue: 0,0:00:31.26,0:00:31.26,Default,,80,80,60,,{\k25}BACK
+Dialogue: 0,0:00:31.26,0:00:32.00,Default,,80,80,60,,{\k25}BACK {\k17}THEN {\k16}SHE {\k14}WAS
+Dialogue: 0,0:00:32.00,0:00:32.74,Default,,80,80,60,,{\k17}VERY {\k21}SWEET {\k17}WITH {\k16}MAYA
+Dialogue: 0,0:00:32.74,0:00:33.35,Default,,80,80,60,,{\k29}AND {\k16}FELT {\k15}LIKE
+Dialogue: 0,0:00:33.35,0:00:34.57,Default,,80,80,60,,{\k17}THE {\k11}FUN {\k20}AUNT. {\k21}I
+Dialogue: 0,0:00:34.57,0:00:35.28,Default,,80,80,60,,{\k21}I {\k17}EVEN {\k30}INCLUDED
+Dialogue: 0,0:00:35.28,0:00:36.06,Default,,80,80,60,,{\k17}HER {\k10}IN {\k5}A {\k14}FEW {\k30}THINGS,
+Dialogue: 0,0:00:36.25,0:00:36.97,Default,,80,80,60,,{\k10}LIKE {\k14}WHEN {\k11}WE {\k12}WENT {\k23}SHOPPING
+Dialogue: 0,0:00:36.97,0:00:37.57,Default,,80,80,60,,{\k20}FOR {\k28}MAYA {\k11}FIRST
+Dialogue: 0,0:00:37.57,0:00:38.20,Default,,80,80,60,,{\k32}COMMUNION {\k30}DRESS.
+Dialogue: 0,0:00:39.00,0:00:39.00,Default,,80,80,60,,{\k32}LATELY,
+Dialogue: 0,0:00:39.00,0:00:39.61,Default,,80,80,60,,{\k32}LATELY, {\k7}THOUGH,
+Dialogue: 0,0:00:39.93,0:00:40.67,Default,,80,80,60,,{\k16}EVERY {\k29}FAMILY {\k28}GATHERING
+Dialogue: 0,0:00:40.67,0:00:41.43,Default,,80,80,60,,{\k25}FEELS {\k17}LIKE {\k12}A {\k19}FILMING
+Dialogue: 0,0:00:41.43,0:00:42.47,Default,,80,80,60,,{\k32}SESSION. {\k24}SHE
+Dialogue: 0,0:00:42.47,0:00:43.46,Default,,80,80,60,,{\k24}SHE {\k30}RECORDS {\k43}EVERYTHING,
+Dialogue: 0,0:00:43.46,0:00:44.10,Default,,80,80,60,,{\k29}TRIES {\k14}TO {\k20}STAGE
+Dialogue: 0,0:00:44.21,0:00:45.11,Default,,80,80,60,,{\k14}CANDID {\k35}MOMENTS, {\k39}AND
+Dialogue: 0,0:00:45.11,0:00:45.79,Default,,80,80,60,,{\k24}NARRATES {\k24}THINGS {\k19}LIKE
+Dialogue: 0,0:00:45.79,0:00:46.50,Default,,80,80,60,,{\k22}SHE {\k19}MAKING {\k14}A {\k14}VLOG.
+Dialogue: 0,0:00:46.50,0:00:47.43,Default,,80,80,60,,{\k17}AT {\k16}CHRISTMAS
+Dialogue: 0,0:00:47.43,0:00:48.10,Default,,80,80,60,,{\k16}CHRISTMAS {\k16}SHE
+Dialogue: 0,0:00:48.10,0:00:48.70,Default,,80,80,60,,{\k25}EVEN {\k17}TRIED {\k16}TO
+Dialogue: 0,0:00:48.70,0:00:49.32,Default,,80,80,60,,{\k23}ORGANIZE {\k26}THE {\k11}WHOLE
+Dialogue: 0,0:00:49.32,0:00:49.92,Default,,80,80,60,,{\k17}DAY {\k24}AROUND {\k17}WHAT
+Dialogue: 0,0:00:49.92,0:00:51.15,Default,,80,80,60,,{\k10}WOULD {\k17}FILM {\k23}WELL. {\k14}THE
+Dialogue: 0,0:00:51.15,0:00:51.97,Default,,80,80,60,,{\k14}THE {\k16}OLDER {\k25}COUSINS {\k25}ENDED
+Dialogue: 0,0:00:51.97,0:00:52.57,Default,,80,80,60,,{\k17}UP {\k18}HIDING {\k15}IN {\k7}THE
+Dialogue: 0,0:00:52.57,0:00:53.34,Default,,80,80,60,,{\k20}BASEMENT {\k21}JUST {\k14}TO {\k20}AVOID
+Dialogue: 0,0:00:53.34,0:00:53.97,Default,,80,80,60,,{\k19}BEING {\k14}ON {\k29}CAMERA.
+Dialogue: 0,0:00:54.62,0:00:55.02,Default,,80,80,60,,{\k39}AFTER
+Dialogue: 0,0:00:55.02,0:00:55.74,Default,,80,80,60,,{\k17}THAT {\k25}HOLIDAY, {\k28}MAYA
+Dialogue: 0,0:00:55.74,0:00:56.47,Default,,80,80,60,,{\k23}TOLD {\k14}ME {\k16}SHE {\k19}REALLY
+Dialogue: 0,0:00:56.47,0:00:57.10,Default,,80,80,60,,{\k20}HATES {\k14}BEING {\k28}FILMED
+Dialogue: 0,0:00:57.10,0:00:57.75,Default,,80,80,60,,{\k11}AND {\k21}DOESN {\k16}WANT {\k15}TO
+Dialogue: 0,0:00:57.75,0:00:58.57,Default,,80,80,60,,{\k16}APPEAR {\k11}ON {\k11}HER {\k14}AUNT {\k28}SOCIAL
+Dialogue: 0,0:00:58.57,0:00:59.67,Default,,80,80,60,,{\k34}MEDIA. {\k39}APPARENTLY
+Dialogue: 0,0:00:59.67,0:01:00.60,Default,,80,80,60,,{\k39}APPARENTLY {\k17}MY {\k34}SISTER-IN-LAW
+Dialogue: 0,0:01:01.00,0:01:01.67,Default,,80,80,60,,{\k17}HAD {\k16}BEEN {\k33}ENCOURAGING
+Dialogue: 0,0:01:01.67,0:01:02.28,Default,,80,80,60,,{\k17}HER {\k10}TO {\k11}DO {\k20}THINGS
+Dialogue: 0,0:01:02.28,0:01:02.92,Default,,80,80,60,,{\k19}LIKE {\k22}BRAID {\k21}HAIR
+Dialogue: 0,0:01:02.92,0:01:03.65,Default,,80,80,60,,{\k14}OR {\k29}DECORATE {\k29}COOKIES
+Dialogue: 0,0:01:03.65,0:01:04.48,Default,,80,80,60,,{\k46}SPECIFICALLY {\k35}SO
+Dialogue: 0,0:01:04.48,0:01:05.31,Default,,80,80,60,,{\k14}SHE {\k15}COULD {\k21}RECORD {\k31}IT.
+Dialogue: 0,0:01:05.93,0:01:06.54,Default,,80,80,60,,{\k18}MAYA {\k29}DIDN {\k12}KNOW
+Dialogue: 0,0:01:06.54,0:01:07.51,Default,,80,80,60,,{\k14}HOW {\k11}TO {\k12}SAY {\k17}NO {\k42}DIRECTLY,
+Dialogue: 0,0:01:07.51,0:01:08.21,Default,,80,80,60,,{\k56}SO {\k14}SHE
+Dialogue: 0,0:01:08.21,0:01:09.01,Default,,80,80,60,,{\k28}STARTED {\k21}MAKING {\k29}HERSELF
+Dialogue: 0,0:01:09.01,0:01:09.70,Default,,80,80,60,,{\k18}AS {\k37}UNAPPEALING {\k12}TO
+Dialogue: 0,0:01:09.70,0:01:10.35,Default,,80,80,60,,{\k17}FILM {\k12}AS {\k35}POSSIBLE
+Dialogue: 0,0:01:10.35,0:01:10.98,Default,,80,80,60,,{\k18}BY {\k27}ROLLING {\k16}HER
+Dialogue: 0,0:01:10.98,0:01:11.70,Default,,80,80,60,,{\k15}EYES, {\k8}MAKING {\k29}FACES,
+Dialogue: 0,0:01:11.70,0:01:12.45,Default,,80,80,60,,{\k25}AND {\k20}ACTING {\k29}SILLY.
+Dialogue: 0,0:01:13.20,0:01:13.20,Default,,80,80,60,,{\k21}LAST
+Dialogue: 0,0:01:13.20,0:01:13.90,Default,,80,80,60,,{\k21}LAST {\k23}WEEKEND {\k24}WE
+Dialogue: 0,0:01:13.90,0:01:14.51,Default,,80,80,60,,{\k9}ALL {\k14}WENT {\k14}OUT {\k14}TO {\k9}DINNER
+Dialogue: 0,0:01:14.51,0:01:15.43,Default,,80,80,60,,{\k18}FOR {\k11}MY {\k26}MOM {\k35}70TH
+Dialogue: 0,0:01:15.43,0:01:16.43,Default,,80,80,60,,{\k28}BIRTHDAY. {\k20}MY
+Dialogue: 0,0:01:16.43,0:01:17.57,Default,,80,80,60,,{\k20}MY {\k29}SISTER-IN-LAW {\k28}IMMEDIATELY
+Dialogue: 0,0:01:17.57,0:01:18.23,Default,,80,80,60,,{\k34}STARTED {\k31}FILMING
+Dialogue: 0,0:01:18.23,0:01:19.20,Default,,80,80,60,,{\k28}AGAIN, {\k20}WHICH
+Dialogue: 0,0:01:19.20,0:01:19.95,Default,,80,80,60,,{\k15}MADE {\k14}THE {\k20}DINNER {\k25}AWKWARD
+Dialogue: 0,0:01:19.95,0:01:20.62,Default,,80,80,60,,{\k28}UNTIL {\k16}MY {\k21}BROTHER,
+Dialogue: 0,0:01:20.73,0:01:21.65,Default,,80,80,60,,{\k7}HER {\k32}PARTNER, {\k11}TOLD
+Dialogue: 0,0:01:21.65,0:01:22.76,Default,,80,80,60,,{\k12}HER {\k9}TO {\k18}STOP. {\k35}DURING
+Dialogue: 0,0:01:22.76,0:01:23.54,Default,,80,80,60,,{\k35}DURING {\k23}DINNER {\k12}MAYA
+Dialogue: 0,0:01:23.54,0:01:24.29,Default,,80,80,60,,{\k25}MENTIONED {\k20}SHE {\k14}WAS {\k15}GOING
+Dialogue: 0,0:01:24.29,0:01:24.93,Default,,80,80,60,,{\k10}DRESS {\k9}SHOPPING {\k15}SOON
+Dialogue: 0,0:01:24.93,0:01:26.23,Default,,80,80,60,,{\k14}FOR {\k12}HER {\k21}GRADE-8 {\k50}GRADUATION.
+Dialogue: 0,0:01:26.82,0:01:27.18,Default,,80,80,60,,{\k35}MY
+Dialogue: 0,0:01:27.18,0:01:27.92,Default,,80,80,60,,{\k29}SISTER-IN-LAW {\k14}GOT
+Dialogue: 0,0:01:27.92,0:01:28.70,Default,,80,80,60,,{\k21}REALLY {\k35}EXCITED {\k20}AND
+Dialogue: 0,0:01:28.70,0:01:29.45,Default,,80,80,60,,{\k28}STARTED {\k28}PUSHING {\k19}TO
+Dialogue: 0,0:01:29.45,0:01:30.20,Default,,80,80,60,,{\k14}COME {\k21}ALONG {\k22}SO {\k15}SHE
+Dialogue: 0,0:01:30.20,0:01:30.81,Default,,80,80,60,,{\k15}COULD {\k29}EXPAND {\k15}HER
+Dialogue: 0,0:01:30.81,0:01:31.54,Default,,80,80,60,,{\k12}BRAND {\k20}INTO {\k15}MORE {\k24}GENERAL
+Dialogue: 0,0:01:31.54,0:01:32.21,Default,,80,80,60,,{\k29}FAMILY {\k37}CONTENT.
+Dialogue: 0,0:01:32.90,0:01:32.90,Default,,80,80,60,,{\k25}I
+Dialogue: 0,0:01:32.90,0:01:33.59,Default,,80,80,60,,{\k25}I {\k21}DIDN {\k21}RESPOND
+Dialogue: 0,0:01:33.59,0:01:34.21,Default,,80,80,60,,{\k21}RIGHT {\k18}AWAY {\k21}BECAUSE
+Dialogue: 0,0:01:34.21,0:01:34.95,Default,,80,80,60,,{\k12}I {\k17}DIDN {\k12}WANT {\k14}TO {\k17}START
+Dialogue: 0,0:01:34.95,0:01:35.64,Default,,80,80,60,,{\k14}AN {\k26}ARGUMENT {\k28}DURING
+Dialogue: 0,0:01:35.64,0:01:36.51,Default,,80,80,60,,{\k20}MY {\k23}MOM {\k12}BIRTHDAY {\k31}DINNER,
+Dialogue: 0,0:01:36.51,0:01:37.14,Default,,80,80,60,,{\k29}BUT {\k16}SHE {\k15}KEPT
+Dialogue: 0,0:01:37.14,0:01:37.85,Default,,80,80,60,,{\k26}BRINGING {\k17}IT {\k28}UP.
+Dialogue: 0,0:01:38.56,0:01:38.56,Default,,80,80,60,,{\k20}WHEN
+Dialogue: 0,0:01:38.56,0:01:39.18,Default,,80,80,60,,{\k20}WHEN {\k15}WE {\k12}WERE {\k14}LEAVING
+Dialogue: 0,0:01:39.18,0:01:39.81,Default,,80,80,60,,{\k17}THE {\k26}RESTAURANT {\k19}AND
+Dialogue: 0,0:01:39.81,0:01:40.50,Default,,80,80,60,,{\k24}STANDING {\k12}IN {\k9}THE {\k21}PARKING
+Dialogue: 0,0:01:40.50,0:01:41.18,Default,,80,80,60,,{\k21}LOT, {\k10}SHE
+Dialogue: 0,0:01:41.18,0:01:41.93,Default,,80,80,60,,{\k17}ASKED {\k20}AGAIN {\k14}FOR {\k7}THE {\k15}TIME
+Dialogue: 0,0:01:41.93,0:01:42.54,Default,,80,80,60,,{\k14}AND {\k18}PLACE {\k15}SO {\k12}SHE
+Dialogue: 0,0:01:42.54,0:01:43.23,Default,,80,80,60,,{\k11}COULD {\k15}JOIN {\k16}THE {\k25}SHOPPING
+Dialogue: 0,0:01:43.23,0:01:44.21,Default,,80,80,60,,{\k24}TRIP. {\k12}AT
+Dialogue: 0,0:01:44.21,0:01:44.95,Default,,80,80,60,,{\k12}AT {\k11}THAT {\k20}POINT {\k15}I {\k14}LOST
+Dialogue: 0,0:01:44.95,0:01:46.29,Default,,80,80,60,,{\k18}MY {\k28}PATIENCE. {\k15}I
+Dialogue: 0,0:01:46.29,0:01:47.01,Default,,80,80,60,,{\k15}I {\k18}TOLD {\k15}HER {\k21}LOUDLY
+Dialogue: 0,0:01:47.01,0:01:47.71,Default,,80,80,60,,{\k18}THAT {\k14}MY {\k20}DAUGHTER {\k17}IS
+Dialogue: 0,0:01:47.71,0:01:48.68,Default,,80,80,60,,{\k12}NOT {\k14}HER {\k17}PROP, {\k16}NOT
+Dialogue: 0,0:01:48.68,0:01:49.35,Default,,80,80,60,,{\k11}A {\k34}SUBSTITUTE {\k21}FOR
+Dialogue: 0,0:01:49.35,0:01:50.09,Default,,80,80,60,,{\k9}THE {\k12}DAUGHTER {\k28}SHE {\k23}WISHES
+Dialogue: 0,0:01:50.09,0:01:50.76,Default,,80,80,60,,{\k18}SHE {\k17}HAD, {\k30}AND
+Dialogue: 0,0:01:50.76,0:01:51.48,Default,,80,80,60,,{\k5}THAT {\k12}SHE {\k12}DOES {\k12}NOT {\k11}HAVE {\k18}PERMISSION
+Dialogue: 0,0:01:51.48,0:01:52.23,Default,,80,80,60,,{\k21}TO {\k21}FILM {\k14}OR {\k17}POST
+Dialogue: 0,0:01:52.23,0:01:52.98,Default,,80,80,60,,{\k28}ANYTHING {\k29}ABOUT {\k16}HER.
+Dialogue: 0,0:01:53.68,0:01:53.68,Default,,80,80,60,,{\k17}SHE
+Dialogue: 0,0:01:53.68,0:01:54.40,Default,,80,80,60,,{\k17}SHE {\k18}GOT {\k35}DEFENSIVE
+Dialogue: 0,0:01:54.40,0:01:55.42,Default,,80,80,60,,{\k17}AND {\k15}SAID {\k10}I {\k14}WAS {\k43}STIFLING
+Dialogue: 0,0:01:55.42,0:01:56.20,Default,,80,80,60,,{\k9}HER {\k35}CREATIVITY {\k32}AND
+Dialogue: 0,0:01:56.20,0:01:56.95,Default,,80,80,60,,{\k9}THAT {\k15}SHE {\k16}NEEDS {\k15}MY {\k17}DAUGHTER
+Dialogue: 0,0:01:56.95,0:01:57.65,Default,,80,80,60,,{\k24}FOR {\k11}HER {\k34}CONTENT
+Dialogue: 0,0:01:57.65,0:01:58.29,Default,,80,80,60,,{\k21}BECAUSE {\k16}SHE {\k25}DOESN
+Dialogue: 0,0:01:58.29,0:01:58.90,Default,,80,80,60,,{\k14}HAVE {\k6}A {\k18}GIRL {\k15}OF {\k6}HER
+Dialogue: 0,0:01:58.90,0:01:59.09,Default,,80,80,60,,{\k19}OWN.
+Dialogue: 0,0:01:59.87,0:02:00.78,Default,,80,80,60,,{\k12}I {\k34}RESPONDED {\k43}ANGRILY
+Dialogue: 0,0:02:00.78,0:02:01.40,Default,,80,80,60,,{\k12}AND {\k14}TOLD {\k17}HER {\k18}OFF
+Dialogue: 0,0:02:01.40,0:02:02.21,Default,,80,80,60,,{\k11}IN {\k18}PRETTY {\k28}STRONG {\k23}TERMS.
+Dialogue: 0,0:02:03.15,0:02:04.07,Default,,80,80,60,,{\k12}MY {\k21}DAUGHTER {\k20}OVERHEARD {\k26}SOME
+Dialogue: 0,0:02:04.07,0:02:04.70,Default,,80,80,60,,{\k15}OF {\k16}IT, {\k14}ALTHOUGH
+Dialogue: 0,0:02:04.70,0:02:05.34,Default,,80,80,60,,{\k20}SHE {\k25}WASN {\k18}SHOCKED
+Dialogue: 0,0:02:05.34,0:02:05.98,Default,,80,80,60,,{\k23}BY {\k10}THE {\k29}LANGUAGE.
+Dialogue: 0,0:02:06.79,0:02:06.79,Default,,80,80,60,,{\k24}BOTH
+Dialogue: 0,0:02:06.79,0:02:07.56,Default,,80,80,60,,{\k24}BOTH {\k11}HER {\k21}PARENTS {\k18}WORK
+Dialogue: 0,0:02:07.56,0:02:08.19,Default,,80,80,60,,{\k15}IN {\k47}CONSTRUCTION,
+Dialogue: 0,0:02:08.62,0:02:09.41,Default,,80,80,60,,{\k18}SO {\k25}SHE {\k9}S {\k25}PLENTY
+Dialogue: 0,0:02:09.41,0:02:10.15,Default,,80,80,60,,{\k14}OF {\k34}COLOURFUL {\k25}LANGUAGE
+Dialogue: 0,0:02:10.15,0:02:10.52,Default,,80,80,60,,{\k36}BEFORE.
+Dialogue: 0,0:02:11.34,0:02:12.00,Default,,80,80,60,,{\k21}LATER {\k15}THAT {\k9}NIGHT {\k18}MY
+Dialogue: 0,0:02:12.00,0:02:12.78,Default,,80,80,60,,{\k28}SISTER-IN-LAW {\k21}STARTED
+Dialogue: 0,0:02:12.78,0:02:13.46,Default,,80,80,60,,{\k19}A {\k12}GROUP {\k21}CHAT {\k14}WITH
+Dialogue: 0,0:02:13.46,0:02:14.18,Default,,80,80,60,,{\k9}THE {\k21}FAMILY {\k21}SAYING {\k18}I
+Dialogue: 0,0:02:14.18,0:02:15.18,Default,,80,80,60,,{\k13}WAS {\k15}RUDE, {\k8}MEAN, {\k6}AND
+Dialogue: 0,0:02:15.18,0:02:15.86,Default,,80,80,60,,{\k23}EMBARRASSED {\k21}HER, {\k22}AND
+Dialogue: 0,0:02:15.86,0:02:16.65,Default,,80,80,60,,{\k9}THAT {\k21}EVERYONE {\k23}POSTS {\k24}THINGS
+Dialogue: 0,0:02:16.65,0:02:17.40,Default,,80,80,60,,{\k24}ONLINE {\k25}THESE {\k24}DAYS.
+Dialogue: 0,0:02:17.96,0:02:18.36,Default,,80,80,60,,{\k40}SHE
+Dialogue: 0,0:02:18.36,0:02:19.24,Default,,80,80,60,,{\k33}DEMANDED {\k21}AN {\k32}APOLOGY.
+Dialogue: 0,0:02:20.02,0:02:20.02,Default,,80,80,60,,{\k13}I
+Dialogue: 0,0:02:20.02,0:02:20.69,Default,,80,80,60,,{\k13}I {\k28}REFUSED {\k25}AND
+Dialogue: 0,0:02:20.69,0:02:21.50,Default,,80,80,60,,{\k28}REPEATED {\k15}THAT {\k12}MY {\k24}DAUGHTER
+Dialogue: 0,0:02:21.50,0:02:22.15,Default,,80,80,60,,{\k15}WILL {\k15}NOT {\k14}BE {\k19}USED
+Dialogue: 0,0:02:22.15,0:02:22.96,Default,,80,80,60,,{\k14}FOR {\k11}HER {\k26}SOCIAL {\k28}MEDIA
+Dialogue: 0,0:02:22.96,0:02:23.41,Default,,80,80,60,,{\k45}CONTENT.
+Dialogue: 0,0:02:24.13,0:02:24.91,Default,,80,80,60,,{\k26}SEVERAL {\k13}OF {\k12}MY {\k25}SIBLINGS
+Dialogue: 0,0:02:24.91,0:02:25.63,Default,,80,80,60,,{\k28}BACKED {\k16}ME {\k13}UP {\k13}AND
+Dialogue: 0,0:02:25.63,0:02:26.28,Default,,80,80,60,,{\k12}SAID {\k15}THEY {\k18}ALSO {\k18}DON
+Dialogue: 0,0:02:26.28,0:02:27.02,Default,,80,80,60,,{\k15}WANT {\k14}THEIR {\k15}KIDS {\k28}APPEARING
+Dialogue: 0,0:02:27.02,0:02:27.63,Default,,80,80,60,,{\k21}ON {\k13}HER {\k25}PAGES.
+Dialogue: 0,0:02:28.46,0:02:28.46,Default,,80,80,60,,{\k12}FOR
+Dialogue: 0,0:02:28.46,0:02:29.28,Default,,80,80,60,,{\k12}FOR {\k29}CONTEXT, {\k8}SHE
+Dialogue: 0,0:02:29.28,0:02:29.91,Default,,80,80,60,,{\k6}HAS {\k19}NEVER {\k37}ACTUALLY
+Dialogue: 0,0:02:29.91,0:02:30.52,Default,,80,80,60,,{\k28}POSTED {\k32}ANYTHING
+Dialogue: 0,0:02:30.52,0:02:31.21,Default,,80,80,60,,{\k51}CONTAINING {\k18}MY
+Dialogue: 0,0:02:31.21,0:02:32.00,Default,,80,80,60,,{\k18}DAUGHTER {\k41}BECAUSE {\k18}I
+Dialogue: 0,0:02:32.00,0:02:32.87,Default,,80,80,60,,{\k9}HAVE {\k37}CONSISTENTLY {\k40}REFUSED
+Dialogue: 0,0:02:32.87,0:02:33.24,Default,,80,80,60,,{\k36}PERMISSION.
+Dialogue: 0,0:02:34.18,0:02:35.06,Default,,80,80,60,,{\k28}WE {\k13}LIVE {\k12}IN {\k34}CANADA,
+Dialogue: 0,0:02:35.46,0:02:36.19,Default,,80,80,60,,{\k15}WHERE {\k13}THERE {\k14}AREN {\k13}REALLY {\k15}CLEAR
+Dialogue: 0,0:02:36.19,0:02:36.81,Default,,80,80,60,,{\k20}LAWS {\k29}COVERING {\k12}THIS
+Dialogue: 0,0:02:36.81,0:02:37.50,Default,,80,80,60,,{\k42}SITUATION, {\k25}AND
+Dialogue: 0,0:02:37.50,0:02:38.21,Default,,80,80,60,,{\k18}MAYA {\k18}HAS {\k15}LEARNED {\k19}ABOUT
+Dialogue: 0,0:02:38.21,0:02:38.86,Default,,80,80,60,,{\k24}MEDIA {\k40}LITERACY
+Dialogue: 0,0:02:38.86,0:02:39.78,Default,,80,80,60,,{\k19}AND {\k25}INTERNET {\k46}SAFETY
+Dialogue: 0,0:02:39.78,0:02:40.47,Default,,80,80,60,,{\k12}IN {\k18}SCHOOL {\k17}FOR {\k21}YEARS.
+Dialogue: 0,0:02:41.18,0:02:41.18,Default,,80,80,60,,{\k19}I
+Dialogue: 0,0:02:41.18,0:02:42.06,Default,,80,80,60,,{\k19}I {\k9}HAVE {\k14}TOLD {\k15}MY {\k28}SISTER-IN-LAW
+Dialogue: 0,0:02:42.06,0:02:42.91,Default,,80,80,60,,{\k13}MULTIPLE {\k23}TIMES
+Dialogue: 0,0:02:42.91,0:02:43.75,Default,,80,80,60,,{\k34}BEFORE, {\k19}USUALLY
+Dialogue: 0,0:02:43.75,0:02:44.75,Default,,80,80,60,,{\k30}OVER {\k19}TEXT, {\k17}THAT
+Dialogue: 0,0:02:44.75,0:02:45.43,Default,,80,80,60,,{\k14}SHE {\k9}IS {\k12}NOT {\k19}ALLOWED {\k12}TO
+Dialogue: 0,0:02:45.43,0:02:46.12,Default,,80,80,60,,{\k36}PHOTOGRAPH {\k15}OR {\k15}RECORD
+Dialogue: 0,0:02:46.12,0:02:47.52,Default,,80,80,60,,{\k9}MY {\k6}DAUGHTER. {\k25}I {\k34}M
+Dialogue: 0,0:02:47.52,0:02:48.41,Default,,80,80,60,,{\k37}CONFIDENT {\k15}THAT {\k35}PROTECTING
+Dialogue: 0,0:02:48.41,0:02:49.19,Default,,80,80,60,,{\k18}MY {\k34}DAUGHTER {\k25}BOUNDARIES
+Dialogue: 0,0:02:49.19,0:02:49.87,Default,,80,80,60,,{\k28}WAS {\k12}THE {\k12}RIGHT {\k15}THING
+Dialogue: 0,0:02:49.87,0:02:50.96,Default,,80,80,60,,{\k15}TO {\k18}DO. {\k13}WHAT
+Dialogue: 0,0:02:50.96,0:02:51.69,Default,,80,80,60,,{\k13}WHAT {\k20}I {\k39}M
+Dialogue: 0,0:02:51.69,0:02:52.41,Default,,80,80,60,,{\k16}IS {\k19}WHETHER {\k12}THE {\k9}WAY {\k13}I
+Dialogue: 0,0:02:52.41,0:02:53.18,Default,,80,80,60,,{\k24}HANDLED {\k18}IT, {\k15}RAISING
+Dialogue: 0,0:02:53.18,0:02:54.02,Default,,80,80,60,,{\k18}MY {\k19}VOICE {\k13}AND {\k32}CONFRONTING
+Dialogue: 0,0:02:54.02,0:02:54.80,Default,,80,80,60,,{\k19}HER {\k9}THE {\k14}WAY {\k15}I {\k18}DID,
+Dialogue: 0,0:02:55.06,0:02:56.12,Default,,80,80,60,,{\k6}WENT {\k18}TOO {\k17}FAR. {\k28}WAS
+Dialogue: 0,0:02:56.12,0:02:56.87,Default,,80,80,60,,{\k28}WAS {\k12}I {\k17}WRONG {\k18}FOR
+Dialogue: 0,0:02:56.87,0:02:57.59,Default,,80,80,60,,{\k30}REACTING {\k23}THAT {\k18}WAY?

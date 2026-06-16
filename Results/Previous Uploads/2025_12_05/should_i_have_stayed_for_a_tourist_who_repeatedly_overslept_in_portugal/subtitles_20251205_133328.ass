@@ -1,0 +1,139 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.33,0:00:03.87,Default,,0,0,0,,{\an5}I'M A
+Dialogue: 0,0:00:03.87,0:00:04.46,Default,,0,0,0,,{\an5}23 -YEAR
+Dialogue: 0,0:00:04.46,0:00:04.96,Default,,0,0,0,,{\an5}-OLD TOUR GUIDE
+Dialogue: 0,0:00:04.96,0:00:05.58,Default,,0,0,0,,{\an5}FROM ROMANIA
+Dialogue: 0,0:00:05.58,0:00:06.32,Default,,0,0,0,,{\an5}WHO LEADS GROUPS
+Dialogue: 0,0:00:06.32,0:00:06.58,Default,,0,0,0,,{\an5}AROUND
+Dialogue: 0,0:00:06.58,0:00:07.01,Default,,0,0,0,,{\an5}PORTUGAL.
+Dialogue: 0,0:00:07.33,0:00:07.92,Default,,0,0,0,,{\an5}ON A
+Dialogue: 0,0:00:07.92,0:00:08.50,Default,,0,0,0,,{\an5}RECENT TRIP,
+Dialogue: 0,0:00:08.64,0:00:09.48,Default,,0,0,0,,{\an5}A SOLO TRAVELER
+Dialogue: 0,0:00:09.48,0:00:10.08,Default,,0,0,0,,{\an5}IN HER LATE
+Dialogue: 0,0:00:10.08,0:00:10.75,Default,,0,0,0,,{\an5}30S REPEATEDLY
+Dialogue: 0,0:00:10.75,0:00:11.50,Default,,0,0,0,,{\an5}OVERSLEPT
+Dialogue: 0,0:00:11.50,0:00:12.03,Default,,0,0,0,,{\an5}DESPITE CLEAR
+Dialogue: 0,0:00:12.03,0:00:12.51,Default,,0,0,0,,{\an5}INSTRUCTIONS.
+Dialogue: 0,0:00:13.09,0:00:13.80,Default,,0,0,0,,{\an5}EACH DAY,
+Dialogue: 0,0:00:13.96,0:00:14.67,Default,,0,0,0,,{\an5}I PROVIDE THE
+Dialogue: 0,0:00:14.67,0:00:15.27,Default,,0,0,0,,{\an5}GROUP WITH PRINTED
+Dialogue: 0,0:00:15.27,0:00:16.48,Default,,0,0,0,,{\an5}SCHEDULES, ANNOUNCE
+Dialogue: 0,0:00:16.48,0:00:17.30,Default,,0,0,0,,{\an5}DEPARTURE TIMES
+Dialogue: 0,0:00:17.30,0:00:17.89,Default,,0,0,0,,{\an5}THE NIGHT BEFORE,
+Dialogue: 0,0:00:18.12,0:00:18.69,Default,,0,0,0,,{\an5}AND SHARE
+Dialogue: 0,0:00:18.69,0:00:19.33,Default,,0,0,0,,{\an5}MY PHONE NUMBER
+Dialogue: 0,0:00:19.33,0:00:19.96,Default,,0,0,0,,{\an5}IN CASE ANYONE
+Dialogue: 0,0:00:19.96,0:00:20.33,Default,,0,0,0,,{\an5}NEEDS A
+Dialogue: 0,0:00:20.33,0:00:20.60,Default,,0,0,0,,{\an5}REMINDER.
+Dialogue: 0,0:00:20.89,0:00:21.57,Default,,0,0,0,,{\an5}ON THE FIRST
+Dialogue: 0,0:00:21.57,0:00:22.37,Default,,0,0,0,,{\an5}MORNING, SHE
+Dialogue: 0,0:00:22.37,0:00:23.07,Default,,0,0,0,,{\an5}WAS 15 MINUTES
+Dialogue: 0,0:00:23.07,0:00:23.64,Default,,0,0,0,,{\an5}LATE FOR A
+Dialogue: 0,0:00:23.64,0:00:24.14,Default,,0,0,0,,{\an5}DAY TRIP TO
+Dialogue: 0,0:00:24.14,0:00:25.05,Default,,0,0,0,,{\an5}SINTRA, WHICH
+Dialogue: 0,0:00:25.05,0:00:25.89,Default,,0,0,0,,{\an5}I EXCUSED,
+Dialogue: 0,0:00:25.89,0:00:26.57,Default,,0,0,0,,{\an5}BUT I REMINDED
+Dialogue: 0,0:00:26.57,0:00:27.17,Default,,0,0,0,,{\an5}EVERYONE THAT
+Dialogue: 0,0:00:27.17,0:00:27.76,Default,,0,0,0,,{\an5}I CANNOT WAIT
+Dialogue: 0,0:00:27.76,0:00:28.28,Default,,0,0,0,,{\an5}BEYOND 20
+Dialogue: 0,0:00:28.28,0:00:28.78,Default,,0,0,0,,{\an5}MINUTES WITHOUT
+Dialogue: 0,0:00:28.78,0:00:29.00,Default,,0,0,0,,{\an5}PRIOR
+Dialogue: 0,0:00:29.00,0:00:29.37,Default,,0,0,0,,{\an5}NOTICE.
+Dialogue: 0,0:00:30.00,0:00:30.67,Default,,0,0,0,,{\an5}THE FOLLOWING
+Dialogue: 0,0:00:30.67,0:00:31.46,Default,,0,0,0,,{\an5}MORNING, SHE
+Dialogue: 0,0:00:31.46,0:00:32.07,Default,,0,0,0,,{\an5}WAS 30 MINUTES
+Dialogue: 0,0:00:32.07,0:00:32.65,Default,,0,0,0,,{\an5}LATE DESPITE
+Dialogue: 0,0:00:32.65,0:00:33.21,Default,,0,0,0,,{\an5}MY CALLS,
+Dialogue: 0,0:00:33.39,0:00:33.93,Default,,0,0,0,,{\an5}AND SHE
+Dialogue: 0,0:00:33.93,0:00:34.56,Default,,0,0,0,,{\an5}BARELY MANAGED
+Dialogue: 0,0:00:34.56,0:00:35.06,Default,,0,0,0,,{\an5}TO CATCH THE
+Dialogue: 0,0:00:35.06,0:00:35.61,Default,,0,0,0,,{\an5}BUS DUE TO A
+Dialogue: 0,0:00:35.61,0:00:36.25,Default,,0,0,0,,{\an5}LAST -MINUTE HOTEL
+Dialogue: 0,0:00:36.25,0:00:36.65,Default,,0,0,0,,{\an5}ISSUE.
+Dialogue: 0,0:00:37.02,0:00:37.78,Default,,0,0,0,,{\an5}I REMINDED
+Dialogue: 0,0:00:37.78,0:00:38.32,Default,,0,0,0,,{\an5}THE GROUP AGAIN
+Dialogue: 0,0:00:38.32,0:00:39.03,Default,,0,0,0,,{\an5}THAT WAKING UP
+Dialogue: 0,0:00:39.03,0:00:39.60,Default,,0,0,0,,{\an5}ON TIME IS
+Dialogue: 0,0:00:39.60,0:00:40.17,Default,,0,0,0,,{\an5}EACH PERSON'S
+Dialogue: 0,0:00:40.17,0:00:40.64,Default,,0,0,0,,{\an5}RESPONSIBILITY.
+Dialogue: 0,0:00:41.28,0:00:41.96,Default,,0,0,0,,{\an5}THAT EVENING,
+Dialogue: 0,0:00:42.15,0:00:42.71,Default,,0,0,0,,{\an5}SHE ASKED
+Dialogue: 0,0:00:42.71,0:00:43.21,Default,,0,0,0,,{\an5}ME TO KNOCK ON
+Dialogue: 0,0:00:43.21,0:00:43.84,Default,,0,0,0,,{\an5}HER DOOR THE NEXT
+Dialogue: 0,0:00:43.84,0:00:44.57,Default,,0,0,0,,{\an5}DAY, BUT
+Dialogue: 0,0:00:44.57,0:00:45.24,Default,,0,0,0,,{\an5}I EXPLAINED THAT
+Dialogue: 0,0:00:45.24,0:00:45.74,Default,,0,0,0,,{\an5}I COULDN'T WAKE
+Dialogue: 0,0:00:45.74,0:00:46.35,Default,,0,0,0,,{\an5}EVERY TOURIST
+Dialogue: 0,0:00:46.35,0:00:46.89,Default,,0,0,0,,{\an5}AND THAT ALARMS
+Dialogue: 0,0:00:46.89,0:00:47.34,Default,,0,0,0,,{\an5}SHOULD BE SET
+Dialogue: 0,0:00:47.34,0:00:47.65,Default,,0,0,0,,{\an5}INDIVIDUALLY.
+Dialogue: 0,0:00:48.42,0:00:48.92,Default,,0,0,0,,{\an5}ON THE
+Dialogue: 0,0:00:48.92,0:00:49.85,Default,,0,0,0,,{\an5}THIRD DAY, DURING
+Dialogue: 0,0:00:49.85,0:00:50.70,Default,,0,0,0,,{\an5}A TRIP TO COIMBRA,
+Dialogue: 0,0:00:50.88,0:00:51.53,Default,,0,0,0,,{\an5}SHE DIDN'T
+Dialogue: 0,0:00:51.53,0:00:51.70,Default,,0,0,0,,{\an5}SHOW
+Dialogue: 0,0:00:51.70,0:00:51.92,Default,,0,0,0,,{\an5}UP.
+Dialogue: 0,0:00:52.02,0:00:52.70,Default,,0,0,0,,{\an5}I WAITED 20
+Dialogue: 0,0:00:52.70,0:00:53.32,Default,,0,0,0,,{\an5}MINUTES PAST
+Dialogue: 0,0:00:53.32,0:00:54.10,Default,,0,0,0,,{\an5}THE SCHEDULED DEPARTURE
+Dialogue: 0,0:00:54.10,0:00:55.14,Default,,0,0,0,,{\an5}TIME, CALLED
+Dialogue: 0,0:00:55.14,0:00:55.78,Default,,0,0,0,,{\an5}HER TWICE WITH
+Dialogue: 0,0:00:55.78,0:00:56.78,Default,,0,0,0,,{\an5}NO ANSWER, AND
+Dialogue: 0,0:00:56.78,0:00:57.53,Default,,0,0,0,,{\an5}EVENTUALLY LEFT
+Dialogue: 0,0:00:57.53,0:00:58.10,Default,,0,0,0,,{\an5}WITH THE REST OF
+Dialogue: 0,0:00:58.10,0:00:58.20,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:00:58.20,0:00:58.42,Default,,0,0,0,,{\an5}GROUP.
+Dialogue: 0,0:00:58.42,0:00:59.10,Default,,0,0,0,,{\an5}AN HOUR
+Dialogue: 0,0:00:59.10,0:00:59.88,Default,,0,0,0,,{\an5}LATER, SHE
+Dialogue: 0,0:00:59.88,0:01:00.65,Default,,0,0,0,,{\an5}CALLED IN A PANIC,
+Dialogue: 0,0:01:00.84,0:01:01.34,Default,,0,0,0,,{\an5}SCREAMING
+Dialogue: 0,0:01:01.34,0:01:02.06,Default,,0,0,0,,{\an5}THAT I HAD RUINED
+Dialogue: 0,0:01:02.06,0:01:03.11,Default,,0,0,0,,{\an5}HER LIFE, DEMANDED
+Dialogue: 0,0:01:03.11,0:01:03.96,Default,,0,0,0,,{\an5}A FULL REFUND,
+Dialogue: 0,0:01:04.18,0:01:04.71,Default,,0,0,0,,{\an5}AND THREATENED
+Dialogue: 0,0:01:04.71,0:01:05.37,Default,,0,0,0,,{\an5}TO SUE THE TOUR
+Dialogue: 0,0:01:05.37,0:01:05.98,Default,,0,0,0,,{\an5}AGENCY FOR
+Dialogue: 0,0:01:05.98,0:01:06.18,Default,,0,0,0,,{\an5}EMOTIONAL
+Dialogue: 0,0:01:06.18,0:01:06.71,Default,,0,0,0,,{\an5}DISTRESS.
+Dialogue: 0,0:01:07.09,0:01:07.71,Default,,0,0,0,,{\an5}SHE EVEN
+Dialogue: 0,0:01:07.71,0:01:08.56,Default,,0,0,0,,{\an5}POSTED SCATHING
+Dialogue: 0,0:01:08.56,0:01:09.14,Default,,0,0,0,,{\an5}REVIEWS ACROSS
+Dialogue: 0,0:01:09.14,0:01:09.92,Default,,0,0,0,,{\an5}MULTIPLE TRAVEL
+Dialogue: 0,0:01:09.92,0:01:11.07,Default,,0,0,0,,{\an5}SITES, TAGGING
+Dialogue: 0,0:01:11.07,0:01:11.57,Default,,0,0,0,,{\an5}ME PERSONALLY
+Dialogue: 0,0:01:11.57,0:01:12.12,Default,,0,0,0,,{\an5}AND CLAIMING
+Dialogue: 0,0:01:12.12,0:01:12.65,Default,,0,0,0,,{\an5}I'D ABANDONED
+Dialogue: 0,0:01:12.65,0:01:13.56,Default,,0,0,0,,{\an5}A VULNERABLE WOMAN
+Dialogue: 0,0:01:13.56,0:01:14.14,Default,,0,0,0,,{\an5}WHICH CAUSED
+Dialogue: 0,0:01:14.14,0:01:14.81,Default,,0,0,0,,{\an5}THE AGENCY TO
+Dialogue: 0,0:01:14.81,0:01:15.78,Default,,0,0,0,,{\an5}GET DOZENS
+Dialogue: 0,0:01:15.78,0:01:16.56,Default,,0,0,0,,{\an5}OF ANGRY EMAILS
+Dialogue: 0,0:01:16.56,0:01:17.29,Default,,0,0,0,,{\an5}AND NEARLY LOST
+Dialogue: 0,0:01:17.29,0:01:17.70,Default,,0,0,0,,{\an5}ME FUTURE
+Dialogue: 0,0:01:17.70,0:01:18.20,Default,,0,0,0,,{\an5}CONTRACTS.
+Dialogue: 0,0:01:18.50,0:01:19.00,Default,,0,0,0,,{\an5}I HAD
+Dialogue: 0,0:01:19.00,0:01:19.56,Default,,0,0,0,,{\an5}WARNED HER MULTIPLE
+Dialogue: 0,0:01:19.56,0:01:20.07,Default,,0,0,0,,{\an5}TIMES
+Dialogue: 0,0:01:20.07,0:01:20.59,Default,,0,0,0,,{\an5}THAT I COULDN'T
+Dialogue: 0,0:01:20.59,0:01:21.45,Default,,0,0,0,,{\an5}BE RESPONSIBLE FOR
+Dialogue: 0,0:01:21.45,0:01:21.62,Default,,0,0,0,,{\an5}WAKING
+Dialogue: 0,0:01:21.62,0:01:21.90,Default,,0,0,0,,{\an5}HER.
+Dialogue: 0,0:01:22.14,0:01:22.78,Default,,0,0,0,,{\an5}SO I
+Dialogue: 0,0:01:22.78,0:01:23.28,Default,,0,0,0,,{\an5}WANT TO KNOW IF
+Dialogue: 0,0:01:23.28,0:01:23.90,Default,,0,0,0,,{\an5}LEAVING HER BEHIND,
+Dialogue: 0,0:01:24.14,0:01:24.79,Default,,0,0,0,,{\an5}EVEN KNOWING
+Dialogue: 0,0:01:24.79,0:01:25.73,Default,,0,0,0,,{\an5}THIS COULD ESCALATE,
+Dialogue: 0,0:01:25.78,0:01:26.14,Default,,0,0,0,,{\an5}WAS
+Dialogue: 0,0:01:26.14,0:01:26.43,Default,,0,0,0,,{\an5}UNREASONABLE.

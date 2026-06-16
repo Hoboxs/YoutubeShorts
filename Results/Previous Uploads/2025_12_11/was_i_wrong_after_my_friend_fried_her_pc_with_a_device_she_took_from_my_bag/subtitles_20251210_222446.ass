@@ -1,0 +1,185 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.26,0:00:04.70,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:00:04.70,0:00:05.20,Default,,0,0,0,,{\an5}A 20 -YEAR
+Dialogue: 0,0:00:05.20,0:00:05.92,Default,,0,0,0,,{\an5}-OLD STUDENT LIVING
+Dialogue: 0,0:00:05.92,0:00:06.37,Default,,0,0,0,,{\an5}IN A SHARED
+Dialogue: 0,0:00:06.37,0:00:06.98,Default,,0,0,0,,{\an5}TOWNHOUSE IN
+Dialogue: 0,0:00:06.98,0:00:07.50,Default,,0,0,0,,{\an5}HALIFAX.
+Dialogue: 0,0:00:07.87,0:00:08.32,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:08.32,0:00:08.72,Default,,0,0,0,,{\an5}I KEEP A
+Dialogue: 0,0:00:08.72,0:00:09.33,Default,,0,0,0,,{\an5}SPECIAL DEVICE
+Dialogue: 0,0:00:09.33,0:00:09.92,Default,,0,0,0,,{\an5}IN MY BACKPACK
+Dialogue: 0,0:00:09.92,0:00:10.40,Default,,0,0,0,,{\an5}THAT LOOKS
+Dialogue: 0,0:00:10.40,0:00:10.92,Default,,0,0,0,,{\an5}LIKE A SIMPLE
+Dialogue: 0,0:00:10.92,0:00:11.41,Default,,0,0,0,,{\an5}THUMB DRIVE
+Dialogue: 0,0:00:11.41,0:00:11.59,Default,,0,0,0,,{\an5}THAT
+Dialogue: 0,0:00:11.59,0:00:12.00,Default,,0,0,0,,{\an5}ISN'T.
+Dialogue: 0,0:00:12.25,0:00:12.69,Default,,0,0,0,,{\an5}IT'S
+Dialogue: 0,0:00:12.69,0:00:13.38,Default,,0,0,0,,{\an5}A VOLTAGE DISCHARGE
+Dialogue: 0,0:00:13.38,0:00:14.27,Default,,0,0,0,,{\an5}STICK DISGUISED
+Dialogue: 0,0:00:14.27,0:00:14.48,Default,,0,0,0,,{\an5}AS A
+Dialogue: 0,0:00:14.48,0:00:14.82,Default,,0,0,0,,{\an5}USB.
+Dialogue: 0,0:00:15.24,0:00:15.67,Default,,0,0,0,,{\an5}SOMETHING
+Dialogue: 0,0:00:15.67,0:00:16.33,Default,,0,0,0,,{\an5}I CARRY BECAUSE
+Dialogue: 0,0:00:16.33,0:00:16.89,Default,,0,0,0,,{\an5}MY FAMILY
+Dialogue: 0,0:00:16.89,0:00:17.37,Default,,0,0,0,,{\an5}HAS A LONG
+Dialogue: 0,0:00:17.37,0:00:17.85,Default,,0,0,0,,{\an5}HISTORY OF
+Dialogue: 0,0:00:17.85,0:00:18.33,Default,,0,0,0,,{\an5}PRYING INTO
+Dialogue: 0,0:00:18.33,0:00:18.89,Default,,0,0,0,,{\an5}ANYTHING LEFT
+Dialogue: 0,0:00:18.89,0:00:19.48,Default,,0,0,0,,{\an5}UNATTENDED.
+Dialogue: 0,0:00:19.78,0:00:20.21,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:00:20.21,0:00:20.73,Default,,0,0,0,,{\an5}MAKE SURE I
+Dialogue: 0,0:00:20.73,0:00:21.21,Default,,0,0,0,,{\an5}NEVER CONFUSE
+Dialogue: 0,0:00:21.21,0:00:21.69,Default,,0,0,0,,{\an5}IT WITH MY
+Dialogue: 0,0:00:21.69,0:00:22.23,Default,,0,0,0,,{\an5}NORMAL STORAGE
+Dialogue: 0,0:00:22.23,0:00:22.55,Default,,0,0,0,,{\an5}DRIVES.
+Dialogue: 0,0:00:23.05,0:00:23.50,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:23.50,0:00:23.96,Default,,0,0,0,,{\an5}MARKED IT WITH
+Dialogue: 0,0:00:23.96,0:00:24.48,Default,,0,0,0,,{\an5}A TINY RED
+Dialogue: 0,0:00:24.48,0:00:24.76,Default,,0,0,0,,{\an5}MASK
+Dialogue: 0,0:00:24.76,0:00:25.01,Default,,0,0,0,,{\an5}STICKER.
+Dialogue: 0,0:00:25.30,0:00:25.73,Default,,0,0,0,,{\an5}IT'S
+Dialogue: 0,0:00:25.73,0:00:26.23,Default,,0,0,0,,{\an5}HARMLESS AS
+Dialogue: 0,0:00:26.23,0:00:26.66,Default,,0,0,0,,{\an5}LONG AS NO
+Dialogue: 0,0:00:26.66,0:00:27.07,Default,,0,0,0,,{\an5}ONE PLUGS
+Dialogue: 0,0:00:27.07,0:00:27.23,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:00:27.23,0:00:27.42,Default,,0,0,0,,{\an5}IN.
+Dialogue: 0,0:00:27.60,0:00:28.03,Default,,0,0,0,,{\an5}THAT'S
+Dialogue: 0,0:00:28.03,0:00:28.39,Default,,0,0,0,,{\an5}THE ENTIRE
+Dialogue: 0,0:00:28.39,0:00:28.71,Default,,0,0,0,,{\an5}POINT.
+Dialogue: 0,0:00:28.71,0:00:29.28,Default,,0,0,0,,{\an5}POINT YESTERDAY
+Dialogue: 0,0:00:29.28,0:00:29.96,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:29.96,0:00:30.44,Default,,0,0,0,,{\an5}HAD TO LEAVE
+Dialogue: 0,0:00:30.44,0:00:31.12,Default,,0,0,0,,{\an5}CAMPUS SUDDENLY
+Dialogue: 0,0:00:31.12,0:00:31.73,Default,,0,0,0,,{\an5}SO
+Dialogue: 0,0:00:31.73,0:00:32.24,Default,,0,0,0,,{\an5}I ASKED A
+Dialogue: 0,0:00:32.24,0:00:32.79,Default,,0,0,0,,{\an5}FRIEND OF MINE
+Dialogue: 0,0:00:32.79,0:00:33.42,Default,,0,0,0,,{\an5}SHE'S
+Dialogue: 0,0:00:33.42,0:00:34.25,Default,,0,0,0,,{\an5}21 TO
+Dialogue: 0,0:00:34.25,0:00:34.75,Default,,0,0,0,,{\an5}KEEP AN EYE
+Dialogue: 0,0:00:34.75,0:00:35.28,Default,,0,0,0,,{\an5}ON MY BAG
+Dialogue: 0,0:00:35.28,0:00:35.74,Default,,0,0,0,,{\an5}UNTIL I COULD
+Dialogue: 0,0:00:35.74,0:00:36.35,Default,,0,0,0,,{\an5}PICK IT UP LATER
+Dialogue: 0,0:00:36.35,0:00:37.20,Default,,0,0,0,,{\an5}WHEN
+Dialogue: 0,0:00:37.20,0:00:37.67,Default,,0,0,0,,{\an5}I REALIZED
+Dialogue: 0,0:00:37.67,0:00:38.10,Default,,0,0,0,,{\an5}I WASN'T
+Dialogue: 0,0:00:38.10,0:00:38.64,Default,,0,0,0,,{\an5}MAKING IT BACK
+Dialogue: 0,0:00:38.64,0:00:39.07,Default,,0,0,0,,{\an5}BEFORE THE
+Dialogue: 0,0:00:39.07,0:00:39.61,Default,,0,0,0,,{\an5}BUILDINGS CLOSED
+Dialogue: 0,0:00:39.61,0:00:40.46,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:40.46,0:00:40.96,Default,,0,0,0,,{\an5}ASKED HER TO
+Dialogue: 0,0:00:40.96,0:00:41.43,Default,,0,0,0,,{\an5}TAKE IT TO HER
+Dialogue: 0,0:00:41.43,0:00:41.89,Default,,0,0,0,,{\an5}PLACE FOR THE
+Dialogue: 0,0:00:41.89,0:00:42.85,Default,,0,0,0,,{\an5}NIGHT SHE
+Dialogue: 0,0:00:42.85,0:00:43.39,Default,,0,0,0,,{\an5}AGREED WITHOUT
+Dialogue: 0,0:00:43.39,0:00:43.84,Default,,0,0,0,,{\an5}HESITATION
+Dialogue: 0,0:00:43.84,0:00:44.52,Default,,0,0,0,,{\an5}WHAT
+Dialogue: 0,0:00:44.52,0:00:45.17,Default,,0,0,0,,{\an5}SHE DIDN'T MENTION
+Dialogue: 0,0:00:45.17,0:00:45.85,Default,,0,0,0,,{\an5}UNTIL THIS MORNING
+Dialogue: 0,0:00:45.85,0:00:46.38,Default,,0,0,0,,{\an5}WAS THAT ONCE
+Dialogue: 0,0:00:46.38,0:00:46.96,Default,,0,0,0,,{\an5}SHE GOT HOME
+Dialogue: 0,0:00:46.96,0:00:47.71,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:47.71,0:00:48.29,Default,,0,0,0,,{\an5}DECIDED TO
+Dialogue: 0,0:00:48.29,0:00:48.79,Default,,0,0,0,,{\an5}EXPLORE MY
+Dialogue: 0,0:00:48.79,0:00:49.61,Default,,0,0,0,,{\an5}BAG SHE
+Dialogue: 0,0:00:49.61,0:00:50.10,Default,,0,0,0,,{\an5}FOUND THE RED
+Dialogue: 0,0:00:50.10,0:00:50.64,Default,,0,0,0,,{\an5}MASK DRIVE
+Dialogue: 0,0:00:50.64,0:00:51.34,Default,,0,0,0,,{\an5}ASSUMED
+Dialogue: 0,0:00:51.34,0:00:51.79,Default,,0,0,0,,{\an5}IT WAS MY
+Dialogue: 0,0:00:51.79,0:00:52.35,Default,,0,0,0,,{\an5}REGULAR ONE
+Dialogue: 0,0:00:52.35,0:00:52.92,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:52.92,0:00:53.34,Default,,0,0,0,,{\an5}OUT OF PURE
+Dialogue: 0,0:00:53.34,0:00:53.82,Default,,0,0,0,,{\an5}CURIOSITY
+Dialogue: 0,0:00:53.82,0:00:54.42,Default,,0,0,0,,{\an5}PLUGGED IT
+Dialogue: 0,0:00:54.42,0:00:54.97,Default,,0,0,0,,{\an5}DIRECTLY INTO
+Dialogue: 0,0:00:54.97,0:00:55.42,Default,,0,0,0,,{\an5}HER CUSTOM
+Dialogue: 0,0:00:55.42,0:00:55.64,Default,,0,0,0,,{\an5}GAMING
+Dialogue: 0,0:00:55.64,0:00:56.00,Default,,0,0,0,,{\an5}SETUP.
+Dialogue: 0,0:00:56.25,0:00:56.78,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:00:56.78,0:00:57.29,Default,,0,0,0,,{\an5}DEVICE DID
+Dialogue: 0,0:00:57.29,0:00:57.88,Default,,0,0,0,,{\an5}EXACTLY WHAT
+Dialogue: 0,0:00:57.88,0:00:58.53,Default,,0,0,0,,{\an5}IT'S ENGINEERED TO
+Dialogue: 0,0:00:58.53,0:00:58.71,Default,,0,0,0,,{\an5}DO.
+Dialogue: 0,0:00:58.89,0:00:59.52,Default,,0,0,0,,{\an5}IT DISCHARGED
+Dialogue: 0,0:00:59.52,0:01:00.06,Default,,0,0,0,,{\an5}INSTANTLY,
+Dialogue: 0,0:01:00.34,0:01:00.78,Default,,0,0,0,,{\an5}AND HER
+Dialogue: 0,0:01:00.78,0:01:01.35,Default,,0,0,0,,{\an5}COMPUTER WENT
+Dialogue: 0,0:01:01.35,0:01:01.75,Default,,0,0,0,,{\an5}SILENT.
+Dialogue: 0,0:01:01.96,0:01:02.64,Default,,0,0,0,,{\an5}BY THE TIME
+Dialogue: 0,0:01:02.64,0:01:03.42,Default,,0,0,0,,{\an5}SHE HAD IT INSPECTED,
+Dialogue: 0,0:01:03.65,0:01:04.26,Default,,0,0,0,,{\an5}THE POWER
+Dialogue: 0,0:01:04.26,0:01:04.68,Default,,0,0,0,,{\an5}UNIT AND
+Dialogue: 0,0:01:04.68,0:01:05.29,Default,,0,0,0,,{\an5}MOTHERBOARD WERE
+Dialogue: 0,0:01:05.29,0:01:05.73,Default,,0,0,0,,{\an5}BOTH BEYOND
+Dialogue: 0,0:01:05.73,0:01:06.04,Default,,0,0,0,,{\an5}REPAIR.
+Dialogue: 0,0:01:06.37,0:01:06.78,Default,,0,0,0,,{\an5}NOW
+Dialogue: 0,0:01:06.78,0:01:07.34,Default,,0,0,0,,{\an5}SHE'S FURIOUS
+Dialogue: 0,0:01:07.34,0:01:07.76,Default,,0,0,0,,{\an5}WITH ME,
+Dialogue: 0,0:01:07.87,0:01:08.31,Default,,0,0,0,,{\an5}SAYING
+Dialogue: 0,0:01:08.31,0:01:08.79,Default,,0,0,0,,{\an5}I'M IRRESPONSIBLE
+Dialogue: 0,0:01:08.79,0:01:09.43,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:01:09.43,0:01:09.98,Default,,0,0,0,,{\an5}CARRYING SOMETHING
+Dialogue: 0,0:01:09.98,0:01:10.65,Default,,0,0,0,,{\an5}SO DANGEROUS
+Dialogue: 0,0:01:10.65,0:01:11.28,Default,,0,0,0,,{\an5}AROUND AND
+Dialogue: 0,0:01:11.28,0:01:11.73,Default,,0,0,0,,{\an5}INSISTING
+Dialogue: 0,0:01:11.73,0:01:12.35,Default,,0,0,0,,{\an5}I NEED TO REPLACE
+Dialogue: 0,0:01:12.35,0:01:13.23,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:01:13.23,0:01:13.57,Default,,0,0,0,,{\an5}EQUIPMENT.
+Dialogue: 0,0:01:13.85,0:01:14.43,Default,,0,0,0,,{\an5}BUT SHE ALSO
+Dialogue: 0,0:01:14.43,0:01:15.15,Default,,0,0,0,,{\an5}OPENLY ADMITTED
+Dialogue: 0,0:01:15.15,0:01:15.57,Default,,0,0,0,,{\an5}SHE WAS
+Dialogue: 0,0:01:15.57,0:01:16.14,Default,,0,0,0,,{\an5}RUMMAGING THROUGH
+Dialogue: 0,0:01:16.14,0:01:16.76,Default,,0,0,0,,{\an5}MY THINGS WITHOUT
+Dialogue: 0,0:01:16.76,0:01:17.20,Default,,0,0,0,,{\an5}PERMISSION,
+Dialogue: 0,0:01:17.40,0:01:18.00,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:18.00,0:01:18.51,Default,,0,0,0,,{\an5}THAT SHE PLUGGED
+Dialogue: 0,0:01:18.51,0:01:19.04,Default,,0,0,0,,{\an5}IN A DEVICE
+Dialogue: 0,0:01:19.04,0:01:19.70,Default,,0,0,0,,{\an5}SHE KNEW DIDN'T
+Dialogue: 0,0:01:19.70,0:01:20.18,Default,,0,0,0,,{\an5}BELONG TO HER
+Dialogue: 0,0:01:20.18,0:01:20.62,Default,,0,0,0,,{\an5}SIMPLY TO
+Dialogue: 0,0:01:20.62,0:01:21.06,Default,,0,0,0,,{\an5}SEE WHAT I
+Dialogue: 0,0:01:21.06,0:01:21.37,Default,,0,0,0,,{\an5}HAD ON
+Dialogue: 0,0:01:21.37,0:01:21.57,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:01:21.57,0:01:22.26,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:22.26,0:01:22.79,Default,,0,0,0,,{\an5}FEEL AWFUL
+Dialogue: 0,0:01:22.79,0:01:23.40,Default,,0,0,0,,{\an5}THAT HER COMPUTER
+Dialogue: 0,0:01:23.40,0:01:23.85,Default,,0,0,0,,{\an5}IS RUINED
+Dialogue: 0,0:01:23.85,0:01:24.45,Default,,0,0,0,,{\an5}BUT I
+Dialogue: 0,0:01:24.45,0:01:24.87,Default,,0,0,0,,{\an5}CAN'T SHAKE
+Dialogue: 0,0:01:24.87,0:01:25.48,Default,,0,0,0,,{\an5}THE FACT THAT
+Dialogue: 0,0:01:25.48,0:01:26.15,Default,,0,0,0,,{\an5}SHE HANDLED SOMETHING
+Dialogue: 0,0:01:26.15,0:01:26.70,Default,,0,0,0,,{\an5}SHE WASN'T
+Dialogue: 0,0:01:26.70,0:01:27.21,Default,,0,0,0,,{\an5}MEANT TO TOUCH
+Dialogue: 0,0:01:27.21,0:01:27.68,Default,,0,0,0,,{\an5}AND USED IT
+Dialogue: 0,0:01:27.68,0:01:28.57,Default,,0,0,0,,{\an5}IN THE ONE
+Dialogue: 0,0:01:28.57,0:01:28.98,Default,,0,0,0,,{\an5}WAY IT'S
+Dialogue: 0,0:01:28.98,0:01:29.50,Default,,0,0,0,,{\an5}DESIGNED NEVER
+Dialogue: 0,0:01:29.50,0:01:30.07,Default,,0,0,0,,{\an5}TO BE USED
+Dialogue: 0,0:01:30.07,0:01:30.64,Default,,0,0,0,,{\an5}SO
+Dialogue: 0,0:01:30.64,0:01:31.37,Default,,0,0,0,,{\an5}I'M LEFT WONDERING
+Dialogue: 0,0:01:31.37,0:01:31.84,Default,,0,0,0,,{\an5}WAS
+Dialogue: 0,0:01:31.84,0:01:32.35,Default,,0,0,0,,{\an5}I GENUINELY
+Dialogue: 0,0:01:32.35,0:01:32.81,Default,,0,0,0,,{\an5}AT FAULT
+Dialogue: 0,0:01:32.81,0:01:33.23,Default,,0,0,0,,{\an5}FOR KEEPING
+Dialogue: 0,0:01:33.23,0:01:33.65,Default,,0,0,0,,{\an5}THE DEVICE
+Dialogue: 0,0:01:33.65,0:01:34.14,Default,,0,0,0,,{\an5}IN MY OWN
+Dialogue: 0,0:01:34.14,0:01:35.12,Default,,0,0,0,,{\an5}BAG OR
+Dialogue: 0,0:01:35.12,0:01:35.59,Default,,0,0,0,,{\an5}IS SHE UPSET
+Dialogue: 0,0:01:35.59,0:01:36.14,Default,,0,0,0,,{\an5}BECAUSE SHE
+Dialogue: 0,0:01:36.14,0:01:36.65,Default,,0,0,0,,{\an5}IGNORED EVERY
+Dialogue: 0,0:01:36.65,0:01:37.26,Default,,0,0,0,,{\an5}BOUNDARY AND
+Dialogue: 0,0:01:37.26,0:01:37.73,Default,,0,0,0,,{\an5}PAID THE PRICE
+Dialogue: 0,0:01:37.73,0:01:38.21,Default,,0,0,0,,{\an5}FOR HER OWN
+Dialogue: 0,0:01:38.21,0:01:38.48,Default,,0,0,0,,{\an5}CURIOSITY

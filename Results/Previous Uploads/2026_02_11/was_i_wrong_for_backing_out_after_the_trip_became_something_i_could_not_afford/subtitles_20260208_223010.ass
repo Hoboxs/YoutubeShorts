@@ -1,0 +1,167 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.77,0:00:04.48,Default,,0,0,0,,\N{\k39}A {\k14}FEW {\k16}MONTHS
+Dialogue: 0,0:00:04.48,0:00:05.21,Default,,0,0,0,,\N{\k27}AFTER {\k12}A {\k13}REALLY {\k20}FUN
+Dialogue: 0,0:00:05.21,0:00:05.82,Default,,0,0,0,,\N{\k22}GROUP {\k37}GETAWAY
+Dialogue: 0,0:00:05.82,0:00:06.59,Default,,0,0,0,,\N{\k27}ELIT {\k16}THIS {\k14}YEAR, {\k11}THREE
+Dialogue: 0,0:00:06.59,0:00:07.29,Default,,0,0,0,,\N{\k8}OF {\k6}US {\k25}STARTED {\k29}TALKING
+Dialogue: 0,0:00:07.29,0:00:08.03,Default,,0,0,0,,\N{\k18}ABOUT {\k27}PLANNING {\k27}ANOTHER
+Dialogue: 0,0:00:08.03,0:00:08.85,Default,,0,0,0,,\N{\k28}TRIP {\k16}FOR {\k5}THE {\k32}FOLLOWING
+Dialogue: 0,0:00:08.85,0:00:09.16,Default,,0,0,0,,\N{\k30}YEAR.
+Dialogue: 0,0:00:09.90,0:00:10.58,Default,,0,0,0,,\N{\k19}BY {\k20}EARLY {\k27}AUTUMN,
+Dialogue: 0,0:00:10.92,0:00:11.58,Default,,0,0,0,,\N{\k4}WE {\k7}WERE {\k32}EXCITED {\k22}AND
+Dialogue: 0,0:00:11.58,0:00:12.33,Default,,0,0,0,,\N{\k22}BEGAN {\k37}OUTLINING {\k16}A
+Dialogue: 0,0:00:12.33,0:00:13.24,Default,,0,0,0,,\N{\k25}SIMPLE, {\k24}BUDGET
+Dialogue: 0,0:00:13.24,0:00:14.06,Default,,0,0,0,,\N{\k25}FRIENDLY {\k30}WEEKEND {\k25}PLAN
+Dialogue: 0,0:00:14.06,0:00:14.69,Default,,0,0,0,,\N{\k17}THAT {\k19}WORKED {\k16}FOR {\k9}ALL
+Dialogue: 0,0:00:14.69,0:00:15.32,Default,,0,0,0,,\N{\k10}OF {\k11}US {\k40}FINANCIALLY
+Dialogue: 0,0:00:15.32,0:00:16.10,Default,,0,0,0,,\N{\k21}AND {\k26}SCHEDULE {\k30}WISE.
+Dialogue: 0,0:00:16.80,0:00:17.42,Default,,0,0,0,,\N{\k39}WE {\k8}WERE {\k14}ALL
+Dialogue: 0,0:00:17.42,0:00:18.14,Default,,0,0,0,,\N{\k11}ON {\k8}THE {\k11}SAME {\k24}PAGE {\k16}AND
+Dialogue: 0,0:00:18.14,0:00:18.80,Default,,0,0,0,,\N{\k19}LOOKING {\k28}FORWARD {\k17}TO
+Dialogue: 0,0:00:18.80,0:00:19.00,Default,,0,0,0,,\N{\k19}IT.
+Dialogue: 0,0:00:19.66,0:00:20.57,Default,,0,0,0,,\N{\k21}LATER {\k28}ON, {\k15}WE
+Dialogue: 0,0:00:20.57,0:00:21.35,Default,,0,0,0,,\N{\k26}REALISED {\k21}THE {\k30}SPECIFIC
+Dialogue: 0,0:00:21.35,0:00:22.23,Default,,0,0,0,,\N{\k53}ACTIVITY {\k33}WE
+Dialogue: 0,0:00:22.23,0:00:23.03,Default,,0,0,0,,\N{\k8}HAD {\k17}PLANNED {\k17}WOULD {\k14}WORK {\k21}BETTER
+Dialogue: 0,0:00:23.03,0:00:23.82,Default,,0,0,0,,\N{\k16}WITH {\k12}FOR {\k21}PEOPLE {\k28}INSTEAD
+Dialogue: 0,0:00:23.82,0:00:24.16,Default,,0,0,0,,\N{\k14}OF {\k19}THREE.
+Dialogue: 0,0:00:24.96,0:00:25.71,Default,,0,0,0,,\N{\k25}ONE {\k17}FAN {\k32}SUGGESTED
+Dialogue: 0,0:00:25.71,0:00:26.48,Default,,0,0,0,,\N{\k44}INVITING {\k32}SOMEONE
+Dialogue: 0,0:00:26.48,0:00:27.10,Default,,0,0,0,,\N{\k19}SHE {\k14}KNEW {\k17}AND {\k10}THE
+Dialogue: 0,0:00:27.10,0:00:27.76,Default,,0,0,0,,\N{\k16}REST {\k13}OF {\k12}US {\k24}AGREED.
+Dialogue: 0,0:00:28.24,0:00:28.94,Default,,0,0,0,,\N{\k47}AT {\k22}FIRST,
+Dialogue: 0,0:00:29.26,0:00:29.89,Default,,0,0,0,,\N{\k23}EVERYTHING {\k39}CONTINUED
+Dialogue: 0,0:00:29.89,0:00:30.60,Default,,0,0,0,,\N{\k40}SMOOTHLY {\k30}AND
+Dialogue: 0,0:00:30.60,0:00:31.33,Default,,0,0,0,,\N{\k11}THE {\k12}NEW {\k21}PERSON {\k28}SEEMED
+Dialogue: 0,0:00:31.33,0:00:31.94,Default,,0,0,0,,\N{\k46}EASYGOING {\k14}AND
+Dialogue: 0,0:00:31.94,0:00:32.67,Default,,0,0,0,,\N{\k35}ENTHUSIASTIC {\k38}ABOUT
+Dialogue: 0,0:00:32.67,0:00:33.35,Default,,0,0,0,,\N{\k14}THEIR {\k28}ORIGINAL {\k25}PLAN.
+Dialogue: 0,0:00:34.12,0:00:35.24,Default,,0,0,0,,\N{\k47}THEN, {\k20}ABOUT
+Dialogue: 0,0:00:35.24,0:00:35.97,Default,,0,0,0,,\N{\k10}A {\k9}MONTH {\k34}LATER, {\k3}SHE
+Dialogue: 0,0:00:35.97,0:00:36.65,Default,,0,0,0,,\N{\k26}PROPOSED {\k41}CHANGING
+Dialogue: 0,0:00:36.65,0:00:37.71,Default,,0,0,0,,\N{\k14}THE {\k30}DESTINATION {\k61}ENTIRELY.
+Dialogue: 0,0:00:38.57,0:00:39.28,Default,,0,0,0,,\N{\k24}THE {\k15}NEW {\k30}LOCATION
+Dialogue: 0,0:00:39.28,0:00:40.02,Default,,0,0,0,,\N{\k24}WAS {\k25}FARTHER {\k24}AWAY,
+Dialogue: 0,0:00:40.20,0:00:41.07,Default,,0,0,0,,\N{\k7}MORE {\k37}EXPENSIVE {\k42}AND
+Dialogue: 0,0:00:41.07,0:00:41.85,Default,,0,0,0,,\N{\k12}WOULD {\k15}TURN {\k11}A {\k14}SHORT {\k24}WEEKEND
+Dialogue: 0,0:00:41.85,0:00:42.53,Default,,0,0,0,,\N{\k24}INTO {\k7}A {\k16}MUCH {\k19}LONGER
+Dialogue: 0,0:00:42.53,0:00:42.82,Default,,0,0,0,,\N{\k28}TRIP.
+Dialogue: 0,0:00:43.75,0:00:44.50,Default,,0,0,0,,\N{\k24}ONE {\k21}FRIEND {\k28}IMMEDIATELY
+Dialogue: 0,0:00:44.50,0:00:45.21,Default,,0,0,0,,\N{\k52}SUPPORTED {\k19}THE
+Dialogue: 0,0:00:45.21,0:00:45.92,Default,,0,0,0,,\N{\k20}CHANGE {\k50}WHILE
+Dialogue: 0,0:00:45.92,0:00:46.61,Default,,0,0,0,,\N{\k23}ANOTHER {\k30}FRIEND {\k15}AND
+Dialogue: 0,0:00:46.61,0:00:47.10,Default,,0,0,0,,\N{\k10}I {\k6}WERE {\k32}HESITANT.
+Dialogue: 0,0:00:47.79,0:00:48.64,Default,,0,0,0,,\N{\k24}FOR {\k7}A {\k20}WHILE, {\k6}THE
+Dialogue: 0,0:00:48.64,0:00:49.50,Default,,0,0,0,,\N{\k15}GROUP {\k17}WAS {\k16}SPLIT {\k35}EVENLY,
+Dialogue: 0,0:00:49.74,0:00:50.53,Default,,0,0,0,,\N{\k7}BUT {\k17}WITHIN {\k10}A {\k14}FEW {\k29}DAYS,
+Dialogue: 0,0:00:50.79,0:00:51.65,Default,,0,0,0,,\N{\k4}I {\k19}BECAME {\k17}THE {\k14}ONLY {\k29}PERSON
+Dialogue: 0,0:00:51.65,0:00:52.35,Default,,0,0,0,,\N{\k28}STILL {\k42}UNCOMFORTABLE
+Dialogue: 0,0:00:52.35,0:00:52.97,Default,,0,0,0,,\N{\k21}WITH {\k7}THE {\k14}NEW {\k17}PLAN.
+Dialogue: 0,0:00:54.17,0:00:54.89,Default,,0,0,0,,\N{\k35}EXPLAINED {\k35}CLEARLY
+Dialogue: 0,0:00:54.89,0:00:55.74,Default,,0,0,0,,\N{\k28}AND {\k14}MORE {\k14}THAN {\k28}ONCE
+Dialogue: 0,0:00:55.74,0:00:56.70,Default,,0,0,0,,\N{\k10}THAT {\k9}THE {\k30}UPDATED {\k46}DESTINATION
+Dialogue: 0,0:00:56.70,0:00:57.50,Default,,0,0,0,,\N{\k29}WOULD {\k20}NEARLY {\k29}DOUBLE
+Dialogue: 0,0:00:57.50,0:00:58.11,Default,,0,0,0,,\N{\k20}WHAT {\k7}I {\k14}COULD {\k19}AFFORD
+Dialogue: 0,0:00:58.11,0:00:58.52,Default,,0,0,0,,\N{\k12}TO {\k28}SPEND.
+Dialogue: 0,0:00:59.03,0:00:59.85,Default,,0,0,0,,\N{\k35}I {\k20}ALSO {\k25}SHARED
+Dialogue: 0,0:00:59.85,0:01:00.53,Default,,0,0,0,,\N{\k16}THAT {\k33}EXTENDING {\k17}THE
+Dialogue: 0,0:01:00.53,0:01:01.24,Default,,0,0,0,,\N{\k7}TRIP {\k26}INTO {\k11}AN {\k24}EXTRA
+Dialogue: 0,0:01:01.24,0:01:01.88,Default,,0,0,0,,\N{\k15}WEEK {\k28}SIMPLY {\k20}WAS
+Dialogue: 0,0:01:01.88,0:01:02.56,Default,,0,0,0,,\N{\k11}NOT {\k39}POSSIBLE {\k16}FOR
+Dialogue: 0,0:01:02.56,0:01:03.28,Default,,0,0,0,,\N{\k11}ME {\k39}FINANCIALLY {\k20}OR
+Dialogue: 0,0:01:03.28,0:01:04.14,Default,,0,0,0,,\N{\k14}WITH {\k10}MY {\k61}RESPONSIBILITIES.
+Dialogue: 0,0:01:04.78,0:01:05.51,Default,,0,0,0,,\N{\k28}I {\k15}SAID {\k14}THAT {\k15}IF
+Dialogue: 0,0:01:05.51,0:01:06.26,Default,,0,0,0,,\N{\k7}THE {\k16}GROUP {\k25}REALLY {\k24}WANTED
+Dialogue: 0,0:01:06.26,0:01:06.93,Default,,0,0,0,,\N{\k15}TO {\k9}GO {\k16}AHEAD {\k13}WITH {\k12}THE
+Dialogue: 0,0:01:06.93,0:01:07.81,Default,,0,0,0,,\N{\k14}NEW {\k20}PLAN, {\k1}I {\k31}UNDERSTOOD,
+Dialogue: 0,0:01:08.14,0:01:08.76,Default,,0,0,0,,\N{\k12}BUT {\k9}I {\k12}WOULD {\k14}NEED {\k14}TO
+Dialogue: 0,0:01:08.76,0:01:09.14,Default,,0,0,0,,\N{\k14}STEP {\k23}BACK.
+Dialogue: 0,0:01:09.93,0:01:10.57,Default,,0,0,0,,\N{\k21}I {\k10}WAS {\k11}TOLD {\k20}THAT
+Dialogue: 0,0:01:10.57,0:01:11.26,Default,,0,0,0,,\N{\k23}OPTING {\k12}OUT {\k12}WOULD {\k20}RUIN
+Dialogue: 0,0:01:11.26,0:01:12.06,Default,,0,0,0,,\N{\k11}THE {\k24}IDEA {\k15}OF {\k28}TRAVELLING
+Dialogue: 0,0:01:12.06,0:01:12.76,Default,,0,0,0,,\N{\k20}AS {\k3}A {\k15}GROUP {\k30}BEFORE.
+Dialogue: 0,0:01:13.54,0:01:14.29,Default,,0,0,0,,\N{\k15}TO {\k7}BE {\k20}CLEAR, {\k6}THE
+Dialogue: 0,0:01:14.29,0:01:15.21,Default,,0,0,0,,\N{\k15}NEW {\k38}DESTINATION {\k37}DID
+Dialogue: 0,0:01:15.21,0:01:15.68,Default,,0,0,0,,\N{\k20}SOUND {\k26}GREAT.
+Dialogue: 0,0:01:16.45,0:01:17.14,Default,,0,0,0,,\N{\k26}IF {\k21}MONEY {\k20}AND
+Dialogue: 0,0:01:17.14,0:01:17.92,Default,,0,0,0,,\N{\k20}TIME {\k11}WERE {\k12}NOT {\k14}AN {\k20}ISSUE,
+Dialogue: 0,0:01:18.06,0:01:18.78,Default,,0,0,0,,\N{\k3}I {\k14}WOULD {\k7}HAVE {\k16}LOVED {\k17}TO {\k12}GO.
+Dialogue: 0,0:01:19.45,0:01:20.07,Default,,0,0,0,,\N{\k26}BUT {\k9}I {\k14}WAS {\k12}HONEST
+Dialogue: 0,0:01:20.07,0:01:20.84,Default,,0,0,0,,\N{\k21}ABOUT {\k18}MY {\k17}LIMITS {\k18}AND
+Dialogue: 0,0:01:20.84,0:01:21.65,Default,,0,0,0,,\N{\k11}DID {\k16}NOT {\k15}WANT {\k15}TO {\k21}STRETCH
+Dialogue: 0,0:01:21.65,0:01:22.28,Default,,0,0,0,,\N{\k28}MYSELF {\k34}BEYOND
+Dialogue: 0,0:01:22.28,0:01:23.00,Default,,0,0,0,,\N{\k17}WHAT {\k10}I {\k12}COULD {\k31}REASONABLY
+Dialogue: 0,0:01:23.00,0:01:23.54,Default,,0,0,0,,\N{\k54}MANAGE.
+Dialogue: 0,0:01:24.12,0:01:24.87,Default,,0,0,0,,\N{\k19}I {\k18}EVEN {\k18}SPOKE {\k19}TO
+Dialogue: 0,0:01:24.87,0:01:25.51,Default,,0,0,0,,\N{\k16}EACH {\k9}OF {\k9}THE {\k28}ORIGINAL
+Dialogue: 0,0:01:25.51,0:01:26.15,Default,,0,0,0,,\N{\k24}FRIENDS {\k39}PRIVATELY,
+Dialogue: 0,0:01:26.31,0:01:27.20,Default,,0,0,0,,\N{\k20}HOPING {\k20}WE {\k9}COULD {\k38}COMPROMISE
+Dialogue: 0,0:01:27.20,0:01:27.81,Default,,0,0,0,,\N{\k23}OR {\k24}REVISIT {\k13}THE
+Dialogue: 0,0:01:27.81,0:01:28.76,Default,,0,0,0,,\N{\k22}ORIGINAL {\k27}PLAN, {\k10}BUT
+Dialogue: 0,0:01:28.76,0:01:29.54,Default,,0,0,0,,\N{\k14}BY {\k15}THEN, {\k8}THE
+Dialogue: 0,0:01:29.54,0:01:30.20,Default,,0,0,0,,\N{\k25}DECISION {\k21}HAD {\k18}ALREADY
+Dialogue: 0,0:01:30.20,0:01:30.87,Default,,0,0,0,,\N{\k21}BEEN {\k17}MADE {\k28}WITHOUT
+Dialogue: 0,0:01:30.87,0:01:31.07,Default,,0,0,0,,\N{\k20}ME.
+Dialogue: 0,0:01:32.07,0:01:32.81,Default,,0,0,0,,\N{\k35}AFTER {\k20}WEEKS {\k17}OF
+Dialogue: 0,0:01:32.81,0:01:33.57,Default,,0,0,0,,\N{\k20}FEELING {\k35}UNHEARD, {\k3}I
+Dialogue: 0,0:01:33.57,0:01:34.26,Default,,0,0,0,,\N{\k26}FINALLY {\k17}SAID {\k12}I {\k12}WOULD
+Dialogue: 0,0:01:34.26,0:01:35.09,Default,,0,0,0,,\N{\k15}CANCEL {\k21}MY {\k45}PARTICIPATION
+Dialogue: 0,0:01:35.09,0:01:35.79,Default,,0,0,0,,\N{\k34}BECAUSE {\k20}I {\k15}COULD
+Dialogue: 0,0:01:35.79,0:01:36.48,Default,,0,0,0,,\N{\k14}NOT {\k21}AFFORD {\k18}THE {\k14}TRIP
+Dialogue: 0,0:01:36.48,0:01:37.09,Default,,0,0,0,,\N{\k17}AND {\k10}DID {\k17}NOT {\k15}WANT
+Dialogue: 0,0:01:37.09,0:01:37.76,Default,,0,0,0,,\N{\k14}TO {\k7}PUT {\k26}MYSELF {\k18}IN
+Dialogue: 0,0:01:37.76,0:01:38.40,Default,,0,0,0,,\N{\k31}FINANCIAL {\k32}STRESS.
+Dialogue: 0,0:01:39.15,0:01:39.78,Default,,0,0,0,,\N{\k32}THIS {\k9}WAS {\k20}ABOUT
+Dialogue: 0,0:01:39.78,0:01:40.43,Default,,0,0,0,,\N{\k15}TWO {\k12}WEEKS {\k25}BEFORE {\k12}THE
+Dialogue: 0,0:01:40.43,0:01:40.84,Default,,0,0,0,,\N{\k18}PLAN {\k21}DATE.
+Dialogue: 0,0:01:41.50,0:01:42.18,Default,,0,0,0,,\N{\k23}WITH {\k18}SUCH {\k26}SHORT
+Dialogue: 0,0:01:42.18,0:01:43.45,Default,,0,0,0,,\N{\k35}NOTICE, {\k27}FINDING
+Dialogue: 0,0:01:43.45,0:01:44.31,Default,,0,0,0,,\N{\k35}AFFORDABLE {\k50}ACCOMMODATIONS
+Dialogue: 0,0:01:44.31,0:01:44.92,Default,,0,0,0,,\N{\k30}FOR {\k7}THE {\k21}REMAINING
+Dialogue: 0,0:01:44.92,0:01:45.84,Default,,0,0,0,,\N{\k28}GROUP {\k21}BECAME {\k42}DIFFICULT.
+Dialogue: 0,0:01:46.85,0:01:47.54,Default,,0,0,0,,\N{\k40}EVENTUALLY, {\k6}THEY
+Dialogue: 0,0:01:47.54,0:01:48.15,Default,,0,0,0,,\N{\k35}DECIDED {\k25}NOT
+Dialogue: 0,0:01:48.15,0:01:49.12,Default,,0,0,0,,\N{\k15}TO {\k10}GO {\k12}AT {\k15}ALL, {\k18}SAYING
+Dialogue: 0,0:01:49.12,0:01:49.73,Default,,0,0,0,,\N{\k14}THERE {\k9}WAS {\k18}NO {\k19}POINT
+Dialogue: 0,0:01:49.73,0:01:50.56,Default,,0,0,0,,\N{\k18}IN {\k21}SETTLING {\k15}FOR {\k26}SOMETHING
+Dialogue: 0,0:01:50.56,0:01:51.21,Default,,0,0,0,,\N{\k29}SUPPER {\k14}WHEN {\k9}THE {\k12}TRIP
+Dialogue: 0,0:01:51.21,0:01:51.95,Default,,0,0,0,,\N{\k18}WAS {\k11}NO {\k28}LONGER {\k15}WITH
+Dialogue: 0,0:01:51.95,0:01:52.31,Default,,0,0,0,,\N{\k10}THEIR {\k25}PLAN.
+Dialogue: 0,0:01:53.12,0:01:53.84,Default,,0,0,0,,\N{\k35}NOW, {\k10}IT
+Dialogue: 0,0:01:53.84,0:01:54.62,Default,,0,0,0,,\N{\k21}FEELS {\k21}LIKE {\k15}THE {\k18}BLAME
+Dialogue: 0,0:01:54.62,0:01:55.35,Default,,0,0,0,,\N{\k14}HAS {\k25}QUIETLY {\k34}LANDED
+Dialogue: 0,0:01:55.35,0:01:55.70,Default,,0,0,0,,\N{\k18}ON {\k15}ME.
+Dialogue: 0,0:01:56.54,0:01:57.45,Default,,0,0,0,,\N{\k15}THE {\k14}TRIP {\k15}DID {\k12}NOT {\k33}HAPPEN,
+Dialogue: 0,0:01:57.71,0:01:58.35,Default,,0,0,0,,\N{\k6}AND {\k6}I {\k17}CANNOT {\k20}SHAKE {\k14}THE
+Dialogue: 0,0:01:58.35,0:01:59.18,Default,,0,0,0,,\N{\k18}FEELING {\k15}THAT {\k25}EVERYONE {\k22}SEES
+Dialogue: 0,0:01:59.18,0:01:59.87,Default,,0,0,0,,\N{\k15}ME {\k11}AS {\k10}THE {\k21}REASON {\k9}IT
+Dialogue: 0,0:01:59.87,0:02:00.29,Default,,0,0,0,,\N{\k16}FELL {\k25}APART.
+Dialogue: 0,0:02:01.06,0:02:01.93,Default,,0,0,0,,\N{\k28}AT {\k9}THE {\k20}SAME {\k29}TIME,
+Dialogue: 0,0:02:02.12,0:02:02.84,Default,,0,0,0,,\N{\k3}I {\k15}KNOW {\k14}I {\k14}WAS {\k24}HONEST
+Dialogue: 0,0:02:02.84,0:02:03.56,Default,,0,0,0,,\N{\k17}FROM {\k7}THE {\k21}BEGINNING {\k24}ABOUT
+Dialogue: 0,0:02:03.56,0:02:04.34,Default,,0,0,0,,\N{\k17}MY {\k28}BUDGET {\k14}AND {\k18}TRIED
+Dialogue: 0,0:02:04.34,0:02:05.15,Default,,0,0,0,,\N{\k14}TO {\k31}COMMUNICATE {\k35}CLEARLY
+Dialogue: 0,0:02:05.15,0:02:05.68,Default,,0,0,0,,\N{\k18}AND {\k34}RESPECTFULLY.
+Dialogue: 0,0:02:06.68,0:02:07.45,Default,,0,0,0,,\N{\k19}A {\k10}THIRD {\k25}GUILTY, {\k7}BUT
+Dialogue: 0,0:02:07.45,0:02:08.06,Default,,0,0,0,,\N{\k8}I {\k17}ALSO {\k18}FEEL {\k15}LIKE
+Dialogue: 0,0:02:08.06,0:02:08.84,Default,,0,0,0,,\N{\k12}I {\k12}WAS {\k9}PUT {\k13}IN {\k6}A {\k24}POSITION
+Dialogue: 0,0:02:08.84,0:02:09.63,Default,,0,0,0,,\N{\k19}WHERE {\k14}MY {\k18}ONLY {\k27}OPTIONS
+Dialogue: 0,0:02:09.63,0:02:10.30,Default,,0,0,0,,\N{\k16}WERE {\k9}TO {\k40}OVERSPEND
+Dialogue: 0,0:02:10.30,0:02:10.80,Default,,0,0,0,,\N{\k13}A {\k18}WALK {\k18}AWAY.
+Dialogue: 0,0:02:11.50,0:02:12.18,Default,,0,0,0,,\N{\k36}I {\k7}AM {\k24}STILL
+Dialogue: 0,0:02:12.18,0:02:12.80,Default,,0,0,0,,\N{\k29}UNSURE {\k32}WHETHER
+Dialogue: 0,0:02:12.80,0:02:13.50,Default,,0,0,0,,\N{\k33}STANDING {\k20}MY {\k15}GROUND
+Dialogue: 0,0:02:13.50,0:02:14.24,Default,,0,0,0,,\N{\k18}WAS {\k34}REASONABLE {\k21}OR
+Dialogue: 0,0:02:14.24,0:02:14.87,Default,,0,0,0,,\N{\k12}IF {\k7}I {\k19}TRULY {\k24}SPOILED
+Dialogue: 0,0:02:14.87,0:02:15.71,Default,,0,0,0,,\N{\k30}SOMETHING {\k19}FOR {\k34}EVERYONE
+Dialogue: 0,0:02:15.71,0:02:16.02,Default,,0,0,0,,\N{\k30}ELSE.

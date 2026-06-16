@@ -1,0 +1,141 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.41,0:00:05.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}I'M {\k27}A {\k27}THIRTY
+Dialogue: 0,0:00:05.23,0:00:05.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SEVEN-YEAR-OLD {\k17}MAN {\k20}AND
+Dialogue: 0,0:00:05.87,0:00:06.63,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HAVE {\k13}BEEN {\k12}WITH {\k13}MY {\k25}PARTNER
+Dialogue: 0,0:00:06.63,0:00:07.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}35 {\k21}FOR
+Dialogue: 0,0:00:07.33,0:00:07.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}A {\k12}WHILE {\k20}NOW.
+Dialogue: 0,0:00:08.50,0:00:09.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}OVERALL, {\k12}THINGS
+Dialogue: 0,0:00:09.16,0:00:09.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}ARE {\k12}GOOD {\k23}BETWEEN {\k26}US,
+Dialogue: 0,0:00:10.01,0:00:10.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}BUT {\k16}THERE'S {\k11}ONE {\k22}ISSUE {\k14}THAT
+Dialogue: 0,0:00:10.72,0:00:11.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}KEEPS {\k32}COMING {\k17}UP
+Dialogue: 0,0:00:11.35,0:00:12.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AND {\k9}IS {\k20}STARTING {\k19}TO
+Dialogue: 0,0:00:12.00,0:00:12.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AFFECT {\k25}BIGGER {\k17}PARTS {\k14}OF
+Dialogue: 0,0:00:12.72,0:00:13.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}MY {\k24}LIFE, {\k6}HER {\k33}EXTREMELY
+Dialogue: 0,0:00:13.58,0:00:14.22,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}LIMITED {\k28}DIET.
+Dialogue: 0,0:00:14.85,0:00:15.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SHE
+Dialogue: 0,0:00:15.06,0:00:15.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}DOESN'T {\k12}EAT {\k27}VEGETABLES
+Dialogue: 0,0:00:15.75,0:00:16.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}AT {\k19}ALL,
+Dialogue: 0,0:00:16.83,0:00:17.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}AND {\k25}EATING {\k12}IN {\k23}GENERAL
+Dialogue: 0,0:00:17.57,0:00:18.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}CAN {\k12}BE {\k6}A {\k19}CHALLENGE {\k21}FOR
+Dialogue: 0,0:00:18.33,0:00:18.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HER.
+Dialogue: 0,0:00:19.12,0:00:19.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FOR
+Dialogue: 0,0:00:19.33,0:00:19.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}EXAMPLE,
+Dialogue: 0,0:00:20.01,0:00:20.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}IF {\k13}SHE {\k16}ORDERS {\k28}SOMETHING
+Dialogue: 0,0:00:20.67,0:00:21.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}LIKE {\k16}A {\k19}BURGER,
+Dialogue: 0,0:00:21.44,0:00:22.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}IT {\k5}HAS {\k12}TO {\k7}BE {\k33}COMPLETELY
+Dialogue: 0,0:00:22.07,0:00:22.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}PLAIN,
+Dialogue: 0,0:00:22.69,0:00:23.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}JUST {\k14}THE {\k14}MEAT {\k11}AND {\k14}CHEESE.
+Dialogue: 0,0:00:24.12,0:00:24.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}SHE
+Dialogue: 0,0:00:24.35,0:00:25.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WON'T {\k19}PICK {\k16}OFF {\k28}TOPPINGS
+Dialogue: 0,0:00:25.10,0:00:25.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}LIKE {\k23}LETTUCE {\k16}OR {\k24}TOMATO
+Dialogue: 0,0:00:26.51,0:00:27.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THEY {\k24}SIMPLY {\k27}CAN'T
+Dialogue: 0,0:00:27.23,0:00:28.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}BE {\k12}THERE {\k7}IN {\k5}THE {\k18}FIRST {\k31}PLACE.
+Dialogue: 0,0:00:28.72,0:00:28.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WHEN
+Dialogue: 0,0:00:28.94,0:00:29.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT {\k16}COMES {\k17}TO {\k14}OTHER {\k28}FOODS,
+Dialogue: 0,0:00:30.01,0:00:30.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}SHE {\k20}STICKS {\k16}TO {\k13}VERY {\k38}SPECIFIC
+Dialogue: 0,0:00:30.96,0:00:31.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k50}VERSIONS,
+Dialogue: 0,0:00:31.69,0:00:32.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}LIKE {\k21}ONLY {\k20}EATING
+Dialogue: 0,0:00:32.34,0:00:33.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}TACOS {\k24}FROM {\k23}CERTAIN
+Dialogue: 0,0:00:33.11,0:00:33.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k44}FAST-FOOD {\k29}PLACES
+Dialogue: 0,0:00:33.85,0:00:34.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}INSTEAD {\k21}OF
+Dialogue: 0,0:00:34.47,0:00:35.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MORE {\k32}TRADITIONAL {\k42}ONES.
+Dialogue: 0,0:00:36.11,0:00:36.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}BECAUSE
+Dialogue: 0,0:00:36.38,0:00:37.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k17}THIS, {\k7}GOING {\k14}TO
+Dialogue: 0,0:00:37.06,0:00:37.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}EAT {\k28}TOGETHER {\k16}CAN
+Dialogue: 0,0:00:37.74,0:00:38.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}BE {\k34}DIFFICULT.
+Dialogue: 0,0:00:38.92,0:00:39.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}I'VE
+Dialogue: 0,0:00:39.24,0:00:39.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}NOTICED {\k21}THAT {\k10}I {\k21}OFTEN
+Dialogue: 0,0:00:39.97,0:00:40.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}END {\k7}UP {\k35}CHOOSING
+Dialogue: 0,0:00:40.61,0:00:41.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}RESTAURANTS {\k34}BASED
+Dialogue: 0,0:00:41.24,0:00:41.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ON {\k20}WHETHER {\k20}THERE'S
+Dialogue: 0,0:00:41.84,0:00:42.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SOMETHING {\k12}SHE'LL {\k13}EAT, {\k38}RATHER
+Dialogue: 0,0:00:42.70,0:00:43.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THAN {\k11}WHAT {\k10}WE {\k19}BOTH {\k14}MIGHT
+Dialogue: 0,0:00:43.43,0:00:43.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}ENJOY.
+Dialogue: 0,0:00:44.52,0:00:44.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}OVER
+Dialogue: 0,0:00:44.78,0:00:45.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}TIME,
+Dialogue: 0,0:00:45.46,0:00:46.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THIS {\k14}HAS {\k21}GOTTEN {\k32}FRUSTRATING
+Dialogue: 0,0:00:46.21,0:00:47.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}FOR {\k11}ME, {\k35}ESPECIALLY
+Dialogue: 0,0:00:47.11,0:00:47.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}BECAUSE {\k21}TRYING {\k20}NEW
+Dialogue: 0,0:00:47.82,0:00:48.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}FOOD {\k15}AND {\k32}EXPLORING
+Dialogue: 0,0:00:48.47,0:00:49.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}DIFFERENT {\k35}CUISINES
+Dialogue: 0,0:00:49.14,0:00:49.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IS {\k25}SOMETHING {\k15}I {\k20}REALLY
+Dialogue: 0,0:00:49.85,0:00:50.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}VALUE.
+Dialogue: 0,0:00:50.74,0:00:51.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}WE'VE
+Dialogue: 0,0:00:51.06,0:00:51.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TRIED {\k14}TO {\k27}COMPROMISE {\k20}A
+Dialogue: 0,0:00:51.82,0:00:51.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}BIT.
+Dialogue: 0,0:00:52.60,0:00:52.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}RIGHT
+Dialogue: 0,0:00:52.85,0:00:53.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}NOW, {\k11}I
+Dialogue: 0,0:00:53.53,0:00:54.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}GO {\k17}OUT {\k11}TO {\k8}EAT {\k11}BY
+Dialogue: 0,0:00:54.14,0:00:54.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}MYSELF {\k29}ABOUT {\k20}ONCE
+Dialogue: 0,0:00:54.92,0:00:55.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}A {\k7}MONTH {\k19}SO {\k8}I {\k7}CAN {\k19}ENJOY
+Dialogue: 0,0:00:55.65,0:00:56.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WHATEVER {\k26}I {\k15}WANT
+Dialogue: 0,0:00:56.35,0:00:57.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WITHOUT {\k28}WORRYING {\k24}ABOUT
+Dialogue: 0,0:00:57.10,0:00:57.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WHETHER {\k17}SHE'LL {\k10}BE {\k17}ABLE
+Dialogue: 0,0:00:57.78,0:00:58.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k11}EAT {\k32}ANYTHING {\k21}THERE.
+Dialogue: 0,0:00:59.28,0:00:59.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IT
+Dialogue: 0,0:00:59.50,0:01:00.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HELPS {\k15}A {\k14}LITTLE,
+Dialogue: 0,0:01:00.32,0:01:01.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}BUT {\k10}IT {\k27}DOESN'T {\k20}FULLY
+Dialogue: 0,0:01:01.00,0:01:01.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SOLVE {\k17}THE {\k20}ISSUE.
+Dialogue: 0,0:01:02.30,0:01:02.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}RECENTLY,
+Dialogue: 0,0:01:03.02,0:01:03.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I'VE {\k7}HAD {\k39}OPPORTUNITIES {\k30}TO
+Dialogue: 0,0:01:03.92,0:01:04.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TRAVEL {\k23}MORE,
+Dialogue: 0,0:01:04.62,0:01:05.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}AND {\k17}THAT'S {\k9}WHERE {\k14}THIS {\k32}CONCERN
+Dialogue: 0,0:01:05.42,0:01:06.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IS {\k19}REALLY {\k26}COMING
+Dialogue: 0,0:01:06.07,0:01:06.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k6}A {\k20}HEAD.
+Dialogue: 0,0:01:07.21,0:01:07.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}FOR
+Dialogue: 0,0:01:07.35,0:01:08.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}ME, {\k20}TRAVELING
+Dialogue: 0,0:01:08.00,0:01:08.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IS {\k25}HEAVILY {\k22}TIED
+Dialogue: 0,0:01:08.68,0:01:09.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}TO {\k43}EXPERIENCING {\k26}NEW
+Dialogue: 0,0:01:09.50,0:01:10.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}FOOD {\k17}AND {\k28}CULTURES.
+Dialogue: 0,0:01:10.84,0:01:11.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}BUT
+Dialogue: 0,0:01:11.01,0:01:11.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WHEN {\k12}I {\k25}IMAGINE {\k34}TRAVELING
+Dialogue: 0,0:01:11.85,0:01:12.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WITH {\k14}HER, {\k5}I {\k16}WORRY
+Dialogue: 0,0:01:12.62,0:01:13.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THAT {\k23}EVERY {\k18}MEAL {\k11}WILL
+Dialogue: 0,0:01:13.31,0:01:14.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TURN {\k21}INTO {\k15}A {\k21}STRESSFUL
+Dialogue: 0,0:01:14.07,0:01:14.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}SITUATION,
+Dialogue: 0,0:01:14.93,0:01:15.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}TRYING {\k14}TO {\k17}FIND {\k29}SOMETHING
+Dialogue: 0,0:01:15.73,0:01:16.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SHE {\k15}CAN {\k18}EAT,
+Dialogue: 0,0:01:16.51,0:01:17.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}LIMITING {\k34}WHERE {\k14}WE {\k15}GO,
+Dialogue: 0,0:01:17.50,0:01:18.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k4}OR {\k15}DEALING {\k20}WITH {\k23}TENSION
+Dialogue: 0,0:01:18.14,0:01:18.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IF {\k12}THERE {\k14}AREN'T {\k21}FAMILIAR
+Dialogue: 0,0:01:18.84,0:01:19.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}OPTIONS {\k47}AVAILABLE.
+Dialogue: 0,0:01:20.29,0:01:20.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}AT
+Dialogue: 0,0:01:20.57,0:01:21.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THIS {\k21}POINT, {\k10}I'M
+Dialogue: 0,0:01:21.18,0:01:21.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HONESTLY {\k45}CONSIDERING
+Dialogue: 0,0:01:21.95,0:01:22.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}TRAVELING {\k15}ON {\k12}MY
+Dialogue: 0,0:01:22.57,0:01:23.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}OWN {\k23}INSTEAD {\k14}OF {\k23}BRINGING
+Dialogue: 0,0:01:23.29,0:01:23.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}HER {\k17}ALONG.
+Dialogue: 0,0:01:24.21,0:01:24.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}I
+Dialogue: 0,0:01:24.57,0:01:25.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FEEL {\k34}GUILTY {\k15}ABOUT
+Dialogue: 0,0:01:25.29,0:01:25.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IT {\k18}BECAUSE {\k15}I {\k14}DON'T
+Dialogue: 0,0:01:25.92,0:01:26.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WANT {\k9}TO {\k26}EXCLUDE {\k15}HER,
+Dialogue: 0,0:01:26.73,0:01:27.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}BUT {\k12}I {\k18}ALSO {\k19}FEEL {\k18}LIKE
+Dialogue: 0,0:01:27.50,0:01:28.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I'D {\k7}BE {\k29}CONSTANTLY {\k54}COMPROMISING
+Dialogue: 0,0:01:28.64,0:01:29.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}SOMETHING {\k23}THAT'S {\k28}IMPORTANT
+Dialogue: 0,0:01:29.50,0:01:29.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}TO {\k11}ME.
+Dialogue: 0,0:01:30.57,0:01:30.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I
+Dialogue: 0,0:01:30.73,0:01:31.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}DON'T {\k10}THINK {\k21}SHE'S {\k15}DOING
+Dialogue: 0,0:01:31.42,0:01:31.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THIS {\k12}ON {\k21}PURPOSE,
+Dialogue: 0,0:01:32.35,0:01:32.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AND {\k10}I {\k15}KNOW {\k26}EVERYONE
+Dialogue: 0,0:01:32.98,0:01:33.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HAS {\k12}THEIR {\k15}OWN {\k31}PREFERENCES
+Dialogue: 0,0:01:33.73,0:01:34.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}AND {\k26}COMFORT {\k35}ZONES.
+Dialogue: 0,0:01:35.28,0:01:35.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}BUT
+Dialogue: 0,0:01:35.45,0:01:36.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IT'S {\k14}GETTING {\k20}TO {\k9}A
+Dialogue: 0,0:01:36.07,0:01:36.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}POINT {\k21}WHERE {\k12}I {\k15}FEEL
+Dialogue: 0,0:01:36.73,0:01:37.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}RESTRICTED {\k26}AND
+Dialogue: 0,0:01:37.34,0:01:37.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}FRUSTRATED.
+Dialogue: 0,0:01:38.48,0:01:38.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AM
+Dialogue: 0,0:01:38.65,0:01:39.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k21}BEING {\k42}UNREASONABLE
+Dialogue: 0,0:01:39.37,0:01:40.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}FOR {\k21}WANTING {\k17}TO
+Dialogue: 0,0:01:40.01,0:01:40.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TRAVEL {\k23}WITHOUT {\k18}HER
+Dialogue: 0,0:01:40.70,0:01:41.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}BECAUSE {\k14}OF {\k14}THIS?

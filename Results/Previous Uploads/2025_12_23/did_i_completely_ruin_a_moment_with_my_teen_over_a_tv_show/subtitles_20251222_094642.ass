@@ -1,0 +1,108 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.52,0:00:04.09,Default,,0,0,0,,{\an5}I WAS
+Dialogue: 0,0:00:04.09,0:00:04.71,Default,,0,0,0,,{\an5}RELAXING IN
+Dialogue: 0,0:00:04.71,0:00:05.32,Default,,0,0,0,,{\an5}THE LIVING ROOM ONE
+Dialogue: 0,0:00:05.32,0:00:06.28,Default,,0,0,0,,{\an5}EVENING, WATCHING
+Dialogue: 0,0:00:06.28,0:00:07.29,Default,,0,0,0,,{\an5}A SERIES, WHEN
+Dialogue: 0,0:00:07.29,0:00:08.19,Default,,0,0,0,,{\an5}MY 15-YEAR-OLD
+Dialogue: 0,0:00:08.19,0:00:09.03,Default,,0,0,0,,{\an5}NIECE, WHO
+Dialogue: 0,0:00:09.03,0:00:09.64,Default,,0,0,0,,{\an5}LIVES WITH ME,
+Dialogue: 0,0:00:09.80,0:00:10.38,Default,,0,0,0,,{\an5}CAME IN AND
+Dialogue: 0,0:00:10.38,0:00:10.98,Default,,0,0,0,,{\an5}ASKED WHAT I WAS
+Dialogue: 0,0:00:10.98,0:00:11.30,Default,,0,0,0,,{\an5}WATCHING.
+Dialogue: 0,0:00:11.48,0:00:12.17,Default,,0,0,0,,{\an5}SHE IMMEDIATELY
+Dialogue: 0,0:00:12.17,0:00:12.80,Default,,0,0,0,,{\an5}LIT UP AND
+Dialogue: 0,0:00:12.80,0:00:13.32,Default,,0,0,0,,{\an5}TOLD ME SHE
+Dialogue: 0,0:00:13.32,0:00:13.82,Default,,0,0,0,,{\an5}HAD A SHOW I
+Dialogue: 0,0:00:13.82,0:00:15.16,Default,,0,0,0,,{\an5}HAD TO SEE, SAYING
+Dialogue: 0,0:00:15.16,0:00:15.90,Default,,0,0,0,,{\an5}THE OPENING SCENES
+Dialogue: 0,0:00:15.90,0:00:16.44,Default,,0,0,0,,{\an5}WERE SOME OF
+Dialogue: 0,0:00:16.44,0:00:17.05,Default,,0,0,0,,{\an5}THE BEST TELEVISION
+Dialogue: 0,0:00:17.05,0:00:17.67,Default,,0,0,0,,{\an5}EVER MADE.
+Dialogue: 0,0:00:17.94,0:00:18.57,Default,,0,0,0,,{\an5}I AGREED
+Dialogue: 0,0:00:18.57,0:00:19.07,Default,,0,0,0,,{\an5}TO GIVE IT A
+Dialogue: 0,0:00:19.07,0:00:19.71,Default,,0,0,0,,{\an5}TRY AND STARTED
+Dialogue: 0,0:00:19.71,0:00:20.33,Default,,0,0,0,,{\an5}QUEUING IT UP.
+Dialogue: 0,0:00:20.57,0:00:21.23,Default,,0,0,0,,{\an5}AND WHILE
+Dialogue: 0,0:00:21.23,0:00:22.10,Default,,0,0,0,,{\an5}IT PLAYED, SHE
+Dialogue: 0,0:00:22.10,0:00:22.82,Default,,0,0,0,,{\an5}STAYED RIGHT THERE,
+Dialogue: 0,0:00:22.98,0:00:23.66,Default,,0,0,0,,{\an5}EXCITEDLY
+Dialogue: 0,0:00:23.66,0:00:24.35,Default,,0,0,0,,{\an5}TALKING THROUGH EVERY
+Dialogue: 0,0:00:24.35,0:00:25.28,Default,,0,0,0,,{\an5}MOMENT, POINTING
+Dialogue: 0,0:00:25.28,0:00:25.82,Default,,0,0,0,,{\an5}OUT DETAILS,
+Dialogue: 0,0:00:26.16,0:00:26.66,Default,,0,0,0,,{\an5}EXPLAINING
+Dialogue: 0,0:00:26.66,0:00:27.23,Default,,0,0,0,,{\an5}CHARACTERS,
+Dialogue: 0,0:00:27.53,0:00:28.10,Default,,0,0,0,,{\an5}AND TELLING
+Dialogue: 0,0:00:28.10,0:00:28.82,Default,,0,0,0,,{\an5}ME WHY EACH SCENE
+Dialogue: 0,0:00:28.82,0:00:29.14,Default,,0,0,0,,{\an5}MATTERED.
+Dialogue: 0,0:00:29.14,0:00:29.64,Default,,0,0,0,,{\an5}BY
+Dialogue: 0,0:00:29.64,0:00:30.19,Default,,0,0,0,,{\an5}THE TIME WE
+Dialogue: 0,0:00:30.19,0:00:30.89,Default,,0,0,0,,{\an5}FINISHED THE OPENING
+Dialogue: 0,0:00:30.89,0:00:31.46,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:31.46,0:00:31.96,Default,,0,0,0,,{\an5}ASKED ME TO
+Dialogue: 0,0:00:31.96,0:00:32.61,Default,,0,0,0,,{\an5}PAUSE IT AND WANTED
+Dialogue: 0,0:00:32.61,0:00:33.29,Default,,0,0,0,,{\an5}TO KNOW WHAT I THOUGHT
+Dialogue: 0,0:00:33.29,0:00:34.00,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:34.00,0:00:34.71,Default,,0,0,0,,{\an5}HESITATED AND
+Dialogue: 0,0:00:34.71,0:00:35.21,Default,,0,0,0,,{\an5}SAID I DIDN'T
+Dialogue: 0,0:00:35.21,0:00:35.71,Default,,0,0,0,,{\an5}REALLY HAVE ANY
+Dialogue: 0,0:00:35.71,0:00:36.35,Default,,0,0,0,,{\an5}ORIGINAL THOUGHTS
+Dialogue: 0,0:00:36.35,0:00:37.32,Default,,0,0,0,,{\an5}YET BECAUSE
+Dialogue: 0,0:00:37.32,0:00:37.82,Default,,0,0,0,,{\an5}I HADN'T
+Dialogue: 0,0:00:37.82,0:00:38.46,Default,,0,0,0,,{\an5}HAD A CHANCE TO
+Dialogue: 0,0:00:38.46,0:00:39.03,Default,,0,0,0,,{\an5}JUST WATCH AND
+Dialogue: 0,0:00:39.03,0:00:39.57,Default,,0,0,0,,{\an5}PROCESS IT ON
+Dialogue: 0,0:00:39.57,0:00:40.64,Default,,0,0,0,,{\an5}MY OWN I
+Dialogue: 0,0:00:40.64,0:00:41.21,Default,,0,0,0,,{\an5}EXPLAINED THAT
+Dialogue: 0,0:00:41.21,0:00:41.84,Default,,0,0,0,,{\an5}HEARING EVERYTHING
+Dialogue: 0,0:00:41.84,0:00:42.60,Default,,0,0,0,,{\an5}IN ADVANCE MADE
+Dialogue: 0,0:00:42.60,0:00:43.17,Default,,0,0,0,,{\an5}IT HARD FOR ME
+Dialogue: 0,0:00:43.17,0:00:43.74,Default,,0,0,0,,{\an5}TO FORM MY OWN
+Dialogue: 0,0:00:43.74,0:00:44.97,Default,,0,0,0,,{\an5}REACTION SHE
+Dialogue: 0,0:00:44.97,0:00:45.60,Default,,0,0,0,,{\an5}IMMEDIATELY GOT
+Dialogue: 0,0:00:45.60,0:00:46.43,Default,,0,0,0,,{\an5}UPSET STOOD
+Dialogue: 0,0:00:46.43,0:00:47.02,Default,,0,0,0,,{\an5}UP AND
+Dialogue: 0,0:00:47.02,0:00:47.60,Default,,0,0,0,,{\an5}WALKED DOWN THE
+Dialogue: 0,0:00:47.60,0:00:48.15,Default,,0,0,0,,{\an5}HALLWAY SAYING
+Dialogue: 0,0:00:48.15,0:00:48.70,Default,,0,0,0,,{\an5}I COULD HAVE AT
+Dialogue: 0,0:00:48.70,0:00:49.42,Default,,0,0,0,,{\an5}LEAST PRETENDED TO
+Dialogue: 0,0:00:49.42,0:00:50.46,Default,,0,0,0,,{\an5}CARE I
+Dialogue: 0,0:00:50.46,0:00:51.00,Default,,0,0,0,,{\an5}TOLD HER THAT
+Dialogue: 0,0:00:51.00,0:00:51.74,Default,,0,0,0,,{\an5}I GENUINELY WANTED
+Dialogue: 0,0:00:51.74,0:00:52.32,Default,,0,0,0,,{\an5}TO CARE AND
+Dialogue: 0,0:00:52.32,0:00:52.97,Default,,0,0,0,,{\an5}THAT I PROBABLY WOULD
+Dialogue: 0,0:00:52.97,0:00:53.52,Default,,0,0,0,,{\an5}HAVE ENJOYED IT
+Dialogue: 0,0:00:53.52,0:00:54.07,Default,,0,0,0,,{\an5}EVEN MORE IF
+Dialogue: 0,0:00:54.07,0:00:54.79,Default,,0,0,0,,{\an5}I'D
+Dialogue: 0,0:00:54.79,0:00:55.52,Default,,0,0,0,,{\an5}BEEN ABLE TO EXPERIENCE
+Dialogue: 0,0:00:55.52,0:00:56.06,Default,,0,0,0,,{\an5}IT QUIETLY
+Dialogue: 0,0:00:56.06,0:00:56.65,Default,,0,0,0,,{\an5}QUIETLY FIRST SHE
+Dialogue: 0,0:00:56.65,0:00:57.34,Default,,0,0,0,,{\an5}SHUT HERSELF IN
+Dialogue: 0,0:00:57.34,0:00:57.84,Default,,0,0,0,,{\an5}HER ROOM AFTER
+Dialogue: 0,0:00:57.84,0:00:58.06,Default,,0,0,0,,{\an5}THAT.
+Dialogue: 0,0:00:58.29,0:00:58.88,Default,,0,0,0,,{\an5}AND THE
+Dialogue: 0,0:00:58.88,0:00:59.53,Default,,0,0,0,,{\an5}WHOLE HOUSE FELT
+Dialogue: 0,0:00:59.53,0:00:59.84,Default,,0,0,0,,{\an5}TENSE.
+Dialogue: 0,0:01:00.10,0:01:00.79,Default,,0,0,0,,{\an5}I WASN'T
+Dialogue: 0,0:01:00.79,0:01:01.35,Default,,0,0,0,,{\an5}TRYING TO DISMISS
+Dialogue: 0,0:01:01.35,0:01:01.85,Default,,0,0,0,,{\an5}HER OR HER
+Dialogue: 0,0:01:01.85,0:01:02.20,Default,,0,0,0,,{\an5}INTERESTS.
+Dialogue: 0,0:01:02.43,0:01:03.02,Default,,0,0,0,,{\an5}BUT NOW
+Dialogue: 0,0:01:03.02,0:01:03.67,Default,,0,0,0,,{\an5}I'M WONDERING IF
+Dialogue: 0,0:01:03.67,0:01:04.18,Default,,0,0,0,,{\an5}I HANDLED THE
+Dialogue: 0,0:01:04.18,0:01:04.71,Default,,0,0,0,,{\an5}MOMENT BADLY
+Dialogue: 0,0:01:04.71,0:01:05.21,Default,,0,0,0,,{\an5}AND HURT HER
+Dialogue: 0,0:01:05.21,0:01:05.76,Default,,0,0,0,,{\an5}FEELINGS MORE
+Dialogue: 0,0:01:05.76,0:01:06.29,Default,,0,0,0,,{\an5}THAN I REALIZED.

@@ -1,0 +1,201 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.89,0:00:04.62,Default,,0,0,0,,{\an5}I'M A WOMAN
+Dialogue: 0,0:00:04.62,0:00:05.62,Default,,0,0,0,,{\an5}IN MY LATE 20S,
+Dialogue: 0,0:00:05.62,0:00:06.16,Default,,0,0,0,,{\an5}AND I'M
+Dialogue: 0,0:00:06.16,0:00:06.75,Default,,0,0,0,,{\an5}PLANNING A GAME
+Dialogue: 0,0:00:06.75,0:00:07.41,Default,,0,0,0,,{\an5}NIGHT AT MY PLACE
+Dialogue: 0,0:00:07.41,0:00:08.01,Default,,0,0,0,,{\an5}THAT'S SUPPOSED TO
+Dialogue: 0,0:00:08.01,0:00:08.51,Default,,0,0,0,,{\an5}FEEL RELAXED,
+Dialogue: 0,0:00:09.03,0:00:09.93,Default,,0,0,0,,{\an5}FUN, AND
+Dialogue: 0,0:00:09.93,0:00:10.67,Default,,0,0,0,,{\an5}SOCIAL, THE
+Dialogue: 0,0:00:10.67,0:00:11.32,Default,,0,0,0,,{\an5}KIND WHERE PEOPLE
+Dialogue: 0,0:00:11.32,0:00:11.92,Default,,0,0,0,,{\an5}ACTUALLY GET
+Dialogue: 0,0:00:11.92,0:00:12.92,Default,,0,0,0,,{\an5}TO LAUGH, PLAY,
+Dialogue: 0,0:00:13.11,0:00:13.72,Default,,0,0,0,,{\an5}AND FINISH
+Dialogue: 0,0:00:13.72,0:00:14.69,Default,,0,0,0,,{\an5}A SENTENCE. I
+Dialogue: 0,0:00:14.69,0:00:15.38,Default,,0,0,0,,{\an5}DESPERATELY WANT
+Dialogue: 0,0:00:15.38,0:00:15.98,Default,,0,0,0,,{\an5}MY OLDER BROTHER
+Dialogue: 0,0:00:15.98,0:00:16.21,Default,,0,0,0,,{\an5}THERE.
+Dialogue: 0,0:00:16.37,0:00:17.05,Default,,0,0,0,,{\an5}HE'S SOMEONE
+Dialogue: 0,0:00:17.05,0:00:17.62,Default,,0,0,0,,{\an5}I LOVE AND
+Dialogue: 0,0:00:17.62,0:00:17.82,Default,,0,0,0,,{\an5}MISS.
+Dialogue: 0,0:00:18.03,0:00:18.67,Default,,0,0,0,,{\an5}EVEN THOUGH
+Dialogue: 0,0:00:18.67,0:00:19.33,Default,,0,0,0,,{\an5}WE LIVE IN THE SAME
+Dialogue: 0,0:00:19.33,0:00:20.14,Default,,0,0,0,,{\an5}CITY, THE
+Dialogue: 0,0:00:20.14,0:00:20.73,Default,,0,0,0,,{\an5}PROBLEM'S HIS
+Dialogue: 0,0:00:20.73,0:00:21.01,Default,,0,0,0,,{\an5}WIFE.
+Dialogue: 0,0:00:21.21,0:00:21.85,Default,,0,0,0,,{\an5}SHE ISN'T
+Dialogue: 0,0:00:21.85,0:00:22.46,Default,,0,0,0,,{\an5}OPENLY MEAN
+Dialogue: 0,0:00:22.46,0:00:23.42,Default,,0,0,0,,{\an5}OR CRUEL, BUT
+Dialogue: 0,0:00:23.42,0:00:24.05,Default,,0,0,0,,{\an5}ONCE SHE ENTERS
+Dialogue: 0,0:00:24.05,0:00:24.92,Default,,0,0,0,,{\an5}A ROOM, THE
+Dialogue: 0,0:00:24.92,0:00:25.55,Default,,0,0,0,,{\an5}AIR SHIFTS. SHIFTS.
+Dialogue: 0,0:00:25.67,0:00:26.30,Default,,0,0,0,,{\an5}SHE SPEAKS
+Dialogue: 0,0:00:26.30,0:00:27.46,Default,,0,0,0,,{\an5}LOUDLY, CONSTANTLY,
+Dialogue: 0,0:00:27.76,0:00:28.26,Default,,0,0,0,,{\an5}AND WITHOUT
+Dialogue: 0,0:00:28.26,0:00:29.19,Default,,0,0,0,,{\an5}PAUSE, AS
+Dialogue: 0,0:00:29.19,0:00:29.96,Default,,0,0,0,,{\an5}IF SILENCE ITSELF
+Dialogue: 0,0:00:29.96,0:00:30.66,Default,,0,0,0,,{\an5}IS SOMETHING SHE
+Dialogue: 0,0:00:30.66,0:00:31.21,Default,,0,0,0,,{\an5}HAS TO DEFEAT.
+Dialogue: 0,0:00:31.83,0:00:32.53,Default,,0,0,0,,{\an5}CONVERSATIONS DON'T
+Dialogue: 0,0:00:32.53,0:00:33.17,Default,,0,0,0,,{\an5}HAPPEN AROUND HER.
+Dialogue: 0,0:00:33.34,0:00:33.84,Default,,0,0,0,,{\an5}IT GETS
+Dialogue: 0,0:00:33.84,0:00:34.15,Default,,0,0,0,,{\an5}SWALLOWED.
+Dialogue: 0,0:00:34.46,0:00:34.97,Default,,0,0,0,,{\an5}IT DOESN'T
+Dialogue: 0,0:00:34.97,0:00:35.50,Default,,0,0,0,,{\an5}MATTER IF WE'RE
+Dialogue: 0,0:00:35.50,0:00:36.15,Default,,0,0,0,,{\an5}AT A FAMILY DINNER,
+Dialogue: 0,0:00:36.38,0:00:37.03,Default,,0,0,0,,{\an5}A HOLIDAY
+Dialogue: 0,0:00:37.03,0:00:37.89,Default,,0,0,0,,{\an5}GATHERING, OR
+Dialogue: 0,0:00:37.89,0:00:38.82,Default,,0,0,0,,{\an5}A CASUAL HANGOUT.
+Dialogue: 0,0:00:38.92,0:00:39.65,Default,,0,0,0,,{\an5}IF SOMEONE STARTS
+Dialogue: 0,0:00:39.65,0:00:40.60,Default,,0,0,0,,{\an5}TALKING, SHE
+Dialogue: 0,0:00:40.60,0:00:41.17,Default,,0,0,0,,{\an5}INTERRUPTS BEFORE
+Dialogue: 0,0:00:41.17,0:00:41.88,Default,,0,0,0,,{\an5}THEY FINISH THE
+Dialogue: 0,0:00:41.88,0:00:42.97,Default,,0,0,0,,{\an5}THOUGHT, REDIRECTS
+Dialogue: 0,0:00:42.97,0:00:44.02,Default,,0,0,0,,{\an5}IT TO HERSELF, AND
+Dialogue: 0,0:00:44.02,0:00:44.61,Default,,0,0,0,,{\an5}BARRELS FORWARD
+Dialogue: 0,0:00:44.61,0:00:45.29,Default,,0,0,0,,{\an5}WITH ANOTHER LONG
+Dialogue: 0,0:00:45.29,0:00:45.92,Default,,0,0,0,,{\an5}STORY THAT
+Dialogue: 0,0:00:45.92,0:00:46.46,Default,,0,0,0,,{\an5}SOMEHOW LOOPS
+Dialogue: 0,0:00:46.46,0:00:47.20,Default,,0,0,0,,{\an5}BACK TO HER LIFE.
+Dialogue: 0,0:00:47.78,0:00:48.35,Default,,0,0,0,,{\an5}HER FEELINGS,
+Dialogue: 0,0:00:48.60,0:00:49.28,Default,,0,0,0,,{\an5}HER OPINIONS,
+Dialogue: 0,0:00:49.57,0:00:50.42,Default,,0,0,0,,{\an5}ASKING QUESTIONS
+Dialogue: 0,0:00:50.42,0:00:51.00,Default,,0,0,0,,{\an5}ISN'T REALLY
+Dialogue: 0,0:00:51.00,0:00:52.03,Default,,0,0,0,,{\an5}HER THING, UNLESS
+Dialogue: 0,0:00:52.03,0:00:52.60,Default,,0,0,0,,{\an5}IT'S JUST A
+Dialogue: 0,0:00:52.60,0:00:53.17,Default,,0,0,0,,{\an5}SET UP TO TALK
+Dialogue: 0,0:00:53.17,0:00:53.39,Default,,0,0,0,,{\an5}MORE.
+Dialogue: 0,0:00:53.39,0:00:53.92,Default,,0,0,0,,{\an5}IF
+Dialogue: 0,0:00:53.92,0:00:54.43,Default,,0,0,0,,{\an5}I WANT TO HAVE
+Dialogue: 0,0:00:54.43,0:00:55.29,Default,,0,0,0,,{\an5}AN ACTUAL CONVERSATION
+Dialogue: 0,0:00:55.29,0:00:56.03,Default,,0,0,0,,{\an5}WITH MY BROTHER
+Dialogue: 0,0:00:56.03,0:00:56.53,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:56.53,0:00:57.14,Default,,0,0,0,,{\an5}HAVE TO PHYSICALLY
+Dialogue: 0,0:00:57.14,0:00:57.75,Default,,0,0,0,,{\an5}CORNER HIM
+Dialogue: 0,0:00:57.75,0:00:58.56,Default,,0,0,0,,{\an5}WHEN SHE'S DISTRACTED
+Dialogue: 0,0:00:58.56,0:00:59.17,Default,,0,0,0,,{\an5}BECAUSE
+Dialogue: 0,0:00:59.17,0:00:59.92,Default,,0,0,0,,{\an5}WHEN THEY'RE TOGETHER
+Dialogue: 0,0:00:59.92,0:01:00.43,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:00.43,0:01:00.93,Default,,0,0,0,,{\an5}SPEAKS FOR
+Dialogue: 0,0:01:00.93,0:01:01.46,Default,,0,0,0,,{\an5}BOTH OF THEM
+Dialogue: 0,0:01:01.46,0:01:02.10,Default,,0,0,0,,{\an5}AND HE FADES INTO
+Dialogue: 0,0:01:02.10,0:01:03.64,Default,,0,0,0,,{\an5}THE BACKGROUND THEY'VE
+Dialogue: 0,0:01:03.64,0:01:04.15,Default,,0,0,0,,{\an5}BEEN MARRIED A
+Dialogue: 0,0:01:04.15,0:01:04.68,Default,,0,0,0,,{\an5}LITTLE OVER A
+Dialogue: 0,0:01:04.68,0:01:05.37,Default,,0,0,0,,{\an5}YEAR BUT
+Dialogue: 0,0:01:05.37,0:01:05.87,Default,,0,0,0,,{\an5}THIS BEHAVIOR
+Dialogue: 0,0:01:05.87,0:01:06.48,Default,,0,0,0,,{\an5}HAS EXISTED
+Dialogue: 0,0:01:06.48,0:01:07.12,Default,,0,0,0,,{\an5}FAR LONGER
+Dialogue: 0,0:01:07.12,0:01:07.76,Default,,0,0,0,,{\an5}I'VE
+Dialogue: 0,0:01:07.76,0:01:08.43,Default,,0,0,0,,{\an5}TALKED TO MY BROTHER
+Dialogue: 0,0:01:08.43,0:01:08.95,Default,,0,0,0,,{\an5}ABOUT IT MORE
+Dialogue: 0,0:01:08.95,0:01:09.95,Default,,0,0,0,,{\an5}THAN ONCE HE
+Dialogue: 0,0:01:09.95,0:01:10.50,Default,,0,0,0,,{\an5}ADMITS IT'S
+Dialogue: 0,0:01:10.50,0:01:11.50,Default,,0,0,0,,{\an5}EXHAUSTING ADMITS
+Dialogue: 0,0:01:11.50,0:01:12.15,Default,,0,0,0,,{\an5}IT'S DISRUPTIVE
+Dialogue: 0,0:01:12.15,0:01:12.78,Default,,0,0,0,,{\an5}ADMITS
+Dialogue: 0,0:01:12.78,0:01:13.40,Default,,0,0,0,,{\an5}HE'S TRIED TO
+Dialogue: 0,0:01:13.40,0:01:14.04,Default,,0,0,0,,{\an5}ADDRESS IT WITH HER
+Dialogue: 0,0:01:14.04,0:01:14.59,Default,,0,0,0,,{\an5}NOTHING
+Dialogue: 0,0:01:14.59,0:01:15.59,Default,,0,0,0,,{\an5}CHANGES HE
+Dialogue: 0,0:01:15.59,0:01:16.29,Default,,0,0,0,,{\an5}SAYS SHE STRUGGLES
+Dialogue: 0,0:01:16.29,0:01:17.23,Default,,0,0,0,,{\an5}WITH ANXIETY AND
+Dialogue: 0,0:01:17.23,0:01:17.84,Default,,0,0,0,,{\an5}CLAIMS SHE'S BEEN
+Dialogue: 0,0:01:17.84,0:01:18.48,Default,,0,0,0,,{\an5}SEEING A THERAPIST
+Dialogue: 0,0:01:18.48,0:01:19.00,Default,,0,0,0,,{\an5}FOR YEARS
+Dialogue: 0,0:01:19.00,0:01:19.87,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:19.87,0:01:20.64,Default,,0,0,0,,{\an5}I GENUINELY TRY
+Dialogue: 0,0:01:20.64,0:01:21.40,Default,,0,0,0,,{\an5}TO BE EMPATHETIC
+Dialogue: 0,0:01:21.40,0:01:22.14,Default,,0,0,0,,{\an5}BUT EMPATHY
+Dialogue: 0,0:01:22.14,0:01:22.71,Default,,0,0,0,,{\an5}DOESN'T MAKE
+Dialogue: 0,0:01:22.71,0:01:23.29,Default,,0,0,0,,{\an5}IT EASIER TO
+Dialogue: 0,0:01:23.29,0:01:23.87,Default,,0,0,0,,{\an5}SIT THROUGH HOURS
+Dialogue: 0,0:01:23.87,0:01:24.37,Default,,0,0,0,,{\an5}OF BEING TALKED
+Dialogue: 0,0:01:24.37,0:01:24.65,Default,,0,0,0,,{\an5}OVER.
+Dialogue: 0,0:01:25.14,0:01:25.81,Default,,0,0,0,,{\an5}THE LAST
+Dialogue: 0,0:01:25.81,0:01:26.42,Default,,0,0,0,,{\an5}TIME SHE CAME
+Dialogue: 0,0:01:26.42,0:01:26.98,Default,,0,0,0,,{\an5}TO A GAME NIGHT,
+Dialogue: 0,0:01:27.09,0:01:27.68,Default,,0,0,0,,{\an5}IT WAS A
+Dialogue: 0,0:01:27.68,0:01:28.07,Default,,0,0,0,,{\an5}DISASTER.
+Dialogue: 0,0:01:28.28,0:01:28.85,Default,,0,0,0,,{\an5}SHE TALKED
+Dialogue: 0,0:01:28.85,0:01:29.54,Default,,0,0,0,,{\an5}OVER THE RULES,
+Dialogue: 0,0:01:29.76,0:01:30.76,Default,,0,0,0,,{\an5}DELAYED PEOPLE'S
+Dialogue: 0,0:01:30.76,0:01:31.56,Default,,0,0,0,,{\an5}TURNS, AND
+Dialogue: 0,0:01:31.56,0:01:32.35,Default,,0,0,0,,{\an5}PRACTICALLY SHOUTED
+Dialogue: 0,0:01:32.35,0:01:33.09,Default,,0,0,0,,{\an5}UNRELATED STORIES
+Dialogue: 0,0:01:33.09,0:01:33.73,Default,,0,0,0,,{\an5}WHILE OTHERS
+Dialogue: 0,0:01:33.73,0:01:34.40,Default,,0,0,0,,{\an5}WERE TRYING TO PLAY.
+Dialogue: 0,0:01:34.57,0:01:35.28,Default,,0,0,0,,{\an5}PEOPLE STOPPED
+Dialogue: 0,0:01:35.28,0:01:36.21,Default,,0,0,0,,{\an5}ENGAGING, THE
+Dialogue: 0,0:01:36.21,0:01:36.84,Default,,0,0,0,,{\an5}ENERGY DIED,
+Dialogue: 0,0:01:37.06,0:01:37.65,Default,,0,0,0,,{\an5}WHAT WAS SUPPOSED
+Dialogue: 0,0:01:37.65,0:01:38.20,Default,,0,0,0,,{\an5}TO BE FUN
+Dialogue: 0,0:01:38.20,0:01:38.90,Default,,0,0,0,,{\an5}TURNED INTO EVERYONE
+Dialogue: 0,0:01:38.90,0:01:39.43,Default,,0,0,0,,{\an5}POLITELY
+Dialogue: 0,0:01:39.43,0:01:39.95,Default,,0,0,0,,{\an5}ENDURING HER
+Dialogue: 0,0:01:39.95,0:01:40.45,Default,,0,0,0,,{\an5}UNTIL THE NIGHT
+Dialogue: 0,0:01:40.45,0:01:41.65,Default,,0,0,0,,{\an5}FINALLY ENDED.
+Dialogue: 0,0:01:41.92,0:01:42.42,Default,,0,0,0,,{\an5}SO THIS
+Dialogue: 0,0:01:42.42,0:01:43.14,Default,,0,0,0,,{\an5}TIME, I
+Dialogue: 0,0:01:43.14,0:01:43.81,Default,,0,0,0,,{\an5}MADE A CHOICE I'M
+Dialogue: 0,0:01:43.81,0:01:44.31,Default,,0,0,0,,{\an5}NOT PROUD OF
+Dialogue: 0,0:01:44.31,0:01:45.06,Default,,0,0,0,,{\an5}BUT FELT CORNERED
+Dialogue: 0,0:01:45.06,0:01:45.20,Default,,0,0,0,,{\an5}INTO.
+Dialogue: 0,0:01:45.51,0:01:46.23,Default,,0,0,0,,{\an5}I INVITED
+Dialogue: 0,0:01:46.23,0:01:46.87,Default,,0,0,0,,{\an5}COUSINS AND
+Dialogue: 0,0:01:46.87,0:01:47.71,Default,,0,0,0,,{\an5}CLOSE FRIENDS INSTEAD,
+Dialogue: 0,0:01:47.95,0:01:48.54,Default,,0,0,0,,{\an5}SOME OF
+Dialogue: 0,0:01:48.54,0:01:49.12,Default,,0,0,0,,{\an5}WHOM ARE TRAVELING
+Dialogue: 0,0:01:49.12,0:01:49.90,Default,,0,0,0,,{\an5}FROM ANOTHER CITY
+Dialogue: 0,0:01:49.90,0:01:50.40,Default,,0,0,0,,{\an5}TO BE THERE.
+Dialogue: 0,0:01:50.51,0:01:51.18,Default,,0,0,0,,{\an5}I DIDN'T
+Dialogue: 0,0:01:51.18,0:01:51.73,Default,,0,0,0,,{\an5}INVITE MY BROTHER
+Dialogue: 0,0:01:51.73,0:01:52.42,Default,,0,0,0,,{\an5}BECAUSE
+Dialogue: 0,0:01:52.42,0:01:53.00,Default,,0,0,0,,{\an5}REALISTICALLY
+Dialogue: 0,0:01:53.00,0:01:53.73,Default,,0,0,0,,{\an5}HE
+Dialogue: 0,0:01:53.73,0:01:54.40,Default,,0,0,0,,{\an5}WOULDN'T COME WITHOUT
+Dialogue: 0,0:01:54.40,0:01:55.42,Default,,0,0,0,,{\an5}HIS WIFE AND
+Dialogue: 0,0:01:55.42,0:01:55.98,Default,,0,0,0,,{\an5}I DON'T HAVE THE
+Dialogue: 0,0:01:55.98,0:01:56.73,Default,,0,0,0,,{\an5}EMOTIONAL BANDWIDTH
+Dialogue: 0,0:01:56.73,0:01:57.29,Default,,0,0,0,,{\an5}TO SACRIFICE
+Dialogue: 0,0:01:57.29,0:01:58.09,Default,,0,0,0,,{\an5}ANOTHER GATHERING
+Dialogue: 0,0:01:58.09,0:01:58.62,Default,,0,0,0,,{\an5}TO HER INABILITY
+Dialogue: 0,0:01:58.62,0:01:59.20,Default,,0,0,0,,{\an5}TO STOP
+Dialogue: 0,0:01:59.20,0:02:00.15,Default,,0,0,0,,{\an5}TALKING
+Dialogue: 0,0:02:00.15,0:02:00.93,Default,,0,0,0,,{\an5}I HAVEN'T
+Dialogue: 0,0:02:00.93,0:02:01.45,Default,,0,0,0,,{\an5}TOLD HIM YET
+Dialogue: 0,0:02:01.45,0:02:02.04,Default,,0,0,0,,{\an5}AND I'M
+Dialogue: 0,0:02:02.04,0:02:02.71,Default,,0,0,0,,{\an5}DREADING THE MOMENT
+Dialogue: 0,0:02:02.71,0:02:03.34,Default,,0,0,0,,{\an5}HE FINDS OUT
+Dialogue: 0,0:02:03.34,0:02:03.92,Default,,0,0,0,,{\an5}ESPECIALLY
+Dialogue: 0,0:02:03.92,0:02:04.54,Default,,0,0,0,,{\an5}SINCE HE
+Dialogue: 0,0:02:04.54,0:02:05.29,Default,,0,0,0,,{\an5}LIVES NEARBY AND
+Dialogue: 0,0:02:05.29,0:02:05.84,Default,,0,0,0,,{\an5}OTHERS ARE COMING
+Dialogue: 0,0:02:05.84,0:02:06.42,Default,,0,0,0,,{\an5}FROM MUCH FARTHER
+Dialogue: 0,0:02:06.42,0:02:07.65,Default,,0,0,0,,{\an5}AWAY I
+Dialogue: 0,0:02:07.65,0:02:08.18,Default,,0,0,0,,{\an5}FEEL LIKE I'M
+Dialogue: 0,0:02:08.18,0:02:08.71,Default,,0,0,0,,{\an5}CHOOSING BETWEEN
+Dialogue: 0,0:02:08.71,0:02:09.40,Default,,0,0,0,,{\an5}PROTECTING THE
+Dialogue: 0,0:02:09.40,0:02:10.00,Default,,0,0,0,,{\an5}JOY OF THE NIGHT
+Dialogue: 0,0:02:10.00,0:02:10.59,Default,,0,0,0,,{\an5}AND HURTING SOMEONE
+Dialogue: 0,0:02:10.59,0:02:11.75,Default,,0,0,0,,{\an5}I LOVE AND
+Dialogue: 0,0:02:11.75,0:02:12.28,Default,,0,0,0,,{\an5}I CAN'T TELL
+Dialogue: 0,0:02:12.28,0:02:12.78,Default,,0,0,0,,{\an5}IF I'M SETTING
+Dialogue: 0,0:02:12.78,0:02:13.69,Default,,0,0,0,,{\an5}A NECESSARY BOUNDARY
+Dialogue: 0,0:02:13.69,0:02:14.21,Default,,0,0,0,,{\an5}OR QUIETLY
+Dialogue: 0,0:02:14.21,0:02:14.81,Default,,0,0,0,,{\an5}BECOMING THE
+Dialogue: 0,0:02:14.81,0:02:15.52,Default,,0,0,0,,{\an5}VILLAIN IN MY OWN
+Dialogue: 0,0:02:15.52,0:02:16.47,Default,,0,0,0,,{\an5}FAMILY

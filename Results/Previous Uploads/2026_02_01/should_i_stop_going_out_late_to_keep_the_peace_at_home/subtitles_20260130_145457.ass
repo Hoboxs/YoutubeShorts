@@ -1,0 +1,118 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.10,0:00:03.81,Default,,0,0,0,,\N{\k14}I {\k11}AM {\k10}IN {\k16}MY {\k19}EARLY
+Dialogue: 0,0:00:03.81,0:00:04.54,Default,,0,0,0,,\N{\k31}TWENTIES {\k18}AND {\k21}CURRENTLY
+Dialogue: 0,0:00:04.54,0:00:05.25,Default,,0,0,0,,\N{\k24}SHARE {\k13}A {\k20}RENTAL {\k13}WITH
+Dialogue: 0,0:00:05.25,0:00:05.67,Default,,0,0,0,,\N{\k16}MY {\k25}MOTHER.
+Dialogue: 0,0:00:06.46,0:00:07.20,Default,,0,0,0,,\N{\k17}ABOUT {\k34}ONCE {\k7}A {\k14}WEEK,
+Dialogue: 0,0:00:07.37,0:00:08.08,Default,,0,0,0,,\N{\k16}USUALLY {\k25}TOWARD {\k16}THE {\k12}END
+Dialogue: 0,0:00:08.08,0:00:08.80,Default,,0,0,0,,\N{\k9}OF {\k8}THE {\k17}WEEK, {\k8}SHE
+Dialogue: 0,0:00:08.80,0:00:09.50,Default,,0,0,0,,\N{\k16}HOSTS {\k19}MY {\k33}SISTER'S
+Dialogue: 0,0:00:09.50,0:00:10.40,Default,,0,0,0,,\N{\k11}YOUNG {\k26}DAUGHTER {\k17}FOR {\k33}SLEEPER
+Dialogue: 0,0:00:10.40,0:00:11.06,Default,,0,0,0,,\N{\k16}TO {\k9}GIVE {\k16}MY {\k24}SISTER
+Dialogue: 0,0:00:11.06,0:00:11.83,Default,,0,0,0,,\N{\k19}SOME {\k16}TIME {\k16}TO {\k25}HERSELF.
+Dialogue: 0,0:00:12.77,0:00:13.61,Default,,0,0,0,,\N{\k20}IT {\k8}IS {\k8}A {\k17}ROUTINE {\k29}EVERYONE
+Dialogue: 0,0:00:13.61,0:00:14.24,Default,,0,0,0,,\N{\k28}SEEMS {\k33}COMFORTABLE
+Dialogue: 0,0:00:14.24,0:00:14.88,Default,,0,0,0,,\N{\k27}WITH {\k25}AND {\k10}IT
+Dialogue: 0,0:00:14.88,0:00:15.66,Default,,0,0,0,,\N{\k8}HAS {\k15}BEEN {\k30}HAPPENING {\k24}FOR
+Dialogue: 0,0:00:15.66,0:00:15.93,Default,,0,0,0,,\N{\k8}A {\k19}WHILE.
+Dialogue: 0,0:00:16.64,0:00:17.37,Default,,0,0,0,,\N{\k33}I {\k23}WORK {\k16}FULL
+Dialogue: 0,0:00:17.37,0:00:18.03,Default,,0,0,0,,\N{\k28}TIME {\k19}WITH {\k17}EVENING
+Dialogue: 0,0:00:18.03,0:00:18.80,Default,,0,0,0,,\N{\k28}HOURS {\k30}AND {\k17}AFTER
+Dialogue: 0,0:00:18.80,0:00:19.42,Default,,0,0,0,,\N{\k19}EVERY {\k16}SHIFT {\k14}I {\k12}GO
+Dialogue: 0,0:00:19.42,0:00:20.01,Default,,0,0,0,,\N{\k17}STRAIGHT {\k16}TO {\k7}THE {\k17}GYM.
+Dialogue: 0,0:00:20.96,0:00:21.66,Default,,0,0,0,,\N{\k35}EXERCISE {\k33}IS
+Dialogue: 0,0:00:21.66,0:00:22.30,Default,,0,0,0,,\N{\k7}A {\k14}BIG {\k17}PART {\k12}OF {\k12}MY
+Dialogue: 0,0:00:22.30,0:00:23.05,Default,,0,0,0,,\N{\k30}ROUTINE {\k45}AND
+Dialogue: 0,0:00:23.05,0:00:23.66,Default,,0,0,0,,\N{\k12}I {\k8}AM {\k21}TRAINING {\k17}FOR
+Dialogue: 0,0:00:23.66,0:00:24.44,Default,,0,0,0,,\N{\k5}A {\k30}PERSONAL {\k16}GOAL {\k26}LATER
+Dialogue: 0,0:00:24.44,0:00:25.07,Default,,0,0,0,,\N{\k19}THIS {\k19}YEAR {\k23}SO
+Dialogue: 0,0:00:25.07,0:00:25.80,Default,,0,0,0,,\N{\k40}CONSISTENCY {\k32}MATTERS
+Dialogue: 0,0:00:25.80,0:00:26.12,Default,,0,0,0,,\N{\k17}TO {\k14}ME.
+Dialogue: 0,0:00:26.83,0:00:27.46,Default,,0,0,0,,\N{\k35}I {\k26}USUALLY
+Dialogue: 0,0:00:27.46,0:00:28.07,Default,,0,0,0,,\N{\k21}GET {\k17}OFF {\k21}WORK
+Dialogue: 0,0:00:28.07,0:00:28.94,Default,,0,0,0,,\N{\k26}AROUND {\k14}THE {\k16}LATE {\k30}EVENING
+Dialogue: 0,0:00:28.94,0:00:29.73,Default,,0,0,0,,\N{\k16}AND {\k11}MAKE {\k12}IT {\k16}HOME {\k23}OFF
+Dialogue: 0,0:00:29.73,0:00:30.33,Default,,0,0,0,,\N{\k10}IN {\k12}AN {\k7}HOUR {\k14}AND {\k1}A {\k14}HALF
+Dialogue: 0,0:00:30.33,0:00:31.46,Default,,0,0,0,,\N{\k33}LATER {\k78}DEPENDING
+Dialogue: 0,0:00:31.46,0:00:32.10,Default,,0,0,0,,\N{\k32}ON {\k32}TRAFFIC.
+Dialogue: 0,0:00:32.78,0:00:33.47,Default,,0,0,0,,\N{\k35}THE {\k21}ISSUE {\k11}IS
+Dialogue: 0,0:00:33.47,0:00:34.10,Default,,0,0,0,,\N{\k6}THAT {\k17}WHENEVER {\k21}I {\k16}COME
+Dialogue: 0,0:00:34.10,0:00:35.02,Default,,0,0,0,,\N{\k28}HOME {\k29}MY {\k34}MOTHER'S
+Dialogue: 0,0:00:35.02,0:00:35.75,Default,,0,0,0,,\N{\k11}DOG {\k43}BARKS {\k17}LOUDLY.
+Dialogue: 0,0:00:36.65,0:00:37.42,Default,,0,0,0,,\N{\k22}HE {\k17}ALWAYS {\k17}DOES {\k17}THIS
+Dialogue: 0,0:00:37.42,0:00:38.10,Default,,0,0,0,,\N{\k14}WHEN {\k29}ANYONE {\k24}ENTERS
+Dialogue: 0,0:00:38.10,0:00:38.52,Default,,0,0,0,,\N{\k15}THE {\k26}HOUSE.
+Dialogue: 0,0:00:39.34,0:00:39.96,Default,,0,0,0,,\N{\k9}ON {\k17}NIGHTS {\k17}WHEN {\k16}MY
+Dialogue: 0,0:00:39.96,0:00:40.88,Default,,0,0,0,,\N{\k15}NIECE {\k16}IS {\k25}SLEEPING {\k34}OVER,
+Dialogue: 0,0:00:41.21,0:00:41.84,Default,,0,0,0,,\N{\k3}THE {\k24}BARKING {\k34}SOMETIMES
+Dialogue: 0,0:00:41.84,0:00:42.46,Default,,0,0,0,,\N{\k23}WAKES {\k17}HER {\k20}UP.
+Dialogue: 0,0:00:43.24,0:00:44.10,Default,,0,0,0,,\N{\k15}IF {\k7}THAT {\k26}HAPPENS, {\k6}I
+Dialogue: 0,0:00:44.10,0:00:44.92,Default,,0,0,0,,\N{\k14}MAKE {\k15}SURE {\k16}TO {\k35}REASSURE
+Dialogue: 0,0:00:44.92,0:00:45.52,Default,,0,0,0,,\N{\k14}HER {\k11}THAT {\k7}IT {\k14}IS {\k12}JUST
+Dialogue: 0,0:00:45.52,0:00:46.25,Default,,0,0,0,,\N{\k13}ME {\k20}SO {\k14}SHE {\k10}DOES {\k15}NOT
+Dialogue: 0,0:00:46.25,0:00:46.88,Default,,0,0,0,,\N{\k14}GET {\k21}SCARED {\k26}AS
+Dialogue: 0,0:00:46.88,0:00:47.67,Default,,0,0,0,,\N{\k11}SHE {\k21}USUALLY {\k24}FALLS {\k21}BACK
+Dialogue: 0,0:00:47.67,0:00:48.34,Default,,0,0,0,,\N{\k25}ASLEEP {\k21}WITHOUT {\k18}MUCH
+Dialogue: 0,0:00:48.34,0:00:48.57,Default,,0,0,0,,\N{\k23}TROUBLE.
+Dialogue: 0,0:00:49.35,0:00:50.00,Default,,0,0,0,,\N{\k35}MY {\k28}MOTHER
+Dialogue: 0,0:00:50.00,0:00:50.61,Default,,0,0,0,,\N{\k15}HAS {\k20}ASKED {\k14}ME {\k11}TO
+Dialogue: 0,0:00:50.61,0:00:51.24,Default,,0,0,0,,\N{\k16}SKIP {\k19}THE {\k10}GYM {\k16}ON
+Dialogue: 0,0:00:51.24,0:00:51.97,Default,,0,0,0,,\N{\k5}THE {\k14}NIGHTS {\k17}MY {\k14}NIECE {\k21}STAYS
+Dialogue: 0,0:00:51.97,0:00:52.60,Default,,0,0,0,,\N{\k24}OVER {\k17}SO {\k10}THAT {\k10}I
+Dialogue: 0,0:00:52.60,0:00:53.25,Default,,0,0,0,,\N{\k15}COME {\k20}HOME {\k29}EARLIER
+Dialogue: 0,0:00:53.25,0:00:53.93,Default,,0,0,0,,\N{\k20}AND {\k19}AVOID {\k28}WAKING
+Dialogue: 0,0:00:53.93,0:00:54.14,Default,,0,0,0,,\N{\k20}HER.
+Dialogue: 0,0:00:54.67,0:00:55.42,Default,,0,0,0,,\N{\k35}I {\k17}TOLD {\k20}HER
+Dialogue: 0,0:00:55.42,0:00:56.11,Default,,0,0,0,,\N{\k10}I {\k13}DO {\k12}NOT {\k17}THINK {\k15}THAT
+Dialogue: 0,0:00:56.11,0:00:57.03,Default,,0,0,0,,\N{\k8}THERE {\k1}IS {\k10}A {\k28}REASONABLE {\k43}REQUEST.
+Dialogue: 0,0:00:57.88,0:00:58.61,Default,,0,0,0,,\N{\k19}FROM {\k12}MY {\k41}PERSPECTIVE,
+Dialogue: 0,0:00:59.17,0:00:59.92,Default,,0,0,0,,\N{\k14}BEING {\k25}WOKEN {\k34}BRIEFLY
+Dialogue: 0,0:00:59.92,0:01:00.67,Default,,0,0,0,,\N{\k19}BY {\k10}A {\k24}BARKING {\k21}DOG
+Dialogue: 0,0:01:00.67,0:01:01.39,Default,,0,0,0,,\N{\k16}ON {\k7}A {\k17}NIGHT {\k15}WHEN {\k14}SHE
+Dialogue: 0,0:01:01.39,0:01:02.00,Default,,0,0,0,,\N{\k10}DOES {\k15}NOT {\k12}HAVE {\k21}SCHOOL
+Dialogue: 0,0:01:02.00,0:01:02.70,Default,,0,0,0,,\N{\k15}THE {\k20}NEXT {\k21}DAY {\k12}IS
+Dialogue: 0,0:01:02.70,0:01:03.46,Default,,0,0,0,,\N{\k11}NOT {\k14}A {\k19}MAJOR {\k30}ISSUE.
+Dialogue: 0,0:01:04.15,0:01:04.87,Default,,0,0,0,,\N{\k26}I {\k20}ALSO {\k25}POINTED
+Dialogue: 0,0:01:04.87,0:01:05.51,Default,,0,0,0,,\N{\k21}OUT {\k12}THAT {\k9}THE {\k20}DOG
+Dialogue: 0,0:01:05.51,0:01:06.45,Default,,0,0,0,,\N{\k16}IS {\k13}NOT {\k24}MINE {\k39}AND
+Dialogue: 0,0:01:06.45,0:01:07.06,Default,,0,0,0,,\N{\k10}THE {\k21}BARKING {\k14}IS {\k14}NOT
+Dialogue: 0,0:01:07.06,0:01:07.78,Default,,0,0,0,,\N{\k29}SOMETHING {\k15}I {\k7}AM {\k18}DOING
+Dialogue: 0,0:01:07.78,0:01:08.23,Default,,0,0,0,,\N{\k45}INTENTIONALLY.
+Dialogue: 0,0:01:09.00,0:01:09.62,Default,,0,0,0,,\N{\k35}I {\k26}EXPLAIN
+Dialogue: 0,0:01:09.62,0:01:10.26,Default,,0,0,0,,\N{\k21}THAT {\k7}I {\k7}DO {\k12}NOT {\k14}WANT
+Dialogue: 0,0:01:10.26,0:01:10.93,Default,,0,0,0,,\N{\k11}TO {\k10}CUT {\k17}BACK {\k15}ON {\k12}MY
+Dialogue: 0,0:01:10.93,0:01:12.09,Default,,0,0,0,,\N{\k14}GYM {\k37}SESSIONS, {\k37}ESPECIALLY
+Dialogue: 0,0:01:12.09,0:01:12.76,Default,,0,0,0,,\N{\k26}SINCE {\k15}I {\k24}ONLY
+Dialogue: 0,0:01:12.76,0:01:13.37,Default,,0,0,0,,\N{\k11}HAVE {\k18}ONE {\k15}DAY {\k15}OFF
+Dialogue: 0,0:01:13.37,0:01:14.09,Default,,0,0,0,,\N{\k10}A {\k17}WEEK {\k15}AND {\k4}I {\k7}AM {\k15}WORKING
+Dialogue: 0,0:01:14.09,0:01:14.71,Default,,0,0,0,,\N{\k21}TOWARD {\k22}A {\k5}GOAL {\k12}THAT
+Dialogue: 0,0:01:14.71,0:01:15.65,Default,,0,0,0,,\N{\k23}REQUIRES {\k34}REGULAR {\k35}TRAINING.
+Dialogue: 0,0:01:16.29,0:01:16.92,Default,,0,0,0,,\N{\k35}MY {\k26}MOTHER
+Dialogue: 0,0:01:16.92,0:01:17.57,Default,,0,0,0,,\N{\k17}FEELS {\k18}THAT {\k9}I {\k6}AM {\k14}BEING
+Dialogue: 0,0:01:17.57,0:01:18.21,Default,,0,0,0,,\N{\k28}SELFISH {\k21}AND {\k6}I {\k7}AM
+Dialogue: 0,0:01:18.21,0:01:19.00,Default,,0,0,0,,\N{\k9}WILLING {\k18}TO {\k29}ACCOMMODATE {\k20}THE
+Dialogue: 0,0:01:19.00,0:01:19.68,Default,,0,0,0,,\N{\k29}FAMILY {\k24}WHILE {\k14}I
+Dialogue: 0,0:01:19.68,0:01:20.31,Default,,0,0,0,,\N{\k17}FEEL {\k23}LIKE {\k14}I {\k7}AM
+Dialogue: 0,0:01:20.31,0:01:21.01,Default,,0,0,0,,\N{\k12}BEING {\k21}ASKED {\k14}TO {\k7}GIVE {\k14}UP
+Dialogue: 0,0:01:21.01,0:01:21.64,Default,,0,0,0,,\N{\k28}SOMETHING {\k34}IMPORTANT
+Dialogue: 0,0:01:21.64,0:01:22.31,Default,,0,0,0,,\N{\k17}TO {\k10}ME {\k9}TO {\k14}SOLVE {\k15}A
+Dialogue: 0,0:01:22.31,0:01:22.95,Default,,0,0,0,,\N{\k26}PROBLEM {\k14}I {\k12}DID {\k11}NOT
+Dialogue: 0,0:01:22.95,0:01:23.21,Default,,0,0,0,,\N{\k26}CREATE.
+Dialogue: 0,0:01:24.07,0:01:24.79,Default,,0,0,0,,\N{\k20}NOW {\k14}THERE {\k9}IS {\k28}TENSION
+Dialogue: 0,0:01:24.79,0:01:25.40,Default,,0,0,0,,\N{\k34}BETWEEN {\k26}US
+Dialogue: 0,0:01:25.40,0:01:26.01,Default,,0,0,0,,\N{\k14}AND {\k9}I {\k12}AM {\k25}WONDERING
+Dialogue: 0,0:01:26.01,0:01:26.64,Default,,0,0,0,,\N{\k28}WHETHER {\k34}STANDING
+Dialogue: 0,0:01:26.64,0:01:27.26,Default,,0,0,0,,\N{\k28}FIRM {\k17}ON {\k16}THIS
+Dialogue: 0,0:01:27.26,0:01:27.95,Default,,0,0,0,,\N{\k31}BOUNDARY {\k21}WAS {\k15}FAIR
+Dialogue: 0,0:01:27.95,0:01:28.62,Default,,0,0,0,,\N{\k14}OR {\k16}IF {\k7}I {\k15}SHOULD {\k12}HAVE
+Dialogue: 0,0:01:28.62,0:01:29.26,Default,,0,0,0,,\N{\k11}BEEN {\k20}MORE {\k32}FLEXIBLE.

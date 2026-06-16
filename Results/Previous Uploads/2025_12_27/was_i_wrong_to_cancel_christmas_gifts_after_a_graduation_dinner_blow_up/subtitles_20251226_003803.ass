@@ -1,0 +1,165 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.92,0:00:04.59,Default,,0,0,0,,{\an5}AFTER NEARLY
+Dialogue: 0,0:00:04.59,0:00:05.24,Default,,0,0,0,,{\an5}SEVEN YEARS
+Dialogue: 0,0:00:05.24,0:00:06.20,Default,,0,0,0,,{\an5}TOGETHER, I
+Dialogue: 0,0:00:06.20,0:00:06.79,Default,,0,0,0,,{\an5}THOUGHT I UNDERSTOOD
+Dialogue: 0,0:00:06.79,0:00:07.48,Default,,0,0,0,,{\an5}MY PARTNER'S
+Dialogue: 0,0:00:07.48,0:00:08.14,Default,,0,0,0,,{\an5}FAMILY DYNAMICS.
+Dialogue: 0,0:00:08.43,0:00:09.00,Default,,0,0,0,,{\an5}BUT HIS
+Dialogue: 0,0:00:09.00,0:00:09.83,Default,,0,0,0,,{\an5}GRADUATION WEEKEND
+Dialogue: 0,0:00:09.83,0:00:10.46,Default,,0,0,0,,{\an5}PUSHED EVERYTHING
+Dialogue: 0,0:00:10.46,0:00:11.19,Default,,0,0,0,,{\an5}OVER THE EDGE.
+Dialogue: 0,0:00:11.38,0:00:12.08,Default,,0,0,0,,{\an5}HIS RELATIVES
+Dialogue: 0,0:00:12.08,0:00:12.85,Default,,0,0,0,,{\an5}HAVE ALWAYS STRUGGLED
+Dialogue: 0,0:00:12.85,0:00:13.88,Default,,0,0,0,,{\an5}WITH MONEY, YET
+Dialogue: 0,0:00:13.88,0:00:14.43,Default,,0,0,0,,{\an5}SOMEHOW STILL
+Dialogue: 0,0:00:14.43,0:00:14.98,Default,,0,0,0,,{\an5}MANAGED TO
+Dialogue: 0,0:00:14.98,0:00:15.59,Default,,0,0,0,,{\an5}SPEND FAR BEYOND
+Dialogue: 0,0:00:15.59,0:00:16.17,Default,,0,0,0,,{\an5}THEIR LIMITS,
+Dialogue: 0,0:00:16.39,0:00:17.05,Default,,0,0,0,,{\an5}LIVING AS
+Dialogue: 0,0:00:17.05,0:00:17.57,Default,,0,0,0,,{\an5}IF CONSEQUENCES
+Dialogue: 0,0:00:17.57,0:00:18.21,Default,,0,0,0,,{\an5}DON'T APPLY.
+Dialogue: 0,0:00:18.46,0:00:18.98,Default,,0,0,0,,{\an5}WHEN MY
+Dialogue: 0,0:00:18.98,0:00:19.57,Default,,0,0,0,,{\an5}PARTNER FINISHED
+Dialogue: 0,0:00:19.57,0:00:20.10,Default,,0,0,0,,{\an5}HIS DEGREE,
+Dialogue: 0,0:00:20.32,0:00:20.87,Default,,0,0,0,,{\an5}MY OWN
+Dialogue: 0,0:00:20.87,0:00:21.44,Default,,0,0,0,,{\an5}FAMILY DROVE
+Dialogue: 0,0:00:21.44,0:00:22.03,Default,,0,0,0,,{\an5}SEVERAL HOURS
+Dialogue: 0,0:00:22.03,0:00:22.87,Default,,0,0,0,,{\an5}TO CELEBRATE HIM,
+Dialogue: 0,0:00:22.96,0:00:23.60,Default,,0,0,0,,{\an5}AND I MADE
+Dialogue: 0,0:00:23.60,0:00:24.14,Default,,0,0,0,,{\an5}IT CLEAR AHEAD
+Dialogue: 0,0:00:24.14,0:00:24.69,Default,,0,0,0,,{\an5}OF TIME THAT
+Dialogue: 0,0:00:24.69,0:00:25.32,Default,,0,0,0,,{\an5}HIS FAMILY SHOULD
+Dialogue: 0,0:00:25.32,0:00:25.87,Default,,0,0,0,,{\an5}BE PREPARED TO
+Dialogue: 0,0:00:25.87,0:00:26.46,Default,,0,0,0,,{\an5}COVER THE COST
+Dialogue: 0,0:00:26.46,0:00:27.48,Default,,0,0,0,,{\an5}OF THE GRADUATION
+Dialogue: 0,0:00:27.48,0:00:27.98,Default,,0,0,0,,{\an5}DINNER.
+Dialogue: 0,0:00:27.98,0:00:28.67,Default,,0,0,0,,{\an5}THIS WAS
+Dialogue: 0,0:00:28.67,0:00:29.23,Default,,0,0,0,,{\an5}HIS MILESTONE
+Dialogue: 0,0:00:29.23,0:00:29.80,Default,,0,0,0,,{\an5}AFTER
+Dialogue: 0,0:00:29.80,0:00:30.48,Default,,0,0,0,,{\an5}ALL THE
+Dialogue: 0,0:00:30.48,0:00:31.16,Default,,0,0,0,,{\an5}PRICE OF THE MEAL
+Dialogue: 0,0:00:31.16,0:00:31.76,Default,,0,0,0,,{\an5}CAME UP AGAIN
+Dialogue: 0,0:00:31.76,0:00:32.34,Default,,0,0,0,,{\an5}AND AGAIN IN
+Dialogue: 0,0:00:32.34,0:00:32.84,Default,,0,0,0,,{\an5}THE DAYS LEADING
+Dialogue: 0,0:00:32.84,0:00:33.92,Default,,0,0,0,,{\an5}UP TO IT TO
+Dialogue: 0,0:00:33.92,0:00:34.52,Default,,0,0,0,,{\an5}THE POINT THAT MY
+Dialogue: 0,0:00:34.52,0:00:35.06,Default,,0,0,0,,{\an5}PARTNER FELT
+Dialogue: 0,0:00:35.06,0:00:35.78,Default,,0,0,0,,{\an5}SO GUILTY HE
+Dialogue: 0,0:00:35.78,0:00:36.46,Default,,0,0,0,,{\an5}DELIBERATELY CHOSE
+Dialogue: 0,0:00:36.46,0:00:37.06,Default,,0,0,0,,{\an5}A CHEAP CASUAL
+Dialogue: 0,0:00:37.06,0:00:37.56,Default,,0,0,0,,{\an5}RESTAURANT
+Dialogue: 0,0:00:37.56,0:00:38.88,Default,,0,0,0,,{\an5}JUST TO AVOID
+Dialogue: 0,0:00:38.88,0:00:39.89,Default,,0,0,0,,{\an5}TENSION EVEN
+Dialogue: 0,0:00:39.89,0:00:40.65,Default,,0,0,0,,{\an5}THEN THE
+Dialogue: 0,0:00:40.65,0:00:41.28,Default,,0,0,0,,{\an5}NIGHT ENDED IN
+Dialogue: 0,0:00:41.28,0:00:42.35,Default,,0,0,0,,{\an5}EMBARRASSMENT HIS
+Dialogue: 0,0:00:42.35,0:00:42.97,Default,,0,0,0,,{\an5}FAMILY ASKED
+Dialogue: 0,0:00:42.97,0:00:43.57,Default,,0,0,0,,{\an5}TO SPLIT THE BILL
+Dialogue: 0,0:00:43.57,0:00:44.43,Default,,0,0,0,,{\an5}ANYWAY I
+Dialogue: 0,0:00:44.43,0:00:45.29,Default,,0,0,0,,{\an5}WAS STUNNED AT
+Dialogue: 0,0:00:45.29,0:00:45.97,Default,,0,0,0,,{\an5}MY OWN GRADUATION
+Dialogue: 0,0:00:45.97,0:00:46.70,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:46.70,0:00:47.29,Default,,0,0,0,,{\an5}PARENTS COVERED
+Dialogue: 0,0:00:47.29,0:00:48.38,Default,,0,0,0,,{\an5}A LARGE EXPENSIVE
+Dialogue: 0,0:00:48.38,0:00:49.14,Default,,0,0,0,,{\an5}DINNER WITHOUT
+Dialogue: 0,0:00:49.14,0:00:49.97,Default,,0,0,0,,{\an5}HESITATION AND
+Dialogue: 0,0:00:49.97,0:00:50.71,Default,,0,0,0,,{\an5}NEVER WOULD HAVE EXPECTED
+Dialogue: 0,0:00:50.71,0:00:51.35,Default,,0,0,0,,{\an5}ANYONE ELSE
+Dialogue: 0,0:00:51.35,0:00:51.89,Default,,0,0,0,,{\an5}TO CHIP IN
+Dialogue: 0,0:00:51.89,0:00:52.70,Default,,0,0,0,,{\an5}YET
+Dialogue: 0,0:00:52.70,0:00:53.32,Default,,0,0,0,,{\an5}HERE MY
+Dialogue: 0,0:00:53.32,0:00:53.82,Default,,0,0,0,,{\an5}FAMILY WAS
+Dialogue: 0,0:00:53.82,0:00:54.35,Default,,0,0,0,,{\an5}ASKED TO PAY
+Dialogue: 0,0:00:54.35,0:00:54.92,Default,,0,0,0,,{\an5}THEIR SHARE FOR
+Dialogue: 0,0:00:54.92,0:00:55.43,Default,,0,0,0,,{\an5}MY PARTNER'S
+Dialogue: 0,0:00:55.43,0:00:56.70,Default,,0,0,0,,{\an5}CELEBRATION AND
+Dialogue: 0,0:00:56.70,0:00:57.61,Default,,0,0,0,,{\an5}THE AMOUNT SMALL
+Dialogue: 0,0:00:57.61,0:00:58.21,Default,,0,0,0,,{\an5}AS IT WAS
+Dialogue: 0,0:00:58.21,0:00:58.74,Default,,0,0,0,,{\an5}FELT
+Dialogue: 0,0:00:58.74,0:00:59.25,Default,,0,0,0,,{\an5}INSULTING
+Dialogue: 0,0:00:59.25,0:00:59.75,Default,,0,0,0,,{\an5}ON PRINCIPLE
+Dialogue: 0,0:00:59.75,0:01:00.25,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:00.25,0:01:00.85,Default,,0,0,0,,{\an5}WASN'T ABOUT THE
+Dialogue: 0,0:01:00.85,0:01:01.60,Default,,0,0,0,,{\an5}MONEY IT
+Dialogue: 0,0:01:01.60,0:01:02.10,Default,,0,0,0,,{\an5}WAS ABOUT THE
+Dialogue: 0,0:01:02.10,0:01:03.00,Default,,0,0,0,,{\an5}MESSAGE IT
+Dialogue: 0,0:01:03.00,0:01:04.42,Default,,0,0,0,,{\an5}FELT RUDE DISMISSIVE
+Dialogue: 0,0:01:04.42,0:01:05.09,Default,,0,0,0,,{\an5}AND PAINFULLY
+Dialogue: 0,0:01:05.09,0:01:05.90,Default,,0,0,0,,{\an5}UNCOMFORTABLE FOR
+Dialogue: 0,0:01:05.90,0:01:06.65,Default,,0,0,0,,{\an5}EVERYONE INVOLVED
+Dialogue: 0,0:01:06.65,0:01:07.23,Default,,0,0,0,,{\an5}WHAT
+Dialogue: 0,0:01:07.23,0:01:07.73,Default,,0,0,0,,{\an5}MADE IT WORSE
+Dialogue: 0,0:01:07.73,0:01:08.31,Default,,0,0,0,,{\an5}WAS WHAT HAPPENED
+Dialogue: 0,0:01:08.31,0:01:09.00,Default,,0,0,0,,{\an5}SHORTLY AFTER
+Dialogue: 0,0:01:09.00,0:01:09.57,Default,,0,0,0,,{\an5}JUST
+Dialogue: 0,0:01:09.57,0:01:10.59,Default,,0,0,0,,{\an5}DAYS LATER HIS
+Dialogue: 0,0:01:10.59,0:01:11.20,Default,,0,0,0,,{\an5}RELATIVES WERE
+Dialogue: 0,0:01:11.20,0:01:11.84,Default,,0,0,0,,{\an5}HAPPILY UPGRADING
+Dialogue: 0,0:01:11.84,0:01:12.42,Default,,0,0,0,,{\an5}THEIR PHONES
+Dialogue: 0,0:01:12.42,0:01:13.26,Default,,0,0,0,,{\an5}CASUALLY
+Dialogue: 0,0:01:13.26,0:01:14.00,Default,,0,0,0,,{\an5}DROPPING HUNDREDS
+Dialogue: 0,0:01:14.00,0:01:14.65,Default,,0,0,0,,{\an5}OF DOLLARS AND
+Dialogue: 0,0:01:14.65,0:01:15.21,Default,,0,0,0,,{\an5}ADDING IT TO THEIR
+Dialogue: 0,0:01:15.21,0:01:15.92,Default,,0,0,0,,{\an5}GROWING DEBT WITHOUT
+Dialogue: 0,0:01:15.92,0:01:16.51,Default,,0,0,0,,{\an5}A SECOND THOUGHT
+Dialogue: 0,0:01:16.51,0:01:17.42,Default,,0,0,0,,{\an5}WATCHING
+Dialogue: 0,0:01:17.42,0:01:18.20,Default,,0,0,0,,{\an5}THEM SPEND FREELY
+Dialogue: 0,0:01:18.20,0:01:18.84,Default,,0,0,0,,{\an5}ON LUXURIES
+Dialogue: 0,0:01:18.84,0:01:19.34,Default,,0,0,0,,{\an5}RIGHT AFTER
+Dialogue: 0,0:01:19.34,0:01:19.85,Default,,0,0,0,,{\an5}ASKING MY
+Dialogue: 0,0:01:19.85,0:01:20.35,Default,,0,0,0,,{\an5}FAMILY TO
+Dialogue: 0,0:01:20.35,0:01:20.85,Default,,0,0,0,,{\an5}HELP PAY FOR
+Dialogue: 0,0:01:20.85,0:01:22.31,Default,,0,0,0,,{\an5}A GRADUATION DINNER
+Dialogue: 0,0:01:22.31,0:01:22.84,Default,,0,0,0,,{\an5}FELT LIKE A
+Dialogue: 0,0:01:22.84,0:01:23.62,Default,,0,0,0,,{\an5}SLAP SLAP IN THE FACE.
+Dialogue: 0,0:01:23.81,0:01:24.35,Default,,0,0,0,,{\an5}THAT WAS
+Dialogue: 0,0:01:24.35,0:01:24.98,Default,,0,0,0,,{\an5}THE MOMENT SOMETHING
+Dialogue: 0,0:01:24.98,0:01:25.59,Default,,0,0,0,,{\an5}IN ME SNAPPED.
+Dialogue: 0,0:01:25.84,0:01:26.35,Default,,0,0,0,,{\an5}I TOLD
+Dialogue: 0,0:01:26.35,0:01:26.87,Default,,0,0,0,,{\an5}MY PARTNER
+Dialogue: 0,0:01:26.87,0:01:27.42,Default,,0,0,0,,{\an5}THAT I WAS DONE
+Dialogue: 0,0:01:27.42,0:01:28.12,Default,,0,0,0,,{\an5}EXTENDING MYSELF
+Dialogue: 0,0:01:28.12,0:01:28.62,Default,,0,0,0,,{\an5}FOR PEOPLE
+Dialogue: 0,0:01:28.62,0:01:29.35,Default,,0,0,0,,{\an5}WHO CLEARLY DIDN'T
+Dialogue: 0,0:01:29.35,0:01:29.92,Default,,0,0,0,,{\an5}RESPECT US.
+Dialogue: 0,0:01:30.20,0:01:31.00,Default,,0,0,0,,{\an5}I DECIDED
+Dialogue: 0,0:01:31.00,0:01:31.54,Default,,0,0,0,,{\an5}I WOULDN'T BE
+Dialogue: 0,0:01:31.54,0:01:32.21,Default,,0,0,0,,{\an5}BUYING HIS FAMILY
+Dialogue: 0,0:01:32.21,0:01:32.85,Default,,0,0,0,,{\an5}CHRISTMAS GIFTS
+Dialogue: 0,0:01:32.85,0:01:34.09,Default,,0,0,0,,{\an5}THIS YEAR. BECAUSE
+Dialogue: 0,0:01:34.09,0:01:34.70,Default,,0,0,0,,{\an5}I COULDN'T BRING
+Dialogue: 0,0:01:34.70,0:01:35.20,Default,,0,0,0,,{\an5}MYSELF TO
+Dialogue: 0,0:01:35.20,0:01:35.81,Default,,0,0,0,,{\an5}REWARD BEHAVIOR
+Dialogue: 0,0:01:35.81,0:01:36.48,Default,,0,0,0,,{\an5}THAT FELT SO
+Dialogue: 0,0:01:36.48,0:01:37.18,Default,,0,0,0,,{\an5}INCONSIDERATE
+Dialogue: 0,0:01:37.18,0:01:37.79,Default,,0,0,0,,{\an5}AND HYPOCRITICAL.
+Dialogue: 0,0:01:38.15,0:01:38.78,Default,,0,0,0,,{\an5}NOW I'M
+Dialogue: 0,0:01:38.78,0:01:39.43,Default,,0,0,0,,{\an5}BEING MADE TO FEEL
+Dialogue: 0,0:01:39.43,0:01:40.09,Default,,0,0,0,,{\an5}COLD AND PETTY
+Dialogue: 0,0:01:40.09,0:01:40.64,Default,,0,0,0,,{\an5}FOR DRAWING THE
+Dialogue: 0,0:01:40.64,0:01:40.90,Default,,0,0,0,,{\an5}LINE.
+Dialogue: 0,0:01:41.18,0:01:41.71,Default,,0,0,0,,{\an5}BUT TO
+Dialogue: 0,0:01:41.71,0:01:42.23,Default,,0,0,0,,{\an5}ME IT FEELS
+Dialogue: 0,0:01:42.23,0:01:43.07,Default,,0,0,0,,{\an5}LIKE BASIC BOUNDARIES
+Dialogue: 0,0:01:43.07,0:01:43.59,Default,,0,0,0,,{\an5}AFTER ONE
+Dialogue: 0,0:01:43.59,0:01:44.78,Default,,0,0,0,,{\an5}TOO MANY DISAPPOINTMENTS.
+Dialogue: 0,0:01:45.07,0:01:45.64,Default,,0,0,0,,{\an5}SO WAS
+Dialogue: 0,0:01:45.64,0:01:46.18,Default,,0,0,0,,{\an5}I WRONG FOR
+Dialogue: 0,0:01:46.18,0:01:46.70,Default,,0,0,0,,{\an5}FINALLY SAYING
+Dialogue: 0,0:01:46.70,0:01:47.20,Default,,0,0,0,,{\an5}ENOUGH AND
+Dialogue: 0,0:01:47.20,0:01:47.71,Default,,0,0,0,,{\an5}LETTING CHRISTMAS
+Dialogue: 0,0:01:47.71,0:01:48.26,Default,,0,0,0,,{\an5}BE THE BREAKING
+Dialogue: 0,0:01:48.26,0:01:48.59,Default,,0,0,0,,{\an5}POINT?

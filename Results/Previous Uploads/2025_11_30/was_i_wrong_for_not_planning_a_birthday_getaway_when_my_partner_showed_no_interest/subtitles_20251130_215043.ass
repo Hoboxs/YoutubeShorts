@@ -1,0 +1,165 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.64,0:00:04.51,Default,,0,0,0,,{\an5}MY PARTNER'S
+Dialogue: 0,0:00:04.51,0:00:05.04,Default,,0,0,0,,{\an5}BIRTHDAY IS
+Dialogue: 0,0:00:05.04,0:00:05.58,Default,,0,0,0,,{\an5}COMING UP IN A
+Dialogue: 0,0:00:05.58,0:00:05.86,Default,,0,0,0,,{\an5}COUPLE OF
+Dialogue: 0,0:00:05.86,0:00:06.20,Default,,0,0,0,,{\an5}WEEKS.
+Dialogue: 0,0:00:06.37,0:00:06.90,Default,,0,0,0,,{\an5}AND SHE
+Dialogue: 0,0:00:06.90,0:00:07.46,Default,,0,0,0,,{\an5}MENTIONED WANTING
+Dialogue: 0,0:00:07.46,0:00:07.96,Default,,0,0,0,,{\an5}TO SPEND A
+Dialogue: 0,0:00:07.96,0:00:08.50,Default,,0,0,0,,{\an5}NIGHT OR TWO
+Dialogue: 0,0:00:08.50,0:00:09.19,Default,,0,0,0,,{\an5}SOMEWHERE AWAY
+Dialogue: 0,0:00:09.19,0:00:09.41,Default,,0,0,0,,{\an5}FROM
+Dialogue: 0,0:00:09.41,0:00:09.64,Default,,0,0,0,,{\an5}HOME.
+Dialogue: 0,0:00:10.09,0:00:10.66,Default,,0,0,0,,{\an5}MAYBE A
+Dialogue: 0,0:00:10.66,0:00:11.16,Default,,0,0,0,,{\an5}HOTEL OR
+Dialogue: 0,0:00:11.16,0:00:11.72,Default,,0,0,0,,{\an5}A SHORT LITTLE
+Dialogue: 0,0:00:11.72,0:00:12.01,Default,,0,0,0,,{\an5}ESCAPE.
+Dialogue: 0,0:00:12.30,0:00:12.90,Default,,0,0,0,,{\an5}SHE ALSO
+Dialogue: 0,0:00:12.90,0:00:13.53,Default,,0,0,0,,{\an5}SAID SHE'D LIKE
+Dialogue: 0,0:00:13.53,0:00:14.32,Default,,0,0,0,,{\an5}TO INVOLVE HER SISTER
+Dialogue: 0,0:00:14.32,0:00:14.56,Default,,0,0,0,,{\an5}IN THE
+Dialogue: 0,0:00:14.56,0:00:14.90,Default,,0,0,0,,{\an5}PLANS.
+Dialogue: 0,0:00:15.32,0:00:16.10,Default,,0,0,0,,{\an5}I CONSIDERED
+Dialogue: 0,0:00:16.10,0:00:16.94,Default,,0,0,0,,{\an5}ORGANIZING SOMETHING
+Dialogue: 0,0:00:16.94,0:00:17.23,Default,,0,0,0,,{\an5}A BIT
+Dialogue: 0,0:00:17.23,0:00:17.57,Default,,0,0,0,,{\an5}SPECIAL.
+Dialogue: 0,0:00:17.80,0:00:18.44,Default,,0,0,0,,{\an5}MAYBE EVEN
+Dialogue: 0,0:00:18.44,0:00:19.05,Default,,0,0,0,,{\an5}A SMALL DOMESTIC
+Dialogue: 0,0:00:19.05,0:00:19.48,Default,,0,0,0,,{\an5}TRIP.
+Dialogue: 0,0:00:19.67,0:00:20.17,Default,,0,0,0,,{\an5}WE LIVE
+Dialogue: 0,0:00:20.17,0:00:21.05,Default,,0,0,0,,{\an5}IN CANADA, BUT
+Dialogue: 0,0:00:21.05,0:00:21.57,Default,,0,0,0,,{\an5}SHE DIDN'T WANT
+Dialogue: 0,0:00:21.57,0:00:21.89,Default,,0,0,0,,{\an5}TO TRAVEL
+Dialogue: 0,0:00:21.89,0:00:22.12,Default,,0,0,0,,{\an5}FAR.
+Dialogue: 0,0:00:22.32,0:00:22.82,Default,,0,0,0,,{\an5}WE HAVE
+Dialogue: 0,0:00:22.82,0:00:23.44,Default,,0,0,0,,{\an5}KIDS WE CAN'T
+Dialogue: 0,0:00:23.44,0:00:23.96,Default,,0,0,0,,{\an5}REALLY BE AWAY
+Dialogue: 0,0:00:23.96,0:00:24.16,Default,,0,0,0,,{\an5}FROM
+Dialogue: 0,0:00:24.16,0:00:24.44,Default,,0,0,0,,{\an5}OVERNIGHT.
+Dialogue: 0,0:00:24.71,0:00:25.46,Default,,0,0,0,,{\an5}AND HER SISTER
+Dialogue: 0,0:00:25.46,0:00:26.14,Default,,0,0,0,,{\an5}HAS KIDS AS
+Dialogue: 0,0:00:26.14,0:00:26.30,Default,,0,0,0,,{\an5}WELL.
+Dialogue: 0,0:00:26.44,0:00:27.14,Default,,0,0,0,,{\an5}THE ISSUE
+Dialogue: 0,0:00:27.14,0:00:27.66,Default,,0,0,0,,{\an5}IS THAT WHENEVER
+Dialogue: 0,0:00:27.66,0:00:28.17,Default,,0,0,0,,{\an5}I BRING UP
+Dialogue: 0,0:00:28.17,0:00:28.48,Default,,0,0,0,,{\an5}IDEAS.
+Dialogue: 0,0:00:28.92,0:00:29.53,Default,,0,0,0,,{\an5}PLACES TO
+Dialogue: 0,0:00:29.53,0:00:29.73,Default,,0,0,0,,{\an5}STAY.
+Dialogue: 0,0:00:30.00,0:00:30.62,Default,,0,0,0,,{\an5}THINGS TO DO,
+Dialogue: 0,0:00:30.73,0:00:31.16,Default,,0,0,0,,{\an5}POSSIBLE
+Dialogue: 0,0:00:31.16,0:00:31.67,Default,,0,0,0,,{\an5}LOCATIONS.
+Dialogue: 0,0:00:32.07,0:00:32.61,Default,,0,0,0,,{\an5}SHE SHOWS
+Dialogue: 0,0:00:32.61,0:00:33.17,Default,,0,0,0,,{\an5}ALMOST NO
+Dialogue: 0,0:00:33.17,0:00:33.65,Default,,0,0,0,,{\an5}ENTHUSIASM.
+Dialogue: 0,0:00:34.02,0:00:34.56,Default,,0,0,0,,{\an5}EVEN A
+Dialogue: 0,0:00:34.56,0:00:35.06,Default,,0,0,0,,{\an5}BASIC HOTEL
+Dialogue: 0,0:00:35.06,0:00:35.61,Default,,0,0,0,,{\an5}STAY AROUND
+Dialogue: 0,0:00:35.61,0:00:36.17,Default,,0,0,0,,{\an5}HERE WOULD RUN
+Dialogue: 0,0:00:36.17,0:00:37.20,Default,,0,0,0,,{\an5}AT LEAST $350
+Dialogue: 0,0:00:37.20,0:00:37.71,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:00:37.71,0:00:38.11,Default,,0,0,0,,{\an5}A COUPLE OF
+Dialogue: 0,0:00:38.11,0:00:38.39,Default,,0,0,0,,{\an5}NIGHTS.
+Dialogue: 0,0:00:38.93,0:00:39.78,Default,,0,0,0,,{\an5}ESPECIALLY THIS
+Dialogue: 0,0:00:39.78,0:00:40.28,Default,,0,0,0,,{\an5}CLOSE TO THE
+Dialogue: 0,0:00:40.28,0:00:40.65,Default,,0,0,0,,{\an5}HOLIDAYS.
+Dialogue: 0,0:00:40.97,0:00:41.47,Default,,0,0,0,,{\an5}SO I
+Dialogue: 0,0:00:41.47,0:00:42.15,Default,,0,0,0,,{\an5}WANTED TO MAKE SURE
+Dialogue: 0,0:00:42.15,0:00:42.75,Default,,0,0,0,,{\an5}SHE WAS GENUINELY
+Dialogue: 0,0:00:42.75,0:00:43.53,Default,,0,0,0,,{\an5}INTERESTED BEFORE
+Dialogue: 0,0:00:43.53,0:00:44.11,Default,,0,0,0,,{\an5}SPENDING THAT
+Dialogue: 0,0:00:44.11,0:00:44.38,Default,,0,0,0,,{\an5}MUCH.
+Dialogue: 0,0:00:44.89,0:00:45.43,Default,,0,0,0,,{\an5}I ARRANGED
+Dialogue: 0,0:00:45.43,0:00:45.93,Default,,0,0,0,,{\an5}A CALL WITH
+Dialogue: 0,0:00:45.93,0:00:46.57,Default,,0,0,0,,{\an5}HER SISTER SO
+Dialogue: 0,0:00:46.57,0:00:47.17,Default,,0,0,0,,{\an5}WE COULD ALL TALK
+Dialogue: 0,0:00:47.17,0:00:47.35,Default,,0,0,0,,{\an5}ABOUT
+Dialogue: 0,0:00:47.35,0:00:47.78,Default,,0,0,0,,{\an5}POSSIBILITIES.
+Dialogue: 0,0:00:48.40,0:00:49.00,Default,,0,0,0,,{\an5}BUT SHE
+Dialogue: 0,0:00:49.00,0:00:49.70,Default,,0,0,0,,{\an5}DIDN'T ENGAGE AT
+Dialogue: 0,0:00:49.70,0:00:50.21,Default,,0,0,0,,{\an5}ALL AND WALKED
+Dialogue: 0,0:00:50.21,0:00:50.75,Default,,0,0,0,,{\an5}AWAY HALFWAY
+Dialogue: 0,0:00:50.75,0:00:51.06,Default,,0,0,0,,{\an5}THROUGH.
+Dialogue: 0,0:00:51.29,0:00:51.96,Default,,0,0,0,,{\an5}WHEN I TRY
+Dialogue: 0,0:00:51.96,0:00:52.70,Default,,0,0,0,,{\an5}TO DISCUSS OPTIONS,
+Dialogue: 0,0:00:53.02,0:00:53.56,Default,,0,0,0,,{\an5}I GET
+Dialogue: 0,0:00:53.56,0:00:54.24,Default,,0,0,0,,{\an5}THE USUAL SHORT
+Dialogue: 0,0:00:54.24,0:00:54.74,Default,,0,0,0,,{\an5}RESPONSES
+Dialogue: 0,0:00:54.74,0:00:55.38,Default,,0,0,0,,{\an5}LIKE, WHATEVER
+Dialogue: 0,0:00:55.38,0:00:55.92,Default,,0,0,0,,{\an5}YOU THINK,
+Dialogue: 0,0:00:55.97,0:00:56.60,Default,,0,0,0,,{\an5}OR, IT
+Dialogue: 0,0:00:56.60,0:00:57.15,Default,,0,0,0,,{\an5}DOESN'T MATTER,
+Dialogue: 0,0:00:57.25,0:00:57.82,Default,,0,0,0,,{\an5}WHICH MAKES IT
+Dialogue: 0,0:00:57.82,0:00:58.50,Default,,0,0,0,,{\an5}REALLY
+Dialogue: 0,0:00:58.50,0:00:59.10,Default,,0,0,0,,{\an5}HARD TO PLAN
+Dialogue: 0,0:00:59.10,0:00:59.79,Default,,0,0,0,,{\an5}ANYTHING MEANINGFUL
+Dialogue: 0,0:00:59.79,0:01:00.39,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:00.39,0:01:01.07,Default,,0,0,0,,{\an5}KNOW SHE'D PROBABLY
+Dialogue: 0,0:01:01.07,0:01:01.70,Default,,0,0,0,,{\an5}PREFER IF
+Dialogue: 0,0:01:01.70,0:01:02.38,Default,,0,0,0,,{\an5}I HANDLED EVERYTHING
+Dialogue: 0,0:01:02.38,0:01:02.88,Default,,0,0,0,,{\an5}FROM START
+Dialogue: 0,0:01:02.88,0:01:04.09,Default,,0,0,0,,{\an5}TO FINISH BUT
+Dialogue: 0,0:01:04.09,0:01:04.71,Default,,0,0,0,,{\an5}WITH MONEY BEING
+Dialogue: 0,0:01:04.71,0:01:05.37,Default,,0,0,0,,{\an5}TIGHT AROUND THIS
+Dialogue: 0,0:01:05.37,0:01:06.20,Default,,0,0,0,,{\an5}SEASON IT
+Dialogue: 0,0:01:06.20,0:01:06.78,Default,,0,0,0,,{\an5}FELT REASONABLE
+Dialogue: 0,0:01:06.78,0:01:07.29,Default,,0,0,0,,{\an5}TO EXPECT
+Dialogue: 0,0:01:07.29,0:01:07.84,Default,,0,0,0,,{\an5}AT LEAST A
+Dialogue: 0,0:01:07.84,0:01:08.45,Default,,0,0,0,,{\an5}LITTLE BIT OF INPUT
+Dialogue: 0,0:01:08.45,0:01:09.23,Default,,0,0,0,,{\an5}ON
+Dialogue: 0,0:01:09.23,0:01:09.78,Default,,0,0,0,,{\an5}TOP OF THAT
+Dialogue: 0,0:01:09.78,0:01:10.34,Default,,0,0,0,,{\an5}THE LAST
+Dialogue: 0,0:01:10.34,0:01:10.95,Default,,0,0,0,,{\an5}TWO TIMES I
+Dialogue: 0,0:01:10.95,0:01:11.64,Default,,0,0,0,,{\an5}ORGANIZED FAMILY
+Dialogue: 0,0:01:11.64,0:01:12.68,Default,,0,0,0,,{\an5}TRIPS SHE
+Dialogue: 0,0:01:12.68,0:01:13.29,Default,,0,0,0,,{\an5}SPENT MOST OF
+Dialogue: 0,0:01:13.29,0:01:13.81,Default,,0,0,0,,{\an5}THE TIME INSIDE
+Dialogue: 0,0:01:13.81,0:01:14.48,Default,,0,0,0,,{\an5}THE HOTEL OR
+Dialogue: 0,0:01:14.48,0:01:15.23,Default,,0,0,0,,{\an5}SAID SHE DIDN'T
+Dialogue: 0,0:01:15.23,0:01:15.93,Default,,0,0,0,,{\an5}FEEL COMFORTABLE IN
+Dialogue: 0,0:01:15.93,0:01:17.06,Default,,0,0,0,,{\an5}THE AREA SO
+Dialogue: 0,0:01:17.06,0:01:17.57,Default,,0,0,0,,{\an5}I DIDN'T WANT TO
+Dialogue: 0,0:01:17.57,0:01:18.12,Default,,0,0,0,,{\an5}REPEAT OF THAT
+Dialogue: 0,0:01:18.12,0:01:18.68,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:01:18.68,0:01:19.23,Default,,0,0,0,,{\an5}SISTER EVENTUALLY
+Dialogue: 0,0:01:19.23,0:01:19.76,Default,,0,0,0,,{\an5}BACKED
+Dialogue: 0,0:01:19.76,0:01:20.37,Default,,0,0,0,,{\an5}OUT BECAUSE OF
+Dialogue: 0,0:01:20.37,0:01:21.29,Default,,0,0,0,,{\an5}THE COST AND
+Dialogue: 0,0:01:21.29,0:01:21.79,Default,,0,0,0,,{\an5}WITH NO REAL
+Dialogue: 0,0:01:21.79,0:01:22.37,Default,,0,0,0,,{\an5}GUIDANCE FROM
+Dialogue: 0,0:01:22.37,0:01:23.34,Default,,0,0,0,,{\an5}MY PARTNER I
+Dialogue: 0,0:01:23.34,0:01:23.90,Default,,0,0,0,,{\an5}DECIDED NOT
+Dialogue: 0,0:01:23.90,0:01:24.50,Default,,0,0,0,,{\an5}TO BOOK ANYTHING
+Dialogue: 0,0:01:24.50,0:01:25.07,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:25.07,0:01:25.65,Default,,0,0,0,,{\an5}TOLD HER WE COULD
+Dialogue: 0,0:01:25.65,0:01:26.20,Default,,0,0,0,,{\an5}JUST GO OUT
+Dialogue: 0,0:01:26.20,0:01:26.79,Default,,0,0,0,,{\an5}FOR A NICE DINNER
+Dialogue: 0,0:01:26.79,0:01:27.09,Default,,0,0,0,,{\an5}INSTEAD.
+Dialogue: 0,0:01:27.59,0:01:28.28,Default,,0,0,0,,{\an5}NOW SHE'S
+Dialogue: 0,0:01:28.28,0:01:29.12,Default,,0,0,0,,{\an5}UPSET, DESPITE
+Dialogue: 0,0:01:29.12,0:01:29.90,Default,,0,0,0,,{\an5}BARELY REACTING
+Dialogue: 0,0:01:29.90,0:01:30.42,Default,,0,0,0,,{\an5}WHENEVER I
+Dialogue: 0,0:01:30.42,0:01:30.93,Default,,0,0,0,,{\an5}TRIED INVOLVING
+Dialogue: 0,0:01:30.93,0:01:31.35,Default,,0,0,0,,{\an5}HER IN THE
+Dialogue: 0,0:01:31.35,0:01:31.64,Default,,0,0,0,,{\an5}PLANNING.
+Dialogue: 0,0:01:31.87,0:01:32.48,Default,,0,0,0,,{\an5}SO NOW
+Dialogue: 0,0:01:32.48,0:01:32.98,Default,,0,0,0,,{\an5}I'M WONDERING,
+Dialogue: 0,0:01:33.15,0:01:33.76,Default,,0,0,0,,{\an5}WAS IT WRONG
+Dialogue: 0,0:01:33.76,0:01:34.28,Default,,0,0,0,,{\an5}NOT TO ARRANGE
+Dialogue: 0,0:01:34.28,0:01:34.78,Default,,0,0,0,,{\an5}A GETAWAY
+Dialogue: 0,0:01:34.78,0:01:35.40,Default,,0,0,0,,{\an5}WHEN SHE DIDN'T
+Dialogue: 0,0:01:35.40,0:01:35.98,Default,,0,0,0,,{\an5}SHOW ANY INTEREST
+Dialogue: 0,0:01:35.98,0:01:36.59,Default,,0,0,0,,{\an5}IN HELPING CHOOSE
+Dialogue: 0,0:01:36.59,0:01:36.95,Default,,0,0,0,,{\an5}ANYTHING?

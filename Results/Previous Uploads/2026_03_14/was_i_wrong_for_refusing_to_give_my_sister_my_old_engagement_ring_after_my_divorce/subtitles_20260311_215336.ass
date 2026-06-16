@@ -1,0 +1,105 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.66,0:00:05.37,Default,,80,80,60,,{\k24}30 {\k19}AND {\k10}WENT {\k17}THROUGH
+Dialogue: 0,0:00:05.37,0:00:06.09,Default,,80,80,60,,{\k10}A {\k13}DIVORCE {\k21}LAST {\k25}YEAR.
+Dialogue: 0,0:00:06.78,0:00:06.98,Default,,80,80,60,,{\k20}IT
+Dialogue: 0,0:00:06.98,0:00:07.59,Default,,80,80,60,,{\k11}WAS {\k34}MUTUAL {\k15}AND
+Dialogue: 0,0:00:07.59,0:00:08.48,Default,,80,80,60,,{\k24}FAIRLY {\k19}CALM {\k16}THERE {\k28}WASN
+Dialogue: 0,0:00:08.48,0:00:09.19,Default,,80,80,60,,{\k19}ANY {\k24}MAJOR {\k27}DRAMA.
+Dialogue: 0,0:00:09.88,0:00:10.09,Default,,80,80,60,,{\k21}WHEN
+Dialogue: 0,0:00:10.09,0:00:10.88,Default,,80,80,60,,{\k32}EVERYTHING {\k22}WAS {\k24}SETTLED,
+Dialogue: 0,0:00:10.88,0:00:11.74,Default,,80,80,60,,{\k21}I {\k14}KEPT {\k16}THE {\k33}ENGAGEMENT
+Dialogue: 0,0:00:11.74,0:00:12.96,Default,,80,80,60,,{\k25}RING. {\k22}MY
+Dialogue: 0,0:00:12.96,0:00:13.66,Default,,80,80,60,,{\k13}EX {\k12}AND {\k5}I {\k10}HAD {\k27}ACTUALLY
+Dialogue: 0,0:00:13.66,0:00:14.38,Default,,80,80,60,,{\k22}SPLIT {\k13}THE {\k17}COST {\k18}WHEN
+Dialogue: 0,0:00:14.38,0:00:15.11,Default,,80,80,60,,{\k13}WE {\k17}BOUGHT {\k10}IT {\k17}BECAUSE {\k13}WE
+Dialogue: 0,0:00:15.11,0:00:15.83,Default,,80,80,60,,{\k10}WERE {\k19}BOTH {\k24}EARLY {\k17}IN
+Dialogue: 0,0:00:15.83,0:00:16.55,Default,,80,80,60,,{\k9}OUR {\k20}CAREERS {\k16}AT {\k7}THE {\k17}TIME,
+Dialogue: 0,0:00:16.55,0:00:17.32,Default,,80,80,60,,{\k22}SO {\k9}IT {\k10}FELT {\k33}REASONABLE
+Dialogue: 0,0:00:17.32,0:00:18.01,Default,,80,80,60,,{\k21}THAT {\k10}I {\k19}KEPT {\k17}IT.
+Dialogue: 0,0:00:18.73,0:00:18.98,Default,,80,80,60,,{\k24}EVEN
+Dialogue: 0,0:00:18.98,0:00:19.69,Default,,80,80,60,,{\k16}THOUGH {\k12}THE {\k17}MARRIAGE {\k25}DIDN
+Dialogue: 0,0:00:19.69,0:00:20.32,Default,,80,80,60,,{\k12}WORK {\k16}OUT, {\k17}THE {\k16}RING
+Dialogue: 0,0:00:20.32,0:00:21.14,Default,,80,80,60,,{\k25}STILL {\k22}MEANS {\k33}SOMETHING
+Dialogue: 0,0:00:21.14,0:00:21.46,Default,,80,80,60,,{\k17}TO {\k14}ME.
+Dialogue: 0,0:00:22.26,0:00:23.05,Default,,80,80,60,,{\k7}IT {\k32}REPRESENTS {\k17}A {\k21}PERIOD
+Dialogue: 0,0:00:23.05,0:00:23.96,Default,,80,80,60,,{\k14}OF {\k10}MY {\k32}LIFE, {\k33}AND
+Dialogue: 0,0:00:23.96,0:00:24.64,Default,,80,80,60,,{\k17}I {\k9}JUST {\k20}NOT {\k19}READY
+Dialogue: 0,0:00:24.64,0:00:25.26,Default,,80,80,60,,{\k19}TO {\k16}PART {\k17}WITH {\k8}IT
+Dialogue: 0,0:00:25.26,0:00:26.26,Default,,80,80,60,,{\k16}YET. {\k18}I
+Dialogue: 0,0:00:26.26,0:00:26.94,Default,,80,80,60,,{\k13}DON {\k12}WEAR {\k12}IT {\k30}ANYMORE,
+Dialogue: 0,0:00:26.94,0:00:27.62,Default,,80,80,60,,{\k25}BUT {\k16}I {\k10}KEPT {\k16}IT
+Dialogue: 0,0:00:27.62,0:00:28.87,Default,,80,80,60,,{\k16}STORED {\k21}AWAY. {\k35}MY
+Dialogue: 0,0:00:28.87,0:00:29.50,Default,,80,80,60,,{\k22}YOUNGER {\k39}SISTER,
+Dialogue: 0,0:00:29.71,0:00:30.46,Default,,80,80,60,,{\k16}WHO {\k10}IS {\k48}25,
+Dialogue: 0,0:00:30.78,0:00:31.51,Default,,80,80,60,,{\k21}RECENTLY {\k16}GOT {\k35}ENGAGED.
+Dialogue: 0,0:00:32.25,0:00:32.61,Default,,80,80,60,,{\k35}HER
+Dialogue: 0,0:00:32.61,0:00:33.25,Default,,80,80,60,,{\k35}FIANC {\k20}DOESN {\k7}T
+Dialogue: 0,0:00:33.25,0:00:33.93,Default,,80,80,60,,{\k8}EARN {\k17}MUCH, {\k41}SO
+Dialogue: 0,0:00:33.93,0:00:34.53,Default,,80,80,60,,{\k10}HE {\k24}PROPOSED {\k21}WITH {\k3}A
+Dialogue: 0,0:00:34.53,0:00:35.20,Default,,80,80,60,,{\k20}VERY {\k25}SIMPLE {\k20}RING.
+Dialogue: 0,0:00:35.97,0:00:36.15,Default,,80,80,60,,{\k17}SHE
+Dialogue: 0,0:00:36.15,0:00:36.85,Default,,80,80,60,,{\k24}SEEMS {\k25}HAPPY {\k20}WITH
+Dialogue: 0,0:00:36.85,0:00:37.52,Default,,80,80,60,,{\k14}IT, {\k35}BUT {\k16}SHE
+Dialogue: 0,0:00:37.52,0:00:38.34,Default,,80,80,60,,{\k17}TOLD {\k15}ME {\k14}THEY {\k34}EVENTUALLY
+Dialogue: 0,0:00:38.34,0:00:39.21,Default,,80,80,60,,{\k19}WANT {\k16}TO {\k14}UPGRADE {\k37}SOMETHING
+Dialogue: 0,0:00:39.21,0:00:39.84,Default,,80,80,60,,{\k21}NICER {\k26}WHEN {\k14}THEY
+Dialogue: 0,0:00:39.84,0:00:40.39,Default,,80,80,60,,{\k9}CAN {\k21}AFFORD {\k24}IT.
+Dialogue: 0,0:00:41.11,0:00:41.71,Default,,80,80,60,,{\k12}A {\k14}FEW {\k17}DAYS {\k15}AGO
+Dialogue: 0,0:00:41.71,0:00:42.42,Default,,80,80,60,,{\k21}SHE {\k17}ASKED {\k16}IF {\k14}SHE
+Dialogue: 0,0:00:42.42,0:00:43.28,Default,,80,80,60,,{\k11}COULD {\k14}BUY {\k17}MY {\k14}OLD {\k28}ENGAGEMENT
+Dialogue: 0,0:00:43.28,0:00:43.88,Default,,80,80,60,,{\k28}RING {\k17}FROM {\k14}ME
+Dialogue: 0,0:00:43.88,0:00:44.61,Default,,80,80,60,,{\k11}AT {\k6}A {\k37}DISCOUNTED {\k17}PRICE
+Dialogue: 0,0:00:44.61,0:00:45.32,Default,,80,80,60,,{\k20}SINCE {\k17}I {\k10}NOT {\k21}USING
+Dialogue: 0,0:00:45.32,0:00:46.28,Default,,80,80,60,,{\k15}IT. {\k21}SHE
+Dialogue: 0,0:00:46.28,0:00:46.92,Default,,80,80,60,,{\k15}SAID {\k10}IT {\k7}WOULD {\k14}HELP {\k16}THEM
+Dialogue: 0,0:00:46.92,0:00:47.56,Default,,80,80,60,,{\k17}SAVE {\k28}MONEY {\k17}AND
+Dialogue: 0,0:00:47.56,0:00:48.32,Default,,80,80,60,,{\k11}GIVE {\k10}HER {\k25}SOMETHING {\k28}NICER
+Dialogue: 0,0:00:48.32,0:00:49.85,Default,,80,80,60,,{\k15}IN {\k8}THE {\k21}MEANTIME. {\k20}I
+Dialogue: 0,0:00:49.85,0:00:50.50,Default,,80,80,60,,{\k16}WAS {\k32}HONESTLY {\k15}CAUGHT
+Dialogue: 0,0:00:50.50,0:00:51.17,Default,,80,80,60,,{\k21}OFF {\k14}GUARD {\k20}AND {\k11}TOLD
+Dialogue: 0,0:00:51.17,0:00:52.46,Default,,80,80,60,,{\k14}HER {\k14}NO. {\k20}I
+Dialogue: 0,0:00:52.46,0:00:53.06,Default,,80,80,60,,{\k25}EXPLAINED {\k20}THAT {\k14}WHILE
+Dialogue: 0,0:00:53.06,0:00:53.67,Default,,80,80,60,,{\k17}I {\k10}NOT {\k13}WEARING {\k20}THE
+Dialogue: 0,0:00:53.67,0:00:54.32,Default,,80,80,60,,{\k14}RING, {\k33}I {\k16}ALSO
+Dialogue: 0,0:00:54.32,0:00:54.93,Default,,80,80,60,,{\k11}NOT {\k28}INTERESTED {\k21}IN
+Dialogue: 0,0:00:54.93,0:00:55.64,Default,,80,80,60,,{\k20}SELLING {\k11}IT {\k12}RIGHT {\k25}NOW.
+Dialogue: 0,0:00:56.14,0:00:56.50,Default,,80,80,60,,{\k35}SHE
+Dialogue: 0,0:00:56.50,0:00:57.11,Default,,80,80,60,,{\k25}DIDN {\k17}TAKE {\k17}THAT
+Dialogue: 0,0:00:57.11,0:00:57.32,Default,,80,80,60,,{\k20}WELL.
+Dialogue: 0,0:00:58.24,0:00:58.85,Default,,80,80,60,,{\k29}SHE {\k17}SAID {\k14}IT
+Dialogue: 0,0:00:58.85,0:00:59.74,Default,,80,80,60,,{\k10}WAS {\k21}STRANGE {\k17}AND {\k38}EMOTIONALLY
+Dialogue: 0,0:00:59.74,0:01:00.38,Default,,80,80,60,,{\k46}UNHEALTHY {\k17}THAT
+Dialogue: 0,0:01:00.38,0:01:01.02,Default,,80,80,60,,{\k19}I {\k16}HOLDING {\k28}ONTO
+Dialogue: 0,0:01:01.02,0:01:01.70,Default,,80,80,60,,{\k7}A {\k10}RING {\k17}FROM {\k9}A {\k22}MARRIAGE
+Dialogue: 0,0:01:01.70,0:01:03.15,Default,,80,80,60,,{\k19}THAT {\k28}ENDED. {\k23}SINCE
+Dialogue: 0,0:01:03.15,0:01:03.89,Default,,80,80,60,,{\k24}THEN, {\k11}MY
+Dialogue: 0,0:01:03.89,0:01:04.50,Default,,80,80,60,,{\k14}PARENTS {\k19}HAVE {\k26}STARTED
+Dialogue: 0,0:01:04.50,0:01:05.15,Default,,80,80,60,,{\k29}HINTING {\k14}THAT {\k7}I {\k14}SHOULD
+Dialogue: 0,0:01:05.15,0:01:05.84,Default,,80,80,60,,{\k34}RECONSIDER {\k34}SAYING
+Dialogue: 0,0:01:05.84,0:01:06.76,Default,,80,80,60,,{\k11}IT {\k12}WOULD {\k12}BE {\k9}A {\k12}KIND {\k34}GESTURE
+Dialogue: 0,0:01:06.76,0:01:07.51,Default,,80,80,60,,{\k17}AND {\k10}THAT {\k14}IT {\k15}BETTER {\k17}FOR
+Dialogue: 0,0:01:07.51,0:01:08.18,Default,,80,80,60,,{\k7}THE {\k16}RING {\k14}TO {\k9}BE {\k18}USED
+Dialogue: 0,0:01:08.18,0:01:08.90,Default,,80,80,60,,{\k9}THAN {\k20}SITTING {\k21}IN {\k6}A {\k14}DRAWER.
+Dialogue: 0,0:01:09.71,0:01:10.40,Default,,80,80,60,,{\k12}I {\k17}STILL {\k20}FEEL {\k18}LIKE
+Dialogue: 0,0:01:10.40,0:01:11.09,Default,,80,80,60,,{\k17}IT {\k10}MY {\k19}RING {\k10}AND {\k11}MY
+Dialogue: 0,0:01:11.09,0:01:12.00,Default,,80,80,60,,{\k28}CHOICE, {\k37}ESPECIALLY
+Dialogue: 0,0:01:12.00,0:01:12.65,Default,,80,80,60,,{\k20}SINCE {\k7}I {\k15}HELPED {\k21}PAY
+Dialogue: 0,0:01:12.65,0:01:13.78,Default,,80,80,60,,{\k15}FOR {\k20}IT. {\k15}BUT
+Dialogue: 0,0:01:13.78,0:01:14.40,Default,,80,80,60,,{\k12}THE {\k11}WAY {\k16}MY {\k21}FAMILY
+Dialogue: 0,0:01:14.40,0:01:15.06,Default,,80,80,60,,{\k17}IS {\k28}REACTING {\k20}HAS
+Dialogue: 0,0:01:15.06,0:01:15.79,Default,,80,80,60,,{\k9}MADE {\k12}ME {\k31}QUESTION {\k20}WHETHER
+Dialogue: 0,0:01:15.79,0:01:16.57,Default,,80,80,60,,{\k15}I {\k14}BEING {\k48}UNREASONABLE.
+Dialogue: 0,0:01:17.50,0:01:17.65,Default,,80,80,60,,{\k15}WAS
+Dialogue: 0,0:01:17.65,0:01:18.34,Default,,80,80,60,,{\k10}I {\k14}WRONG {\k14}FOR {\k29}REFUSING
+Dialogue: 0,0:01:18.34,0:01:19.01,Default,,80,80,60,,{\k17}TO {\k10}GIVE {\k14}OR {\k9}SELL {\k15}THE
+Dialogue: 0,0:01:19.01,0:01:19.68,Default,,80,80,60,,{\k12}RING {\k14}TO {\k9}MY {\k30}SISTER?

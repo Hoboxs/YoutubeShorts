@@ -1,0 +1,114 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.26,0:00:03.87,Default,,0,0,0,,\N{\k35}YEARS {\k25}AGO,
+Dialogue: 0,0:00:04.29,0:00:05.21,Default,,0,0,0,,\N{\k6}I {\k15}BOUGHT {\k16}A {\k14}USED {\k39}MOTORCYCLE
+Dialogue: 0,0:00:05.21,0:00:06.05,Default,,0,0,0,,\N{\k26}WITH {\k13}MY {\k13}OWN {\k29}MONEY,
+Dialogue: 0,0:00:06.28,0:00:07.12,Default,,0,0,0,,\N{\k29}SPENDING {\k16}A {\k12}FEW {\k25}THOUSAND
+Dialogue: 0,0:00:07.12,0:00:07.86,Default,,0,0,0,,\N{\k21}DOLLARS {\k24}AFTER {\k28}SAVING
+Dialogue: 0,0:00:07.86,0:00:08.67,Default,,0,0,0,,\N{\k15}UP {\k17}FOR {\k6}A {\k12}LONG {\k29}TIME.
+Dialogue: 0,0:00:09.67,0:00:10.32,Default,,0,0,0,,\N{\k12}MY {\k29}PARTNER {\k14}AT {\k8}THE
+Dialogue: 0,0:00:10.32,0:00:11.03,Default,,0,0,0,,\N{\k11}TIME {\k22}CAME {\k17}ALONG {\k19}WITH
+Dialogue: 0,0:00:11.03,0:00:11.69,Default,,0,0,0,,\N{\k14}ME {\k9}TO {\k12}LOOK {\k11}IT {\k17}OVER
+Dialogue: 0,0:00:11.69,0:00:12.50,Default,,0,0,0,,\N{\k14}AND {\k16}TALK {\k22}WITH {\k5}THE {\k22}SELLER.
+Dialogue: 0,0:00:13.25,0:00:14.17,Default,,0,0,0,,\N{\k24}DURING {\k16}THE {\k51}CONVERSATION,
+Dialogue: 0,0:00:14.50,0:00:15.32,Default,,0,0,0,,\N{\k3}THE {\k22}SELLER {\k27}CASUALLY {\k28}MENTIONED
+Dialogue: 0,0:00:15.32,0:00:16.01,Default,,0,0,0,,\N{\k17}THAT {\k14}SHE {\k9}HAD {\k27}RECENTLY
+Dialogue: 0,0:00:16.01,0:00:16.69,Default,,0,0,0,,\N{\k33}UPGRADED {\k21}A {\k12}PART
+Dialogue: 0,0:00:16.69,0:00:17.10,Default,,0,0,0,,\N{\k16}ON {\k8}THE {\k16}BIKE.
+Dialogue: 0,0:00:17.94,0:00:18.89,Default,,0,0,0,,\N{\k21}MY {\k35}PARTNER {\k37}IMMEDIATELY
+Dialogue: 0,0:00:18.89,0:00:19.66,Default,,0,0,0,,\N{\k36}ASKED {\k7}IF {\k12}SHE {\k19}STILL
+Dialogue: 0,0:00:19.66,0:00:20.46,Default,,0,0,0,,\N{\k17}HAD {\k12}THE {\k23}ORIGINAL {\k26}PART.
+Dialogue: 0,0:00:21.12,0:00:22.01,Default,,0,0,0,,\N{\k27}SHE {\k20}DID, {\k9}AND
+Dialogue: 0,0:00:22.01,0:00:22.73,Default,,0,0,0,,\N{\k10}HE {\k16}THEN {\k17}ASKED {\k14}IF {\k13}SHE
+Dialogue: 0,0:00:22.73,0:00:23.37,Default,,0,0,0,,\N{\k10}WOULD {\k21}INCLUDE {\k14}IT {\k10}WITH {\k7}THE
+Dialogue: 0,0:00:23.37,0:00:23.62,Default,,0,0,0,,\N{\k24}BIKE.
+Dialogue: 0,0:00:24.42,0:00:25.55,Default,,0,0,0,,\N{\k29}SHE {\k28}AGREED, {\k17}SO
+Dialogue: 0,0:00:25.55,0:00:26.21,Default,,0,0,0,,\N{\k24}WHEN {\k9}I {\k16}PAID {\k16}FOR
+Dialogue: 0,0:00:26.21,0:00:27.21,Default,,0,0,0,,\N{\k8}THE {\k35}MOTORCYCLE, {\k5}IT
+Dialogue: 0,0:00:27.21,0:00:27.87,Default,,0,0,0,,\N{\k22}ALSO {\k19}CAME {\k14}WITH {\k9}THE
+Dialogue: 0,0:00:27.87,0:00:28.76,Default,,0,0,0,,\N{\k22}EXTRA {\k35}COMPONENT {\k30}WHICH
+Dialogue: 0,0:00:28.76,0:00:29.55,Default,,0,0,0,,\N{\k16}WAS {\k21}WORTH {\k7}A {\k12}FEW {\k21}HUNDRED
+Dialogue: 0,0:00:29.55,0:00:30.28,Default,,0,0,0,,\N{\k26}DOLLARS {\k7}ON {\k20}ITS {\k17}OWN.
+Dialogue: 0,0:00:31.33,0:00:31.98,Default,,0,0,0,,\N{\k19}ONCE {\k16}WE {\k10}GOT {\k17}BACK
+Dialogue: 0,0:00:31.98,0:00:32.82,Default,,0,0,0,,\N{\k26}HOME, {\k5}MY {\k24}PARTNER
+Dialogue: 0,0:00:32.82,0:00:33.61,Default,,0,0,0,,\N{\k17}TOOK {\k15}THE {\k22}EXTRA {\k23}PART
+Dialogue: 0,0:00:33.61,0:00:34.60,Default,,0,0,0,,\N{\k16}AND {\k24}STARTED {\k57}PHOTOGRAPHING
+Dialogue: 0,0:00:34.60,0:00:35.21,Default,,0,0,0,,\N{\k10}IT {\k11}SO {\k11}HE {\k10}COULD {\k17}LIST
+Dialogue: 0,0:00:35.21,0:00:35.97,Default,,0,0,0,,\N{\k12}IT {\k17}ONLINE {\k25}FOR {\k19}SALE.
+Dialogue: 0,0:00:36.82,0:00:37.56,Default,,0,0,0,,\N{\k11}I {\k17}TOLD {\k20}HIM {\k6}I {\k17}THOUGHT
+Dialogue: 0,0:00:37.56,0:00:38.20,Default,,0,0,0,,\N{\k14}IT {\k7}WAS {\k24}SMART {\k17}OF
+Dialogue: 0,0:00:38.20,0:00:38.84,Default,,0,0,0,,\N{\k9}HIM {\k12}TO {\k11}THINK {\k16}TO {\k14}ASK
+Dialogue: 0,0:00:38.84,0:00:39.56,Default,,0,0,0,,\N{\k13}FOR {\k8}IT {\k11}AND {\k11}SAID {\k14}I {\k12}WOULD
+Dialogue: 0,0:00:39.56,0:00:40.17,Default,,0,0,0,,\N{\k7}BE {\k17}HAPPY {\k17}TO {\k17}SPLIT
+Dialogue: 0,0:00:40.17,0:00:40.82,Default,,0,0,0,,\N{\k17}THE {\k17}MONEY {\k14}FROM {\k14}THE
+Dialogue: 0,0:00:40.82,0:00:41.32,Default,,0,0,0,,\N{\k17}SALE {\k17}WITH {\k14}HIM.
+Dialogue: 0,0:00:42.02,0:00:42.74,Default,,0,0,0,,\N{\k15}HE {\k34}FLATLY {\k21}REFUSED
+Dialogue: 0,0:00:42.74,0:00:43.39,Default,,0,0,0,,\N{\k23}AND {\k16}SAID {\k10}THE {\k15}PART
+Dialogue: 0,0:00:43.39,0:00:44.10,Default,,0,0,0,,\N{\k16}WAS {\k28}ENTIRELY {\k25}HIS,
+Dialogue: 0,0:00:44.25,0:00:44.88,Default,,0,0,0,,\N{\k21}ARGUING {\k26}THAT {\k14}WE
+Dialogue: 0,0:00:44.88,0:00:45.53,Default,,0,0,0,,\N{\k11}WOULD {\k10}NOT {\k15}HAVE {\k6}IT {\k14}AT {\k7}ALL
+Dialogue: 0,0:00:45.53,0:00:46.20,Default,,0,0,0,,\N{\k17}IF {\k7}HE {\k8}HAD {\k14}NOT {\k17}THOUGHT
+Dialogue: 0,0:00:46.20,0:00:46.85,Default,,0,0,0,,\N{\k15}TO {\k14}ASK {\k15}FOR {\k8}IT {\k11}IN
+Dialogue: 0,0:00:46.85,0:00:47.38,Default,,0,0,0,,\N{\k10}THEIR {\k17}FIRST {\k24}PLACE.
+Dialogue: 0,0:00:48.17,0:00:48.84,Default,,0,0,0,,\N{\k11}I {\k42}DISAGREED {\k12}AND
+Dialogue: 0,0:00:48.84,0:00:49.60,Default,,0,0,0,,\N{\k15}SAID {\k14}THAT {\k15}WHILE {\k14}THE {\k16}IDEA
+Dialogue: 0,0:00:49.60,0:00:50.50,Default,,0,0,0,,\N{\k24}WAS {\k11}HIS, {\k7}THE
+Dialogue: 0,0:00:50.50,0:00:51.17,Default,,0,0,0,,\N{\k25}ITEM {\k26}ONLY {\k15}CAME
+Dialogue: 0,0:00:51.17,0:00:51.92,Default,,0,0,0,,\N{\k17}WITH {\k10}THE {\k17}PURCHASE {\k28}BECAUSE
+Dialogue: 0,0:00:51.92,0:00:52.78,Default,,0,0,0,,\N{\k15}I {\k16}PAID {\k17}FOR {\k7}THE {\k28}MOTORCYCLE.
+Dialogue: 0,0:00:53.78,0:00:54.52,Default,,0,0,0,,\N{\k32}STILL, {\k6}I {\k17}WANTED
+Dialogue: 0,0:00:54.52,0:00:55.24,Default,,0,0,0,,\N{\k15}TO {\k10}BE {\k19}FAIR, {\k10}SO
+Dialogue: 0,0:00:55.24,0:00:55.85,Default,,0,0,0,,\N{\k10}I {\k33}SUGGESTED {\k17}WE
+Dialogue: 0,0:00:55.85,0:00:56.46,Default,,0,0,0,,\N{\k20}SPLIT {\k14}THE {\k25}PROCEEDS
+Dialogue: 0,0:00:56.46,0:00:56.96,Default,,0,0,0,,\N{\k50}EVENLY.
+Dialogue: 0,0:00:57.66,0:00:58.34,Default,,0,0,0,,\N{\k35}WHAT {\k32}FOLLOWED
+Dialogue: 0,0:00:58.34,0:00:59.20,Default,,0,0,0,,\N{\k21}WAS {\k11}A {\k16}BIG {\k35}ARGUMENT.
+Dialogue: 0,0:00:59.96,0:01:00.65,Default,,0,0,0,,\N{\k14}HE {\k24}INSISTED {\k19}HE {\k11}WAS
+Dialogue: 0,0:01:00.65,0:01:01.32,Default,,0,0,0,,\N{\k32}ENTITLED {\k20}TO {\k14}ALL
+Dialogue: 0,0:01:01.32,0:01:02.06,Default,,0,0,0,,\N{\k7}THE {\k20}MONEY {\k21}AND {\k7}I {\k16}FELT
+Dialogue: 0,0:01:02.06,0:01:02.84,Default,,0,0,0,,\N{\k46}INCREASINGLY {\k32}PRESSURED
+Dialogue: 0,0:01:02.84,0:01:03.47,Default,,0,0,0,,\N{\k17}AND {\k13}WORN {\k18}DOWN {\k13}BY
+Dialogue: 0,0:01:03.47,0:01:03.92,Default,,0,0,0,,\N{\k12}THE {\k32}CONFLICT.
+Dialogue: 0,0:01:04.93,0:01:05.64,Default,,0,0,0,,\N{\k35}EVENTUALLY, {\k4}I {\k14}GAVE
+Dialogue: 0,0:01:05.64,0:01:06.35,Default,,0,0,0,,\N{\k17}IN {\k12}AND {\k12}LET {\k14}HIM {\k15}KEEP
+Dialogue: 0,0:01:06.35,0:01:07.04,Default,,0,0,0,,\N{\k15}THE {\k16}PART {\k17}AND {\k18}ALL
+Dialogue: 0,0:01:07.04,0:01:07.76,Default,,0,0,0,,\N{\k11}THE {\k18}MONEY {\k17}FROM {\k24}SELLING
+Dialogue: 0,0:01:07.76,0:01:08.54,Default,,0,0,0,,\N{\k23}IT {\k20}WHICH {\k34}AMOUNTED
+Dialogue: 0,0:01:08.54,0:01:09.34,Default,,0,0,0,,\N{\k7}TO {\k3}A {\k10}FEW {\k25}HUNDRED {\k32}DOLLARS.
+Dialogue: 0,0:01:10.21,0:01:10.98,Default,,0,0,0,,\N{\k29}EVEN {\k16}AT {\k7}THE {\k21}TIME,
+Dialogue: 0,0:01:11.21,0:01:11.98,Default,,0,0,0,,\N{\k6}I {\k7}HAD {\k14}AN {\k18}UNEASY {\k29}FEELING
+Dialogue: 0,0:01:11.98,0:01:12.68,Default,,0,0,0,,\N{\k17}THAT {\k10}I {\k7}HAD {\k9}BEEN {\k24}PUSHED
+Dialogue: 0,0:01:12.68,0:01:13.42,Default,,0,0,0,,\N{\k17}INTO {\k21}AGREEING {\k20}JUST {\k14}TO
+Dialogue: 0,0:01:13.42,0:01:13.90,Default,,0,0,0,,\N{\k12}KEEP {\k11}THE {\k24}PIECE.
+Dialogue: 0,0:01:14.71,0:01:15.42,Default,,0,0,0,,\N{\k18}LOOKING {\k25}BACK, {\k4}I
+Dialogue: 0,0:01:15.42,0:01:16.12,Default,,0,0,0,,\N{\k12}CAN {\k33}UNDERSTAND {\k24}HIS
+Dialogue: 0,0:01:16.12,0:01:16.90,Default,,0,0,0,,\N{\k31}ARGUMENT {\k21}TO {\k2}A {\k21}DEGREE
+Dialogue: 0,0:01:16.90,0:01:17.56,Default,,0,0,0,,\N{\k43}SINCE {\k21}THE
+Dialogue: 0,0:01:17.56,0:01:18.35,Default,,0,0,0,,\N{\k9}IDEA {\k28}CAME {\k15}FROM {\k26}HIM,
+Dialogue: 0,0:01:18.51,0:01:19.23,Default,,0,0,0,,\N{\k7}BUT {\k12}I {\k14}HAVE {\k18}ALWAYS {\k19}FELT
+Dialogue: 0,0:01:19.23,0:01:19.85,Default,,0,0,0,,\N{\k14}THAT {\k10}I {\k9}WAS {\k28}BULLIED
+Dialogue: 0,0:01:19.85,0:01:20.68,Default,,0,0,0,,\N{\k26}INTO {\k15}GIVING {\k14}UP {\k26}SOMETHING
+Dialogue: 0,0:01:20.68,0:01:21.40,Default,,0,0,0,,\N{\k13}THAT {\k12}WAS {\k29}INCLUDED {\k16}IN
+Dialogue: 0,0:01:21.40,0:01:22.01,Default,,0,0,0,,\N{\k5}A {\k28}PURCHASE {\k16}I {\k11}MADE
+Dialogue: 0,0:01:22.01,0:01:22.68,Default,,0,0,0,,\N{\k18}WITH {\k11}MY {\k12}OWN {\k24}MONEY.
+Dialogue: 0,0:01:23.51,0:01:24.26,Default,,0,0,0,,\N{\k35}WE {\k6}ARE {\k10}NO {\k21}LONGER
+Dialogue: 0,0:01:24.26,0:01:25.00,Default,,0,0,0,,\N{\k19}TO {\k10}GET {\k15}THERE, {\k6}AND
+Dialogue: 0,0:01:25.00,0:01:25.81,Default,,0,0,0,,\N{\k15}THIS {\k20}HAPPENED {\k12}A {\k11}LONG {\k21}TIME
+Dialogue: 0,0:01:25.81,0:01:26.48,Default,,0,0,0,,\N{\k26}AGO, {\k12}BUT
+Dialogue: 0,0:01:26.48,0:01:27.09,Default,,0,0,0,,\N{\k9}IT {\k10}HAS {\k17}ALWAYS {\k23}STOOD
+Dialogue: 0,0:01:27.09,0:01:27.76,Default,,0,0,0,,\N{\k16}OUT {\k11}TO {\k10}ME {\k11}AS {\k16}ONE
+Dialogue: 0,0:01:27.76,0:01:28.43,Default,,0,0,0,,\N{\k11}OF {\k14}THE {\k42}SITUATIONS
+Dialogue: 0,0:01:28.43,0:01:29.26,Default,,0,0,0,,\N{\k26}WHERE {\k7}I {\k21}WONDERED {\k26}WHETHER
+Dialogue: 0,0:01:29.26,0:01:30.09,Default,,0,0,0,,\N{\k14}I {\k14}WAS {\k15}BEING {\k39}UNREASONABLE
+Dialogue: 0,0:01:30.09,0:01:30.87,Default,,0,0,0,,\N{\k32}OR {\k12}WHETHER {\k14}MY {\k19}INSTINCTS
+Dialogue: 0,0:01:30.87,0:01:31.65,Default,,0,0,0,,\N{\k24}ABOUT {\k11}THE {\k42}SITUATION
+Dialogue: 0,0:01:31.65,0:01:32.31,Default,,0,0,0,,\N{\k15}WERE {\k16}RIGHT {\k17}ALL {\k15}ALONG.

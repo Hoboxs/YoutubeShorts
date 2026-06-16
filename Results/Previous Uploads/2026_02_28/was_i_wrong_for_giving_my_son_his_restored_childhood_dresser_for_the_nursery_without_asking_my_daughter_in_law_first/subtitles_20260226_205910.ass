@@ -1,0 +1,126 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.66,0:00:06.36,Default,,0,0,0,,\N{\k5}WHEN {\k16}MY {\k16}SON {\k16}WAS {\k16}GROWING
+Dialogue: 0,0:00:06.36,0:00:07.13,Default,,0,0,0,,\N{\k17}UP {\k20}HE {\k5}HAD {\k10}THE {\k23}DRESSER
+Dialogue: 0,0:00:07.13,0:00:08.06,Default,,0,0,0,,\N{\k16}HANDMADE {\k25}BY {\k12}MY {\k38}FATHER.
+Dialogue: 0,0:00:08.66,0:00:09.01,Default,,0,0,0,,\N{\k35}MY
+Dialogue: 0,0:00:09.01,0:00:10.06,Default,,0,0,0,,\N{\k14}DAD {\k16}WAS {\k6}A {\k21}SKILLED {\k46}WOODWORKER
+Dialogue: 0,0:00:10.06,0:00:10.77,Default,,0,0,0,,\N{\k33}AND {\k9}THE {\k27}DRESSER
+Dialogue: 0,0:00:10.77,0:00:11.40,Default,,0,0,0,,\N{\k6}HAD {\k24}BEAUTIFUL {\k32}HAND
+Dialogue: 0,0:00:11.40,0:00:12.09,Default,,0,0,0,,\N{\k16}CARVED {\k35}DETAILS {\k17}AND
+Dialogue: 0,0:00:12.09,0:00:12.88,Default,,0,0,0,,\N{\k14}HIS {\k35}PERSONAL {\k28}STAMP
+Dialogue: 0,0:00:12.88,0:00:13.30,Default,,0,0,0,,\N{\k15}ON {\k26}IT.
+Dialogue: 0,0:00:14.06,0:00:14.75,Default,,0,0,0,,\N{\k9}IT {\k14}MEANT {\k11}A {\k8}LOT {\k14}TO {\k11}MY
+Dialogue: 0,0:00:14.75,0:00:15.03,Default,,0,0,0,,\N{\k27}SON.
+Dialogue: 0,0:00:15.94,0:00:16.76,Default,,0,0,0,,\N{\k35}UNFORTUNATELY, {\k1}A {\k24}TORNADO
+Dialogue: 0,0:00:16.76,0:00:17.50,Default,,0,0,0,,\N{\k35}DAMAGED {\k19}AT {\k17}HOME
+Dialogue: 0,0:00:17.50,0:00:18.14,Default,,0,0,0,,\N{\k19}YEARS {\k26}AGO {\k17}AND
+Dialogue: 0,0:00:18.14,0:00:18.87,Default,,0,0,0,,\N{\k9}THE {\k28}DRESSER {\k10}WAS {\k25}BADLY
+Dialogue: 0,0:00:18.87,0:00:19.50,Default,,0,0,0,,\N{\k30}BROKEN {\k14}WHEN {\k17}PART
+Dialogue: 0,0:00:19.50,0:00:20.16,Default,,0,0,0,,\N{\k17}OF {\k12}THE {\k12}ROOF {\k23}GLAD.
+Dialogue: 0,0:00:20.98,0:00:21.26,Default,,0,0,0,,\N{\k28}BY
+Dialogue: 0,0:00:21.26,0:00:21.89,Default,,0,0,0,,\N{\k11}THE {\k17}TIME {\k16}MY {\k17}SON
+Dialogue: 0,0:00:21.89,0:00:22.53,Default,,0,0,0,,\N{\k22}MOVED {\k17}OUT {\k23}AFTER
+Dialogue: 0,0:00:22.53,0:00:23.33,Default,,0,0,0,,\N{\k28}COLLEGE, {\k1}IT {\k21}WASN'T
+Dialogue: 0,0:00:23.33,0:00:24.17,Default,,0,0,0,,\N{\k32}USABLE, {\k16}SO
+Dialogue: 0,0:00:24.17,0:00:24.89,Default,,0,0,0,,\N{\k12}IT {\k14}STAYED {\k16}IN {\k9}OUR {\k19}GARAGE.
+Dialogue: 0,0:00:25.80,0:00:26.16,Default,,0,0,0,,\N{\k35}I
+Dialogue: 0,0:00:26.16,0:00:26.78,Default,,0,0,0,,\N{\k17}COULDN'T {\k12}BRING {\k32}MYSELF
+Dialogue: 0,0:00:26.78,0:00:27.51,Default,,0,0,0,,\N{\k19}TO {\k21}THROW {\k12}IT {\k19}AWAY.
+Dialogue: 0,0:00:28.17,0:00:28.53,Default,,0,0,0,,\N{\k36}NOW
+Dialogue: 0,0:00:28.53,0:00:29.21,Default,,0,0,0,,\N{\k17}MY {\k14}SON {\k12}IS {\k23}MARRIED
+Dialogue: 0,0:00:29.21,0:00:30.00,Default,,0,0,0,,\N{\k17}AND {\k26}RECENTLY {\k33}MOVED
+Dialogue: 0,0:00:30.00,0:00:30.78,Default,,0,0,0,,\N{\k21}INTO {\k12}WHAT {\k12}THEY {\k32}CONSIDERED
+Dialogue: 0,0:00:30.78,0:00:31.53,Default,,0,0,0,,\N{\k19}THERE {\k23}FOREVER {\k32}HOME.
+Dialogue: 0,0:00:32.20,0:00:32.34,Default,,0,0,0,,\N{\k14}HE
+Dialogue: 0,0:00:32.34,0:00:32.97,Default,,0,0,0,,\N{\k25}MENTIONED {\k17}TO {\k7}ME {\k11}THAT
+Dialogue: 0,0:00:32.97,0:00:33.70,Default,,0,0,0,,\N{\k10}IT {\k16}MADE {\k14}HIM {\k15}SAD {\k16}THEIR
+Dialogue: 0,0:00:33.70,0:00:34.47,Default,,0,0,0,,\N{\k23}CHILD {\k21}WOULDN'T {\k10}HAVE {\k21}SOMETHING
+Dialogue: 0,0:00:34.47,0:00:35.14,Default,,0,0,0,,\N{\k16}LIKE {\k17}THAT {\k24}DRESSER {\k7}TO
+Dialogue: 0,0:00:35.14,0:00:36.02,Default,,0,0,0,,\N{\k15}GROW {\k14}UP {\k17}WITH, {\k28}ESPECIALLY
+Dialogue: 0,0:00:36.02,0:00:36.93,Default,,0,0,0,,\N{\k27}SINCE {\k17}HIS {\k14}GRANDFATHER {\k32}MY
+Dialogue: 0,0:00:36.93,0:00:37.56,Default,,0,0,0,,\N{\k26}FATHER {\k14}HAS {\k21}PASSED
+Dialogue: 0,0:00:37.56,0:00:38.82,Default,,0,0,0,,\N{\k28}AWAY. {\k17}HE
+Dialogue: 0,0:00:38.82,0:00:39.43,Default,,0,0,0,,\N{\k11}SAID {\k14}HE {\k20}WISHED {\k15}HE
+Dialogue: 0,0:00:39.43,0:00:40.17,Default,,0,0,0,,\N{\k12}COULD {\k15}PASS {\k28}SOMETHING {\k17}LIKE
+Dialogue: 0,0:00:40.17,0:00:41.53,Default,,0,0,0,,\N{\k16}THAT {\k27}DOWN. {\k15}HE
+Dialogue: 0,0:00:41.53,0:00:42.17,Default,,0,0,0,,\N{\k16}TALKED {\k27}ABOUT {\k20}TRYING
+Dialogue: 0,0:00:42.17,0:00:43.00,Default,,0,0,0,,\N{\k14}TO {\k14}BUILD {\k29}SOMETHING {\k24}SMALL
+Dialogue: 0,0:00:43.00,0:00:43.78,Default,,0,0,0,,\N{\k35}HIMSELF, {\k7}BUT
+Dialogue: 0,0:00:43.78,0:00:44.39,Default,,0,0,0,,\N{\k33}ADMITTED {\k28}HE'S
+Dialogue: 0,0:00:44.39,0:00:45.00,Default,,0,0,0,,\N{\k10}NOT {\k24}VERY {\k25}HANDY.
+Dialogue: 0,0:00:45.82,0:00:45.97,Default,,0,0,0,,\N{\k15}I
+Dialogue: 0,0:00:45.97,0:00:46.57,Default,,0,0,0,,\N{\k17}DECIDED {\k30}TO {\k11}SEE
+Dialogue: 0,0:00:46.57,0:00:47.24,Default,,0,0,0,,\N{\k14}IF {\k7}THE {\k30}DRESSER {\k14}COULD
+Dialogue: 0,0:00:47.24,0:00:47.65,Default,,0,0,0,,\N{\k14}BE {\k27}RESTORED.
+Dialogue: 0,0:00:48.56,0:00:49.38,Default,,0,0,0,,\N{\k9}I {\k38}CONTACTED {\k34}SEVERAL
+Dialogue: 0,0:00:49.38,0:00:50.10,Default,,0,0,0,,\N{\k43}CRAFTSMEN {\k28}AND
+Dialogue: 0,0:00:50.10,0:00:50.84,Default,,0,0,0,,\N{\k14}ONE {\k25}AGREED {\k14}TO {\k20}TRY.
+Dialogue: 0,0:00:51.64,0:00:51.79,Default,,0,0,0,,\N{\k15}IN
+Dialogue: 0,0:00:51.79,0:00:52.52,Default,,0,0,0,,\N{\k12}THE {\k17}END {\k19}HE {\k22}MANAGED
+Dialogue: 0,0:00:52.52,0:00:53.25,Default,,0,0,0,,\N{\k13}TO {\k22}PRESERVE {\k19}MUCH {\k17}OF
+Dialogue: 0,0:00:53.25,0:00:53.89,Default,,0,0,0,,\N{\k10}THE {\k29}ORIGINAL {\k24}WOOD,
+Dialogue: 0,0:00:54.02,0:00:54.92,Default,,0,0,0,,\N{\k25}INCLUDING {\k24}MY {\k39}FATHER'S
+Dialogue: 0,0:00:54.92,0:00:55.60,Default,,0,0,0,,\N{\k10}STAMP {\k27}AND {\k8}A {\k7}LOT {\k14}OF
+Dialogue: 0,0:00:55.60,0:00:56.43,Default,,0,0,0,,\N{\k7}THE {\k28}ORIGINAL {\k47}COVINGS.
+Dialogue: 0,0:00:56.98,0:00:57.38,Default,,0,0,0,,\N{\k39}HE
+Dialogue: 0,0:00:57.38,0:00:58.29,Default,,0,0,0,,\N{\k25}REPLACED {\k29}DAMAGED {\k35}SECTIONS
+Dialogue: 0,0:00:58.29,0:00:59.14,Default,,0,0,0,,\N{\k20}AND {\k24}EVEN {\k39}RECREATED
+Dialogue: 0,0:00:59.14,0:00:59.88,Default,,0,0,0,,\N{\k57}ENGRAVINGS {\k16}BASED
+Dialogue: 0,0:00:59.88,0:01:00.32,Default,,0,0,0,,\N{\k14}ON {\k29}PHOTOS.
+Dialogue: 0,0:01:01.28,0:01:02.06,Default,,0,0,0,,\N{\k10}IT {\k17}TURNED {\k17}OUT {\k32}BEAUTIFULLY.
+Dialogue: 0,0:01:02.89,0:01:03.11,Default,,0,0,0,,\N{\k21}I
+Dialogue: 0,0:01:03.11,0:01:03.84,Default,,0,0,0,,\N{\k32}INVITED {\k20}MY {\k20}SON
+Dialogue: 0,0:01:03.84,0:01:04.48,Default,,0,0,0,,\N{\k15}AND {\k48}DAUGHTER-IN-LAW
+Dialogue: 0,0:01:04.48,0:01:05.18,Default,,0,0,0,,\N{\k23}OVER {\k20}FOR {\k9}DINNER {\k16}AND
+Dialogue: 0,0:01:05.18,0:01:05.84,Default,,0,0,0,,\N{\k31}SURPRISE {\k20}MY {\k14}SON
+Dialogue: 0,0:01:05.84,0:01:07.34,Default,,0,0,0,,\N{\k14}WITH {\k9}IT {\k12}AS {\k9}A {\k14}GIFT. {\k10}HE
+Dialogue: 0,0:01:07.34,0:01:07.98,Default,,0,0,0,,\N{\k11}WAS {\k18}THRILLED {\k14}AND {\k9}TOOK {\k10}IT
+Dialogue: 0,0:01:07.98,0:01:08.48,Default,,0,0,0,,\N{\k15}HOME {\k14}THAT {\k20}NIGHT.
+Dialogue: 0,0:01:09.26,0:01:09.93,Default,,0,0,0,,\N{\k28}LATER, {\k14}HE
+Dialogue: 0,0:01:09.93,0:01:10.68,Default,,0,0,0,,\N{\k20}EVEN {\k9}SENT {\k16}ME {\k28}PHOTOS
+Dialogue: 0,0:01:10.68,0:01:11.31,Default,,0,0,0,,\N{\k21}OF {\k5}IT {\k16}PLACED {\k19}IN
+Dialogue: 0,0:01:11.31,0:01:12.78,Default,,0,0,0,,\N{\k8}THE {\k21}NURSERY. {\k20}ABOUT
+Dialogue: 0,0:01:12.78,0:01:13.57,Default,,0,0,0,,\N{\k9}A {\k10}WEEK {\k33}LATER, {\k6}MY
+Dialogue: 0,0:01:13.57,0:01:14.18,Default,,0,0,0,,\N{\k43}DAUGHTER-IN-LAW {\k16}SENT
+Dialogue: 0,0:01:14.18,0:01:16.14,Default,,0,0,0,,\N{\k15}ME {\k7}A {\k14}LONG {\k21}TEXT. {\k23}SHE
+Dialogue: 0,0:01:16.14,0:01:16.76,Default,,0,0,0,,\N{\k9}WAS {\k18}VERY {\k12}UPSET {\k21}THAT
+Dialogue: 0,0:01:16.76,0:01:17.43,Default,,0,0,0,,\N{\k11}I {\k30}HADN'T {\k13}TOLD {\k12}HER
+Dialogue: 0,0:01:17.43,0:01:18.78,Default,,0,0,0,,\N{\k40}BEFOREHAND. {\k20}SHE
+Dialogue: 0,0:01:18.78,0:01:19.57,Default,,0,0,0,,\N{\k17}SAID {\k12}THE {\k28}DRESSER {\k21}DOESN'T
+Dialogue: 0,0:01:19.57,0:01:20.37,Default,,0,0,0,,\N{\k20}MATCH {\k14}THE {\k21}NURSERY {\k23}WHICH
+Dialogue: 0,0:01:20.37,0:01:21.23,Default,,0,0,0,,\N{\k21}IS {\k35}DECORATED {\k28}IN
+Dialogue: 0,0:01:21.23,0:01:21.92,Default,,0,0,0,,\N{\k16}VERY {\k25}LIGHT {\k26}TONES
+Dialogue: 0,0:01:21.92,0:01:22.62,Default,,0,0,0,,\N{\k35}THAT {\k9}I {\k10}HAD {\k14}NO
+Dialogue: 0,0:01:22.62,0:01:23.35,Default,,0,0,0,,\N{\k17}RIGHT {\k20}TO {\k35}DECORATE
+Dialogue: 0,0:01:23.35,0:01:24.06,Default,,0,0,0,,\N{\k20}THE {\k23}HOUSE {\k26}AND
+Dialogue: 0,0:01:24.06,0:01:24.81,Default,,0,0,0,,\N{\k9}THAT {\k7}IT {\k7}WAS {\k14}CAUSE {\k35}INTENTION
+Dialogue: 0,0:01:24.81,0:01:25.48,Default,,0,0,0,,\N{\k28}BETWEEN {\k18}HER {\k12}AND {\k7}MY
+Dialogue: 0,0:01:25.48,0:01:26.81,Default,,0,0,0,,\N{\k17}SON. {\k25}SHE
+Dialogue: 0,0:01:26.81,0:01:27.42,Default,,0,0,0,,\N{\k12}ASKED {\k15}ME {\k14}TO {\k18}TAKE
+Dialogue: 0,0:01:27.42,0:01:28.59,Default,,0,0,0,,\N{\k9}IT {\k21}BACK. {\k17}I
+Dialogue: 0,0:01:28.59,0:01:29.15,Default,,0,0,0,,\N{\k20}TOLD {\k18}HER {\k17}NO.
+Dialogue: 0,0:01:30.00,0:01:30.65,Default,,0,0,0,,\N{\k12}I {\k11}SAID {\k14}IF {\k10}MY {\k17}SON
+Dialogue: 0,0:01:30.65,0:01:31.29,Default,,0,0,0,,\N{\k26}DECIDES {\k21}HE {\k15}WANTS
+Dialogue: 0,0:01:31.29,0:01:32.14,Default,,0,0,0,,\N{\k14}TO {\k24}RETURN {\k17}IT, {\k18}THAT'S
+Dialogue: 0,0:01:32.14,0:01:32.95,Default,,0,0,0,,\N{\k6}HIS {\k23}CHOICE, {\k11}BUT
+Dialogue: 0,0:01:32.95,0:01:33.78,Default,,0,0,0,,\N{\k10}I {\k14}WON'T {\k21}DEMAND {\k12}IT {\k23}BACK.
+Dialogue: 0,0:01:34.56,0:01:34.81,Default,,0,0,0,,\N{\k25}SHE
+Dialogue: 0,0:01:34.81,0:01:35.45,Default,,0,0,0,,\N{\k22}CALLED {\k15}ME {\k11}A {\k14}JERK.
+Dialogue: 0,0:01:36.28,0:01:36.45,Default,,0,0,0,,\N{\k17}I
+Dialogue: 0,0:01:36.45,0:01:37.09,Default,,0,0,0,,\N{\k14}PLANNED {\k18}TO {\k7}TALK {\k14}TO {\k9}MY
+Dialogue: 0,0:01:37.09,0:01:37.98,Default,,0,0,0,,\N{\k14}SON {\k20}ABOUT {\k18}IT, {\k10}BUT
+Dialogue: 0,0:01:37.98,0:01:39.15,Default,,0,0,0,,\N{\k11}NOW {\k21}I'M {\k24}WONDERING, {\k15}WAS
+Dialogue: 0,0:01:39.15,0:01:39.87,Default,,0,0,0,,\N{\k12}I {\k14}WRONG {\k14}FOR {\k14}GIVING {\k17}HIM
+Dialogue: 0,0:01:39.87,0:01:40.59,Default,,0,0,0,,\N{\k12}THE {\k18}RESTORED {\k41}DRESSER
+Dialogue: 0,0:01:40.59,0:01:41.28,Default,,0,0,0,,\N{\k21}WITHOUT {\k30}CHECKING {\k15}WITH
+Dialogue: 0,0:01:41.28,0:01:41.90,Default,,0,0,0,,\N{\k15}BOTH {\k12}OF {\k12}THEM {\k21}FIRST?

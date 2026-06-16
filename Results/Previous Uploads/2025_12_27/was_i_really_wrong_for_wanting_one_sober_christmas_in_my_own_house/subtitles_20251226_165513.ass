@@ -1,0 +1,239 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.86,0:00:04.37,Default,,0,0,0,,{\an5}ALCOHOL
+Dialogue: 0,0:00:04.37,0:00:04.98,Default,,0,0,0,,{\an5}HAS ALWAYS
+Dialogue: 0,0:00:04.98,0:00:05.55,Default,,0,0,0,,{\an5}BEEN A SENSITIVE
+Dialogue: 0,0:00:05.55,0:00:06.20,Default,,0,0,0,,{\an5}SUBJECT FOR
+Dialogue: 0,0:00:06.20,0:00:06.33,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:00:06.46,0:00:06.96,Default,,0,0,0,,{\an5}I GREW
+Dialogue: 0,0:00:06.96,0:00:07.58,Default,,0,0,0,,{\an5}UP WATCHING MY
+Dialogue: 0,0:00:07.58,0:00:08.11,Default,,0,0,0,,{\an5}FATHER DRINK
+Dialogue: 0,0:00:08.11,0:00:08.67,Default,,0,0,0,,{\an5}HIMSELF INTO
+Dialogue: 0,0:00:08.67,0:00:09.74,Default,,0,0,0,,{\an5}SOMEONE UNRECOGNIZABLE,
+Dialogue: 0,0:00:09.90,0:00:10.40,Default,,0,0,0,,{\an5}AND THAT
+Dialogue: 0,0:00:10.40,0:00:11.16,Default,,0,0,0,,{\an5}EXPERIENCE SHAPED
+Dialogue: 0,0:00:11.16,0:00:11.85,Default,,0,0,0,,{\an5}MY ENTIRE VIEW
+Dialogue: 0,0:00:11.85,0:00:12.58,Default,,0,0,0,,{\an5}OF IT. I'VE
+Dialogue: 0,0:00:12.58,0:00:13.43,Default,,0,0,0,,{\an5}NEVER TOUCHED ALCOHOL,
+Dialogue: 0,0:00:13.66,0:00:14.38,Default,,0,0,0,,{\an5}AND I GENUINELY
+Dialogue: 0,0:00:14.38,0:00:15.06,Default,,0,0,0,,{\an5}DON'T UNDERSTAND
+Dialogue: 0,0:00:15.06,0:00:15.66,Default,,0,0,0,,{\an5}WHY SO MANY
+Dialogue: 0,0:00:15.66,0:00:16.33,Default,,0,0,0,,{\an5}PEOPLE ACT LIKE
+Dialogue: 0,0:00:16.33,0:00:16.98,Default,,0,0,0,,{\an5}THEY CAN'T RELAX,
+Dialogue: 0,0:00:17.51,0:00:18.03,Default,,0,0,0,,{\an5}LAUGH,
+Dialogue: 0,0:00:18.17,0:00:18.73,Default,,0,0,0,,{\an5}OR CELEBRATE
+Dialogue: 0,0:00:18.73,0:00:19.33,Default,,0,0,0,,{\an5}WITHOUT IT.
+Dialogue: 0,0:00:19.39,0:00:20.28,Default,,0,0,0,,{\an5}TO ME, IT'S
+Dialogue: 0,0:00:20.28,0:00:21.19,Default,,0,0,0,,{\an5}NOT FUN. IT'S
+Dialogue: 0,0:00:21.19,0:00:22.12,Default,,0,0,0,,{\an5}TRIGGERING, UNCOMFORTABLE,
+Dialogue: 0,0:00:22.62,0:00:23.21,Default,,0,0,0,,{\an5}AND EXHAUSTING.
+Dialogue: 0,0:00:23.60,0:00:24.35,Default,,0,0,0,,{\an5}MY HUSBAND'S
+Dialogue: 0,0:00:24.35,0:00:25.12,Default,,0,0,0,,{\an5}FAMILY, ON
+Dialogue: 0,0:00:25.12,0:00:25.76,Default,,0,0,0,,{\an5}THE OTHER HAND,
+Dialogue: 0,0:00:25.83,0:00:26.46,Default,,0,0,0,,{\an5}TREATS DRINKING
+Dialogue: 0,0:00:26.46,0:00:27.21,Default,,0,0,0,,{\an5}LIKE A PERSONALITY
+Dialogue: 0,0:00:27.21,0:00:27.55,Default,,0,0,0,,{\an5}TRAIT.
+Dialogue: 0,0:00:27.55,0:00:28.55,Default,,0,0,0,,{\an5}EVERY HOLIDAY
+Dialogue: 0,0:00:28.55,0:00:29.12,Default,,0,0,0,,{\an5}IS SOAKED IN
+Dialogue: 0,0:00:29.12,0:00:29.39,Default,,0,0,0,,{\an5}WINE.
+Dialogue: 0,0:00:29.76,0:00:30.23,Default,,0,0,0,,{\an5}COCKTAILS.
+Dialogue: 0,0:00:30.48,0:00:31.03,Default,,0,0,0,,{\an5}AND JUST
+Dialogue: 0,0:00:31.03,0:00:32.11,Default,,0,0,0,,{\an5}ONE MORE. I'VE
+Dialogue: 0,0:00:32.11,0:00:32.61,Default,,0,0,0,,{\an5}SWALLOWED MY
+Dialogue: 0,0:00:32.61,0:00:33.29,Default,,0,0,0,,{\an5}DISCOMFORT FOR
+Dialogue: 0,0:00:33.29,0:00:33.85,Default,,0,0,0,,{\an5}YEARS TO KEEP
+Dialogue: 0,0:00:33.85,0:00:34.97,Default,,0,0,0,,{\an5}THE PEACE. SITTING
+Dialogue: 0,0:00:34.97,0:00:35.61,Default,,0,0,0,,{\an5}QUIETLY WHILE
+Dialogue: 0,0:00:35.61,0:00:36.35,Default,,0,0,0,,{\an5}BOTTLES EMPTIED
+Dialogue: 0,0:00:36.35,0:00:36.88,Default,,0,0,0,,{\an5}AND CONVERSATIONS
+Dialogue: 0,0:00:36.88,0:00:37.61,Default,,0,0,0,,{\an5}GOT LOUDER
+Dialogue: 0,0:00:37.61,0:00:38.21,Default,,0,0,0,,{\an5}AND SLOPPIER.
+Dialogue: 0,0:00:38.39,0:00:38.96,Default,,0,0,0,,{\an5}I'VE NEVER
+Dialogue: 0,0:00:38.96,0:00:39.61,Default,,0,0,0,,{\an5}MADE IT AN ISSUE
+Dialogue: 0,0:00:39.61,0:00:39.89,Default,,0,0,0,,{\an5}BEFORE.
+Dialogue: 0,0:00:40.21,0:00:40.82,Default,,0,0,0,,{\an5}THIS YEAR
+Dialogue: 0,0:00:40.82,0:00:41.71,Default,,0,0,0,,{\an5}WAS DIFFERENT. FOR
+Dialogue: 0,0:00:41.71,0:00:42.32,Default,,0,0,0,,{\an5}THE FIRST TIME,
+Dialogue: 0,0:00:42.43,0:00:43.14,Default,,0,0,0,,{\an5}CHRISTMAS WAS
+Dialogue: 0,0:00:43.14,0:00:43.65,Default,,0,0,0,,{\an5}BEING HOSTED
+Dialogue: 0,0:00:43.65,0:00:44.24,Default,,0,0,0,,{\an5}AT OUR HOUSE.
+Dialogue: 0,0:00:44.43,0:00:45.20,Default,,0,0,0,,{\an5}I WAS ACTUALLY
+Dialogue: 0,0:00:45.20,0:00:45.53,Default,,0,0,0,,{\an5}EXCITED.
+Dialogue: 0,0:00:45.75,0:00:46.43,Default,,0,0,0,,{\an5}I THOUGHT MAYBE
+Dialogue: 0,0:00:46.43,0:00:47.11,Default,,0,0,0,,{\an5}THIS COULD FINALLY
+Dialogue: 0,0:00:47.11,0:00:47.65,Default,,0,0,0,,{\an5}BE A CALM,
+Dialogue: 0,0:00:47.82,0:00:48.32,Default,,0,0,0,,{\an5}MEANINGFUL
+Dialogue: 0,0:00:48.32,0:00:48.82,Default,,0,0,0,,{\an5}HOLIDAY.
+Dialogue: 0,0:00:49.10,0:00:49.75,Default,,0,0,0,,{\an5}FOCUSED ON
+Dialogue: 0,0:00:49.75,0:00:50.75,Default,,0,0,0,,{\an5}FOOD, CONVERSATION,
+Dialogue: 0,0:00:51.15,0:00:51.79,Default,,0,0,0,,{\an5}AND FAMILY
+Dialogue: 0,0:00:51.79,0:00:52.53,Default,,0,0,0,,{\an5}INSTEAD OF ALCOHOL.
+Dialogue: 0,0:00:52.82,0:00:53.32,Default,,0,0,0,,{\an5}SO I
+Dialogue: 0,0:00:53.32,0:00:53.88,Default,,0,0,0,,{\an5}MADE A DECISION.
+Dialogue: 0,0:00:54.38,0:00:55.11,Default,,0,0,0,,{\an5}NO ALCOHOL IN
+Dialogue: 0,0:00:55.11,0:00:55.61,Default,,0,0,0,,{\an5}MY HOME ON
+Dialogue: 0,0:00:55.61,0:00:55.89,Default,,0,0,0,,{\an5}CHRISTMAS.
+Dialogue: 0,0:00:55.89,0:00:56.47,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:56.47,0:00:57.02,Default,,0,0,0,,{\an5}DIDN'T YELL
+Dialogue: 0,0:00:57.02,0:00:57.84,Default,,0,0,0,,{\an5}IT FROM THE ROOFTOPS
+Dialogue: 0,0:00:57.84,0:00:58.38,Default,,0,0,0,,{\an5}OR MAKE A DRAMATIC
+Dialogue: 0,0:00:58.38,0:00:58.85,Default,,0,0,0,,{\an5}ANNOUNCEMENT.
+Dialogue: 0,0:00:59.21,0:00:59.74,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:59.74,0:01:00.43,Default,,0,0,0,,{\an5}SIMPLY DECIDED
+Dialogue: 0,0:01:00.43,0:01:01.00,Default,,0,0,0,,{\an5}THAT IF I WAS
+Dialogue: 0,0:01:01.00,0:01:01.89,Default,,0,0,0,,{\an5}HOSTING, THIS
+Dialogue: 0,0:01:01.89,0:01:02.46,Default,,0,0,0,,{\an5}WAS THE BOUNDARY.
+Dialogue: 0,0:01:02.71,0:01:03.39,Default,,0,0,0,,{\an5}THE FALLOUT
+Dialogue: 0,0:01:03.39,0:01:04.34,Default,,0,0,0,,{\an5}WAS IMMEDIATE. MY
+Dialogue: 0,0:01:04.34,0:01:05.01,Default,,0,0,0,,{\an5}HUSBAND'S SISTER
+Dialogue: 0,0:01:05.01,0:01:05.64,Default,,0,0,0,,{\an5}CALLED TO ASK
+Dialogue: 0,0:01:05.64,0:01:06.28,Default,,0,0,0,,{\an5}WHAT SHE COULD BRING.
+Dialogue: 0,0:01:06.50,0:01:07.18,Default,,0,0,0,,{\an5}SHE SOUNDED
+Dialogue: 0,0:01:07.18,0:01:08.14,Default,,0,0,0,,{\an5}CHEERFUL, ALMOST
+Dialogue: 0,0:01:08.14,0:01:08.73,Default,,0,0,0,,{\an5}SMUG,
+Dialogue: 0,0:01:08.73,0:01:09.51,Default,,0,0,0,,{\an5}AS SHE DESCRIBED
+Dialogue: 0,0:01:09.51,0:01:10.04,Default,,0,0,0,,{\an5}A FESTIVE
+Dialogue: 0,0:01:10.04,0:01:10.87,Default,,0,0,0,,{\an5}CHRISTMAS MARTINI
+Dialogue: 0,0:01:10.87,0:01:11.62,Default,,0,0,0,,{\an5}SHE WAS DYING
+Dialogue: 0,0:01:11.62,0:01:12.78,Default,,0,0,0,,{\an5}TO MAKE. WHEN
+Dialogue: 0,0:01:12.78,0:01:13.31,Default,,0,0,0,,{\an5}I TOLD HER,
+Dialogue: 0,0:01:13.40,0:01:14.37,Default,,0,0,0,,{\an5}CALMLY, THAT
+Dialogue: 0,0:01:14.37,0:01:15.14,Default,,0,0,0,,{\an5}THERE WOULDN'T BE ALCOHOL
+Dialogue: 0,0:01:15.14,0:01:15.70,Default,,0,0,0,,{\an5}THIS YEAR,
+Dialogue: 0,0:01:15.81,0:01:16.35,Default,,0,0,0,,{\an5}THE TONE
+Dialogue: 0,0:01:16.35,0:01:17.01,Default,,0,0,0,,{\an5}OF THE CALL SHIFTED
+Dialogue: 0,0:01:17.01,0:01:17.51,Default,,0,0,0,,{\an5}INSTANTLY.
+Dialogue: 0,0:01:17.79,0:01:18.35,Default,,0,0,0,,{\an5}SHE WENT
+Dialogue: 0,0:01:18.35,0:01:19.21,Default,,0,0,0,,{\an5}COLD, SHORT
+Dialogue: 0,0:01:19.21,0:01:20.28,Default,,0,0,0,,{\an5}ANSWERS, AWKWARD
+Dialogue: 0,0:01:20.28,0:01:20.71,Default,,0,0,0,,{\an5}SILENCE.
+Dialogue: 0,0:01:21.07,0:01:21.59,Default,,0,0,0,,{\an5}THEN SHE
+Dialogue: 0,0:01:21.59,0:01:22.45,Default,,0,0,0,,{\an5}HUNG UP. WITHIN
+Dialogue: 0,0:01:22.45,0:01:23.31,Default,,0,0,0,,{\an5}HOURS, I
+Dialogue: 0,0:01:23.31,0:01:24.23,Default,,0,0,0,,{\an5}STARTED GETTING TEXTS.
+Dialogue: 0,0:01:24.45,0:01:25.20,Default,,0,0,0,,{\an5}ARE YOU SERIOUS?
+Dialogue: 0,0:01:25.20,0:01:25.93,Default,,0,0,0,,{\an5}THAT'S
+Dialogue: 0,0:01:25.93,0:01:26.79,Default,,0,0,0,,{\an5}SO LAME. IT'S
+Dialogue: 0,0:01:26.79,0:01:27.12,Default,,0,0,0,,{\an5}CHRISTMAS.
+Dialogue: 0,0:01:27.45,0:01:28.06,Default,,0,0,0,,{\an5}LIGHTEN UP.
+Dialogue: 0,0:01:28.21,0:01:28.87,Default,,0,0,0,,{\an5}SOME RELATIVES
+Dialogue: 0,0:01:28.87,0:01:29.37,Default,,0,0,0,,{\an5}HINTED I
+Dialogue: 0,0:01:29.37,0:01:30.04,Default,,0,0,0,,{\an5}WAS BEING CONTROLLING.
+Dialogue: 0,0:01:30.31,0:01:30.81,Default,,0,0,0,,{\an5}OTHERS
+Dialogue: 0,0:01:30.81,0:01:31.59,Default,,0,0,0,,{\an5}FLAT OUT MOCKED
+Dialogue: 0,0:01:31.59,0:01:32.43,Default,,0,0,0,,{\an5}THE IDEA. I
+Dialogue: 0,0:01:32.43,0:01:32.95,Default,,0,0,0,,{\an5}DIDN'T RESPOND.
+Dialogue: 0,0:01:33.23,0:01:33.78,Default,,0,0,0,,{\an5}I WASN'T
+Dialogue: 0,0:01:33.78,0:01:34.35,Default,,0,0,0,,{\an5}ASKING ANYONE
+Dialogue: 0,0:01:34.35,0:01:34.98,Default,,0,0,0,,{\an5}TO QUIT DRINKING
+Dialogue: 0,0:01:34.98,0:01:35.26,Default,,0,0,0,,{\an5}FOREVER.
+Dialogue: 0,0:01:35.54,0:01:36.29,Default,,0,0,0,,{\an5}I WAS ASKING
+Dialogue: 0,0:01:36.29,0:01:36.84,Default,,0,0,0,,{\an5}FOR ONE DAY
+Dialogue: 0,0:01:36.84,0:01:37.45,Default,,0,0,0,,{\an5}OF RESPECT IN
+Dialogue: 0,0:01:37.45,0:01:37.98,Default,,0,0,0,,{\an5}MY OWN HOME.
+Dialogue: 0,0:01:38.37,0:01:38.90,Default,,0,0,0,,{\an5}THEN
+Dialogue: 0,0:01:38.90,0:01:39.65,Default,,0,0,0,,{\an5}CAME THE REAL SLAP
+Dialogue: 0,0:01:39.65,0:01:40.20,Default,,0,0,0,,{\an5}IN THE FACE.
+Dialogue: 0,0:01:40.40,0:01:41.04,Default,,0,0,0,,{\an5}I FOUND
+Dialogue: 0,0:01:41.04,0:01:41.98,Default,,0,0,0,,{\an5}OUT MY SISTER-IN-LAW
+Dialogue: 0,0:01:41.98,0:01:42.48,Default,,0,0,0,,{\an5}HAD DECIDED
+Dialogue: 0,0:01:42.48,0:01:43.09,Default,,0,0,0,,{\an5}TO HOST AN
+Dialogue: 0,0:01:43.09,0:01:43.78,Default,,0,0,0,,{\an5}ALTERNATIVE CHRISTMAS
+Dialogue: 0,0:01:43.78,0:01:44.42,Default,,0,0,0,,{\an5}GATHERING AT
+Dialogue: 0,0:01:44.42,0:01:45.64,Default,,0,0,0,,{\an5}HER HOUSE. ONE
+Dialogue: 0,0:01:45.64,0:01:46.20,Default,,0,0,0,,{\an5}WHERE ALCOHOL
+Dialogue: 0,0:01:46.20,0:01:46.78,Default,,0,0,0,,{\an5}WOULD BE FLOWING
+Dialogue: 0,0:01:46.78,0:01:47.14,Default,,0,0,0,,{\an5}FREELY.
+Dialogue: 0,0:01:47.40,0:01:48.00,Default,,0,0,0,,{\an5}AND ALMOST
+Dialogue: 0,0:01:48.00,0:01:48.64,Default,,0,0,0,,{\an5}EVERYONE CHOSE
+Dialogue: 0,0:01:48.64,0:01:49.42,Default,,0,0,0,,{\an5}TO GO THERE INSTEAD.
+Dialogue: 0,0:01:49.71,0:01:50.28,Default,,0,0,0,,{\an5}JUST LIKE
+Dialogue: 0,0:01:50.28,0:01:50.85,Default,,0,0,0,,{\an5}THAT, MY
+Dialogue: 0,0:01:50.85,0:01:51.48,Default,,0,0,0,,{\an5}CHRISTMAS DINNER
+Dialogue: 0,0:01:51.48,0:01:52.70,Default,,0,0,0,,{\an5}WAS ABANDONED. NOT
+Dialogue: 0,0:01:52.70,0:01:53.40,Default,,0,0,0,,{\an5}BECAUSE OF TRAVEL.
+Dialogue: 0,0:01:53.57,0:01:54.14,Default,,0,0,0,,{\an5}NOT BECAUSE
+Dialogue: 0,0:01:54.14,0:01:54.65,Default,,0,0,0,,{\an5}OF SCHEDULING.
+Dialogue: 0,0:01:55.20,0:01:55.93,Default,,0,0,0,,{\an5}BUT BECAUSE THEY DIDN'T
+Dialogue: 0,0:01:55.93,0:01:56.50,Default,,0,0,0,,{\an5}WANT TO BE SOBER
+Dialogue: 0,0:01:56.50,0:01:57.21,Default,,0,0,0,,{\an5}FOR A FEW HOURS.
+Dialogue: 0,0:01:57.81,0:01:58.42,Default,,0,0,0,,{\an5}I FELT
+Dialogue: 0,0:01:58.42,0:01:59.06,Default,,0,0,0,,{\an5}HUMILIATED,
+Dialogue: 0,0:01:59.20,0:02:00.23,Default,,0,0,0,,{\an5}REJECTED, LIKE
+Dialogue: 0,0:02:00.23,0:02:00.81,Default,,0,0,0,,{\an5}I HAD DRAWN A
+Dialogue: 0,0:02:00.81,0:02:01.42,Default,,0,0,0,,{\an5}LINE AND EVERYONE
+Dialogue: 0,0:02:01.42,0:02:02.21,Default,,0,0,0,,{\an5}DELIBERATELY STEPPED
+Dialogue: 0,0:02:02.21,0:02:02.79,Default,,0,0,0,,{\an5}OVER IT JUST
+Dialogue: 0,0:02:02.79,0:02:03.42,Default,,0,0,0,,{\an5}TO PROVE THEY COULD.
+Dialogue: 0,0:02:03.93,0:02:04.62,Default,,0,0,0,,{\an5}MY HUSBAND
+Dialogue: 0,0:02:04.62,0:02:05.14,Default,,0,0,0,,{\an5}DIDN'T OFFEND
+Dialogue: 0,0:02:05.14,0:02:05.40,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:02:05.64,0:02:06.57,Default,,0,0,0,,{\an5}INSTEAD, HE
+Dialogue: 0,0:02:06.57,0:02:07.26,Default,,0,0,0,,{\an5}TOLD ME HE SPOKE
+Dialogue: 0,0:02:07.26,0:02:07.85,Default,,0,0,0,,{\an5}TO HIS SISTER
+Dialogue: 0,0:02:07.85,0:02:08.36,Default,,0,0,0,,{\an5}AND THAT WE WERE
+Dialogue: 0,0:02:08.36,0:02:08.91,Default,,0,0,0,,{\an5}INVITED TO HER
+Dialogue: 0,0:02:08.91,0:02:09.28,Default,,0,0,0,,{\an5}GATHERING.
+Dialogue: 0,0:02:09.68,0:02:10.28,Default,,0,0,0,,{\an5}HE SAID
+Dialogue: 0,0:02:10.28,0:02:11.03,Default,,0,0,0,,{\an5}I SHOULD STOP MAKING
+Dialogue: 0,0:02:11.03,0:02:11.69,Default,,0,0,0,,{\an5}THIS AN ISSUE,
+Dialogue: 0,0:02:11.81,0:02:12.37,Default,,0,0,0,,{\an5}THAT I WAS BEING
+Dialogue: 0,0:02:12.37,0:02:13.56,Default,,0,0,0,,{\an5}DRAMATIC, AND
+Dialogue: 0,0:02:13.56,0:02:14.06,Default,,0,0,0,,{\an5}THAT IT WASN'T
+Dialogue: 0,0:02:14.06,0:02:14.63,Default,,0,0,0,,{\an5}WORTH THE TENSION.
+Dialogue: 0,0:02:14.86,0:02:15.41,Default,,0,0,0,,{\an5}IN OTHER
+Dialogue: 0,0:02:15.41,0:02:16.28,Default,,0,0,0,,{\an5}WORDS, GIVE
+Dialogue: 0,0:02:16.28,0:02:16.86,Default,,0,0,0,,{\an5}IN, GO
+Dialogue: 0,0:02:16.86,0:02:17.62,Default,,0,0,0,,{\an5}ALONG, AND
+Dialogue: 0,0:02:17.62,0:02:18.21,Default,,0,0,0,,{\an5}PRETEND NONE
+Dialogue: 0,0:02:18.21,0:02:18.74,Default,,0,0,0,,{\an5}OF THIS HURT.
+Dialogue: 0,0:02:18.87,0:02:19.62,Default,,0,0,0,,{\an5}I REFUSED.
+Dialogue: 0,0:02:19.87,0:02:20.43,Default,,0,0,0,,{\an5}NOW HE'S
+Dialogue: 0,0:02:20.43,0:02:20.74,Default,,0,0,0,,{\an5}FURIOUS.
+Dialogue: 0,0:02:21.03,0:02:21.56,Default,,0,0,0,,{\an5}HE SAYS
+Dialogue: 0,0:02:21.56,0:02:22.18,Default,,0,0,0,,{\an5}I'M FORCING HIM
+Dialogue: 0,0:02:22.18,0:02:22.84,Default,,0,0,0,,{\an5}TO MISS CHRISTMAS
+Dialogue: 0,0:02:22.84,0:02:23.50,Default,,0,0,0,,{\an5}WITH HIS FAMILY,
+Dialogue: 0,0:02:23.50,0:02:24.00,Default,,0,0,0,,{\an5}THAT
+Dialogue: 0,0:02:24.00,0:02:24.52,Default,,0,0,0,,{\an5}I'M PUNISHING
+Dialogue: 0,0:02:24.52,0:02:25.13,Default,,0,0,0,,{\an5}HIM FOR SOMETHING
+Dialogue: 0,0:02:25.13,0:02:25.69,Default,,0,0,0,,{\an5}THAT ISN'T
+Dialogue: 0,0:02:25.69,0:02:26.47,Default,,0,0,0,,{\an5}THAT SERIOUS AND
+Dialogue: 0,0:02:26.47,0:02:27.00,Default,,0,0,0,,{\an5}THAT I'M CHOOSING
+Dialogue: 0,0:02:27.00,0:02:27.56,Default,,0,0,0,,{\an5}MY ISSUES
+Dialogue: 0,0:02:28.18,0:02:29.00,Default,,0,0,0,,{\an5}OVER EVERYONE
+Dialogue: 0,0:02:29.00,0:02:29.71,Default,,0,0,0,,{\an5}ELSE'S HAPPINESS.
+Dialogue: 0,0:02:30.02,0:02:30.59,Default,,0,0,0,,{\an5}HE KEEPS
+Dialogue: 0,0:02:30.59,0:02:31.18,Default,,0,0,0,,{\an5}REPEATING THAT
+Dialogue: 0,0:02:31.18,0:02:31.93,Default,,0,0,0,,{\an5}I'M RUINING CHRISTMAS,
+Dialogue: 0,0:02:32.19,0:02:32.78,Default,,0,0,0,,{\an5}COMPLETELY
+Dialogue: 0,0:02:32.78,0:02:33.50,Default,,0,0,0,,{\an5}IGNORING THE
+Dialogue: 0,0:02:33.50,0:02:34.02,Default,,0,0,0,,{\an5}FACT THAT I
+Dialogue: 0,0:02:34.02,0:02:34.62,Default,,0,0,0,,{\an5}WAS THE ONE PUSHED
+Dialogue: 0,0:02:34.62,0:02:35.13,Default,,0,0,0,,{\an5}ASIDE IN
+Dialogue: 0,0:02:35.13,0:02:35.69,Default,,0,0,0,,{\an5}THE FIRST PLACE.
+Dialogue: 0,0:02:36.18,0:02:36.81,Default,,0,0,0,,{\an5}ALL I
+Dialogue: 0,0:02:36.81,0:02:37.41,Default,,0,0,0,,{\an5}WANTED WAS ONE
+Dialogue: 0,0:02:37.41,0:02:38.15,Default,,0,0,0,,{\an5}PEACEFUL HOLIDAY
+Dialogue: 0,0:02:38.15,0:02:38.91,Default,,0,0,0,,{\an5}IN MY OWN HOME,
+Dialogue: 0,0:02:39.02,0:02:39.90,Default,,0,0,0,,{\an5}WITHOUT ALCOHOL,
+Dialogue: 0,0:02:40.13,0:02:40.93,Default,,0,0,0,,{\an5}WITHOUT ANXIETY,
+Dialogue: 0,0:02:41.30,0:02:41.91,Default,,0,0,0,,{\an5}WITHOUT OLD
+Dialogue: 0,0:02:41.91,0:02:42.41,Default,,0,0,0,,{\an5}WOUNDS BEING
+Dialogue: 0,0:02:42.41,0:02:42.91,Default,,0,0,0,,{\an5}REOPENED.
+Dialogue: 0,0:02:43.06,0:02:44.09,Default,,0,0,0,,{\an5}INSTEAD, I'M
+Dialogue: 0,0:02:44.09,0:02:44.75,Default,,0,0,0,,{\an5}BEING TREATED LIKE
+Dialogue: 0,0:02:44.75,0:02:45.34,Default,,0,0,0,,{\an5}THE VILLAIN FOR
+Dialogue: 0,0:02:45.34,0:02:45.96,Default,,0,0,0,,{\an5}DARING TO ASK
+Dialogue: 0,0:02:45.96,0:02:46.25,Default,,0,0,0,,{\an5}FOR IT.

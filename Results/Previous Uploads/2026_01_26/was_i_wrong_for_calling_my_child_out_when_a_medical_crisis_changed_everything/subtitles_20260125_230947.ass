@@ -1,0 +1,91 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.36,0:00:05.00,Default,,0,0,0,,\N{\k15}MY {\k16}ADULT {\k32}CHILD
+Dialogue: 0,0:00:05.00,0:00:05.83,Default,,0,0,0,,\N{\k17}WAS {\k16}SET {\k14}TO {\k9}GET {\k25}MARRIED
+Dialogue: 0,0:00:05.83,0:00:06.59,Default,,0,0,0,,\N{\k20}THIS {\k28}WEEKEND {\k27}AND
+Dialogue: 0,0:00:06.59,0:00:07.32,Default,,0,0,0,,\N{\k32}EVERYTHING {\k12}HAD {\k12}BEEN {\k16}PLANNED
+Dialogue: 0,0:00:07.32,0:00:07.96,Default,,0,0,0,,\N{\k17}DOWN {\k12}TO {\k5}THE {\k28}SMALLEST
+Dialogue: 0,0:00:07.96,0:00:08.64,Default,,0,0,0,,\N{\k36}DETAIL, {\k8}BUT
+Dialogue: 0,0:00:08.64,0:00:09.53,Default,,0,0,0,,\N{\k9}A {\k19}SUDDEN {\k30}MEDICAL {\k29}EMERGENCY
+Dialogue: 0,0:00:09.53,0:00:10.33,Default,,0,0,0,,\N{\k44}CHANGED {\k35}EVERYTHING
+Dialogue: 0,0:00:10.33,0:00:11.06,Default,,0,0,0,,\N{\k38}OVERNIGHT {\k17}WHEN {\k16}MY
+Dialogue: 0,0:00:11.06,0:00:11.92,Default,,0,0,0,,\N{\k37}PARTNER'S {\k22}REMAINING {\k25}PARENT
+Dialogue: 0,0:00:11.92,0:00:12.56,Default,,0,0,0,,\N{\k19}WAS {\k22}RUSHED {\k22}INTO
+Dialogue: 0,0:00:12.56,0:00:13.19,Default,,0,0,0,,\N{\k29}HOSPITAL {\k17}IN {\k16}ANOTHER
+Dialogue: 0,0:00:13.19,0:00:13.92,Default,,0,0,0,,\N{\k32}PROVINCE {\k16}AND {\k24}DOCTORS
+Dialogue: 0,0:00:13.92,0:00:14.61,Default,,0,0,0,,\N{\k19}WARNED {\k16}THE {\k33}SITUATION
+Dialogue: 0,0:00:14.61,0:00:15.30,Default,,0,0,0,,\N{\k22}WAS {\k27}CRITICAL {\k18}AND
+Dialogue: 0,0:00:15.30,0:00:15.90,Default,,0,0,0,,\N{\k19}LIKELY {\k40}FATAL.
+Dialogue: 0,0:00:16.66,0:00:17.28,Default,,0,0,0,,\N{\k41}THIS {\k20}LEFT
+Dialogue: 0,0:00:17.28,0:00:18.14,Default,,0,0,0,,\N{\k17}MY {\k25}PARTNER {\k42}COMPLETELY
+Dialogue: 0,0:00:18.14,0:00:19.00,Default,,0,0,0,,\N{\k48}DISTRAUGHT {\k11}AND {\k26}FACING
+Dialogue: 0,0:00:19.00,0:00:19.82,Default,,0,0,0,,\N{\k17}AN {\k32}IMPOSSIBLE {\k32}CHOICE
+Dialogue: 0,0:00:19.82,0:00:20.42,Default,,0,0,0,,\N{\k33}BETWEEN {\k26}ATTENDING
+Dialogue: 0,0:00:20.42,0:00:21.21,Default,,0,0,0,,\N{\k21}THE {\k17}WEDDING {\k39}OFF-LINE
+Dialogue: 0,0:00:21.21,0:00:22.00,Default,,0,0,0,,\N{\k16}OUT {\k33}IMMEDIATELY {\k28}TO
+Dialogue: 0,0:00:22.00,0:00:22.42,Default,,0,0,0,,\N{\k12}SAY {\k30}GOODBYE.
+Dialogue: 0,0:00:23.14,0:00:23.94,Default,,0,0,0,,\N{\k39}AFTER {\k40}AGONIZING
+Dialogue: 0,0:00:23.94,0:00:24.76,Default,,0,0,0,,\N{\k23}OVER {\k16}IT, {\k6}SHE {\k32}DECIDED
+Dialogue: 0,0:00:24.76,0:00:25.44,Default,,0,0,0,,\N{\k23}SHE {\k3}HAD {\k10}TO {\k14}LEAVE {\k16}THAT
+Dialogue: 0,0:00:25.44,0:00:26.10,Default,,0,0,0,,\N{\k21}EVENING {\k28}BECAUSE {\k16}SHE
+Dialogue: 0,0:00:26.10,0:00:26.92,Default,,0,0,0,,\N{\k11}KNEW {\k17}SHE {\k14}WOULD {\k14}NEVER {\k24}FORGIVE
+Dialogue: 0,0:00:26.92,0:00:27.53,Default,,0,0,0,,\N{\k21}HERSELF {\k39}OTHERWISE,
+Dialogue: 0,0:00:27.69,0:00:28.48,Default,,0,0,0,,\N{\k6}I {\k27}SUPPORTED {\k17}HER {\k26}FULLY,
+Dialogue: 0,0:00:28.78,0:00:29.44,Default,,0,0,0,,\N{\k14}OFFERED {\k15}TO {\k20}INCLUDE {\k16}HER
+Dialogue: 0,0:00:29.44,0:00:30.28,Default,,0,0,0,,\N{\k29}VIRTUALLY {\k16}IN {\k6}THE {\k32}CEREMONY
+Dialogue: 0,0:00:30.28,0:00:31.17,Default,,0,0,0,,\N{\k33}AND {\k21}BELIEVED {\k33}FORCING
+Dialogue: 0,0:00:31.17,0:00:31.89,Default,,0,0,0,,\N{\k28}HERSELF {\k21}TO {\k21}ATTEND
+Dialogue: 0,0:00:31.89,0:00:32.52,Default,,0,0,0,,\N{\k21}WHILE {\k22}GRIEVING {\k17}WOULD
+Dialogue: 0,0:00:32.52,0:00:33.28,Default,,0,0,0,,\N{\k13}ONLY {\k20}MAKE {\k14}THE {\k11}DAY {\k16}MORE
+Dialogue: 0,0:00:33.28,0:00:34.14,Default,,0,0,0,,\N{\k32}PAINFUL {\k17}FOR {\k35}EVERYONE.
+Dialogue: 0,0:00:35.10,0:00:35.75,Default,,0,0,0,,\N{\k17}WHEN {\k15}WE {\k16}CALLED {\k15}OUR
+Dialogue: 0,0:00:35.75,0:00:36.42,Default,,0,0,0,,\N{\k28}CHILD {\k14}TO {\k24}EXPLAIN
+Dialogue: 0,0:00:36.42,0:00:37.14,Default,,0,0,0,,\N{\k15}THE {\k38}SITUATION, {\k1}THE
+Dialogue: 0,0:00:37.14,0:00:38.10,Default,,0,0,0,,\N{\k24}REACTION {\k19}WAS {\k52}EXPLOSIVE,
+Dialogue: 0,0:00:38.47,0:00:39.29,Default,,0,0,0,,\N{\k10}WITH {\k28}ACCUSATIONS {\k43}CRUEL
+Dialogue: 0,0:00:39.29,0:00:40.07,Default,,0,0,0,,\N{\k30}COMMENTS {\k25}DIRECTED {\k21}AT
+Dialogue: 0,0:00:40.07,0:00:40.88,Default,,0,0,0,,\N{\k6}MY {\k33}PARTNER {\k40}AND
+Dialogue: 0,0:00:40.88,0:00:41.57,Default,,0,0,0,,\N{\k39}REPEATED {\k29}ANGRY
+Dialogue: 0,0:00:41.57,0:00:42.17,Default,,0,0,0,,\N{\k39}MESSAGES {\k20}THAT
+Dialogue: 0,0:00:42.17,0:00:42.85,Default,,0,0,0,,\N{\k16}LEFT {\k13}HER {\k24}SUBBING {\k14}AND
+Dialogue: 0,0:00:42.85,0:00:43.50,Default,,0,0,0,,\N{\k20}BLAMING {\k43}HERSELF,
+Dialogue: 0,0:00:43.74,0:00:44.39,Default,,0,0,0,,\N{\k5}AND {\k8}IN {\k5}A {\k24}MOMENT {\k21}OF
+Dialogue: 0,0:00:44.39,0:00:45.25,Default,,0,0,0,,\N{\k21}ANGER {\k20}AND {\k43}PROTECTIVENESS,
+Dialogue: 0,0:00:45.42,0:00:46.06,Default,,0,0,0,,\N{\k5}I {\k22}TOLD {\k14}MY {\k21}CHILD
+Dialogue: 0,0:00:46.06,0:00:46.78,Default,,0,0,0,,\N{\k14}THAT {\k9}THE {\k24}REACTION {\k24}WAS
+Dialogue: 0,0:00:46.78,0:00:47.50,Default,,0,0,0,,\N{\k28}SELFISH {\k25}AND {\k17}LACKING
+Dialogue: 0,0:00:47.50,0:00:48.15,Default,,0,0,0,,\N{\k42}COMPASSION {\k23}BECAUSE
+Dialogue: 0,0:00:48.15,0:00:48.85,Default,,0,0,0,,\N{\k36}SOMEONE {\k21}WAS {\k11}DYING
+Dialogue: 0,0:00:48.85,0:00:49.61,Default,,0,0,0,,\N{\k16}AND {\k13}THIS {\k12}WAS {\k15}NOT {\k17}ABOUT
+Dialogue: 0,0:00:49.61,0:00:50.43,Default,,0,0,0,,\N{\k28}STEALING {\k30}ATTENTION {\k23}FROM
+Dialogue: 0,0:00:50.43,0:00:50.92,Default,,0,0,0,,\N{\k8}A {\k39}SALVATION.
+Dialogue: 0,0:00:52.03,0:00:52.85,Default,,0,0,0,,\N{\k20}THE {\k15}SONY {\k46}ESCALATED
+Dialogue: 0,0:00:52.85,0:00:53.52,Default,,0,0,0,,\N{\k21}THINGS {\k26}FURTHER {\k17}AND
+Dialogue: 0,0:00:53.52,0:00:54.20,Default,,0,0,0,,\N{\k9}TO {\k12}LAI {\k11}WAS {\k14}TOLD {\k20}I
+Dialogue: 0,0:00:54.20,0:00:54.88,Default,,0,0,0,,\N{\k17}SHOULD {\k17}STAY {\k15}AWAY {\k16}FROM
+Dialogue: 0,0:00:54.88,0:00:55.56,Default,,0,0,0,,\N{\k7}THE {\k14}WEDDING {\k29}ENTIRELY {\k16}OF
+Dialogue: 0,0:00:55.56,0:00:56.21,Default,,0,0,0,,\N{\k7}MY {\k28}PARTNER {\k17}COULD {\k11}NOT
+Dialogue: 0,0:00:56.21,0:00:56.82,Default,,0,0,0,,\N{\k25}ATTEND {\k34}AND
+Dialogue: 0,0:00:56.82,0:00:57.53,Default,,0,0,0,,\N{\k14}NOW {\k11}AS {\k12}I {\k15}PREPARE {\k17}TO
+Dialogue: 0,0:00:57.53,0:00:58.21,Default,,0,0,0,,\N{\k16}DRIVE {\k15}MY {\k17}PARTNER {\k17}TO
+Dialogue: 0,0:00:58.21,0:00:58.96,Default,,0,0,0,,\N{\k12}THE {\k21}AIRPORT {\k19}WHILE {\k20}SHE
+Dialogue: 0,0:00:58.96,0:00:59.25,Default,,0,0,0,,\N{\k29}GRIEVES.
+Dialogue: 0,0:00:59.97,0:01:00.74,Default,,0,0,0,,\N{\k16}I {\k10}AM {\k14}LEFT {\k35}WONDERING
+Dialogue: 0,0:01:00.74,0:01:01.35,Default,,0,0,0,,\N{\k25}IF {\k11}I {\k24}CROSSED
+Dialogue: 0,0:01:01.35,0:01:01.97,Default,,0,0,0,,\N{\k7}A {\k14}LINE {\k20}BY {\k19}CALLING
+Dialogue: 0,0:01:01.97,0:01:02.60,Default,,0,0,0,,\N{\k22}OUT {\k14}MY {\k25}CHILD
+Dialogue: 0,0:01:02.60,0:01:03.21,Default,,0,0,0,,\N{\k19}SO {\k42}BLUNTLY
+Dialogue: 0,0:01:03.21,0:01:03.93,Default,,0,0,0,,\N{\k10}OR {\k25}STANDING {\k21}UP {\k14}FROM
+Dialogue: 0,0:01:03.93,0:01:04.54,Default,,0,0,0,,\N{\k14}MY {\k26}PARTNER {\k14}IN {\k6}THE
+Dialogue: 0,0:01:04.54,0:01:05.50,Default,,0,0,0,,\N{\k15}MIDDLE {\k14}OF {\k7}A {\k17}FAMILY {\k40}CRISIS
+Dialogue: 0,0:01:05.50,0:01:06.40,Default,,0,0,0,,\N{\k20}WAS {\k14}THE {\k17}ONLY {\k38}REASONABLE
+Dialogue: 0,0:01:06.40,0:01:06.90,Default,,0,0,0,,\N{\k19}THING {\k16}TO {\k14}DO.

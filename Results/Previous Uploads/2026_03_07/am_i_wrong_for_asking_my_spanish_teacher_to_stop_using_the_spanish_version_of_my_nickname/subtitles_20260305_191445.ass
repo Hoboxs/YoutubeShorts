@@ -1,0 +1,111 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.58,0:00:05.28,Default,,0,0,0,,\N{\k12}MY {\k21}LEGAL {\k17}NAME {\k18}IS
+Dialogue: 0,0:00:05.28,0:00:06.29,Default,,0,0,0,,\N{\k23}JONATHAN {\k34}PAUL, {\k9}BUT
+Dialogue: 0,0:00:06.29,0:00:06.94,Default,,0,0,0,,\N{\k18}I’VE {\k9}GONE {\k17}BY {\k18}JP
+Dialogue: 0,0:00:06.94,0:00:07.66,Default,,0,0,0,,\N{\k25}FOR {\k13}AS {\k14}LONG {\k17}AS
+Dialogue: 0,0:00:07.66,0:00:09.35,Default,,0,0,0,,\N{\k8}I {\k13}CAN {\k36}REMEMBER. {\k39}THAT’S
+Dialogue: 0,0:00:09.35,0:00:10.03,Default,,0,0,0,,\N{\k10}WHAT {\k11}MY {\k22}FRIENDS {\k23}CALL
+Dialogue: 0,0:00:10.03,0:00:10.69,Default,,0,0,0,,\N{\k18}ME, {\k8}WHAT {\k13}MY
+Dialogue: 0,0:00:10.69,0:00:11.32,Default,,0,0,0,,\N{\k24}COACHES {\k24}USED {\k14}IN
+Dialogue: 0,0:00:11.32,0:00:12.06,Default,,0,0,0,,\N{\k16}MIDDLE {\k27}SCHOOL, {\k6}AND
+Dialogue: 0,0:00:12.06,0:00:12.72,Default,,0,0,0,,\N{\k11}WHAT {\k24}EVERY {\k30}TEACHER
+Dialogue: 0,0:00:12.72,0:00:13.41,Default,,0,0,0,,\N{\k17}FROM {\k29}FRESHMAN {\k22}YEAR
+Dialogue: 0,0:00:13.41,0:00:14.03,Default,,0,0,0,,\N{\k27}ONWARD {\k12}HAS {\k21}WRITTEN
+Dialogue: 0,0:00:14.03,0:00:14.82,Default,,0,0,0,,\N{\k20}ON {\k27}ATTENDANCE {\k30}SHEETS.
+Dialogue: 0,0:00:15.90,0:00:16.21,Default,,0,0,0,,\N{\k31}IT’S
+Dialogue: 0,0:00:16.21,0:00:16.82,Default,,0,0,0,,\N{\k8}THE {\k16}NAME {\k16}THAT {\k19}FEELS
+Dialogue: 0,0:00:16.82,0:00:18.30,Default,,0,0,0,,\N{\k30}NATURAL {\k16}TO {\k11}ME. {\k16}THIS
+Dialogue: 0,0:00:18.30,0:00:19.00,Default,,0,0,0,,\N{\k25}YEAR, {\k17}THOUGH,
+Dialogue: 0,0:00:19.48,0:00:20.17,Default,,0,0,0,,\N{\k16}MY {\k30}SPANISH {\k23}TEACHER
+Dialogue: 0,0:00:20.17,0:00:20.80,Default,,0,0,0,,\N{\k17}HAS {\k21}DECIDED {\k22}TO
+Dialogue: 0,0:00:20.80,0:00:21.60,Default,,0,0,0,,\N{\k14}CALL {\k11}ME {\k20}SOMETHING {\k33}DIFFERENT.
+Dialogue: 0,0:00:22.46,0:00:22.78,Default,,0,0,0,,\N{\k32}IN
+Dialogue: 0,0:00:22.78,0:00:23.50,Default,,0,0,0,,\N{\k25}CLASS, {\k28}INSTEAD
+Dialogue: 0,0:00:23.50,0:00:24.33,Default,,0,0,0,,\N{\k10}OF {\k17}SAYING {\k29}JP, {\k3}HE
+Dialogue: 0,0:00:24.33,0:00:25.01,Default,,0,0,0,,\N{\k42}PRONOUNCES {\k25}EACH
+Dialogue: 0,0:00:25.01,0:00:25.80,Default,,0,0,0,,\N{\k16}LETTER {\k21}THE {\k20}SPANISH {\k19}WAY,
+Dialogue: 0,0:00:25.96,0:00:27.53,Default,,0,0,0,,\N{\k23}JOTA {\k14}PE. {\k39}THE
+Dialogue: 0,0:00:27.53,0:00:28.19,Default,,0,0,0,,\N{\k17}FIRST {\k20}TIME {\k11}HE {\k16}SAID
+Dialogue: 0,0:00:28.19,0:00:28.87,Default,,0,0,0,,\N{\k14}IT, {\k19}EVERYONE {\k17}LAUGHED,
+Dialogue: 0,0:00:28.87,0:00:29.64,Default,,0,0,0,,\N{\k42}INCLUDING {\k33}ME.
+Dialogue: 0,0:00:30.26,0:00:30.66,Default,,0,0,0,,\N{\k39}I
+Dialogue: 0,0:00:30.66,0:00:31.33,Default,,0,0,0,,\N{\k21}ASSUMED {\k12}IT {\k10}WAS {\k11}JUST {\k12}A
+Dialogue: 0,0:00:31.33,0:00:32.02,Default,,0,0,0,,\N{\k12}QUICK {\k16}JOKE {\k16}TO {\k24}ILLUSTRATE
+Dialogue: 0,0:00:32.02,0:00:32.70,Default,,0,0,0,,\N{\k67}PRONUNCIATION
+Dialogue: 0,0:00:32.70,0:00:33.42,Default,,0,0,0,,\N{\k41}DIFFERENCES {\k30}BETWEEN
+Dialogue: 0,0:00:33.42,0:00:34.21,Default,,0,0,0,,\N{\k28}ENGLISH {\k17}AND {\k33}SPANISH.
+Dialogue: 0,0:00:34.75,0:00:35.15,Default,,0,0,0,,\N{\k39}BUT
+Dialogue: 0,0:00:35.15,0:00:35.89,Default,,0,0,0,,\N{\k10}IT {\k21}DIDN’T {\k16}STOP {\k25}THERE.
+Dialogue: 0,0:00:36.70,0:00:36.97,Default,,0,0,0,,\N{\k27}EVERY
+Dialogue: 0,0:00:36.97,0:00:37.67,Default,,0,0,0,,\N{\k34}SINGLE {\k14}DAY {\k21}DURING
+Dialogue: 0,0:00:37.67,0:00:38.39,Default,,0,0,0,,\N{\k24}ROLL {\k14}CALL, {\k15}DURING
+Dialogue: 0,0:00:38.39,0:00:39.03,Default,,0,0,0,,\N{\k20}GROUP {\k43}ACTIVITIES,
+Dialogue: 0,0:00:39.35,0:00:39.96,Default,,0,0,0,,\N{\k20}WHEN {\k23}ASKING {\k16}ME
+Dialogue: 0,0:00:39.96,0:00:40.70,Default,,0,0,0,,\N{\k32}QUESTIONS, {\k14}IT’S
+Dialogue: 0,0:00:40.70,0:00:41.35,Default,,0,0,0,,\N{\k19}ALWAYS {\k30}JOTA {\k15}PE.
+Dialogue: 0,0:00:42.32,0:00:42.61,Default,,0,0,0,,\N{\k29}AT
+Dialogue: 0,0:00:42.61,0:00:43.28,Default,,0,0,0,,\N{\k20}FIRST {\k14}I {\k17}TRIED {\k14}TO
+Dialogue: 0,0:00:43.28,0:00:44.10,Default,,0,0,0,,\N{\k19}IGNORE {\k20}IT, {\k7}BUT {\k24}AFTER
+Dialogue: 0,0:00:44.10,0:00:44.84,Default,,0,0,0,,\N{\k7}A {\k14}FEW {\k14}WEEKS {\k14}IT {\k24}STARTED
+Dialogue: 0,0:00:44.84,0:00:45.50,Default,,0,0,0,,\N{\k17}TO {\k13}GRATE {\k18}ON {\k15}ME.
+Dialogue: 0,0:00:46.24,0:00:46.50,Default,,0,0,0,,\N{\k25}IT
+Dialogue: 0,0:00:46.50,0:00:47.11,Default,,0,0,0,,\N{\k32}DOESN’T {\k14}FEEL {\k15}LIKE
+Dialogue: 0,0:00:47.11,0:00:47.78,Default,,0,0,0,,\N{\k14}MY {\k17}NAME {\k34}ANYMORE
+Dialogue: 0,0:00:48.20,0:00:48.84,Default,,0,0,0,,\N{\k7}IT {\k24}FEELS {\k19}LIKE {\k12}A
+Dialogue: 0,0:00:48.84,0:00:49.47,Default,,0,0,0,,\N{\k27}CLASSROOM {\k17}BIT {\k17}THAT
+Dialogue: 0,0:00:49.47,0:00:50.82,Default,,0,0,0,,\N{\k24}NEVER {\k32}ENDS. {\k17}I
+Dialogue: 0,0:00:50.82,0:00:51.50,Default,,0,0,0,,\N{\k21}SPOKE {\k20}TO {\k7}HIM {\k17}AFTER
+Dialogue: 0,0:00:51.50,0:00:52.42,Default,,0,0,0,,\N{\k21}CLASS {\k16}AND {\k19}POLITELY {\k16}ASKED
+Dialogue: 0,0:00:52.42,0:00:53.11,Default,,0,0,0,,\N{\k19}IF {\k8}HE {\k9}COULD {\k16}JUST {\k15}CALL
+Dialogue: 0,0:00:53.11,0:00:53.84,Default,,0,0,0,,\N{\k14}ME {\k20}JP, {\k38}SINCE
+Dialogue: 0,0:00:53.84,0:00:54.56,Default,,0,0,0,,\N{\k23}THAT’S {\k14}WHAT {\k12}I {\k21}PREFER.
+Dialogue: 0,0:00:55.17,0:00:55.57,Default,,0,0,0,,\N{\k40}HE
+Dialogue: 0,0:00:55.57,0:00:56.25,Default,,0,0,0,,\N{\k20}TOLD {\k17}ME {\k10}THAT {\k19}BECAUSE
+Dialogue: 0,0:00:56.25,0:00:57.07,Default,,0,0,0,,\N{\k21}THIS {\k8}IS {\k23}SPANISH {\k28}CLASS,
+Dialogue: 0,0:00:57.29,0:00:57.92,Default,,0,0,0,,\N{\k8}HE {\k17}USES {\k14}THE {\k21}SPANISH
+Dialogue: 0,0:00:57.92,0:00:58.64,Default,,0,0,0,,\N{\k47}PRONUNCIATION {\k24}OF
+Dialogue: 0,0:00:58.64,0:00:59.39,Default,,0,0,0,,\N{\k15}NAMES {\k22}WHEN {\k37}POSSIBLE,
+Dialogue: 0,0:00:59.71,0:01:00.42,Default,,0,0,0,,\N{\k10}AND {\k15}THAT {\k26}JOTA {\k17}PE
+Dialogue: 0,0:01:00.42,0:01:01.21,Default,,0,0,0,,\N{\k11}IS {\k28}SIMPLY {\k11}THE {\k28}SPANISH
+Dialogue: 0,0:01:01.21,0:01:01.88,Default,,0,0,0,,\N{\k32}EQUIVALENT {\k21}OF {\k12}MY
+Dialogue: 0,0:01:01.88,0:01:03.28,Default,,0,0,0,,\N{\k50}INITIALS. {\k32}HE
+Dialogue: 0,0:01:03.28,0:01:03.88,Default,,0,0,0,,\N{\k35}EMPHASIZED {\k24}THAT
+Dialogue: 0,0:01:03.88,0:01:04.57,Default,,0,0,0,,\N{\k17}IT’S {\k12}NOT {\k15}AN {\k23}INSULT,
+Dialogue: 0,0:01:04.57,0:01:05.28,Default,,0,0,0,,\N{\k23}JUST {\k46}TRANSLATION.
+Dialogue: 0,0:01:06.26,0:01:06.95,Default,,0,0,0,,\N{\k14}I {\k35}UNDERSTAND {\k19}THE
+Dialogue: 0,0:01:06.95,0:01:07.64,Default,,0,0,0,,\N{\k24}LOGIC, {\k6}AND {\k7}I {\k12}KNOW
+Dialogue: 0,0:01:07.64,0:01:08.28,Default,,0,0,0,,\N{\k17}HE’S {\k10}NOT {\k20}TRYING {\k15}TO
+Dialogue: 0,0:01:08.28,0:01:09.76,Default,,0,0,0,,\N{\k14}MOCK {\k21}ME. {\k30}STILL,
+Dialogue: 0,0:01:09.87,0:01:10.28,Default,,0,0,0,,\N{\k10}IT’S {\k11}MY {\k18}NAME.
+Dialogue: 0,0:01:11.23,0:01:12.04,Default,,0,0,0,,\N{\k10}I {\k20}DON’T {\k14}FEEL {\k35}COMFORTABLE
+Dialogue: 0,0:01:12.04,0:01:12.68,Default,,0,0,0,,\N{\k21}BEING {\k19}CALLED {\k22}SOMETHING
+Dialogue: 0,0:01:12.68,0:01:13.34,Default,,0,0,0,,\N{\k17}I {\k23}DIDN’T {\k24}CHOOSE,
+Dialogue: 0,0:01:13.54,0:01:14.18,Default,,0,0,0,,\N{\k15}EVEN {\k11}IF {\k14}IT’S {\k22}TECHNICALLY
+Dialogue: 0,0:01:14.18,0:01:14.92,Default,,0,0,0,,\N{\k39}ACCURATE {\k15}IN {\k18}ANOTHER
+Dialogue: 0,0:01:14.92,0:01:16.48,Default,,0,0,0,,\N{\k39}LANGUAGE. {\k24}I
+Dialogue: 0,0:01:16.48,0:01:17.01,Default,,0,0,0,,\N{\k15}LIVE {\k14}IN {\k7}THE {\k15}U.
+Dialogue: 0,0:01:17.84,0:01:18.09,Default,,0,0,0,,\N{\k25}S.
+Dialogue: 0,0:01:19.06,0:01:19.87,Default,,0,0,0,,\N{\k9}AND {\k12}NONE {\k9}OF {\k10}MY {\k14}OTHER {\k25}TEACHERS
+Dialogue: 0,0:01:19.87,0:01:20.68,Default,,0,0,0,,\N{\k30}TRANSLATE {\k27}MY {\k22}NICKNAME
+Dialogue: 0,0:01:20.68,0:01:21.84,Default,,0,0,0,,\N{\k29}INTO {\k23}DIFFERENT {\k62}PRONUNCIATIONS.
+Dialogue: 0,0:01:22.48,0:01:22.84,Default,,0,0,0,,\N{\k35}NOW
+Dialogue: 0,0:01:22.84,0:01:23.56,Default,,0,0,0,,\N{\k17}I’M {\k20}WONDERING {\k21}IF {\k12}I’M
+Dialogue: 0,0:01:23.56,0:01:24.29,Default,,0,0,0,,\N{\k14}BEING {\k25}OVERLY {\k34}SENSITIVE
+Dialogue: 0,0:01:24.29,0:01:24.90,Default,,0,0,0,,\N{\k28}ABOUT {\k32}SOMETHING
+Dialogue: 0,0:01:24.90,0:01:25.54,Default,,0,0,0,,\N{\k31}HARMLESS, {\k6}OR
+Dialogue: 0,0:01:25.54,0:01:26.31,Default,,0,0,0,,\N{\k15}IF {\k14}IT’S {\k28}REASONABLE {\k19}TO
+Dialogue: 0,0:01:26.31,0:01:27.06,Default,,0,0,0,,\N{\k22}EXPECT {\k21}A {\k14}TEACHER {\k6}TO
+Dialogue: 0,0:01:27.06,0:01:27.81,Default,,0,0,0,,\N{\k20}RESPECT {\k15}THE {\k12}NAME {\k9}I {\k17}PREFER
+Dialogue: 0,0:01:27.81,0:01:29.50,Default,,0,0,0,,\N{\k16}TO {\k11}GO {\k18}BY. {\k35}SO,
+Dialogue: 0,0:01:29.50,0:01:30.15,Default,,0,0,0,,\N{\k34}AM {\k6}I {\k14}WRONG {\k11}FOR
+Dialogue: 0,0:01:30.15,0:01:30.85,Default,,0,0,0,,\N{\k21}WANTING {\k16}HIM {\k11}TO {\k20}STOP?

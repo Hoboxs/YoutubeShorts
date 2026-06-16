@@ -1,0 +1,226 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.08,0:00:03.74,Default,,0,0,0,,{\an5}I'M A MAN
+Dialogue: 0,0:00:03.74,0:00:04.70,Default,,0,0,0,,{\an5}IN MY EARLY 20S
+Dialogue: 0,0:00:04.70,0:00:05.24,Default,,0,0,0,,{\an5}WORKING OVERNIGHT
+Dialogue: 0,0:00:05.24,0:00:06.01,Default,,0,0,0,,{\an5}SECURITY AT
+Dialogue: 0,0:00:06.01,0:00:06.58,Default,,0,0,0,,{\an5}A WAREHOUSE RUN
+Dialogue: 0,0:00:06.58,0:00:07.13,Default,,0,0,0,,{\an5}BY A LOGISTICS
+Dialogue: 0,0:00:07.13,0:00:07.58,Default,,0,0,0,,{\an5}COMPANY.
+Dialogue: 0,0:00:07.98,0:00:08.59,Default,,0,0,0,,{\an5}I'LL CALL
+Dialogue: 0,0:00:08.59,0:00:09.41,Default,,0,0,0,,{\an5}STILLWAY FREIGHT.
+Dialogue: 0,0:00:09.53,0:00:10.22,Default,,0,0,0,,{\an5}FROM THE BEGINNING,
+Dialogue: 0,0:00:10.40,0:00:11.16,Default,,0,0,0,,{\an5}I BECAME KNOWN
+Dialogue: 0,0:00:11.16,0:00:11.88,Default,,0,0,0,,{\an5}FOR ALWAYS CARRYING
+Dialogue: 0,0:00:11.88,0:00:12.69,Default,,0,0,0,,{\an5}A BACKPACK STUFFED
+Dialogue: 0,0:00:12.69,0:00:13.51,Default,,0,0,0,,{\an5}WITH USEFUL THINGS.
+Dialogue: 0,0:00:14.17,0:00:14.92,Default,,0,0,0,,{\an5}PAIN RELIEVERS,
+Dialogue: 0,0:00:15.16,0:00:16.12,Default,,0,0,0,,{\an5}GUM, BREATH
+Dialogue: 0,0:00:16.12,0:00:17.23,Default,,0,0,0,,{\an5}SPRAY, BANDAGES,
+Dialogue: 0,0:00:17.46,0:00:18.51,Default,,0,0,0,,{\an5}ALLERGY MEDS,
+Dialogue: 0,0:00:18.53,0:00:19.05,Default,,0,0,0,,{\an5}YOU NAME
+Dialogue: 0,0:00:19.05,0:00:19.30,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:00:19.51,0:00:20.28,Default,,0,0,0,,{\an5}COWORKERS JOKED
+Dialogue: 0,0:00:20.28,0:00:20.94,Default,,0,0,0,,{\an5}THAT I WAS BASICALLY
+Dialogue: 0,0:00:20.94,0:00:21.64,Default,,0,0,0,,{\an5}A WALKING CORNER
+Dialogue: 0,0:00:21.64,0:00:21.94,Default,,0,0,0,,{\an5}STORE.
+Dialogue: 0,0:00:22.16,0:00:22.67,Default,,0,0,0,,{\an5}AND DURING
+Dialogue: 0,0:00:22.67,0:00:23.51,Default,,0,0,0,,{\an5}LONG, QUIET
+Dialogue: 0,0:00:23.51,0:00:24.05,Default,,0,0,0,,{\an5}NIGHT SHIFTS,
+Dialogue: 0,0:00:24.32,0:00:25.03,Default,,0,0,0,,{\an5}IT GAVE PEOPLE
+Dialogue: 0,0:00:25.03,0:00:25.60,Default,,0,0,0,,{\an5}A REASON TO
+Dialogue: 0,0:00:25.60,0:00:26.26,Default,,0,0,0,,{\an5}TALK TO ME INSTEAD
+Dialogue: 0,0:00:26.26,0:00:26.89,Default,,0,0,0,,{\an5}OF JUST STARING
+Dialogue: 0,0:00:26.89,0:00:27.64,Default,,0,0,0,,{\an5}AT LOADING DOCKS
+Dialogue: 0,0:00:27.64,0:00:29.00,Default,,0,0,0,,{\an5}FOR HOURS. EVENTUALLY,
+Dialogue: 0,0:00:29.60,0:00:30.16,Default,,0,0,0,,{\an5}I ADDED
+Dialogue: 0,0:00:30.16,0:00:30.78,Default,,0,0,0,,{\an5}A FEW PERSONAL
+Dialogue: 0,0:00:30.78,0:00:31.28,Default,,0,0,0,,{\an5}CARE ITEMS
+Dialogue: 0,0:00:31.28,0:00:31.92,Default,,0,0,0,,{\an5}THAT PEOPLE ON
+Dialogue: 0,0:00:31.92,0:00:32.57,Default,,0,0,0,,{\an5}NIGHT SHIFT OFTEN
+Dialogue: 0,0:00:32.57,0:00:33.32,Default,,0,0,0,,{\an5}GOT STUCK NEEDING
+Dialogue: 0,0:00:33.32,0:00:34.61,Default,,0,0,0,,{\an5}WHEN NOTHING WAS
+Dialogue: 0,0:00:34.61,0:00:34.88,Default,,0,0,0,,{\an5}OPEN.
+Dialogue: 0,0:00:35.10,0:00:36.47,Default,,0,0,0,,{\an5}PADS, TAMPONS,
+Dialogue: 0,0:00:36.64,0:00:37.15,Default,,0,0,0,,{\an5}A SMALL
+Dialogue: 0,0:00:37.15,0:00:37.70,Default,,0,0,0,,{\an5}DEODORANT
+Dialogue: 0,0:00:37.70,0:00:38.21,Default,,0,0,0,,{\an5}STICK FROM A
+Dialogue: 0,0:00:38.21,0:00:38.79,Default,,0,0,0,,{\an5}BRAND LIKE FRESH
+Dialogue: 0,0:00:38.79,0:00:39.65,Default,,0,0,0,,{\an5}MIST, AND
+Dialogue: 0,0:00:39.65,0:00:40.32,Default,,0,0,0,,{\an5}SOME HAND LOTION
+Dialogue: 0,0:00:40.32,0:00:40.96,Default,,0,0,0,,{\an5}SIMILAR TO
+Dialogue: 0,0:00:40.96,0:00:41.38,Default,,0,0,0,,{\an5}SKINNY'S.
+Dialogue: 0,0:00:41.60,0:00:42.17,Default,,0,0,0,,{\an5}MOST OF
+Dialogue: 0,0:00:42.17,0:00:42.84,Default,,0,0,0,,{\an5}THE WOMEN I WORKED
+Dialogue: 0,0:00:42.84,0:00:43.34,Default,,0,0,0,,{\an5}WITH WERE GRATEFUL
+Dialogue: 0,0:00:43.34,0:00:43.92,Default,,0,0,0,,{\an5}OR PLEASANTLY
+Dialogue: 0,0:00:43.92,0:00:44.29,Default,,0,0,0,,{\an5}SURPRISED.
+Dialogue: 0,0:00:44.78,0:00:45.46,Default,,0,0,0,,{\an5}IT BECAME
+Dialogue: 0,0:00:45.46,0:00:45.96,Default,,0,0,0,,{\an5}ONE OF THOSE
+Dialogue: 0,0:00:45.96,0:00:46.70,Default,,0,0,0,,{\an5}UNSPOKEN THINGS.
+Dialogue: 0,0:00:46.96,0:00:47.61,Default,,0,0,0,,{\an5}IF SOMEONE
+Dialogue: 0,0:00:47.61,0:00:48.32,Default,,0,0,0,,{\an5}WAS IN A BIND
+Dialogue: 0,0:00:48.32,0:00:48.84,Default,,0,0,0,,{\an5}AT 2 AM,
+Dialogue: 0,0:00:49.06,0:00:49.57,Default,,0,0,0,,{\an5}THEY KNEW
+Dialogue: 0,0:00:49.57,0:00:50.10,Default,,0,0,0,,{\an5}WHERE TO GO,
+Dialogue: 0,0:00:50.29,0:00:50.93,Default,,0,0,0,,{\an5}AND NO ONE
+Dialogue: 0,0:00:50.93,0:00:51.53,Default,,0,0,0,,{\an5}MADE A BIG DEAL
+Dialogue: 0,0:00:51.53,0:00:52.43,Default,,0,0,0,,{\an5}OUT OF IT. THAT
+Dialogue: 0,0:00:52.43,0:00:52.97,Default,,0,0,0,,{\an5}CHANGED AFTER
+Dialogue: 0,0:00:52.97,0:00:53.57,Default,,0,0,0,,{\an5}ONE INTERACTION
+Dialogue: 0,0:00:53.57,0:00:54.14,Default,,0,0,0,,{\an5}AT THE GATE.
+Dialogue: 0,0:00:54.14,0:00:54.74,Default,,0,0,0,,{\an5}I WAS
+Dialogue: 0,0:00:54.74,0:00:55.42,Default,,0,0,0,,{\an5}CHECKING PAPERWORK
+Dialogue: 0,0:00:55.42,0:00:56.21,Default,,0,0,0,,{\an5}WITH ANOTHER GUARD
+Dialogue: 0,0:00:56.21,0:00:56.84,Default,,0,0,0,,{\an5}WHEN A CO-WORKER,
+Dialogue: 0,0:00:57.03,0:00:57.67,Default,,0,0,0,,{\an5}I'LL CALL
+Dialogue: 0,0:00:57.67,0:00:58.20,Default,,0,0,0,,{\an5}HER MARA,
+Dialogue: 0,0:00:58.24,0:00:58.75,Default,,0,0,0,,{\an5}DROVE UP
+Dialogue: 0,0:00:58.75,0:00:59.43,Default,,0,0,0,,{\an5}LOOKING FLUSTERED
+Dialogue: 0,0:00:59.43,0:00:59.93,Default,,0,0,0,,{\an5}AND SAID SHE
+Dialogue: 0,0:00:59.93,0:01:00.47,Default,,0,0,0,,{\an5}NEEDED TO LEAVE
+Dialogue: 0,0:01:00.47,0:01:01.02,Default,,0,0,0,,{\an5}EARLY TO BUY
+Dialogue: 0,0:01:01.02,0:01:01.34,Default,,0,0,0,,{\an5}SUPPLIES.
+Dialogue: 0,0:01:01.94,0:01:02.71,Default,,0,0,0,,{\an5}WITHOUT THINKING
+Dialogue: 0,0:01:02.71,0:01:03.38,Default,,0,0,0,,{\an5}MUCH ABOUT IT,
+Dialogue: 0,0:01:03.46,0:01:03.97,Default,,0,0,0,,{\an5}I TOLD
+Dialogue: 0,0:01:03.97,0:01:04.62,Default,,0,0,0,,{\an5}MY CO-WORKER
+Dialogue: 0,0:01:04.62,0:01:05.26,Default,,0,0,0,,{\an5}WHERE IN MY BAG
+Dialogue: 0,0:01:05.26,0:01:05.95,Default,,0,0,0,,{\an5}THE SUPPLIES WERE
+Dialogue: 0,0:01:05.95,0:01:06.73,Default,,0,0,0,,{\an5}AND OFFERED HER OPTIONS.
+Dialogue: 0,0:01:07.31,0:01:07.90,Default,,0,0,0,,{\an5}SHE TOOK
+Dialogue: 0,0:01:07.90,0:01:08.62,Default,,0,0,0,,{\an5}THEM, BARELY
+Dialogue: 0,0:01:08.62,0:01:09.12,Default,,0,0,0,,{\an5}THANKED ME,
+Dialogue: 0,0:01:09.26,0:01:10.04,Default,,0,0,0,,{\an5}AND DROVE OFF.
+Dialogue: 0,0:01:10.20,0:01:10.70,Default,,0,0,0,,{\an5}THE MOMENT
+Dialogue: 0,0:01:10.70,0:01:11.28,Default,,0,0,0,,{\an5}FELT OFF,
+Dialogue: 0,0:01:11.37,0:01:11.98,Default,,0,0,0,,{\an5}BUT I DIDN'T
+Dialogue: 0,0:01:11.98,0:01:12.56,Default,,0,0,0,,{\an5}THINK MUCH OF IT
+Dialogue: 0,0:01:12.56,0:01:13.09,Default,,0,0,0,,{\an5}AND WENT BACK TO
+Dialogue: 0,0:01:13.09,0:01:13.31,Default,,0,0,0,,{\an5}WORK.
+Dialogue: 0,0:01:13.78,0:01:14.51,Default,,0,0,0,,{\an5}THE FOLLOWING
+Dialogue: 0,0:01:14.51,0:01:15.21,Default,,0,0,0,,{\an5}WEEK, I
+Dialogue: 0,0:01:15.21,0:01:15.76,Default,,0,0,0,,{\an5}WAS PULLED INTO
+Dialogue: 0,0:01:15.76,0:01:16.35,Default,,0,0,0,,{\an5}HR AND
+Dialogue: 0,0:01:16.35,0:01:16.93,Default,,0,0,0,,{\an5}TOLD A COMPLAINT
+Dialogue: 0,0:01:16.93,0:01:17.54,Default,,0,0,0,,{\an5}HAD BEEN FILED
+Dialogue: 0,0:01:17.54,0:01:18.09,Default,,0,0,0,,{\an5}SAYING I MADE
+Dialogue: 0,0:01:18.09,0:01:18.95,Default,,0,0,0,,{\an5}A FEMALE CO-WORKER
+Dialogue: 0,0:01:18.95,0:01:20.09,Default,,0,0,0,,{\an5}FEEL UNCOMFORTABLE
+Dialogue: 0,0:01:20.09,0:01:20.62,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:20.62,0:01:21.62,Default,,0,0,0,,{\an5}UNSAFE, HEARING
+Dialogue: 0,0:01:21.62,0:01:22.12,Default,,0,0,0,,{\an5}THAT MADE MY
+Dialogue: 0,0:01:22.12,0:01:22.71,Default,,0,0,0,,{\an5}STOMACH DROP.
+Dialogue: 0,0:01:22.71,0:01:23.31,Default,,0,0,0,,{\an5}HR
+Dialogue: 0,0:01:23.31,0:01:23.92,Default,,0,0,0,,{\an5}REVIEWED THE
+Dialogue: 0,0:01:23.92,0:01:24.50,Default,,0,0,0,,{\an5}CAMERA FOOTAGE,
+Dialogue: 0,0:01:24.78,0:01:25.42,Default,,0,0,0,,{\an5}LISTENED TO
+Dialogue: 0,0:01:25.42,0:01:26.00,Default,,0,0,0,,{\an5}MY EXPLANATION,
+Dialogue: 0,0:01:26.29,0:01:26.87,Default,,0,0,0,,{\an5}AND ULTIMATELY
+Dialogue: 0,0:01:26.87,0:01:27.37,Default,,0,0,0,,{\an5}SAID I
+Dialogue: 0,0:01:27.37,0:01:27.92,Default,,0,0,0,,{\an5}HADN'T DONE ANYTHING
+Dialogue: 0,0:01:27.92,0:01:28.81,Default,,0,0,0,,{\an5}WRONG, BUT
+Dialogue: 0,0:01:28.81,0:01:29.40,Default,,0,0,0,,{\an5}ADVISED ME TO
+Dialogue: 0,0:01:29.40,0:01:30.04,Default,,0,0,0,,{\an5}KEEP MY DISTANCE
+Dialogue: 0,0:01:30.04,0:01:30.56,Default,,0,0,0,,{\an5}FROM MARA.
+Dialogue: 0,0:01:30.68,0:01:31.40,Default,,0,0,0,,{\an5}EVEN SO,
+Dialogue: 0,0:01:31.59,0:01:32.15,Default,,0,0,0,,{\an5}WORD SPREAD
+Dialogue: 0,0:01:32.15,0:01:32.76,Default,,0,0,0,,{\an5}FAST BY
+Dialogue: 0,0:01:32.76,0:01:33.26,Default,,0,0,0,,{\an5}THE NEXT FEW
+Dialogue: 0,0:01:33.26,0:01:33.62,Default,,0,0,0,,{\an5}SHIFTS.
+Dialogue: 0,0:01:33.87,0:01:34.50,Default,,0,0,0,,{\an5}PEOPLE WERE
+Dialogue: 0,0:01:34.50,0:01:35.79,Default,,0,0,0,,{\an5}WHISPERING, SIDE-EYEING
+Dialogue: 0,0:01:35.79,0:01:36.37,Default,,0,0,0,,{\an5}ME, AND
+Dialogue: 0,0:01:36.37,0:01:36.90,Default,,0,0,0,,{\an5}I COULD TELL A
+Dialogue: 0,0:01:36.90,0:01:37.70,Default,,0,0,0,,{\an5}STORY WAS CIRCULATING
+Dialogue: 0,0:01:37.70,0:01:38.28,Default,,0,0,0,,{\an5}THAT I WAS
+Dialogue: 0,0:01:38.28,0:01:38.95,Default,,0,0,0,,{\an5}WEIRD, OR
+Dialogue: 0,0:01:38.95,0:01:39.26,Default,,0,0,0,,{\an5}CREEPY.
+Dialogue: 0,0:01:39.81,0:01:40.48,Default,,0,0,0,,{\an5}THAT WORD
+Dialogue: 0,0:01:40.48,0:01:40.98,Default,,0,0,0,,{\an5}HAS FOLLOWED
+Dialogue: 0,0:01:40.98,0:01:41.78,Default,,0,0,0,,{\an5}ME, MOST
+Dialogue: 0,0:01:41.78,0:01:42.34,Default,,0,0,0,,{\an5}OF MY LIFE
+Dialogue: 0,0:01:42.34,0:01:42.84,Default,,0,0,0,,{\an5}BECAUSE OF HOW
+Dialogue: 0,0:01:42.84,0:01:43.70,Default,,0,0,0,,{\an5}I LOOK, AND
+Dialogue: 0,0:01:43.70,0:01:44.21,Default,,0,0,0,,{\an5}IT HIT HARDER
+Dialogue: 0,0:01:44.21,0:01:44.87,Default,,0,0,0,,{\an5}THAN I EXPECTED.
+Dialogue: 0,0:01:45.20,0:01:45.73,Default,,0,0,0,,{\an5}SO I
+Dialogue: 0,0:01:45.73,0:01:46.29,Default,,0,0,0,,{\an5}MADE A DECISION.
+Dialogue: 0,0:01:46.56,0:01:47.21,Default,,0,0,0,,{\an5}IF CARRYING
+Dialogue: 0,0:01:47.21,0:01:47.76,Default,,0,0,0,,{\an5}THOSE ITEMS
+Dialogue: 0,0:01:47.76,0:01:48.35,Default,,0,0,0,,{\an5}COULD BE TWISTED
+Dialogue: 0,0:01:48.35,0:01:49.21,Default,,0,0,0,,{\an5}INTO SOMETHING INAPPROPRIATE,
+Dialogue: 0,0:01:49.65,0:01:50.34,Default,,0,0,0,,{\an5}I WAS DONE.
+Dialogue: 0,0:01:50.34,0:01:51.01,Default,,0,0,0,,{\an5}I REMOVED
+Dialogue: 0,0:01:51.01,0:01:51.70,Default,,0,0,0,,{\an5}ALL THE PERSONAL
+Dialogue: 0,0:01:51.70,0:01:52.28,Default,,0,0,0,,{\an5}CARE PRODUCTS
+Dialogue: 0,0:01:52.28,0:01:52.92,Default,,0,0,0,,{\an5}FROM MY BAG
+Dialogue: 0,0:01:52.92,0:01:53.54,Default,,0,0,0,,{\an5}AND LEFT THEM WITH
+Dialogue: 0,0:01:53.54,0:01:53.78,Default,,0,0,0,,{\an5}HR.
+Dialogue: 0,0:01:54.18,0:01:55.18,Default,,0,0,0,,{\an5}WHEN CO-WORKERS
+Dialogue: 0,0:01:55.18,0:01:55.76,Default,,0,0,0,,{\an5}NOTICED AND
+Dialogue: 0,0:01:55.76,0:01:56.28,Default,,0,0,0,,{\an5}ASKED WHY I
+Dialogue: 0,0:01:56.28,0:01:57.06,Default,,0,0,0,,{\an5}STOPPED, I
+Dialogue: 0,0:01:57.06,0:01:57.73,Default,,0,0,0,,{\an5}DIDN'T SUGARCOAT
+Dialogue: 0,0:01:57.73,0:01:57.93,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:01:57.98,0:01:58.57,Default,,0,0,0,,{\an5}I TOLD THEM
+Dialogue: 0,0:01:58.57,0:01:59.14,Default,,0,0,0,,{\an5}EXACTLY WHAT
+Dialogue: 0,0:01:59.14,0:01:59.64,Default,,0,0,0,,{\an5}HAPPENED AND
+Dialogue: 0,0:01:59.64,0:02:00.23,Default,,0,0,0,,{\an5}SAID THEY WERE FREE
+Dialogue: 0,0:02:00.23,0:02:00.81,Default,,0,0,0,,{\an5}TO CONFIRM IT
+Dialogue: 0,0:02:00.81,0:02:01.50,Default,,0,0,0,,{\an5}WITH MANAGEMENT IF
+Dialogue: 0,0:02:01.50,0:02:02.51,Default,,0,0,0,,{\an5}THEY WANTED.
+Dialogue: 0,0:02:02.73,0:02:03.42,Default,,0,0,0,,{\an5}THE ATMOSPHERE
+Dialogue: 0,0:02:03.42,0:02:04.09,Default,,0,0,0,,{\an5}SHIFTED ALMOST
+Dialogue: 0,0:02:04.09,0:02:04.54,Default,,0,0,0,,{\an5}IMMEDIATELY.
+Dialogue: 0,0:02:04.87,0:02:05.50,Default,,0,0,0,,{\an5}PEOPLE WERE
+Dialogue: 0,0:02:05.50,0:02:06.28,Default,,0,0,0,,{\an5}ANGRY, NOT
+Dialogue: 0,0:02:06.28,0:02:07.07,Default,,0,0,0,,{\an5}AT ME, BUT
+Dialogue: 0,0:02:07.07,0:02:07.92,Default,,0,0,0,,{\an5}AT MARA. SHE
+Dialogue: 0,0:02:07.92,0:02:08.53,Default,,0,0,0,,{\an5}BECAME DISTANT,
+Dialogue: 0,0:02:08.80,0:02:09.74,Default,,0,0,0,,{\an5}AVOIDED, AND
+Dialogue: 0,0:02:09.74,0:02:10.36,Default,,0,0,0,,{\an5}OPENLY UPSET,
+Dialogue: 0,0:02:10.63,0:02:11.59,Default,,0,0,0,,{\an5}EVENTUALLY CONFRONTING
+Dialogue: 0,0:02:11.59,0:02:12.12,Default,,0,0,0,,{\an5}ME AND
+Dialogue: 0,0:02:12.12,0:02:12.78,Default,,0,0,0,,{\an5}SAYING I HAD TURNED
+Dialogue: 0,0:02:12.78,0:02:13.37,Default,,0,0,0,,{\an5}EVERYONE AGAINST
+Dialogue: 0,0:02:13.37,0:02:13.87,Default,,0,0,0,,{\an5}HER AND MADE
+Dialogue: 0,0:02:13.87,0:02:14.59,Default,,0,0,0,,{\an5}WORK UNBEARABLE.
+Dialogue: 0,0:02:14.90,0:02:15.56,Default,,0,0,0,,{\an5}SHE SAID
+Dialogue: 0,0:02:15.56,0:02:16.08,Default,,0,0,0,,{\an5}I SHOULD HAVE KEPT
+Dialogue: 0,0:02:16.08,0:02:16.68,Default,,0,0,0,,{\an5}QUIET AND
+Dialogue: 0,0:02:16.68,0:02:17.30,Default,,0,0,0,,{\an5}LET IT BLOW OVER.
+Dialogue: 0,0:02:17.30,0:02:17.97,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:02:17.97,0:02:18.58,Default,,0,0,0,,{\an5}TOLD HER I
+Dialogue: 0,0:02:18.58,0:02:19.19,Default,,0,0,0,,{\an5}WASN'T WILLING TO
+Dialogue: 0,0:02:19.19,0:02:19.80,Default,,0,0,0,,{\an5}SILENTLY CARRY
+Dialogue: 0,0:02:19.80,0:02:20.37,Default,,0,0,0,,{\an5}A LABEL THAT
+Dialogue: 0,0:02:20.37,0:02:20.91,Default,,0,0,0,,{\an5}COULD FOLLOW ME
+Dialogue: 0,0:02:20.91,0:02:21.46,Default,,0,0,0,,{\an5}FOR YEARS JUST
+Dialogue: 0,0:02:21.46,0:02:22.47,Default,,0,0,0,,{\an5}TO PROTECT
+Dialogue: 0,0:02:22.47,0:02:23.25,Default,,0,0,0,,{\an5}SOMEONE ELSE'S
+Dialogue: 0,0:02:23.25,0:02:23.53,Default,,0,0,0,,{\an5}COMFORT.
+Dialogue: 0,0:02:23.74,0:02:24.25,Default,,0,0,0,,{\an5}NOW THE
+Dialogue: 0,0:02:24.25,0:02:24.91,Default,,0,0,0,,{\an5}WORKPLACE FEELS
+Dialogue: 0,0:02:24.91,0:02:25.68,Default,,0,0,0,,{\an5}TENSE AND
+Dialogue: 0,0:02:25.68,0:02:26.19,Default,,0,0,0,,{\an5}I'M LEFT
+Dialogue: 0,0:02:26.19,0:02:26.81,Default,,0,0,0,,{\an5}WONDERING WHETHER
+Dialogue: 0,0:02:26.81,0:02:27.36,Default,,0,0,0,,{\an5}BEING HONEST
+Dialogue: 0,0:02:27.36,0:02:27.87,Default,,0,0,0,,{\an5}WAS NECESSARY
+Dialogue: 0,0:02:27.87,0:02:28.59,Default,,0,0,0,,{\an5}SELF-DEFENSE
+Dialogue: 0,0:02:28.59,0:02:29.24,Default,,0,0,0,,{\an5}OR
+Dialogue: 0,0:02:29.24,0:02:29.81,Default,,0,0,0,,{\an5}WHETHER TELLING
+Dialogue: 0,0:02:29.81,0:02:30.46,Default,,0,0,0,,{\an5}THE FULL STORY
+Dialogue: 0,0:02:30.46,0:02:31.12,Default,,0,0,0,,{\an5}CAUSED DAMAGE
+Dialogue: 0,0:02:31.12,0:02:31.96,Default,,0,0,0,,{\an5}THAT CAN'T BE UNDONE.

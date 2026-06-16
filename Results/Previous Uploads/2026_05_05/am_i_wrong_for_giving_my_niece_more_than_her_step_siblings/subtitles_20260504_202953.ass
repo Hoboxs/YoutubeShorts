@@ -1,0 +1,228 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.06,0:00:03.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}I {\k10}HAVE {\k14}FOUND
+Dialogue: 0,0:00:03.66,0:00:04.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}MYSELF {\k23}IN {\k10}THE
+Dialogue: 0,0:00:04.32,0:00:05.44,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MIDDLE {\k13}OF {\k8}A {\k18}FAMILY {\k54}SITUATION
+Dialogue: 0,0:00:05.44,0:00:06.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THAT {\k8}IS {\k24}BECOMING {\k58}INCREASINGLY
+Dialogue: 0,0:00:06.54,0:00:07.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k51}UNCOMFORTABLE, {\k42}AND
+Dialogue: 0,0:00:07.48,0:00:08.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k36}GENUINELY {\k25}DO
+Dialogue: 0,0:00:08.19,0:00:08.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}NOT {\k16}KNOW {\k25}WHETHER {\k14}I
+Dialogue: 0,0:00:08.92,0:00:09.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AM {\k14}BEING {\k32}UNFAIR {\k19}OR
+Dialogue: 0,0:00:09.67,0:00:10.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}SIMPLY {\k41}MAINTAINING
+Dialogue: 0,0:00:10.32,0:00:11.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k45}REASONABLE {\k38}BOUNDARIES.
+Dialogue: 0,0:00:11.92,0:00:12.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}I
+Dialogue: 0,0:00:12.09,0:00:12.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AM {\k30}FORTY {\k24}YEARS
+Dialogue: 0,0:00:12.72,0:00:13.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}OLD, {\k27}AND {\k17}YEARS
+Dialogue: 0,0:00:13.35,0:00:14.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AGO {\k11}I {\k18}JOINED {\k13}A
+Dialogue: 0,0:00:14.01,0:00:14.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SMALL {\k22}TECHNOLOGY {\k51}COMPANY
+Dialogue: 0,0:00:14.90,0:00:15.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}VERY {\k20}EARLY {\k19}ON
+Dialogue: 0,0:00:15.58,0:00:16.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THAT {\k33}EVENTUALLY {\k26}BECAME
+Dialogue: 0,0:00:16.26,0:00:17.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}INCREDIBLY {\k56}SUCCESSFUL.
+Dialogue: 0,0:00:17.94,0:00:18.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WHEN
+Dialogue: 0,0:00:18.19,0:00:18.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}IT {\k10}WAS {\k19}SOLD, {\k17}IT
+Dialogue: 0,0:00:18.80,0:00:19.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}CHANGED {\k17}MY {\k46}FAMILY'S
+Dialogue: 0,0:00:19.66,0:00:20.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}FINANCIAL {\k28}FUTURE
+Dialogue: 0,0:00:20.33,0:00:20.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}PERMANENTLY.
+Dialogue: 0,0:00:21.51,0:00:21.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:00:21.73,0:00:22.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AM {\k10}NOT {\k27}ENDLESSLY {\k35}WEALTHY,
+Dialogue: 0,0:00:22.55,0:00:23.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}BUT {\k11}I {\k8}LIVE
+Dialogue: 0,0:00:23.16,0:00:23.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}VERY {\k41}COMFORTABLY,
+Dialogue: 0,0:00:23.83,0:00:24.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}AND {\k9}I {\k12}HAVE {\k17}ALWAYS
+Dialogue: 0,0:00:24.53,0:00:25.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WANTED {\k14}TO {\k14}SHARE {\k11}THAT
+Dialogue: 0,0:00:25.21,0:00:25.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}GOOD {\k30}FORTUNE {\k12}WITH {\k9}THE
+Dialogue: 0,0:00:25.85,0:00:26.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}PEOPLE {\k33}CLOSEST {\k19}TO
+Dialogue: 0,0:00:26.53,0:00:27.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}ME. {\k40}I
+Dialogue: 0,0:00:27.50,0:00:28.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HAVE {\k12}AN {\k6}OLDER {\k29}BROTHER, {\k42}AND
+Dialogue: 0,0:00:28.48,0:00:29.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HE {\k9}HAS {\k8}A {\k19}DAUGHTER {\k30}NAMED
+Dialogue: 0,0:00:29.28,0:00:30.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}LILY {\k22}WHO {\k9}IS {\k16}NOW {\k14}IN
+Dialogue: 0,0:00:30.01,0:00:30.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HER {\k25}EARLY {\k32}TEENS.
+Dialogue: 0,0:00:31.33,0:00:31.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:00:31.55,0:00:32.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HAVE {\k21}ALWAYS {\k18}BEEN {\k18}ESPECIALLY
+Dialogue: 0,0:00:32.24,0:00:32.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}CLOSE {\k18}TO {\k18}HER.
+Dialogue: 0,0:00:33.74,0:00:33.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I
+Dialogue: 0,0:00:33.89,0:00:34.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ONLY {\k14}HAVE {\k24}BOYS, {\k35}AND
+Dialogue: 0,0:00:34.82,0:00:35.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THEY {\k33}ABSOLUTELY {\k22}ADORE
+Dialogue: 0,0:00:35.52,0:00:36.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THEIR {\k28}COUSIN.
+Dialogue: 0,0:00:36.71,0:00:36.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHEN
+Dialogue: 0,0:00:36.89,0:00:37.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k10}WAS {\k28}YOUNGER, {\k47}SHE
+Dialogue: 0,0:00:37.89,0:00:38.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SPENT {\k10}A {\k7}LOT {\k14}OF {\k17}TIME
+Dialogue: 0,0:00:38.61,0:00:39.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AROUND {\k13}OUR {\k22}HOUSE {\k17}HELPING
+Dialogue: 0,0:00:39.38,0:00:40.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}OUT {\k17}WITH {\k10}THE {\k15}YOUNGER {\k38}CHILDREN
+Dialogue: 0,0:00:40.35,0:00:40.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k14}BECOMING {\k28}A
+Dialogue: 0,0:00:40.96,0:00:41.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HUGE {\k15}PART {\k14}OF {\k8}OUR {\k19}DAILY
+Dialogue: 0,0:00:41.71,0:00:42.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}LIVES.
+Dialogue: 0,0:00:42.82,0:00:43.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}BECAUSE
+Dialogue: 0,0:00:43.10,0:00:43.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}OF {\k11}THAT {\k38}CLOSENESS,
+Dialogue: 0,0:00:43.78,0:00:44.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k82}MY
+Dialogue: 0,0:00:44.60,0:00:45.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}HUSBAND {\k21}AND {\k10}I {\k29}NATURALLY
+Dialogue: 0,0:00:45.47,0:00:46.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}STARTED {\k23}DOING
+Dialogue: 0,0:00:46.07,0:00:46.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}THINGS {\k15}FOR {\k11}HER {\k20}OVER
+Dialogue: 0,0:00:46.82,0:00:47.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k26}YEARS.
+Dialogue: 0,0:00:47.93,0:00:48.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}EVEN {\k29}BEFORE {\k16}OUR
+Dialogue: 0,0:00:48.56,0:00:49.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}FINANCIAL {\k52}SITUATION
+Dialogue: 0,0:00:49.42,0:00:50.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}IMPROVED {\k46}DRAMATICALLY,
+Dialogue: 0,0:00:50.28,0:00:50.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k65}WE
+Dialogue: 0,0:00:50.93,0:00:51.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HELPED {\k16}PAY {\k14}FOR {\k10}HER {\k33}EDUCATION
+Dialogue: 0,0:00:51.85,0:00:52.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k32}INCLUDED {\k19}HER
+Dialogue: 0,0:00:52.57,0:00:53.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IN {\k28}FAMILY {\k51}VACATIONS.
+Dialogue: 0,0:00:54.14,0:00:54.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}AS
+Dialogue: 0,0:00:54.35,0:00:55.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OUR {\k25}LIFESTYLE {\k51}CHANGED,
+Dialogue: 0,0:00:55.29,0:00:56.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}SO {\k14}DID {\k11}THE {\k46}OPPORTUNITIES
+Dialogue: 0,0:00:56.32,0:00:56.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WE {\k11}COULD {\k24}OFFER
+Dialogue: 0,0:00:56.92,0:00:57.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HER.
+Dialogue: 0,0:00:57.79,0:00:58.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WE
+Dialogue: 0,0:00:58.03,0:00:58.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}CREATED {\k15}A {\k20}LARGE
+Dialogue: 0,0:00:58.67,0:00:59.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}EDUCATION {\k24}FUND
+Dialogue: 0,0:00:59.28,0:00:59.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}FOR {\k10}HER {\k32}FUTURE,
+Dialogue: 0,0:00:59.88,0:01:00.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k53}MADE {\k21}SURE
+Dialogue: 0,0:01:00.64,0:01:01.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}SHE {\k8}WOULD {\k11}BE {\k20}ABLE {\k14}TO
+Dialogue: 0,0:01:01.34,0:01:02.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}PURSUE {\k30}ADVANCED {\k35}DEGREES
+Dialogue: 0,0:01:02.20,0:01:03.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}IF {\k8}SHE {\k25}WANTED, {\k32}AND
+Dialogue: 0,0:01:03.10,0:01:03.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}PLANNED {\k17}FOR {\k8}HER {\k9}TO {\k28}EVENTUALLY
+Dialogue: 0,0:01:03.89,0:01:04.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}HAVE {\k21}FINANCIAL {\k37}SUPPORT
+Dialogue: 0,0:01:04.71,0:01:05.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}TOWARD {\k24}BUYING {\k9}A
+Dialogue: 0,0:01:05.35,0:01:05.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}HOME {\k15}ONE {\k20}DAY.
+Dialogue: 0,0:01:06.62,0:01:06.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WE
+Dialogue: 0,0:01:06.81,0:01:07.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ALSO {\k25}TRAVEL {\k32}OFTEN
+Dialogue: 0,0:01:07.56,0:01:08.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AND {\k26}FREQUENTLY {\k31}BRING
+Dialogue: 0,0:01:08.23,0:01:09.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HER {\k21}ALONG {\k16}ON {\k33}INTERNATIONAL
+Dialogue: 0,0:01:09.09,0:01:09.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}TRIPS {\k21}AND {\k31}HOLIDAYS.
+Dialogue: 0,0:01:10.78,0:01:11.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HER {\k28}PARENTS {\k20}HAVE {\k21}ALWAYS
+Dialogue: 0,0:01:11.56,0:01:12.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}BEEN {\k35}SUPPORTIVE {\k15}AND
+Dialogue: 0,0:01:12.28,0:01:13.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}GRATEFUL, {\k57}AND
+Dialogue: 0,0:01:13.15,0:01:13.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}UNTIL {\k35}RECENTLY,
+Dialogue: 0,0:01:13.76,0:01:14.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}THERE {\k11}HAD {\k15}NEVER
+Dialogue: 0,0:01:14.45,0:01:15.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BEEN {\k26}TENSION {\k23}ABOUT
+Dialogue: 0,0:01:15.09,0:01:15.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IT.
+Dialogue: 0,0:01:16.00,0:01:16.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k10}ISSUE {\k25}STARTED {\k34}AFTER
+Dialogue: 0,0:01:16.79,0:01:17.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}LILY'S {\k18}MOTHER {\k35}REMARRIED
+Dialogue: 0,0:01:17.70,0:01:18.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}A {\k15}FEW {\k20}YEARS {\k23}AGO.
+Dialogue: 0,0:01:19.06,0:01:19.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}HER
+Dialogue: 0,0:01:19.31,0:01:19.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}HUSBAND {\k20}HAS {\k17}TWO
+Dialogue: 0,0:01:19.95,0:01:20.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}CHILDREN {\k20}FROM {\k9}A {\k28}PREVIOUS
+Dialogue: 0,0:01:20.79,0:01:21.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k51}RELATIONSHIP, {\k30}BOTH
+Dialogue: 0,0:01:21.62,0:01:22.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}TEENAGERS {\k39}AROUND
+Dialogue: 0,0:01:22.29,0:01:22.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}LILY'S {\k23}AGE.
+Dialogue: 0,0:01:23.62,0:01:23.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THEIR
+Dialogue: 0,0:01:23.76,0:01:24.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HOUSEHOLD {\k35}STRUGGLES {\k47}FINANCIALLY,
+Dialogue: 0,0:01:24.81,0:01:25.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}AND {\k11}WHILE {\k40}EVERYONE
+Dialogue: 0,0:01:25.70,0:01:26.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}GETS {\k28}ALONG {\k39}REASONABLY
+Dialogue: 0,0:01:26.57,0:01:27.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WELL {\k15}ON {\k6}THE {\k29}SURFACE,
+Dialogue: 0,0:01:27.37,0:01:28.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}THE {\k35}DIFFERENCES
+Dialogue: 0,0:01:28.20,0:01:29.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}BETWEEN {\k14}THE {\k39}CHILDREN'S
+Dialogue: 0,0:01:29.09,0:01:29.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}LIFESTYLES {\k8}HAVE {\k21}BECOME
+Dialogue: 0,0:01:29.76,0:01:30.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}IMPOSSIBLE {\k19}TO {\k28}IGNORE.
+Dialogue: 0,0:01:31.40,0:01:32.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}LILY {\k27}ATTENDS {\k16}A {\k20}PRIVATE
+Dialogue: 0,0:01:32.18,0:01:32.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}SCHOOL,
+Dialogue: 0,0:01:32.90,0:01:33.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TRAVELS {\k54}INTERNATIONALLY,
+Dialogue: 0,0:01:33.64,0:01:34.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}AND {\k40}EXPERIENCES
+Dialogue: 0,0:01:34.40,0:01:35.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}THINGS {\k19}THE {\k16}OTHER
+Dialogue: 0,0:01:35.12,0:01:35.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}CHILDREN {\k21}SIMPLY {\k18}DO
+Dialogue: 0,0:01:35.78,0:01:35.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}NOT.
+Dialogue: 0,0:01:36.68,0:01:37.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}MEANWHILE,
+Dialogue: 0,0:01:37.04,0:01:37.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HER {\k18}STEP {\k27}SIBLINGS
+Dialogue: 0,0:01:37.81,0:01:38.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}ATTEND {\k25}PUBLIC {\k30}SCHOOL
+Dialogue: 0,0:01:38.62,0:01:39.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}AND {\k14}LIVE {\k7}A {\k14}MUCH {\k17}MORE
+Dialogue: 0,0:01:39.37,0:01:40.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MODEST {\k42}LIFE.
+Dialogue: 0,0:01:40.62,0:01:41.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}APPARENTLY {\k31}RESENTMENT
+Dialogue: 0,0:01:41.37,0:01:42.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HAS {\k15}BEEN {\k26}BUILDING
+Dialogue: 0,0:01:42.00,0:01:42.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}FOR {\k21}YEARS, {\k43}ESPECIALLY
+Dialogue: 0,0:01:42.85,0:01:43.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}FROM {\k12}THE {\k37}STEPFATHER,
+Dialogue: 0,0:01:43.64,0:01:44.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}WHO {\k21}FEELS
+Dialogue: 0,0:01:44.43,0:01:45.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k4}IT {\k3}IS {\k20}UNFAIR {\k15}THAT {\k14}ONE {\k21}CHILD
+Dialogue: 0,0:01:45.23,0:01:46.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IN {\k9}THE {\k18}HOUSEHOLD {\k34}RECEIVES
+Dialogue: 0,0:01:46.04,0:01:46.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k47}OPPORTUNITIES {\k28}FAR
+Dialogue: 0,0:01:46.79,0:01:47.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}BEYOND {\k15}WHAT {\k12}THE {\k15}OTHERS
+Dialogue: 0,0:01:47.51,0:01:48.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}CAN {\k42}ACCESS.
+Dialogue: 0,0:01:48.82,0:01:49.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}RECENTLY,
+Dialogue: 0,0:01:49.56,0:01:50.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}LILY'S {\k18}MOTHER {\k34}APPROACHED
+Dialogue: 0,0:01:50.34,0:01:51.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}ME {\k15}VERY {\k37}CAREFULLY
+Dialogue: 0,0:01:51.01,0:01:51.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}AND {\k25}ADMITTED {\k16}THAT
+Dialogue: 0,0:01:51.68,0:01:52.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HER {\k20}HUSBAND {\k29}WANTED
+Dialogue: 0,0:01:52.29,0:01:52.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HER {\k10}TO {\k17}SPEAK {\k18}TO
+Dialogue: 0,0:01:52.92,0:01:53.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}ME.
+Dialogue: 0,0:01:53.70,0:01:53.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SHE
+Dialogue: 0,0:01:53.95,0:01:54.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ASKED {\k17}WHETHER {\k20}MY {\k26}HUSBAND
+Dialogue: 0,0:01:54.78,0:01:55.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k11}I {\k12}WOULD {\k23}CONSIDER
+Dialogue: 0,0:01:55.45,0:01:56.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}PAYING {\k18}FOR {\k9}THE {\k12}OTHER
+Dialogue: 0,0:01:56.14,0:01:56.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k50}CHILDREN'S {\k17}SCHOOLING
+Dialogue: 0,0:01:56.81,0:01:57.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}AS {\k12}WELL {\k41}INCLUDING
+Dialogue: 0,0:01:57.59,0:01:58.22,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}THEM {\k15}MORE {\k22}EQUALLY
+Dialogue: 0,0:01:58.22,0:01:59.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}IN {\k10}GIFTS {\k15}AND {\k43}VACATIONS
+Dialogue: 0,0:01:59.15,0:01:59.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SO {\k7}THE {\k31}DIFFERENCES {\k21}WOULD
+Dialogue: 0,0:01:59.95,0:02:00.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}NOT {\k21}FEEL {\k23}SO
+Dialogue: 0,0:02:00.59,0:02:01.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}EXTREME {\k23}WITHIN {\k15}THE
+Dialogue: 0,0:02:01.31,0:02:01.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HOME.
+Dialogue: 0,0:02:02.21,0:02:02.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SHE
+Dialogue: 0,0:02:02.40,0:02:03.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MADE {\k14}IT {\k14}VERY {\k17}CLEAR
+Dialogue: 0,0:02:03.01,0:02:03.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k34}PERSONALLY {\k34}UNDERSTOOD
+Dialogue: 0,0:02:03.84,0:02:04.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THAT {\k14}THESE {\k25}CHILDREN
+Dialogue: 0,0:02:04.45,0:02:05.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ARE {\k11}NOT {\k14}MY {\k52}RESPONSIBILITY,
+Dialogue: 0,0:02:05.40,0:02:06.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}BUT {\k15}SHE {\k18}ALSO
+Dialogue: 0,0:02:06.12,0:02:06.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SAID {\k12}HER {\k24}HUSBAND {\k25}BELIEVES
+Dialogue: 0,0:02:06.93,0:02:07.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IT {\k12}IS {\k17}COLD {\k17}AND
+Dialogue: 0,0:02:07.56,0:02:08.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}UNFAIR {\k15}TO {\k16}TREAT {\k31}CHILDREN
+Dialogue: 0,0:02:08.40,0:02:09.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}LIVING {\k25}UNDER {\k12}THE {\k21}SAME
+Dialogue: 0,0:02:09.21,0:02:09.91,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}ROOF {\k18}SO {\k35}DIFFERENTLY.
+Dialogue: 0,0:02:10.74,0:02:10.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE
+Dialogue: 0,0:02:10.81,0:02:11.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}PROBLEM {\k15}IS {\k9}THAT {\k8}I {\k19}BARELY
+Dialogue: 0,0:02:11.59,0:02:12.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}KNOW {\k13}THESE {\k36}CHILDREN.
+Dialogue: 0,0:02:13.00,0:02:13.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}THEY
+Dialogue: 0,0:02:13.24,0:02:13.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}ARE {\k12}NOT {\k28}FAMILY {\k25}MEMBERS
+Dialogue: 0,0:02:13.97,0:02:14.63,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k15}HELPED {\k21}RAISE {\k13}OR
+Dialogue: 0,0:02:14.63,0:02:15.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}BUILT {\k13}YEARS {\k19}OF {\k40}CLOSENESS
+Dialogue: 0,0:02:15.50,0:02:15.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WITH.
+Dialogue: 0,0:02:16.36,0:02:16.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:02:16.58,0:02:17.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}DO {\k12}NOT {\k23}DISLIKE {\k18}THEM
+Dialogue: 0,0:02:17.28,0:02:18.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AT {\k12}ALL, {\k41}BUT
+Dialogue: 0,0:02:18.00,0:02:18.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MY {\k35}RELATIONSHIP {\k24}WITH
+Dialogue: 0,0:02:18.78,0:02:19.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THEM {\k12}IS {\k19}NOWHERE {\k18}NEAR
+Dialogue: 0,0:02:19.40,0:02:20.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}WHAT {\k7}I {\k6}HAVE {\k6}WITH {\k25}MY {\k15}NIECE.
+Dialogue: 0,0:02:20.80,0:02:21.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}FROM
+Dialogue: 0,0:02:21.00,0:02:22.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MY {\k43}PERSPECTIVE, {\k74}THE
+Dialogue: 0,0:02:22.34,0:02:23.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SUPPORT {\k18}WE {\k12}GIVE {\k18}LILY
+Dialogue: 0,0:02:23.08,0:02:23.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}COMES {\k24}FROM {\k11}A
+Dialogue: 0,0:02:23.69,0:02:24.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}DEEPLY {\k43}PERSONAL {\k34}BOND,
+Dialogue: 0,0:02:24.87,0:02:25.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}NOT {\k17}SOME {\k34}OBLIGATION {\k26}TO
+Dialogue: 0,0:02:25.74,0:02:26.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}PROVIDE {\k31}EQUALLY {\k18}FOR
+Dialogue: 0,0:02:26.46,0:02:27.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}EVERY {\k21}CHILD {\k30}CONNECTED
+Dialogue: 0,0:02:27.21,0:02:27.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TO {\k10}HER {\k28}HOUSEHOLD.
+Dialogue: 0,0:02:28.50,0:02:28.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}STILL,
+Dialogue: 0,0:02:28.78,0:02:29.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I {\k21}CANNOT {\k31}IGNORE
+Dialogue: 0,0:02:29.53,0:02:30.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k37}EMOTIONAL {\k28}REALITY
+Dialogue: 0,0:02:30.34,0:02:31.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}OF {\k8}THE {\k41}SITUATION.
+Dialogue: 0,0:02:31.75,0:02:31.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:02:31.97,0:02:32.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}UNDERSTAND {\k24}HOW
+Dialogue: 0,0:02:32.58,0:02:33.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DIFFICULT {\k21}IT {\k13}MUST
+Dialogue: 0,0:02:33.19,0:02:33.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}BE {\k11}FOR {\k10}THOSE {\k25}CHILDREN
+Dialogue: 0,0:02:33.84,0:02:34.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}TO {\k29}CONSTANTLY {\k28}COMPARE
+Dialogue: 0,0:02:34.59,0:02:35.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THEIR {\k11}LIVES {\k21}TO {\k20}HERS.
+Dialogue: 0,0:02:36.13,0:02:36.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}AT {\k8}THE {\k18}SAME {\k34}TIME,
+Dialogue: 0,0:02:36.86,0:02:37.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k13}FEEL {\k42}UNCOMFORTABLE
+Dialogue: 0,0:02:37.58,0:02:38.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}WITH {\k9}THE {\k18}IDEA {\k18}THAT
+Dialogue: 0,0:02:38.34,0:02:39.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MY {\k41}GENEROSITY {\k26}TOWARD
+Dialogue: 0,0:02:39.18,0:02:39.91,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ONE {\k20}CHILD {\k33}SUDDENLY
+Dialogue: 0,0:02:39.91,0:02:40.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}CREATES {\k15}AN {\k36}EXPECTATION
+Dialogue: 0,0:02:40.68,0:02:41.41,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}THAT {\k7}I {\k14}SHOULD {\k23}FINANCIALLY
+Dialogue: 0,0:02:41.41,0:02:42.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}SUPPORT {\k25}OTHERS
+Dialogue: 0,0:02:42.15,0:02:42.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I {\k30}HARDLY {\k18}KNOW.
+Dialogue: 0,0:02:43.41,0:02:43.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}NOW
+Dialogue: 0,0:02:43.81,0:02:44.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k9}AM {\k28}QUESTIONING {\k31}WHETHER
+Dialogue: 0,0:02:44.62,0:02:45.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k12}AM {\k18}BEING {\k31}REASONABLE
+Dialogue: 0,0:02:45.40,0:02:46.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FOR {\k19}DRAWING {\k15}THAT {\k21}LINE,
+Dialogue: 0,0:02:46.19,0:02:46.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}OR {\k8}IF {\k31}CONTINUING
+Dialogue: 0,0:02:46.90,0:02:47.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THIS {\k30}IMBALANCE {\k36}INSIDE
+Dialogue: 0,0:02:47.80,0:02:48.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THEIR {\k21}BLENDED {\k40}FAMILY
+Dialogue: 0,0:02:48.59,0:02:49.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}MAKES {\k17}ME {\k18}MORE
+Dialogue: 0,0:02:49.21,0:02:49.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}RESPONSIBLE {\k19}FOR {\k8}THE
+Dialogue: 0,0:02:49.90,0:02:50.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TENSION {\k18}THAN {\k9}I {\k15}WANT
+Dialogue: 0,0:02:50.53,0:02:50.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TO {\k17}ADMIT.

@@ -1,0 +1,141 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.62,0:00:04.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}MY {\k27}PARTNER {\k16}AND
+Dialogue: 0,0:00:04.29,0:00:05.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k27}RECENTLY {\k20}GOT {\k33}ENGAGED
+Dialogue: 0,0:00:05.17,0:00:05.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}AFTER {\k15}BEING {\k32}TOGETHER
+Dialogue: 0,0:00:05.92,0:00:06.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}FOR {\k21}SEVERAL {\k33}YEARS,
+Dialogue: 0,0:00:07.04,0:00:07.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AND {\k16}THIS {\k25}WEEKEND {\k18}HER
+Dialogue: 0,0:00:07.74,0:00:08.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}FAMILY {\k24}HOSTED {\k18}A
+Dialogue: 0,0:00:08.46,0:00:09.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}BIG {\k41}ENGAGEMENT {\k36}CELEBRATION
+Dialogue: 0,0:00:09.40,0:00:09.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}FOR {\k24}US.
+Dialogue: 0,0:00:10.50,0:00:10.77,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}IT
+Dialogue: 0,0:00:10.77,0:00:11.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k9}A {\k21}REALLY {\k18}NICE
+Dialogue: 0,0:00:11.38,0:00:12.27,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}EVENT, {\k6}AND {\k31}AFTERWARD
+Dialogue: 0,0:00:12.27,0:00:12.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WE {\k21}BROUGHT {\k20}HOME {\k9}A
+Dialogue: 0,0:00:12.90,0:00:13.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}STACK {\k17}OF {\k22}CARDS {\k16}AND
+Dialogue: 0,0:00:13.66,0:00:14.27,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}GIFTS {\k21}FROM {\k25}RELATIVES
+Dialogue: 0,0:00:14.27,0:00:15.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AND {\k30}FAMILY {\k37}FRIENDS.
+Dialogue: 0,0:00:15.69,0:00:16.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}WHEN
+Dialogue: 0,0:00:16.05,0:00:16.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WE {\k21}STARTED {\k30}OPENING
+Dialogue: 0,0:00:16.67,0:00:17.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THEM {\k20}TOGETHER {\k35}LATER
+Dialogue: 0,0:00:17.46,0:00:17.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THAT {\k35}EVENING,
+Dialogue: 0,0:00:18.17,0:00:18.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}A {\k10}LOT {\k12}OF {\k9}THE {\k16}CARDS {\k16}HAD
+Dialogue: 0,0:00:18.87,0:00:19.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}MONEY {\k35}INSIDE,
+Dialogue: 0,0:00:19.60,0:00:20.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WHICH {\k26}HONESTLY {\k33}SURPRISED
+Dialogue: 0,0:00:20.30,0:00:21.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}ME {\k17}BECAUSE {\k28}PEOPLE
+Dialogue: 0,0:00:21.00,0:00:21.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WERE {\k21}VERY {\k24}GENEROUS.
+Dialogue: 0,0:00:22.42,0:00:22.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WHILE
+Dialogue: 0,0:00:22.67,0:00:23.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WE {\k10}WERE {\k14}GOING {\k17}THROUGH
+Dialogue: 0,0:00:23.28,0:00:23.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}EVERYTHING,
+Dialogue: 0,0:00:23.89,0:00:24.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k27}COMMENTED {\k18}ON {\k13}HOW
+Dialogue: 0,0:00:24.55,0:00:25.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}KIND {\k16}HER {\k26}FAMILY
+Dialogue: 0,0:00:25.16,0:00:25.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HAD {\k14}BEEN {\k11}AND {\k14}SAID {\k14}IT
+Dialogue: 0,0:00:25.85,0:00:26.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WOULD {\k19}REALLY {\k16}HELP {\k14}WITH
+Dialogue: 0,0:00:26.46,0:00:27.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WEDDING {\k37}EXPENSES {\k16}OR
+Dialogue: 0,0:00:27.17,0:00:27.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THINGS {\k21}WE {\k14}NEED {\k24}TOGETHER
+Dialogue: 0,0:00:27.94,0:00:28.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AS {\k5}A {\k19}COUPLE.
+Dialogue: 0,0:00:28.94,0:00:29.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}THAT
+Dialogue: 0,0:00:29.30,0:00:30.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}IS {\k17}WHEN {\k14}SHE {\k21}CASUALLY
+Dialogue: 0,0:00:30.00,0:00:30.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}SAID {\k12}THE {\k16}MONEY {\k16}WAS
+Dialogue: 0,0:00:30.67,0:00:31.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}ACTUALLY {\k21}HERS.
+Dialogue: 0,0:00:31.92,0:00:32.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}I
+Dialogue: 0,0:00:32.21,0:00:32.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WAS {\k31}CONFUSED {\k18}AT
+Dialogue: 0,0:00:32.84,0:00:33.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}FIRST {\k28}BECAUSE {\k14}THE {\k14}CARDS
+Dialogue: 0,0:00:33.53,0:00:34.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WERE {\k23}ADDRESSED {\k14}TO {\k14}BOTH
+Dialogue: 0,0:00:34.21,0:00:34.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k21}US, {\k7}AND {\k12}THE
+Dialogue: 0,0:00:34.92,0:00:35.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ENTIRE {\k19}EVENT {\k12}WAS
+Dialogue: 0,0:00:35.52,0:00:36.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}CELEBRATING {\k25}OUR
+Dialogue: 0,0:00:36.14,0:00:36.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}ENGAGEMENT, {\k41}NOT
+Dialogue: 0,0:00:36.97,0:00:37.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}JUST {\k16}HER {\k47}INDIVIDUALLY.
+Dialogue: 0,0:00:38.42,0:00:38.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SO
+Dialogue: 0,0:00:38.70,0:00:39.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k17}TOLD {\k17}HER {\k10}I {\k15}THOUGHT
+Dialogue: 0,0:00:39.39,0:00:40.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k15}MONEY {\k20}SHOULD {\k17}COUNT
+Dialogue: 0,0:00:40.06,0:00:40.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AS {\k25}SOMETHING {\k15}FOR {\k20}BOTH
+Dialogue: 0,0:00:40.82,0:00:41.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}OF {\k26}US,
+Dialogue: 0,0:00:41.42,0:00:42.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}ESPECIALLY {\k29}SINCE
+Dialogue: 0,0:00:42.03,0:00:42.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WE {\k6}ARE {\k29}PLANNING {\k11}A {\k17}FUTURE
+Dialogue: 0,0:00:42.79,0:00:43.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}TOGETHER {\k11}AND {\k6}A {\k20}WEDDING
+Dialogue: 0,0:00:43.52,0:00:43.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}TOGETHER.
+Dialogue: 0,0:00:44.67,0:00:44.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SHE
+Dialogue: 0,0:00:44.88,0:00:45.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k51}DISAGREED {\k46}IMMEDIATELY.
+Dialogue: 0,0:00:46.64,0:00:46.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HER
+Dialogue: 0,0:00:46.75,0:00:47.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}ARGUMENT {\k25}WAS {\k8}THAT {\k21}BECAUSE
+Dialogue: 0,0:00:47.56,0:00:48.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k10}GIFTS {\k21}CAME {\k17}FROM
+Dialogue: 0,0:00:48.17,0:00:49.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HER {\k17}SIDE {\k14}OF {\k6}THE {\k29}FAMILY,
+Dialogue: 0,0:00:49.28,0:00:49.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}THE {\k17}MONEY {\k17}SHOULD {\k20}BELONG
+Dialogue: 0,0:00:49.88,0:00:50.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}ONLY {\k14}TO {\k14}HER.
+Dialogue: 0,0:00:51.24,0:00:51.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I
+Dialogue: 0,0:00:51.39,0:00:52.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TOLD {\k19}HER {\k8}I {\k11}DID {\k11}NOT
+Dialogue: 0,0:00:52.07,0:00:52.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THINK {\k16}THAT {\k17}MADE {\k19}SENSE.
+Dialogue: 0,0:00:53.75,0:00:54.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}TO {\k11}ME, {\k42}ENGAGEMENT
+Dialogue: 0,0:00:54.38,0:00:55.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}GIFTS {\k15}ARE {\k14}MEANT {\k16}FOR
+Dialogue: 0,0:00:55.02,0:00:55.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k21}COUPLE, {\k16}REGARDLESS
+Dialogue: 0,0:00:55.70,0:00:56.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}OF {\k12}WHICH {\k23}SIDE {\k12}OF
+Dialogue: 0,0:00:56.42,0:00:57.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k25}FAMILY {\k21}THEY {\k14}COME
+Dialogue: 0,0:00:57.14,0:00:57.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}FROM.
+Dialogue: 0,0:00:57.84,0:00:58.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}I
+Dialogue: 0,0:00:58.20,0:00:58.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ALSO {\k21}ADMITTED {\k25}THAT
+Dialogue: 0,0:00:58.93,0:00:59.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}IT {\k17}FELT {\k33}SELFISH
+Dialogue: 0,0:00:59.53,0:01:00.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TO {\k38}AUTOMATICALLY {\k37}CLAIM
+Dialogue: 0,0:01:00.47,0:01:01.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ALL {\k14}OF {\k7}IT {\k11}FOR {\k24}HERSELF
+Dialogue: 0,0:01:01.21,0:01:02.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHEN {\k11}THE {\k10}CARDS {\k38}CLEARLY
+Dialogue: 0,0:01:02.02,0:01:02.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}INCLUDED {\k25}BOTH {\k14}OUR
+Dialogue: 0,0:01:02.75,0:01:03.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}NAMES.
+Dialogue: 0,0:01:03.67,0:01:03.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THAT
+Dialogue: 0,0:01:03.89,0:01:04.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}DID {\k15}NOT {\k15}GO {\k21}OVER
+Dialogue: 0,0:01:04.57,0:01:04.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WELL.
+Dialogue: 0,0:01:05.64,0:01:05.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SHE
+Dialogue: 0,0:01:05.81,0:01:06.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}ACCUSED {\k17}ME {\k10}OF {\k17}TRYING
+Dialogue: 0,0:01:06.51,0:01:07.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}TO {\k20}BENEFIT {\k23}FROM {\k12}HER
+Dialogue: 0,0:01:07.20,0:01:08.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}FAMILY'S {\k43}GENEROSITY,
+Dialogue: 0,0:01:08.20,0:01:08.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WHICH {\k24}HONESTLY {\k42}FRUSTRATED
+Dialogue: 0,0:01:08.98,0:01:09.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ME {\k21}BECAUSE {\k15}FROM {\k15}MY
+Dialogue: 0,0:01:09.73,0:01:10.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}PERSPECTIVE,
+Dialogue: 0,0:01:10.45,0:01:11.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}SHE {\k9}WAS {\k7}THE {\k15}ONE {\k26}TREATING
+Dialogue: 0,0:01:11.14,0:01:11.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}SHARED {\k18}GIFTS {\k19}LIKE
+Dialogue: 0,0:01:11.81,0:01:12.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}PERSONAL {\k23}INCOME.
+Dialogue: 0,0:01:13.20,0:01:13.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WE
+Dialogue: 0,0:01:13.40,0:01:14.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WENT {\k15}BACK {\k20}AND {\k17}FORTH
+Dialogue: 0,0:01:14.07,0:01:14.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FOR {\k7}A {\k18}WHILE, {\k6}BUT
+Dialogue: 0,0:01:14.70,0:01:15.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}SHE {\k14}KEPT {\k28}REPEATING {\k26}THAT
+Dialogue: 0,0:01:15.50,0:01:16.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BECAUSE {\k11}THE {\k18}MONEY {\k15}CAME
+Dialogue: 0,0:01:16.14,0:01:16.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}FROM {\k14}HER {\k26}RELATIVES,
+Dialogue: 0,0:01:17.04,0:01:17.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}IT {\k9}WAS {\k10}HERS {\k11}TO {\k20}KEEP.
+Dialogue: 0,0:01:18.40,0:01:18.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NOW
+Dialogue: 0,0:01:18.57,0:01:19.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k7}AM {\k23}SECOND {\k23}GUESSING
+Dialogue: 0,0:01:19.23,0:01:19.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WHETHER {\k20}I {\k9}AM {\k14}LOOKING
+Dialogue: 0,0:01:19.95,0:01:20.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AT {\k14}THIS {\k11}THE {\k12}WRONG {\k23}WAY.
+Dialogue: 0,0:01:21.40,0:01:21.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}PART
+Dialogue: 0,0:01:21.65,0:01:22.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k14}ME {\k29}GENUINELY {\k28}THOUGHT
+Dialogue: 0,0:01:22.51,0:01:23.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ENGAGEMENT {\k38}GIFTS
+Dialogue: 0,0:01:23.20,0:01:23.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WERE {\k21}INTENDED {\k23}FOR {\k12}THE
+Dialogue: 0,0:01:23.92,0:01:24.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}COUPLE {\k17}AS {\k6}A {\k26}UNIT,
+Dialogue: 0,0:01:24.62,0:01:25.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k50}ESPECIALLY {\k25}WHEN
+Dialogue: 0,0:01:25.37,0:01:26.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THEY {\k10}ARE {\k21}ADDRESSED {\k15}TO
+Dialogue: 0,0:01:26.00,0:01:26.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BOTH {\k29}PEOPLE.
+Dialogue: 0,0:01:27.04,0:01:27.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}BUT
+Dialogue: 0,0:01:27.37,0:01:28.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}MAYBE {\k20}THERE {\k9}ARE {\k35}UNSPOKEN
+Dialogue: 0,0:01:28.29,0:01:29.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k54}EXPECTATIONS {\k35}AROUND
+Dialogue: 0,0:01:29.20,0:01:29.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}FAMILY {\k15}GIFTS {\k18}THAT
+Dialogue: 0,0:01:29.90,0:01:30.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k11}DO {\k14}NOT {\k42}UNDERSTAND.
+Dialogue: 0,0:01:31.20,0:01:31.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}AT
+Dialogue: 0,0:01:31.56,0:01:32.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THIS {\k29}POINT,
+Dialogue: 0,0:01:32.18,0:01:32.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}I {\k15}CANNOT {\k21}TELL {\k21}WHETHER
+Dialogue: 0,0:01:32.81,0:01:33.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}I {\k12}WAS {\k15}BEING {\k35}REASONABLE
+Dialogue: 0,0:01:33.64,0:01:34.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IN {\k34}EXPECTING {\k21}THE
+Dialogue: 0,0:01:34.37,0:01:35.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MONEY {\k14}TO {\k9}BE {\k28}SHARED,
+Dialogue: 0,0:01:35.20,0:01:35.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}OR {\k11}IF {\k7}I {\k18}CAME {\k26}ACROSS
+Dialogue: 0,0:01:35.90,0:01:36.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}AS {\k31}ENTITLED {\k24}BY
+Dialogue: 0,0:01:36.70,0:01:37.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ASSUMING {\k20}I {\k15}HAD
+Dialogue: 0,0:01:37.31,0:01:38.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ANY {\k20}CLAIM {\k15}TO {\k15}GIFTS
+Dialogue: 0,0:01:38.00,0:01:38.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THAT {\k34}ORIGINATED {\k34}FROM
+Dialogue: 0,0:01:38.84,0:01:39.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HER {\k35}FAMILY.

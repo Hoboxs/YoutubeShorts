@@ -1,0 +1,74 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.git/
+.gitignore
+
+.idea/
+.vscode/
+
+*.log
+.env
+
+node_modules/
+dist/
+build/
+
+Old Versions/
+Voice_Samples/
+
+# Project output, media, and large folders
+BackgroundClips/
+Compilation/
+Compilation/**
+Results/
+Processing/
+Failed/
+Previous Uploads/
+AdditionalFiles/
+Tests/
+TestText/
+voice_samples/
+
+# Large files by extension (but keep fonts and essential images)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.webp
+*.gif
+*.svg
+*.woff
+*.woff2
+
+# Text/binary blobs that can be large
+AllTexts.txt
+todo.txt
+
+# Misc
+.DS_Store
+Thumbs.db
+.env
+
+# Keep essential files
+!Dockerfile
+!requirements.txt
+!*.py
+!.dockerignore
+!Fonts/
+!Fonts/**
+
+# Re-include AdditionalFiles assets needed in the image
+!AdditionalFiles/
+!AdditionalFiles/**
+!AdditionalFiles/*.png
+!AdditionalFiles/*.jpg
+!AdditionalFiles/*.jpeg

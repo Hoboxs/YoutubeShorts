@@ -1,0 +1,146 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.12,0:00:04.66,Default,,0,0,0,,{\an5}I'M A
+Dialogue: 0,0:00:04.66,0:00:05.36,Default,,0,0,0,,{\an5}WOMAN IN MY LATE
+Dialogue: 0,0:00:05.36,0:00:05.92,Default,,0,0,0,,{\an5}TWENTIES LIVING
+Dialogue: 0,0:00:05.92,0:00:06.58,Default,,0,0,0,,{\an5}BY CHOICE WITH
+Dialogue: 0,0:00:06.58,0:00:08.08,Default,,0,0,0,,{\an5}MY GRANDFATHER. NOT
+Dialogue: 0,0:00:08.08,0:00:08.58,Default,,0,0,0,,{\an5}BECAUSE EITHER
+Dialogue: 0,0:00:08.58,0:00:09.35,Default,,0,0,0,,{\an5}OF US NEEDS HELP
+Dialogue: 0,0:00:09.35,0:00:09.88,Default,,0,0,0,,{\an5}BUT BECAUSE WE
+Dialogue: 0,0:00:09.88,0:00:10.51,Default,,0,0,0,,{\an5}GENUINELY ENJOY
+Dialogue: 0,0:00:10.51,0:00:11.25,Default,,0,0,0,,{\an5}SHARING A HOME.
+Dialogue: 0,0:00:11.51,0:00:12.19,Default,,0,0,0,,{\an5}AND UNTIL
+Dialogue: 0,0:00:12.19,0:00:12.83,Default,,0,0,0,,{\an5}RECENTLY OUR
+Dialogue: 0,0:00:12.83,0:00:13.59,Default,,0,0,0,,{\an5}LIFE TOGETHER FELT
+Dialogue: 0,0:00:13.59,0:00:14.58,Default,,0,0,0,,{\an5}WARM, PEACEFUL,
+Dialogue: 0,0:00:14.83,0:00:15.35,Default,,0,0,0,,{\an5}AND DEEPLY
+Dialogue: 0,0:00:15.35,0:00:16.37,Default,,0,0,0,,{\an5}FAMILIAR, FULL
+Dialogue: 0,0:00:16.37,0:00:17.14,Default,,0,0,0,,{\an5}OF SMALL ROUTINES
+Dialogue: 0,0:00:17.14,0:00:17.80,Default,,0,0,0,,{\an5}LIKE HIM MAKING
+Dialogue: 0,0:00:17.80,0:00:18.37,Default,,0,0,0,,{\an5}TEA WHILE I
+Dialogue: 0,0:00:18.37,0:00:19.00,Default,,0,0,0,,{\an5}VENT ABOUT WORK
+Dialogue: 0,0:00:19.00,0:00:19.78,Default,,0,0,0,,{\an5}OR QUIETLY BRAIDING
+Dialogue: 0,0:00:19.78,0:00:20.94,Default,,0,0,0,,{\an5}MY HAIR. WHILE
+Dialogue: 0,0:00:20.94,0:00:21.55,Default,,0,0,0,,{\an5}I RAMBLE ABOUT
+Dialogue: 0,0:00:21.55,0:00:22.21,Default,,0,0,0,,{\an5}MY LOVE LIFE,
+Dialogue: 0,0:00:22.39,0:00:22.94,Default,,0,0,0,,{\an5}THAT SENSE
+Dialogue: 0,0:00:22.94,0:00:23.53,Default,,0,0,0,,{\an5}OF SAFETY
+Dialogue: 0,0:00:23.53,0:00:24.03,Default,,0,0,0,,{\an5}CRACKED AT
+Dialogue: 0,0:00:24.03,0:00:24.53,Default,,0,0,0,,{\an5}A RELATIVE'S
+Dialogue: 0,0:00:24.53,0:00:25.46,Default,,0,0,0,,{\an5}VERY TRADITIONAL WEDDING,
+Dialogue: 0,0:00:25.64,0:00:26.14,Default,,0,0,0,,{\an5}WHERE I
+Dialogue: 0,0:00:26.14,0:00:26.94,Default,,0,0,0,,{\an5}WAS ALREADY DRAINED
+Dialogue: 0,0:00:26.94,0:00:27.73,Default,,0,0,0,,{\an5}AND OVERSTIMULATED
+Dialogue: 0,0:00:27.73,0:00:28.26,Default,,0,0,0,,{\an5}WHEN I WAS
+Dialogue: 0,0:00:28.26,0:00:28.76,Default,,0,0,0,,{\an5}PUSHED INTO TO
+Dialogue: 0,0:00:28.76,0:00:29.48,Default,,0,0,0,,{\an5}PARTICIPATING IN
+Dialogue: 0,0:00:29.48,0:00:30.57,Default,,0,0,0,,{\an5}A LOUD PUBLIC
+Dialogue: 0,0:00:30.57,0:00:31.19,Default,,0,0,0,,{\an5}FAMILY DANCE
+Dialogue: 0,0:00:31.19,0:00:31.78,Default,,0,0,0,,{\an5}I DIDN'T WANT
+Dialogue: 0,0:00:31.78,0:00:32.60,Default,,0,0,0,,{\an5}TO DO, ONLY
+Dialogue: 0,0:00:32.60,0:00:33.14,Default,,0,0,0,,{\an5}TO SIT DOWN
+Dialogue: 0,0:00:33.14,0:00:33.82,Default,,0,0,0,,{\an5}AFTERWARD AND
+Dialogue: 0,0:00:33.82,0:00:34.52,Default,,0,0,0,,{\an5}HAVE AN OLDER WOMAN
+Dialogue: 0,0:00:34.52,0:00:35.03,Default,,0,0,0,,{\an5}I HAD NEVER
+Dialogue: 0,0:00:35.03,0:00:35.79,Default,,0,0,0,,{\an5}MET SLOWLY LOOK
+Dialogue: 0,0:00:35.79,0:00:36.46,Default,,0,0,0,,{\an5}ME UP AND DOWN,
+Dialogue: 0,0:00:36.61,0:00:37.24,Default,,0,0,0,,{\an5}BEFORE
+Dialogue: 0,0:00:37.24,0:00:37.78,Default,,0,0,0,,{\an5}MAKING A
+Dialogue: 0,0:00:37.78,0:00:38.89,Default,,0,0,0,,{\an5}SHARP, HUMILIATING
+Dialogue: 0,0:00:38.89,0:00:39.46,Default,,0,0,0,,{\an5}COMMENT ABOUT
+Dialogue: 0,0:00:39.46,0:00:39.96,Default,,0,0,0,,{\an5}MY BODY
+Dialogue: 0,0:00:39.96,0:00:40.52,Default,,0,0,0,,{\an5}AND HOW RARELY
+Dialogue: 0,0:00:40.52,0:00:41.21,Default,,0,0,0,,{\an5}I MUST DANCE,
+Dialogue: 0,0:00:41.38,0:00:42.02,Default,,0,0,0,,{\an5}I SWALLOWED
+Dialogue: 0,0:00:42.02,0:00:42.71,Default,,0,0,0,,{\an5}MY EMBARRASSMENT
+Dialogue: 0,0:00:42.71,0:00:43.50,Default,,0,0,0,,{\an5}TO AVOID CAUSING
+Dialogue: 0,0:00:43.50,0:00:44.10,Default,,0,0,0,,{\an5}A SCENE AND
+Dialogue: 0,0:00:44.10,0:00:44.70,Default,,0,0,0,,{\an5}ASSUMED I'D NEVER
+Dialogue: 0,0:00:44.70,0:00:45.24,Default,,0,0,0,,{\an5}SEE HER AGAIN,
+Dialogue: 0,0:00:45.53,0:00:46.07,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:00:46.07,0:00:46.70,Default,,0,0,0,,{\an5}TO MY SHOCK MY
+Dialogue: 0,0:00:46.70,0:00:47.46,Default,,0,0,0,,{\an5}GRANDFATHER INVITED
+Dialogue: 0,0:00:47.46,0:00:48.21,Default,,0,0,0,,{\an5}THE SAME WOMAN,
+Dialogue: 0,0:00:48.39,0:00:49.21,Default,,0,0,0,,{\an5}AN ACQUAINTANCE
+Dialogue: 0,0:00:49.21,0:00:49.74,Default,,0,0,0,,{\an5}FROM THE WEDDING,
+Dialogue: 0,0:00:49.93,0:00:50.53,Default,,0,0,0,,{\an5}NOT EVEN
+Dialogue: 0,0:00:50.53,0:00:51.11,Default,,0,0,0,,{\an5}A CLOSE FRIEND,
+Dialogue: 0,0:00:51.35,0:00:51.85,Default,,0,0,0,,{\an5}BACK TO
+Dialogue: 0,0:00:51.85,0:00:52.46,Default,,0,0,0,,{\an5}OUR HOUSE WITHOUT
+Dialogue: 0,0:00:52.46,0:00:52.97,Default,,0,0,0,,{\an5}ASKING OR
+Dialogue: 0,0:00:52.97,0:00:53.96,Default,,0,0,0,,{\an5}TELLING ME, TURNING
+Dialogue: 0,0:00:53.96,0:00:54.60,Default,,0,0,0,,{\an5}WHAT I ASSUMED
+Dialogue: 0,0:00:54.60,0:00:55.34,Default,,0,0,0,,{\an5}WAS A BRIEF STOP
+Dialogue: 0,0:00:55.34,0:00:55.93,Default,,0,0,0,,{\an5}INTO A STAY
+Dialogue: 0,0:00:55.93,0:00:56.65,Default,,0,0,0,,{\an5}THAT STRETCHED FROM
+Dialogue: 0,0:00:56.65,0:00:57.21,Default,,0,0,0,,{\an5}ONE NIGHT INTO
+Dialogue: 0,0:00:57.21,0:00:58.43,Default,,0,0,0,,{\an5}MORE THAN A WEEK
+Dialogue: 0,0:00:58.43,0:00:58.96,Default,,0,0,0,,{\an5}SINCE
+Dialogue: 0,0:00:58.96,0:00:59.85,Default,,0,0,0,,{\an5}THEN SHE'S
+Dialogue: 0,0:00:59.85,0:01:00.50,Default,,0,0,0,,{\an5}LINGERED ENDLESSLY
+Dialogue: 0,0:01:00.50,0:01:01.07,Default,,0,0,0,,{\an5}IN OUR SHARED
+Dialogue: 0,0:01:01.07,0:01:02.15,Default,,0,0,0,,{\an5}SPACE INSERTING
+Dialogue: 0,0:01:02.15,0:01:03.00,Default,,0,0,0,,{\an5}HERSELF INTO
+Dialogue: 0,0:01:03.00,0:01:03.88,Default,,0,0,0,,{\an5}INTIMATE CONVERSATIONS
+Dialogue: 0,0:01:03.88,0:01:04.42,Default,,0,0,0,,{\an5}THAT AREN'T
+Dialogue: 0,0:01:04.42,0:01:05.04,Default,,0,0,0,,{\an5}DIRECTED AT HER
+Dialogue: 0,0:01:05.04,0:01:05.64,Default,,0,0,0,,{\an5}CRITICIZING
+Dialogue: 0,0:01:05.64,0:01:06.34,Default,,0,0,0,,{\an5}MY BODY
+Dialogue: 0,0:01:06.34,0:01:06.90,Default,,0,0,0,,{\an5}WHEN I MENTION
+Dialogue: 0,0:01:06.90,0:01:08.20,Default,,0,0,0,,{\an5}CRAMPS SCOLDING
+Dialogue: 0,0:01:08.20,0:01:08.70,Default,,0,0,0,,{\an5}ME FOR CRYING
+Dialogue: 0,0:01:08.70,0:01:09.20,Default,,0,0,0,,{\an5}OVER WORK
+Dialogue: 0,0:01:09.20,0:01:10.07,Default,,0,0,0,,{\an5}STRESS AND
+Dialogue: 0,0:01:10.07,0:01:10.59,Default,,0,0,0,,{\an5}SPEAKING TO
+Dialogue: 0,0:01:10.59,0:01:11.51,Default,,0,0,0,,{\an5}ME LIKE A MISBEHAVING
+Dialogue: 0,0:01:11.51,0:01:12.15,Default,,0,0,0,,{\an5}CHILD RATHER
+Dialogue: 0,0:01:12.15,0:01:12.65,Default,,0,0,0,,{\an5}THAN AN ADULT
+Dialogue: 0,0:01:12.65,0:01:13.42,Default,,0,0,0,,{\an5}IN HER OWN HOME
+Dialogue: 0,0:01:13.42,0:01:14.07,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:14.07,0:01:14.73,Default,,0,0,0,,{\an5}HAVEN'T RAISED MY
+Dialogue: 0,0:01:14.73,0:01:15.90,Default,,0,0,0,,{\an5}VOICE INSULTED
+Dialogue: 0,0:01:15.90,0:01:16.57,Default,,0,0,0,,{\an5}HER OR
+Dialogue: 0,0:01:16.57,0:01:17.15,Default,,0,0,0,,{\an5}CONFRONTED HER
+Dialogue: 0,0:01:17.15,0:01:18.01,Default,,0,0,0,,{\an5}DIRECTLY I'VE
+Dialogue: 0,0:01:18.01,0:01:18.98,Default,,0,0,0,,{\an5}ONLY EXPRESSED PRIVATELY
+Dialogue: 0,0:01:18.98,0:01:19.68,Default,,0,0,0,,{\an5}TO MY GRANDFATHER
+Dialogue: 0,0:01:19.68,0:01:20.37,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:20.37,0:01:20.87,Default,,0,0,0,,{\an5}MY SIBLINGS
+Dialogue: 0,0:01:20.87,0:01:21.64,Default,,0,0,0,,{\an5}THAT I FEEL UNCOMFORTABLE
+Dialogue: 0,0:01:21.64,0:01:23.00,Default,,0,0,0,,{\an5}UNCOMFORTABLE, DISRESPECTED,
+Dialogue: 0,0:01:23.14,0:01:23.87,Default,,0,0,0,,{\an5}AND BLINDSIDED
+Dialogue: 0,0:01:23.87,0:01:24.37,Default,,0,0,0,,{\an5}BY HAVING
+Dialogue: 0,0:01:24.37,0:01:24.98,Default,,0,0,0,,{\an5}A JUDGMENTAL
+Dialogue: 0,0:01:24.98,0:01:25.62,Default,,0,0,0,,{\an5}STRANGER LIVING
+Dialogue: 0,0:01:25.62,0:01:26.21,Default,,0,0,0,,{\an5}IN MY SPACE.
+Dialogue: 0,0:01:26.45,0:01:27.18,Default,,0,0,0,,{\an5}YET SOMEHOW
+Dialogue: 0,0:01:27.18,0:01:27.71,Default,,0,0,0,,{\an5}THAT HAS BEEN
+Dialogue: 0,0:01:27.71,0:01:28.29,Default,,0,0,0,,{\an5}TWISTED INTO
+Dialogue: 0,0:01:28.29,0:01:28.95,Default,,0,0,0,,{\an5}ME BEING LABELED
+Dialogue: 0,0:01:28.95,0:01:29.62,Default,,0,0,0,,{\an5}RUDE AND
+Dialogue: 0,0:01:29.62,0:01:30.12,Default,,0,0,0,,{\an5}UNGRATEFUL.
+Dialogue: 0,0:01:30.48,0:01:31.18,Default,,0,0,0,,{\an5}LEAVING ME
+Dialogue: 0,0:01:31.18,0:01:31.73,Default,,0,0,0,,{\an5}WONDERING WHETHER
+Dialogue: 0,0:01:31.73,0:01:32.48,Default,,0,0,0,,{\an5}I'M ACTUALLY WRONG
+Dialogue: 0,0:01:32.48,0:01:33.21,Default,,0,0,0,,{\an5}FOR WANTING BASIC
+Dialogue: 0,0:01:33.21,0:01:33.87,Default,,0,0,0,,{\an5}CONTROL OVER
+Dialogue: 0,0:01:33.87,0:01:34.37,Default,,0,0,0,,{\an5}MY OWN HOME
+Dialogue: 0,0:01:34.37,0:01:35.42,Default,,0,0,0,,{\an5}AND FEELING
+Dialogue: 0,0:01:35.42,0:01:35.98,Default,,0,0,0,,{\an5}HURT THAT MY
+Dialogue: 0,0:01:35.98,0:01:36.56,Default,,0,0,0,,{\an5}COMFORT SEEMS
+Dialogue: 0,0:01:36.56,0:01:37.18,Default,,0,0,0,,{\an5}TO MATTER LESS
+Dialogue: 0,0:01:37.18,0:01:37.73,Default,,0,0,0,,{\an5}THAN THE FEELINGS
+Dialogue: 0,0:01:37.73,0:01:38.29,Default,,0,0,0,,{\an5}OF SOMEONE I
+Dialogue: 0,0:01:38.29,0:01:38.81,Default,,0,0,0,,{\an5}NEVER INVITED.

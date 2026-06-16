@@ -1,0 +1,244 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.27,0:00:03.77,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k18}WORK {\k14}IN {\k7}AN
+Dialogue: 0,0:00:03.77,0:00:04.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OFFICE {\k18}WHERE {\k17}MOST
+Dialogue: 0,0:00:04.29,0:00:04.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}PEOPLE {\k13}GET {\k22}ALONG
+Dialogue: 0,0:00:04.86,0:00:05.36,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}PRETTY {\k22}WELL,
+Dialogue: 0,0:00:05.36,0:00:05.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}BUT {\k13}THERE {\k12}IS
+Dialogue: 0,0:00:05.87,0:00:06.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}ONE {\k22}ONGOING
+Dialogue: 0,0:00:06.24,0:00:06.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ISSUE {\k16}THAT {\k16}DRIVES
+Dialogue: 0,0:00:06.82,0:00:07.36,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ME {\k36}ABSOLUTELY
+Dialogue: 0,0:00:07.36,0:00:07.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}CRAZY.
+Dialogue: 0,0:00:08.56,0:00:08.77,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ONE
+Dialogue: 0,0:00:08.77,0:00:09.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}OF {\k12}MY {\k17}COWORKERS,
+Dialogue: 0,0:00:09.77,0:00:10.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}A {\k16}MAN {\k11}IN {\k14}HIS
+Dialogue: 0,0:00:10.32,0:00:10.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}LATE
+Dialogue: 0,0:00:10.43,0:00:10.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k50}FIFTIES,
+Dialogue: 0,0:00:11.06,0:00:11.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}HAS {\k18}THIS {\k16}HABIT {\k17}OF
+Dialogue: 0,0:00:11.64,0:00:12.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}JUST {\k24}TAKING {\k19}THINGS
+Dialogue: 0,0:00:12.19,0:00:12.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}STRAIGHT {\k19}OUT {\k9}OF
+Dialogue: 0,0:00:12.67,0:00:13.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}PEOPLE'S {\k12}HANDS
+Dialogue: 0,0:00:13.16,0:00:13.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}WITHOUT {\k33}ASKING.
+Dialogue: 0,0:00:14.56,0:00:15.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}IT {\k9}IS {\k14}NOT {\k19}JUST
+Dialogue: 0,0:00:15.09,0:00:15.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ONCE {\k16}IN {\k6}A {\k16}WHILE
+Dialogue: 0,0:00:15.66,0:00:15.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}EITHER.
+Dialogue: 0,0:00:16.83,0:00:17.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IT {\k11}IS {\k33}CONSTANT.
+Dialogue: 0,0:00:18.12,0:00:18.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}HE
+Dialogue: 0,0:00:18.42,0:00:18.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WILL {\k12}GRAB {\k32}PAPERS,
+Dialogue: 0,0:00:19.23,0:00:19.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}SNACKS,
+Dialogue: 0,0:00:19.71,0:00:19.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}PENS,
+Dialogue: 0,0:00:20.19,0:00:20.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ANYTHING {\k14}THAT
+Dialogue: 0,0:00:20.62,0:00:21.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HAPPENS {\k21}TO {\k6}BE
+Dialogue: 0,0:00:21.12,0:00:21.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WITHIN {\k37}REACH,
+Dialogue: 0,0:00:21.98,0:00:22.44,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AND {\k10}HE {\k16}DOES {\k12}IT
+Dialogue: 0,0:00:22.44,0:00:22.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SO {\k25}CASUALLY
+Dialogue: 0,0:00:22.87,0:00:23.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THAT {\k10}IT {\k8}IS {\k11}LIKE
+Dialogue: 0,0:00:23.37,0:00:23.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HE {\k14}DOES {\k16}NOT
+Dialogue: 0,0:00:23.85,0:00:24.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}EVEN {\k32}REALIZE
+Dialogue: 0,0:00:24.42,0:00:24.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HOW {\k32}INTRUSIVE
+Dialogue: 0,0:00:24.96,0:00:25.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IT {\k19}IS.
+Dialogue: 0,0:00:26.00,0:00:26.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TO
+Dialogue: 0,0:00:26.17,0:00:26.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}BE {\k27}FAIR,
+Dialogue: 0,0:00:26.96,0:00:27.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}I {\k14}DO {\k14}NOT {\k14}THINK {\k13}HE
+Dialogue: 0,0:00:27.55,0:00:28.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IS {\k17}TRYING {\k16}TO {\k12}BE
+Dialogue: 0,0:00:28.12,0:00:28.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}RUDE {\k11}OR {\k16}MEAN.
+Dialogue: 0,0:00:29.06,0:00:29.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}HE
+Dialogue: 0,0:00:29.42,0:00:30.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IS {\k14}KNOWN {\k16}FOR {\k16}BEING
+Dialogue: 0,0:00:30.00,0:00:30.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}A {\k11}BIT {\k18}ABSENT
+Dialogue: 0,0:00:30.42,0:00:30.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}MINDED,
+Dialogue: 0,0:00:30.76,0:00:31.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}AND {\k21}PEOPLE
+Dialogue: 0,0:00:31.33,0:00:31.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}JOKE {\k23}ABOUT
+Dialogue: 0,0:00:31.71,0:00:32.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}IT.
+Dialogue: 0,0:00:32.64,0:00:32.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}MOST
+Dialogue: 0,0:00:32.89,0:00:33.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k11}THE {\k18}OFFICE
+Dialogue: 0,0:00:33.34,0:00:33.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}JUST {\k22}SHRUGS
+Dialogue: 0,0:00:33.84,0:00:34.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT {\k14}OFF {\k11}AND {\k14}DEALS
+Dialogue: 0,0:00:34.35,0:00:34.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WITH {\k16}IT, {\k11}BUT
+Dialogue: 0,0:00:34.93,0:00:35.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}FOR {\k17}ME,
+Dialogue: 0,0:00:35.46,0:00:35.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}IT {\k24}REALLY {\k11}GETS
+Dialogue: 0,0:00:35.89,0:00:36.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}UNDER {\k14}MY
+Dialogue: 0,0:00:36.32,0:00:36.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SKIN.
+Dialogue: 0,0:00:37.34,0:00:37.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}I
+Dialogue: 0,0:00:37.47,0:00:37.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}CANNOT {\k26}STAND
+Dialogue: 0,0:00:37.92,0:00:38.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}HAVING {\k24}SOMETHING
+Dialogue: 0,0:00:38.42,0:00:38.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}TAKEN {\k17}OUT
+Dialogue: 0,0:00:38.97,0:00:39.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}OF {\k11}MY {\k18}HANDS {\k11}WITHOUT
+Dialogue: 0,0:00:39.46,0:00:39.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}WARNING.
+Dialogue: 0,0:00:40.56,0:00:40.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT
+Dialogue: 0,0:00:40.67,0:00:40.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FEELS
+Dialogue: 0,0:00:40.89,0:00:41.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}INVASIVE,
+Dialogue: 0,0:00:41.60,0:00:42.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}AND {\k8}IT {\k11}PUTS {\k16}ME {\k7}ON
+Dialogue: 0,0:00:42.10,0:00:42.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}EDGE {\k19}EVERY {\k16}TIME
+Dialogue: 0,0:00:42.60,0:00:42.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT {\k25}HAPPENS.
+Dialogue: 0,0:00:43.61,0:00:43.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHAT
+Dialogue: 0,0:00:43.82,0:00:44.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MAKES {\k16}IT {\k11}MORE
+Dialogue: 0,0:00:44.25,0:00:44.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}FRUSTRATING
+Dialogue: 0,0:00:44.61,0:00:45.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}IS {\k12}THAT
+Dialogue: 0,0:00:45.10,0:00:45.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k10}HAVE {\k15}TALKED {\k17}TO
+Dialogue: 0,0:00:45.65,0:00:46.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HIM {\k17}ABOUT {\k10}IT {\k14}MORE
+Dialogue: 0,0:00:46.17,0:00:46.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THAN {\k29}ONCE.
+Dialogue: 0,0:00:47.28,0:00:47.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}I
+Dialogue: 0,0:00:47.46,0:00:47.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HAVE {\k14}TRIED {\k16}TO
+Dialogue: 0,0:00:47.84,0:00:48.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}EXPLAIN {\k17}IT {\k7}IN {\k6}A
+Dialogue: 0,0:00:48.42,0:00:48.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}CALM {\k10}AND {\k33}REASONABLE
+Dialogue: 0,0:00:48.97,0:00:49.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WAY,
+Dialogue: 0,0:00:49.57,0:00:49.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}EVEN {\k19}GIVING
+Dialogue: 0,0:00:49.93,0:00:50.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}EXAMPLES
+Dialogue: 0,0:00:50.25,0:00:50.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}SO {\k14}HE {\k11}COULD
+Dialogue: 0,0:00:50.82,0:00:51.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}UNDERSTAND {\k15}THE
+Dialogue: 0,0:00:51.35,0:00:51.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DIFFERENCE {\k32}BETWEEN
+Dialogue: 0,0:00:51.89,0:00:52.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}BEING {\k23}OFFERED
+Dialogue: 0,0:00:52.29,0:00:52.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}SOMETHING {\k15}AND
+Dialogue: 0,0:00:52.79,0:00:53.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}JUST {\k30}TAKING
+Dialogue: 0,0:00:53.24,0:00:53.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}IT.
+Dialogue: 0,0:00:54.11,0:00:54.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}EVERY {\k25}TIME,
+Dialogue: 0,0:00:54.57,0:00:54.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HE
+Dialogue: 0,0:00:54.75,0:00:55.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k53}APOLOGIZES
+Dialogue: 0,0:00:55.29,0:00:55.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AND {\k11}SAYS {\k17}HE
+Dialogue: 0,0:00:55.82,0:00:56.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}GETS {\k15}IT, {\k16}AND {\k11}FOR
+Dialogue: 0,0:00:56.39,0:00:56.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}A {\k11}SHORT {\k20}WHILE {\k11}IT
+Dialogue: 0,0:00:56.96,0:00:57.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SEEMS {\k19}LIKE {\k16}HE
+Dialogue: 0,0:00:57.46,0:00:57.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IS {\k19}MAKING {\k16}AN
+Dialogue: 0,0:00:57.92,0:00:58.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}EFFORT.
+Dialogue: 0,0:00:58.85,0:00:59.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}THEN,
+Dialogue: 0,0:00:59.43,0:00:59.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WITHOUT {\k19}FAIL,
+Dialogue: 0,0:01:00.17,0:01:00.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}HE {\k21}SLIPS {\k17}RIGHT
+Dialogue: 0,0:01:00.64,0:01:01.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}BACK {\k15}INTO {\k11}THE
+Dialogue: 0,0:01:01.11,0:01:01.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SAME {\k37}BEHAVIOR.
+Dialogue: 0,0:01:02.28,0:01:02.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THERE
+Dialogue: 0,0:01:02.46,0:01:02.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HAVE {\k10}BEEN {\k21}SMALL
+Dialogue: 0,0:01:02.92,0:01:03.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}MOMENTS {\k21}WHERE
+Dialogue: 0,0:01:03.46,0:01:03.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k10}COULD {\k14}LET {\k11}IT
+Dialogue: 0,0:01:03.93,0:01:04.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}GO, {\k34}LIKE
+Dialogue: 0,0:01:04.42,0:01:04.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHEN {\k8}HE {\k15}GRABS
+Dialogue: 0,0:01:04.84,0:01:05.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}A {\k19}HANDFUL
+Dialogue: 0,0:01:05.23,0:01:05.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}OF {\k10}SHARED {\k25}SNACKS
+Dialogue: 0,0:01:05.81,0:01:06.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}IN {\k10}THE {\k19}BREAKROOM.
+Dialogue: 0,0:01:07.12,0:01:07.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}BUT
+Dialogue: 0,0:01:07.45,0:01:07.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THEN {\k14}THERE {\k7}ARE
+Dialogue: 0,0:01:07.84,0:01:08.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MOMENTS {\k23}THAT
+Dialogue: 0,0:01:08.29,0:01:08.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}FEEL {\k23}MUCH
+Dialogue: 0,0:01:08.73,0:01:09.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MORE {\k39}DISRUPTIVE.
+Dialogue: 0,0:01:10.12,0:01:10.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}RECENTLY,
+Dialogue: 0,0:01:10.79,0:01:11.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k14}WAS {\k24}FILLING {\k15}OUT
+Dialogue: 0,0:01:11.35,0:01:11.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}AN {\k25}IMPORTANT
+Dialogue: 0,0:01:11.73,0:01:12.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}FORM,
+Dialogue: 0,0:01:12.01,0:01:12.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}AND {\k9}HE
+Dialogue: 0,0:01:12.43,0:01:12.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}LITERALLY {\k20}PULLED
+Dialogue: 0,0:01:12.90,0:01:13.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k11}PEN {\k15}OUT {\k8}OF
+Dialogue: 0,0:01:13.40,0:01:13.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k23}FINGERS
+Dialogue: 0,0:01:13.78,0:01:14.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}BECAUSE {\k15}HE
+Dialogue: 0,0:01:14.20,0:01:14.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}SUDDENLY
+Dialogue: 0,0:01:14.51,0:01:15.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}NEEDED {\k24}IT.
+Dialogue: 0,0:01:15.65,0:01:15.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}IT
+Dialogue: 0,0:01:15.78,0:01:16.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}RUINED {\k18}WHAT {\k7}I {\k9}WAS
+Dialogue: 0,0:01:16.37,0:01:16.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}WORKING {\k15}ON {\k14}AND
+Dialogue: 0,0:01:16.93,0:01:17.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}FORCED {\k15}ME {\k12}TO
+Dialogue: 0,0:01:17.40,0:01:17.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}START {\k34}OVER.
+Dialogue: 0,0:01:18.45,0:01:18.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}THAT
+Dialogue: 0,0:01:18.79,0:01:19.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WAS {\k12}THE {\k21}MOMENT
+Dialogue: 0,0:01:19.26,0:01:19.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k29}DECIDED
+Dialogue: 0,0:01:19.71,0:01:20.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I {\k14}HAD {\k12}HAD
+Dialogue: 0,0:01:20.20,0:01:20.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ENOUGH.
+Dialogue: 0,0:01:21.06,0:01:21.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}I
+Dialogue: 0,0:01:21.29,0:01:21.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}FIGURED {\k15}THAT
+Dialogue: 0,0:01:21.71,0:01:22.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MAYBE {\k20}THE {\k15}ONLY
+Dialogue: 0,0:01:22.28,0:01:22.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WAY {\k28}HE
+Dialogue: 0,0:01:22.79,0:01:23.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WOULD {\k34}UNDERSTAND
+Dialogue: 0,0:01:23.26,0:01:23.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}HOW {\k28}FRUSTRATING
+Dialogue: 0,0:01:23.78,0:01:24.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}IT {\k10}IS {\k13}WOULD
+Dialogue: 0,0:01:24.31,0:01:24.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}BE {\k7}TO {\k38}EXPERIENCE
+Dialogue: 0,0:01:24.90,0:01:25.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}IT {\k38}HIMSELF.
+Dialogue: 0,0:01:26.02,0:01:26.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}SO
+Dialogue: 0,0:01:26.34,0:01:26.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k15}MADE {\k8}A {\k15}PLAN
+Dialogue: 0,0:01:26.84,0:01:27.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THAT {\k10}THE {\k15}NEXT {\k20}TIME
+Dialogue: 0,0:01:27.42,0:01:27.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HE {\k20}GRABBED
+Dialogue: 0,0:01:27.78,0:01:28.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}SOMETHING {\k14}FROM {\k12}ME
+Dialogue: 0,0:01:28.34,0:01:28.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WITHOUT {\k29}ASKING,
+Dialogue: 0,0:01:29.23,0:01:29.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k7}WOULD {\k14}TAKE {\k12}IT
+Dialogue: 0,0:01:29.68,0:01:30.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}RIGHT {\k25}BACK {\k18}AND
+Dialogue: 0,0:01:30.28,0:01:30.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}REMIND {\k21}HIM {\k9}TO
+Dialogue: 0,0:01:30.81,0:01:31.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}ASK {\k28}FIRST.
+Dialogue: 0,0:01:32.06,0:01:32.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}THE
+Dialogue: 0,0:01:32.31,0:01:32.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}OPPORTUNITY
+Dialogue: 0,0:01:32.68,0:01:33.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}CAME {\k24}SOONER
+Dialogue: 0,0:01:33.20,0:01:33.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THAN {\k40}EXPECTED.
+Dialogue: 0,0:01:34.59,0:01:35.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I {\k11}WAS {\k7}IN {\k10}THE
+Dialogue: 0,0:01:35.06,0:01:35.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BREAKROOM {\k14}WITH {\k4}A
+Dialogue: 0,0:01:35.54,0:01:36.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BAG {\k19}OF {\k14}CHIPS
+Dialogue: 0,0:01:36.01,0:01:36.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}WHEN {\k9}HE {\k16}WALKED
+Dialogue: 0,0:01:36.54,0:01:37.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IN {\k9}AND {\k29}IMMEDIATELY
+Dialogue: 0,0:01:37.09,0:01:37.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}TOOK {\k9}IT {\k10}FROM
+Dialogue: 0,0:01:37.62,0:01:38.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}ME {\k16}LIKE {\k17}HE
+Dialogue: 0,0:01:38.07,0:01:38.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ALWAYS {\k28}DOES.
+Dialogue: 0,0:01:39.31,0:01:39.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}WITHOUT {\k25}THINKING
+Dialogue: 0,0:01:39.79,0:01:40.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}TWICE,
+Dialogue: 0,0:01:40.31,0:01:40.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k11}TOOK {\k12}THE {\k12}BAG
+Dialogue: 0,0:01:40.76,0:01:41.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BACK {\k15}FROM {\k12}HIM
+Dialogue: 0,0:01:41.26,0:01:41.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AND {\k14}TOLD {\k15}HIM,
+Dialogue: 0,0:01:41.70,0:01:42.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}AGAIN, {\k32}THAT
+Dialogue: 0,0:01:42.26,0:01:42.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HE {\k18}NEEDED {\k15}TO {\k12}ASK
+Dialogue: 0,0:01:42.84,0:01:43.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FIRST.
+Dialogue: 0,0:01:43.87,0:01:44.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}THEN
+Dialogue: 0,0:01:44.14,0:01:44.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}I {\k24}OFFERED {\k9}IT
+Dialogue: 0,0:01:44.65,0:01:45.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}TO {\k7}HIM {\k35}PROPERLY.
+Dialogue: 0,0:01:46.04,0:01:46.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}INSTEAD {\k18}OF
+Dialogue: 0,0:01:46.50,0:01:47.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}TAKING {\k20}THE {\k12}HINT,
+Dialogue: 0,0:01:47.06,0:01:47.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HE {\k24}REACTED
+Dialogue: 0,0:01:47.48,0:01:47.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}BADLY.
+Dialogue: 0,0:01:48.57,0:01:48.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}HE
+Dialogue: 0,0:01:48.76,0:01:49.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}GRABBED {\k15}THE {\k14}BAG
+Dialogue: 0,0:01:49.21,0:01:49.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IN {\k5}A {\k10}HUFF,
+Dialogue: 0,0:01:49.56,0:01:50.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}AND {\k12}IN {\k11}THE
+Dialogue: 0,0:01:50.15,0:01:50.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}PROCESS,
+Dialogue: 0,0:01:50.45,0:01:50.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}IT {\k14}TORE
+Dialogue: 0,0:01:50.92,0:01:51.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}OPEN {\k13}AND {\k18}SPILLED
+Dialogue: 0,0:01:51.50,0:01:51.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}EVERYWHERE.
+Dialogue: 0,0:01:52.45,0:01:52.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}WE
+Dialogue: 0,0:01:52.81,0:01:53.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BOTH {\k9}HAD {\k12}TO {\k14}CLEAN
+Dialogue: 0,0:01:53.35,0:01:53.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}IT {\k20}UP,
+Dialogue: 0,0:01:53.68,0:01:54.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}AND {\k9}HE {\k12}WAS
+Dialogue: 0,0:01:54.21,0:01:54.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}CLEARLY
+Dialogue: 0,0:01:54.56,0:01:54.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ANNOYED.
+Dialogue: 0,0:01:55.59,0:01:55.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HE
+Dialogue: 0,0:01:55.76,0:01:56.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TOLD {\k19}ME {\k12}THAT {\k14}I
+Dialogue: 0,0:01:56.35,0:01:56.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MADE {\k12}HIM {\k14}FEEL {\k15}LIKE
+Dialogue: 0,0:01:56.92,0:01:57.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}A {\k29}CHILD.
+Dialogue: 0,0:01:58.09,0:01:58.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NOW
+Dialogue: 0,0:01:58.29,0:01:58.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k12}AM {\k28}WONDERING
+Dialogue: 0,0:01:58.78,0:01:59.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IF {\k9}I {\k26}HANDLED
+Dialogue: 0,0:01:59.35,0:01:59.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IT {\k14}THE {\k12}WRONG {\k17}WAY.
+Dialogue: 0,0:02:00.71,0:02:00.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I
+Dialogue: 0,0:02:00.84,0:02:01.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WAS {\k16}TRYING {\k14}TO {\k9}SET
+Dialogue: 0,0:02:01.35,0:02:01.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}A {\k28}BOUNDARY {\k21}AND
+Dialogue: 0,0:02:01.95,0:02:02.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}GET {\k15}THROUGH {\k7}TO {\k10}HIM
+Dialogue: 0,0:02:02.40,0:02:02.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}AFTER {\k28}MULTIPLE
+Dialogue: 0,0:02:02.87,0:02:03.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}CONVERSATIONS
+Dialogue: 0,0:02:03.34,0:02:03.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}THAT {\k9}WENT
+Dialogue: 0,0:02:03.78,0:02:04.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}NOWHERE,
+Dialogue: 0,0:02:04.35,0:02:04.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}BUT {\k12}I {\k20}ALSO
+Dialogue: 0,0:02:04.76,0:02:05.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SEE {\k11}HOW {\k12}MY
+Dialogue: 0,0:02:05.21,0:02:05.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}REACTION {\k20}MIGHT {\k14}HAVE
+Dialogue: 0,0:02:05.79,0:02:06.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}COME {\k26}ACROSS {\k14}AS
+Dialogue: 0,0:02:06.34,0:02:06.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}PETTY {\k21}OR
+Dialogue: 0,0:02:06.79,0:02:07.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IMMATURE.
+Dialogue: 0,0:02:07.62,0:02:07.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}I
+Dialogue: 0,0:02:07.98,0:02:08.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}AM {\k15}STUCK {\k34}BETWEEN
+Dialogue: 0,0:02:08.53,0:02:08.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}FEELING
+Dialogue: 0,0:02:08.84,0:02:09.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}JUSTIFIED
+Dialogue: 0,0:02:09.21,0:02:09.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}IN {\k30}STANDING
+Dialogue: 0,0:02:09.80,0:02:10.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}UP {\k10}FOR {\k29}MYSELF
+Dialogue: 0,0:02:10.37,0:02:10.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k31}QUESTIONING
+Dialogue: 0,0:02:10.90,0:02:11.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}WHETHER {\k12}I
+Dialogue: 0,0:02:11.34,0:02:11.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}ESCALATED
+Dialogue: 0,0:02:11.80,0:02:12.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THINGS
+Dialogue: 0,0:02:12.03,0:02:12.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k76}UNNECESSARILY.

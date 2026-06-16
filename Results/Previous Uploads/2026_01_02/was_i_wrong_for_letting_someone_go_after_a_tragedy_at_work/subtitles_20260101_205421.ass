@@ -1,0 +1,159 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.52,0:00:04.16,Default,,0,0,0,,{\an5}I'M A SENIOR
+Dialogue: 0,0:00:04.16,0:00:04.82,Default,,0,0,0,,{\an5}MANAGER AT
+Dialogue: 0,0:00:04.82,0:00:05.41,Default,,0,0,0,,{\an5}A MID-SIZED TECH
+Dialogue: 0,0:00:05.41,0:00:06.36,Default,,0,0,0,,{\an5}COMPANY, AND
+Dialogue: 0,0:00:06.36,0:00:07.01,Default,,0,0,0,,{\an5}EARLIER THIS YEAR
+Dialogue: 0,0:00:07.01,0:00:07.62,Default,,0,0,0,,{\an5}ONE OF OUR JUNIOR
+Dialogue: 0,0:00:07.62,0:00:08.17,Default,,0,0,0,,{\an5}TEAM MEMBERS
+Dialogue: 0,0:00:08.17,0:00:08.92,Default,,0,0,0,,{\an5}EXPERIENCED A
+Dialogue: 0,0:00:08.92,0:00:09.64,Default,,0,0,0,,{\an5}DEVASTATING LOSS.
+Dialogue: 0,0:00:10.11,0:00:10.64,Default,,0,0,0,,{\an5}HE'S
+Dialogue: 0,0:00:10.64,0:00:11.46,Default,,0,0,0,,{\an5}A 23-YEAR-OLD
+Dialogue: 0,0:00:11.46,0:00:12.00,Default,,0,0,0,,{\an5}ANALYST WHO
+Dialogue: 0,0:00:12.00,0:00:12.74,Default,,0,0,0,,{\an5}HAD BEEN WITH THE COMPANY
+Dialogue: 0,0:00:12.74,0:00:13.33,Default,,0,0,0,,{\an5}FOR JUST UNDER
+Dialogue: 0,0:00:13.33,0:00:14.40,Default,,0,0,0,,{\an5}A YEAR. AND
+Dialogue: 0,0:00:14.40,0:00:14.98,Default,,0,0,0,,{\an5}HIS PERFORMANCE
+Dialogue: 0,0:00:14.98,0:00:15.66,Default,,0,0,0,,{\an5}BEFORE EVERYTHING
+Dialogue: 0,0:00:15.66,0:00:16.23,Default,,0,0,0,,{\an5}HAPPENED WAS
+Dialogue: 0,0:00:16.23,0:00:16.57,Default,,0,0,0,,{\an5}EXCELLENT.
+Dialogue: 0,0:00:16.78,0:00:17.28,Default,,0,0,0,,{\an5}HE WAS
+Dialogue: 0,0:00:17.28,0:00:17.92,Default,,0,0,0,,{\an5}WELL-LIKED,
+Dialogue: 0,0:00:17.94,0:00:18.82,Default,,0,0,0,,{\an5}CONSISTENTLY HIT
+Dialogue: 0,0:00:18.82,0:00:19.32,Default,,0,0,0,,{\an5}HIS TARGETS,
+Dialogue: 0,0:00:19.57,0:00:20.07,Default,,0,0,0,,{\an5}AND THERE HAD
+Dialogue: 0,0:00:20.07,0:00:20.57,Default,,0,0,0,,{\an5}ALREADY BEEN
+Dialogue: 0,0:00:20.57,0:00:21.42,Default,,0,0,0,,{\an5}INTERNAL CONVERSATIONS
+Dialogue: 0,0:00:21.42,0:00:22.46,Default,,0,0,0,,{\an5}ABOUT FAST-TRACKING
+Dialogue: 0,0:00:22.46,0:00:22.98,Default,,0,0,0,,{\an5}HIM INTO A
+Dialogue: 0,0:00:22.98,0:00:23.69,Default,,0,0,0,,{\an5}HIGHER ROLE WITHIN
+Dialogue: 0,0:00:23.69,0:00:24.50,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:00:24.50,0:00:25.00,Default,,0,0,0,,{\an5}NEXT SEVERAL
+Dialogue: 0,0:00:25.00,0:00:25.33,Default,,0,0,0,,{\an5}MONTHS.
+Dialogue: 0,0:00:25.53,0:00:26.23,Default,,0,0,0,,{\an5}HIS POSITION
+Dialogue: 0,0:00:26.23,0:00:26.83,Default,,0,0,0,,{\an5}PAYS WELL
+Dialogue: 0,0:00:26.83,0:00:27.51,Default,,0,0,0,,{\an5}FOR SOMEONE EARLY
+Dialogue: 0,0:00:27.51,0:00:28.10,Default,,0,0,0,,{\an5}IN THEIR CAREER,
+Dialogue: 0,0:00:28.30,0:00:28.94,Default,,0,0,0,,{\an5}JUST UNDER
+Dialogue: 0,0:00:28.94,0:00:29.51,Default,,0,0,0,,{\an5}SIX FIGURES
+Dialogue: 0,0:00:29.51,0:00:30.05,Default,,0,0,0,,{\an5}WITH BONUSES
+Dialogue: 0,0:00:30.05,0:00:31.05,Default,,0,0,0,,{\an5}INCLUDED, AND
+Dialogue: 0,0:00:31.05,0:00:31.67,Default,,0,0,0,,{\an5}THE EXPECTATIONS
+Dialogue: 0,0:00:31.67,0:00:32.39,Default,,0,0,0,,{\an5}ATTACHED TO
+Dialogue: 0,0:00:32.39,0:00:33.34,Default,,0,0,0,,{\an5}IT ARE HIGH. IN
+Dialogue: 0,0:00:33.34,0:00:33.84,Default,,0,0,0,,{\an5}EARLY SPRING,
+Dialogue: 0,0:00:34.07,0:00:34.67,Default,,0,0,0,,{\an5}BOTH OF HIS
+Dialogue: 0,0:00:34.67,0:00:35.38,Default,,0,0,0,,{\an5}PARENTS WERE KILLED
+Dialogue: 0,0:00:35.38,0:00:36.20,Default,,0,0,0,,{\an5}IN A SUDDEN ACCIDENT.
+Dialogue: 0,0:00:36.42,0:00:37.20,Default,,0,0,0,,{\an5}IT WAS SHOCKING
+Dialogue: 0,0:00:37.20,0:00:38.14,Default,,0,0,0,,{\an5}AND AWFUL, AND
+Dialogue: 0,0:00:38.14,0:00:38.65,Default,,0,0,0,,{\an5}AS A COMPANY
+Dialogue: 0,0:00:38.65,0:00:39.20,Default,,0,0,0,,{\an5}WE TRIED TO
+Dialogue: 0,0:00:39.20,0:00:40.06,Default,,0,0,0,,{\an5}RESPOND WITH COMPASSION.
+Dialogue: 0,0:00:40.42,0:00:41.00,Default,,0,0,0,,{\an5}WE IMMEDIATELY
+Dialogue: 0,0:00:41.00,0:00:41.78,Default,,0,0,0,,{\an5}APPROVED SEVERAL
+Dialogue: 0,0:00:41.78,0:00:42.43,Default,,0,0,0,,{\an5}WEEKS OF FULLY
+Dialogue: 0,0:00:42.43,0:00:42.96,Default,,0,0,0,,{\an5}PAID LEAVE
+Dialogue: 0,0:00:42.96,0:00:43.52,Default,,0,0,0,,{\an5}AND TOLD HIM
+Dialogue: 0,0:00:43.52,0:00:44.06,Default,,0,0,0,,{\an5}TO TAKE THE TIME
+Dialogue: 0,0:00:44.06,0:00:45.24,Default,,0,0,0,,{\an5}HE NEEDED. AFTER
+Dialogue: 0,0:00:45.24,0:00:45.79,Default,,0,0,0,,{\an5}ABOUT A MONTH
+Dialogue: 0,0:00:45.79,0:00:46.61,Default,,0,0,0,,{\an5}AWAY, HE
+Dialogue: 0,0:00:46.61,0:00:47.35,Default,,0,0,0,,{\an5}RETURNED TO WORK.
+Dialogue: 0,0:00:47.65,0:00:48.85,Default,,0,0,0,,{\an5}UNFORTUNATELY, ONCE
+Dialogue: 0,0:00:48.85,0:00:49.35,Default,,0,0,0,,{\an5}HE WAS BACK,
+Dialogue: 0,0:00:49.53,0:00:50.21,Default,,0,0,0,,{\an5}HIS PERFORMANCE
+Dialogue: 0,0:00:50.21,0:00:50.93,Default,,0,0,0,,{\an5}DROPPED SHARPLY.
+Dialogue: 0,0:00:51.06,0:00:52.24,Default,,0,0,0,,{\an5}HE WAS DISENGAGED,
+Dialogue: 0,0:00:52.35,0:00:53.10,Default,,0,0,0,,{\an5}MISSING DEADLINES,
+Dialogue: 0,0:00:53.47,0:00:54.20,Default,,0,0,0,,{\an5}AND NO LONGER
+Dialogue: 0,0:00:54.20,0:00:54.82,Default,,0,0,0,,{\an5}COMPLETING THE
+Dialogue: 0,0:00:54.82,0:00:55.39,Default,,0,0,0,,{\an5}CORE PARTS OF
+Dialogue: 0,0:00:55.39,0:00:56.25,Default,,0,0,0,,{\an5}HIS ROLE. THIS
+Dialogue: 0,0:00:56.25,0:00:56.79,Default,,0,0,0,,{\an5}WENT ON FOR
+Dialogue: 0,0:00:56.79,0:00:57.38,Default,,0,0,0,,{\an5}A FEW WEEKS,
+Dialogue: 0,0:00:57.52,0:00:58.02,Default,,0,0,0,,{\an5}AND IT
+Dialogue: 0,0:00:58.02,0:00:58.74,Default,,0,0,0,,{\an5}BECAME A CONSISTENT
+Dialogue: 0,0:00:58.74,0:00:59.52,Default,,0,0,0,,{\an5}CONCERN ACROSS
+Dialogue: 0,0:00:59.52,0:01:00.35,Default,,0,0,0,,{\an5}THE LEADERSHIP TEAM.
+Dialogue: 0,0:01:00.61,0:01:01.38,Default,,0,0,0,,{\an5}AFTER MULTIPLE
+Dialogue: 0,0:01:01.38,0:01:02.21,Default,,0,0,0,,{\an5}INTERNAL DISCUSSIONS,
+Dialogue: 0,0:01:02.71,0:01:03.61,Default,,0,0,0,,{\an5}MANAGEMENT DECIDED
+Dialogue: 0,0:01:03.61,0:01:04.18,Default,,0,0,0,,{\an5}THAT THE ROLE
+Dialogue: 0,0:01:04.18,0:01:04.87,Default,,0,0,0,,{\an5}SIMPLY COULDN'T
+Dialogue: 0,0:01:04.87,0:01:05.56,Default,,0,0,0,,{\an5}REMAIN UNFILLED
+Dialogue: 0,0:01:05.56,0:01:06.42,Default,,0,0,0,,{\an5}OR UNDERPERFORMING
+Dialogue: 0,0:01:06.42,0:01:06.93,Default,,0,0,0,,{\an5}FOR AN EXTENDED
+Dialogue: 0,0:01:06.93,0:01:07.85,Default,,0,0,0,,{\an5}PERIOD.
+Dialogue: 0,0:01:08.00,0:01:08.64,Default,,0,0,0,,{\an5}WE FELT
+Dialogue: 0,0:01:08.64,0:01:09.23,Default,,0,0,0,,{\an5}THAT REALISTICALLY,
+Dialogue: 0,0:01:09.57,0:01:10.14,Default,,0,0,0,,{\an5}HE WOULD NEED
+Dialogue: 0,0:01:10.14,0:01:10.71,Default,,0,0,0,,{\an5}A LONG TIME
+Dialogue: 0,0:01:10.71,0:01:11.57,Default,,0,0,0,,{\an5}TO RECOVER EMOTIONALLY,
+Dialogue: 0,0:01:11.85,0:01:12.35,Default,,0,0,0,,{\an5}AND THE
+Dialogue: 0,0:01:12.35,0:01:13.04,Default,,0,0,0,,{\an5}BUSINESS COULDN'T
+Dialogue: 0,0:01:13.04,0:01:13.70,Default,,0,0,0,,{\an5}ABSORB THAT GAP.
+Dialogue: 0,0:01:13.85,0:01:14.42,Default,,0,0,0,,{\an5}WE CALLED
+Dialogue: 0,0:01:14.42,0:01:15.12,Default,,0,0,0,,{\an5}HIM INTO A MEETING
+Dialogue: 0,0:01:15.12,0:01:15.64,Default,,0,0,0,,{\an5}AT THE END OF
+Dialogue: 0,0:01:15.64,0:01:16.26,Default,,0,0,0,,{\an5}THE WEEK AND TOLD
+Dialogue: 0,0:01:16.26,0:01:16.79,Default,,0,0,0,,{\an5}HIM WE WERE LETTING
+Dialogue: 0,0:01:16.79,0:01:17.93,Default,,0,0,0,,{\an5}HIM GO. HE
+Dialogue: 0,0:01:17.93,0:01:18.56,Default,,0,0,0,,{\an5}REACTED VERY
+Dialogue: 0,0:01:18.56,0:01:19.18,Default,,0,0,0,,{\an5}CALMLY AT
+Dialogue: 0,0:01:19.18,0:01:20.04,Default,,0,0,0,,{\an5}FIRST, THEN
+Dialogue: 0,0:01:20.04,0:01:20.81,Default,,0,0,0,,{\an5}LASHED OUT VERBALLY,
+Dialogue: 0,0:01:21.07,0:01:21.78,Default,,0,0,0,,{\an5}TOLD US OFF,
+Dialogue: 0,0:01:21.95,0:01:22.54,Default,,0,0,0,,{\an5}GATHERED HIS
+Dialogue: 0,0:01:22.54,0:01:23.21,Default,,0,0,0,,{\an5}THINGS, AND
+Dialogue: 0,0:01:23.21,0:01:23.81,Default,,0,0,0,,{\an5}LEFT WITHOUT
+Dialogue: 0,0:01:23.81,0:01:24.51,Default,,0,0,0,,{\an5}ANOTHER WORD.
+Dialogue: 0,0:01:24.64,0:01:25.15,Default,,0,0,0,,{\an5}I WAS
+Dialogue: 0,0:01:25.15,0:01:25.78,Default,,0,0,0,,{\an5}TAKEN ABACK
+Dialogue: 0,0:01:25.78,0:01:26.42,Default,,0,0,0,,{\an5}BY HIS REACTION
+Dialogue: 0,0:01:26.42,0:01:27.07,Default,,0,0,0,,{\an5}AND FELT ACROSS
+Dialogue: 0,0:01:27.07,0:01:27.57,Default,,0,0,0,,{\an5}THE LINE.
+Dialogue: 0,0:01:27.95,0:01:28.68,Default,,0,0,0,,{\an5}EVEN GIVEN
+Dialogue: 0,0:01:28.68,0:01:29.29,Default,,0,0,0,,{\an5}THE CIRCUMSTANCES,
+Dialogue: 0,0:01:29.70,0:01:30.35,Default,,0,0,0,,{\an5}WHEN I LATER
+Dialogue: 0,0:01:30.35,0:01:30.92,Default,,0,0,0,,{\an5}EXPLAINED THE
+Dialogue: 0,0:01:30.92,0:01:31.59,Default,,0,0,0,,{\an5}SITUATION TO
+Dialogue: 0,0:01:31.59,0:01:32.56,Default,,0,0,0,,{\an5}MY PARTNER, THEY
+Dialogue: 0,0:01:32.56,0:01:33.21,Default,,0,0,0,,{\an5}WERE FURIOUS ON
+Dialogue: 0,0:01:33.21,0:01:33.92,Default,,0,0,0,,{\an5}HIS BEHALF AND
+Dialogue: 0,0:01:33.92,0:01:34.51,Default,,0,0,0,,{\an5}TOLD ME THAT WHAT
+Dialogue: 0,0:01:34.51,0:01:35.15,Default,,0,0,0,,{\an5}WE DID WAS CRUEL
+Dialogue: 0,0:01:35.15,0:01:35.71,Default,,0,0,0,,{\an5}AND HEARTLESS.
+Dialogue: 0,0:01:36.28,0:01:36.95,Default,,0,0,0,,{\an5}REGARDLESS OF
+Dialogue: 0,0:01:36.95,0:01:37.57,Default,,0,0,0,,{\an5}BUSINESS NEEDS,
+Dialogue: 0,0:01:37.81,0:01:38.51,Default,,0,0,0,,{\an5}I UNDERSTAND
+Dialogue: 0,0:01:38.51,0:01:39.06,Default,,0,0,0,,{\an5}THAT THE LOSS
+Dialogue: 0,0:01:39.06,0:01:39.65,Default,,0,0,0,,{\an5}HE EXPERIENCED
+Dialogue: 0,0:01:39.65,0:01:40.59,Default,,0,0,0,,{\an5}WAS UNIMAGINABLE,
+Dialogue: 0,0:01:40.71,0:01:41.37,Default,,0,0,0,,{\an5}BUT I ALSO
+Dialogue: 0,0:01:41.37,0:01:42.06,Default,,0,0,0,,{\an5}FEEL RESPONSIBLE
+Dialogue: 0,0:01:42.06,0:01:42.78,Default,,0,0,0,,{\an5}FOR THE HEALTH
+Dialogue: 0,0:01:42.78,0:01:43.48,Default,,0,0,0,,{\an5}AND PERFORMANCE OF
+Dialogue: 0,0:01:43.48,0:01:44.01,Default,,0,0,0,,{\an5}THE TEAM AS A
+Dialogue: 0,0:01:44.01,0:01:44.21,Default,,0,0,0,,{\an5}WHOLE.
+Dialogue: 0,0:01:44.50,0:01:45.12,Default,,0,0,0,,{\an5}SO I'M
+Dialogue: 0,0:01:45.12,0:01:45.65,Default,,0,0,0,,{\an5}LEFT WONDERING
+Dialogue: 0,0:01:45.65,0:01:46.18,Default,,0,0,0,,{\an5}IF WE TRULY
+Dialogue: 0,0:01:46.18,0:01:46.73,Default,,0,0,0,,{\an5}HANDLED THIS
+Dialogue: 0,0:01:46.73,0:01:47.31,Default,,0,0,0,,{\an5}WRONG OR IF
+Dialogue: 0,0:01:47.31,0:01:48.09,Default,,0,0,0,,{\an5}THIS WAS AN UNFORTUNATE
+Dialogue: 0,0:01:48.09,0:01:48.73,Default,,0,0,0,,{\an5}BUT NECESSARY
+Dialogue: 0,0:01:49.28,0:01:49.71,Default,,0,0,0,,{\an5}DECISION?

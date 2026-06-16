@@ -1,0 +1,96 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.17,0:00:05.87,Default,,80,80,60,,{\k22}I {\k23}DIVORCED {\k24}MY
+Dialogue: 0,0:00:05.87,0:00:06.66,Default,,80,80,60,,{\k17}EX-WIFE {\k18}ABOUT {\k25}FIVE
+Dialogue: 0,0:00:06.66,0:00:07.37,Default,,80,80,60,,{\k20}YEARS {\k17}AGO {\k33}AFTER
+Dialogue: 0,0:00:07.37,0:00:08.03,Default,,80,80,60,,{\k46}DISCOVERING {\k19}SHE
+Dialogue: 0,0:00:08.03,0:00:08.67,Default,,80,80,60,,{\k8}HAD {\k30}SECRETLY {\k25}BUILT
+Dialogue: 0,0:00:08.67,0:00:09.33,Default,,80,80,60,,{\k22}UP {\k13}A {\k30}LARGE
+Dialogue: 0,0:00:09.33,0:00:10.09,Default,,80,80,60,,{\k33}EMERGENCY {\k41}FUND.
+Dialogue: 0,0:00:10.50,0:00:10.85,Default,,80,80,60,,{\k35}AT
+Dialogue: 0,0:00:10.85,0:00:11.51,Default,,80,80,60,,{\k10}THE {\k23}TIME, {\k11}SHE
+Dialogue: 0,0:00:11.51,0:00:12.41,Default,,80,80,60,,{\k9}HAD {\k8}BEEN {\k16}LAID {\k25}OFF, {\k30}AND
+Dialogue: 0,0:00:12.41,0:00:13.22,Default,,80,80,60,,{\k4}I {\k23}BELIEVED {\k16}WE {\k8}WERE {\k28}STRUGGLING
+Dialogue: 0,0:00:13.22,0:00:14.35,Default,,80,80,60,,{\k51}FINANCIALLY. {\k28}I
+Dialogue: 0,0:00:14.35,0:00:15.00,Default,,80,80,60,,{\k28}I {\k13}WAS {\k22}WORKING
+Dialogue: 0,0:00:15.00,0:00:15.61,Default,,80,80,60,,{\k35}EXTREMELY {\k25}LONG
+Dialogue: 0,0:00:15.61,0:00:16.62,Default,,80,80,60,,{\k30}HOURS, {\k42}SOMETIMES
+Dialogue: 0,0:00:16.62,0:00:17.26,Default,,80,80,60,,{\k39}60 {\k24}TO
+Dialogue: 0,0:00:17.26,0:00:17.92,Default,,80,80,60,,{\k11}80 {\k24}HOURS {\k14}A {\k16}WEEK,
+Dialogue: 0,0:00:18.19,0:00:18.82,Default,,80,80,60,,{\k8}JUST {\k16}TO {\k9}KEEP {\k12}UP {\k16}WITH
+Dialogue: 0,0:00:18.82,0:00:19.44,Default,,80,80,60,,{\k23}BILLS, {\k17}THINKING
+Dialogue: 0,0:00:19.44,0:00:20.17,Default,,80,80,60,,{\k21}WE {\k7}WERE {\k22}BARELY {\k21}GETTING
+Dialogue: 0,0:00:20.17,0:00:21.16,Default,,80,80,60,,{\k24}BY. {\k17}IT
+Dialogue: 0,0:00:21.16,0:00:21.87,Default,,80,80,60,,{\k17}IT {\k17}TURNED {\k19}OUT {\k16}SHE
+Dialogue: 0,0:00:21.87,0:00:22.71,Default,,80,80,60,,{\k10}HAD {\k19}SAVED {\k19}AROUND {\k33}50000
+Dialogue: 0,0:00:23.28,0:00:24.03,Default,,80,80,60,,{\k25}WITHOUT {\k32}TELLING {\k17}ME
+Dialogue: 0,0:00:24.03,0:00:24.66,Default,,80,80,60,,{\k10}AND {\k9}WAS {\k18}STILL {\k23}ADDING
+Dialogue: 0,0:00:24.66,0:00:25.57,Default,,80,80,60,,{\k19}TO {\k21}IT. {\k26}THE
+Dialogue: 0,0:00:25.57,0:00:26.35,Default,,80,80,60,,{\k26}THE {\k23}DIVORCE {\k28}ITSELF
+Dialogue: 0,0:00:26.35,0:00:27.16,Default,,80,80,60,,{\k21}WAS {\k26}MESSY, {\k32}AND
+Dialogue: 0,0:00:27.16,0:00:27.76,Default,,80,80,60,,{\k19}DURING {\k16}THE {\k24}PROCESS
+Dialogue: 0,0:00:27.76,0:00:28.42,Default,,80,80,60,,{\k13}I {\k24}FOUND {\k12}OUT {\k16}ABOUT
+Dialogue: 0,0:00:28.42,0:00:29.19,Default,,80,80,60,,{\k9}A {\k10}LOT {\k11}OF {\k28}SPENDING {\k17}AND
+Dialogue: 0,0:00:29.19,0:00:29.80,Default,,80,80,60,,{\k14}CREDIT {\k10}CARD {\k22}DEBT
+Dialogue: 0,0:00:29.80,0:00:30.50,Default,,80,80,60,,{\k12}I {\k23}HADN {\k10}KNOWN {\k23}ABOUT.
+Dialogue: 0,0:00:31.26,0:00:31.26,Default,,80,80,60,,{\k19}WE
+Dialogue: 0,0:00:31.26,0:00:32.07,Default,,80,80,60,,{\k19}WE {\k21}ENDED {\k17}UP {\k21}SELLING
+Dialogue: 0,0:00:32.07,0:00:32.75,Default,,80,80,60,,{\k14}THE {\k14}HOUSE {\k20}AND {\k19}GOING
+Dialogue: 0,0:00:32.75,0:00:33.50,Default,,80,80,60,,{\k14}OUR {\k21}SEPARATE {\k38}WAYS.
+Dialogue: 0,0:00:34.57,0:00:35.24,Default,,80,80,60,,{\k12}OUR {\k21}KIDS {\k11}WERE {\k10}IN {\k10}HIGH
+Dialogue: 0,0:00:35.24,0:00:35.89,Default,,80,80,60,,{\k21}SCHOOL {\k14}AT {\k7}THE {\k21}TIME.
+Dialogue: 0,0:00:36.74,0:00:37.46,Default,,80,80,60,,{\k21}NOW {\k14}THEY {\k21}BOTH {\k14}IN
+Dialogue: 0,0:00:37.46,0:00:38.10,Default,,80,80,60,,{\k24}COLLEGE {\k19}AND {\k20}SPLIT
+Dialogue: 0,0:00:38.10,0:00:38.84,Default,,80,80,60,,{\k17}THEIR {\k14}TIME {\k19}BETWEEN {\k22}STAYING
+Dialogue: 0,0:00:38.84,0:00:39.56,Default,,80,80,60,,{\k19}WITH {\k16}ME {\k9}AND {\k12}THEIR {\k14}MOM.
+Dialogue: 0,0:00:40.32,0:00:40.32,Default,,80,80,60,,{\k11}THE
+Dialogue: 0,0:00:40.32,0:00:40.96,Default,,80,80,60,,{\k11}THE {\k26}CURRENT {\k25}ISSUE
+Dialogue: 0,0:00:40.96,0:00:41.79,Default,,80,80,60,,{\k15}IS {\k10}THAT {\k14}MY {\k11}EX-WIFE {\k17}IS
+Dialogue: 0,0:00:41.79,0:00:42.60,Default,,80,80,60,,{\k28}STRUGGLING {\k52}FINANCIALLY.
+Dialogue: 0,0:00:43.43,0:00:44.21,Default,,80,80,60,,{\k17}I {\k6}IN {\k7}A {\k24}STABLE {\k21}PLACE
+Dialogue: 0,0:00:44.21,0:00:44.84,Default,,80,80,60,,{\k24}NOW {\k11}AND {\k26}RECENTLY
+Dialogue: 0,0:00:44.84,0:00:45.47,Default,,80,80,60,,{\k23}BOUGHT {\k12}A {\k27}HOUSE,
+Dialogue: 0,0:00:45.60,0:00:46.25,Default,,80,80,60,,{\k5}BUT {\k22}SHE {\k15}HAVING {\k21}TROUBLE
+Dialogue: 0,0:00:46.25,0:00:47.00,Default,,80,80,60,,{\k30}HOLDING {\k17}DOWN {\k10}A {\k15}JOB
+Dialogue: 0,0:00:47.00,0:00:47.70,Default,,80,80,60,,{\k14}AND {\k10}IS {\k10}AT {\k21}RISK {\k14}OF
+Dialogue: 0,0:00:47.70,0:00:48.39,Default,,80,80,60,,{\k17}BEING {\k32}EVICTED {\k19}FROM
+Dialogue: 0,0:00:48.39,0:00:48.85,Default,,80,80,60,,{\k12}HER {\k33}APARTMENT.
+Dialogue: 0,0:00:49.70,0:00:50.34,Default,,80,80,60,,{\k11}MY {\k24}KIDS {\k14}HAVE {\k14}BEEN
+Dialogue: 0,0:00:50.34,0:00:51.06,Default,,80,80,60,,{\k27}ASKING {\k17}ME {\k12}TO {\k14}HELP
+Dialogue: 0,0:00:51.06,0:00:52.32,Default,,80,80,60,,{\k11}HER {\k39}FINANCIALLY. {\k24}I
+Dialogue: 0,0:00:52.32,0:00:53.21,Default,,80,80,60,,{\k24}I {\k14}SAID {\k17}NO {\k33}MULTIPLE
+Dialogue: 0,0:00:53.21,0:00:53.89,Default,,80,80,60,,{\k25}TIMES, {\k28}AND {\k14}IT
+Dialogue: 0,0:00:53.89,0:00:54.50,Default,,80,80,60,,{\k14}TURNED {\k24}INTO {\k7}A {\k14}BIGGER
+Dialogue: 0,0:00:54.50,0:00:55.65,Default,,80,80,60,,{\k34}CONFLICT. {\k20}THEY
+Dialogue: 0,0:00:55.65,0:00:56.32,Default,,80,80,60,,{\k20}THEY {\k16}THINK {\k13}I {\k16}BEING
+Dialogue: 0,0:00:56.32,0:00:56.97,Default,,80,80,60,,{\k28}HEARTLESS {\k14}AND {\k15}EVEN
+Dialogue: 0,0:00:56.97,0:00:57.82,Default,,80,80,60,,{\k20}SAY {\k14}THAT {\k11}HER {\k38}SITUATION
+Dialogue: 0,0:00:57.82,0:00:58.42,Default,,80,80,60,,{\k15}IS {\k28}PARTLY {\k16}MY
+Dialogue: 0,0:00:58.42,0:00:59.06,Default,,80,80,60,,{\k21}FAULT {\k25}BECAUSE {\k16}I
+Dialogue: 0,0:00:59.06,0:00:59.82,Default,,80,80,60,,{\k35}INITIATED {\k15}THE {\k24}DIVORCE.
+Dialogue: 0,0:01:00.71,0:01:00.71,Default,,80,80,60,,{\k16}I
+Dialogue: 0,0:01:00.71,0:01:01.32,Default,,80,80,60,,{\k16}I {\k15}TOLD {\k16}THEM {\k11}THAT
+Dialogue: 0,0:01:01.32,0:01:01.96,Default,,80,80,60,,{\k10}THEIR {\k28}MOTHER {\k25}FINANCIAL
+Dialogue: 0,0:01:01.96,0:01:02.70,Default,,80,80,60,,{\k35}PROBLEMS {\k21}ARE {\k16}NOT
+Dialogue: 0,0:01:02.70,0:01:03.34,Default,,80,80,60,,{\k15}MY {\k48}RESPONSIBILITY
+Dialogue: 0,0:01:03.34,0:01:03.79,Default,,80,80,60,,{\k45}ANYMORE.
+Dialogue: 0,0:01:04.57,0:01:05.42,Default,,80,80,60,,{\k18}SINCE {\k28}THEN, {\k37}THEY
+Dialogue: 0,0:01:05.42,0:01:06.20,Default,,80,80,60,,{\k9}BEEN {\k24}DISTANT {\k15}AND {\k6}ARE {\k21}CURRENTLY
+Dialogue: 0,0:01:06.20,0:01:06.95,Default,,80,80,60,,{\k25}NOT {\k30}SPEAKING {\k19}TO
+Dialogue: 0,0:01:06.95,0:01:07.37,Default,,80,80,60,,{\k10}ME {\k31}MUCH.
+Dialogue: 0,0:01:08.06,0:01:08.84,Default,,80,80,60,,{\k14}NOW {\k17}I {\k28}STARTING {\k18}TO
+Dialogue: 0,0:01:08.84,0:01:09.50,Default,,80,80,60,,{\k25}QUESTION {\k26}WHETHER {\k14}I
+Dialogue: 0,0:01:09.50,0:01:10.14,Default,,80,80,60,,{\k23}HANDLED {\k18}THIS {\k9}THE {\k12}WRONG
+Dialogue: 0,0:01:10.14,0:01:11.07,Default,,80,80,60,,{\k23}WAY. {\k20}WAS
+Dialogue: 0,0:01:11.07,0:01:11.93,Default,,80,80,60,,{\k20}WAS {\k7}I {\k14}WRONG {\k14}FOR {\k29}REFUSING
+Dialogue: 0,0:01:11.93,0:01:12.64,Default,,80,80,60,,{\k20}TO {\k12}HELP {\k15}AND {\k21}SAYING
+Dialogue: 0,0:01:12.64,0:01:13.65,Default,,80,80,60,,{\k17}IT {\k12}NOT {\k14}MY {\k57}RESPONSIBILITY?

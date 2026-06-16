@@ -1,0 +1,109 @@
+# =====================
+# Python environment
+# =====================
+.venv/
+venv/
+ENV/
+env/
+
+# =====================
+# Python cache
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =====================
+# Build / packaging
+# =====================
+build/
+dist/
+*.egg-info/
+*.egg
+
+# =====================
+# Testing / tooling
+# =====================
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# =====================
+# IDEs
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# Logs / runtime files
+# =====================
+*.log
+
+# =====================
+# Environment variables
+# =====================
+.env
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Project-specific folders (NOT needed in git)
+# =====================
+Old Versions/
+Voice_Samples/
+voice_samples/
+BackgroundClips/
+Compilation/
+Compilation/**
+Results/
+Processing/
+Failed/
+Previous Uploads/
+AdditionalFiles/
+Tests/
+TestText/
+
+# =====================
+# Large media files
+# =====================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.webp
+*.gif
+*.svg
+*.woff
+*.woff2
+
+# =====================
+# Large text/binary blobs
+# =====================
+AllTexts.txt
+todo.txt
+
+# =====================
+# Keep essential files for Docker/build
+# =====================
+!Dockerfile
+!docker-compose.yml
+!requirements.txt
+!*.py
+!.dockerignore
+!Fonts/
+!Fonts/**
+!AdditionalFiles/
+!AdditionalFiles/**
+!AdditionalFiles/*.png
+!AdditionalFiles/*.jpg
+!AdditionalFiles/*.jpeg

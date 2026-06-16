@@ -1,0 +1,93 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.33,0:00:05.04,Default,,0,0,0,,\N{\k10}I {\k23}RECENTLY {\k36}STARTED
+Dialogue: 0,0:00:05.04,0:00:05.74,Default,,0,0,0,,\N{\k29}RUNNING {\k29}AND {\k10}THE
+Dialogue: 0,0:00:05.74,0:00:06.46,Default,,0,0,0,,\N{\k13}GYM {\k10}I {\k11}GO {\k12}TO {\k24}DOESN'T
+Dialogue: 0,0:00:06.46,0:00:07.21,Default,,0,0,0,,\N{\k12}HAVE {\k20}MANY {\k43}TREADMILLS.
+Dialogue: 0,0:00:07.86,0:00:08.51,Default,,0,0,0,,\N{\k28}LAST {\k19}NIGHT {\k17}I
+Dialogue: 0,0:00:08.51,0:00:09.17,Default,,0,0,0,,\N{\k14}WENT {\k14}WITH {\k11}MY {\k25}GIRLFRIEND
+Dialogue: 0,0:00:09.17,0:00:09.92,Default,,0,0,0,,\N{\k14}AND {\k14}ALL {\k9}THE {\k35}TREADMILLS
+Dialogue: 0,0:00:09.92,0:00:10.32,Default,,0,0,0,,\N{\k14}WERE {\k11}IN {\k14}USE.
+Dialogue: 0,0:00:11.14,0:00:11.80,Default,,0,0,0,,\N{\k16}I {\k13}DID {\k17}SOME {\k18}WEIGHTS
+Dialogue: 0,0:00:11.80,0:00:12.50,Default,,0,0,0,,\N{\k23}FIRST, {\k14}THEN
+Dialogue: 0,0:00:12.50,0:00:13.00,Default,,0,0,0,,\N{\k17}CHECKED {\k32}AGAIN.
+Dialogue: 0,0:00:13.88,0:00:14.53,Default,,0,0,0,,\N{\k15}I {\k24}NOTICED {\k25}ONE
+Dialogue: 0,0:00:14.53,0:00:15.16,Default,,0,0,0,,\N{\k18}GIRL {\k21}SITTING {\k14}ON {\k8}A
+Dialogue: 0,0:00:15.16,0:00:15.93,Default,,0,0,0,,\N{\k24}TREADMILL {\k19}WHILE {\k14}HER {\k19}FRIEND
+Dialogue: 0,0:00:15.93,0:00:16.67,Default,,0,0,0,,\N{\k13}WAS {\k26}ACTIVELY {\k33}USING
+Dialogue: 0,0:00:16.67,0:00:17.35,Default,,0,0,0,,\N{\k14}THE {\k12}ONE {\k16}NEXT {\k16}TO {\k9}HER.
+Dialogue: 0,0:00:17.98,0:00:18.66,Default,,0,0,0,,\N{\k23}SHE {\k10}HAD {\k12}BEEN {\k21}SITTING
+Dialogue: 0,0:00:18.66,0:00:19.57,Default,,0,0,0,,\N{\k19}THERE {\k10}FOR {\k14}AT {\k9}LEAST {\k37}15
+Dialogue: 0,0:00:19.57,0:00:20.39,Default,,0,0,0,,\N{\k24}MINUTES {\k21}WITHOUT {\k35}ACTUALLY
+Dialogue: 0,0:00:20.39,0:00:21.03,Default,,0,0,0,,\N{\k28}USING {\k12}THE {\k23}MACHINE.
+Dialogue: 0,0:00:21.82,0:00:22.42,Default,,0,0,0,,\N{\k21}I {\k14}WENT {\k24}OVER
+Dialogue: 0,0:00:22.42,0:00:23.14,Default,,0,0,0,,\N{\k13}AND {\k20}ASKED {\k16}IF {\k9}SHE {\k12}WAS
+Dialogue: 0,0:00:23.14,0:00:23.76,Default,,0,0,0,,\N{\k21}PLANNING {\k21}TO {\k18}USE
+Dialogue: 0,0:00:23.76,0:00:23.96,Default,,0,0,0,,\N{\k19}IT.
+Dialogue: 0,0:00:24.46,0:00:25.16,Default,,0,0,0,,\N{\k25}SHE {\k20}SAID {\k13}SHE {\k10}WAS
+Dialogue: 0,0:00:25.16,0:00:25.66,Default,,0,0,0,,\N{\k14}WITH {\k9}HER {\k26}FRIEND.
+Dialogue: 0,0:00:26.35,0:00:27.03,Default,,0,0,0,,\N{\k14}I {\k19}TOLD {\k19}HER {\k14}SHE
+Dialogue: 0,0:00:27.03,0:00:27.64,Default,,0,0,0,,\N{\k12}COULD {\k23}STAND {\k14}OR {\k10}SIT
+Dialogue: 0,0:00:27.64,0:00:28.37,Default,,0,0,0,,\N{\k19}NEXT {\k14}TO {\k9}HER {\k30}FRIEND'S
+Dialogue: 0,0:00:28.37,0:00:29.00,Default,,0,0,0,,\N{\k19}MACHINE {\k28}INSTEAD {\k14}OF
+Dialogue: 0,0:00:29.00,0:00:29.73,Default,,0,0,0,,\N{\k35}OCCUPYING {\k10}A {\k27}TREADMILL
+Dialogue: 0,0:00:29.73,0:00:30.37,Default,,0,0,0,,\N{\k20}OTHER {\k25}PEOPLE {\k17}MIGHT
+Dialogue: 0,0:00:30.37,0:00:30.96,Default,,0,0,0,,\N{\k19}WANT {\k16}TO {\k22}USE.
+Dialogue: 0,0:00:31.57,0:00:32.28,Default,,0,0,0,,\N{\k18}SHE {\k26}SHRUGGED {\k5}AND {\k20}REFUSED
+Dialogue: 0,0:00:32.28,0:00:32.65,Default,,0,0,0,,\N{\k21}TO {\k15}MOVE.
+Dialogue: 0,0:00:33.39,0:00:34.14,Default,,0,0,0,,\N{\k17}THEN {\k10}A {\k16}WOMAN {\k29}APPROACHED
+Dialogue: 0,0:00:34.14,0:00:34.97,Default,,0,0,0,,\N{\k17}AND {\k10}ASKED {\k15}WHAT {\k14}WAS {\k25}HAPPENING.
+Dialogue: 0,0:00:35.65,0:00:36.39,Default,,0,0,0,,\N{\k28}I {\k28}EXPLAINED {\k17}THE
+Dialogue: 0,0:00:36.39,0:00:36.82,Default,,0,0,0,,\N{\k42}SITUATION.
+Dialogue: 0,0:00:37.61,0:00:38.34,Default,,0,0,0,,\N{\k17}SHE {\k22}SAID {\k17}SHE {\k14}WAS
+Dialogue: 0,0:00:38.34,0:00:39.11,Default,,0,0,0,,\N{\k7}THE {\k29}GIRL'S {\k21}MOTHER {\k17}AND
+Dialogue: 0,0:00:39.11,0:00:39.82,Default,,0,0,0,,\N{\k20}TOLD {\k15}ME {\k14}I {\k20}SHOULDN'T
+Dialogue: 0,0:00:39.82,0:00:40.52,Default,,0,0,0,,\N{\k11}BE {\k21}TELLING {\k12}HER {\k24}DAUGHTER
+Dialogue: 0,0:00:40.52,0:00:40.82,Default,,0,0,0,,\N{\k13}TO {\k16}MOVE.
+Dialogue: 0,0:00:41.56,0:00:42.32,Default,,0,0,0,,\N{\k14}I {\k33}RESPONDED {\k28}THAT
+Dialogue: 0,0:00:42.32,0:00:42.96,Default,,0,0,0,,\N{\k14}HER {\k21}DAUGHTER {\k28}SHOULDN'T
+Dialogue: 0,0:00:42.96,0:00:43.78,Default,,0,0,0,,\N{\k14}BE {\k24}TAKING {\k15}UP {\k28}EQUIPMENT
+Dialogue: 0,0:00:43.78,0:00:44.39,Default,,0,0,0,,\N{\k19}SHE {\k12}HAD {\k10}NO {\k19}INTENTION
+Dialogue: 0,0:00:44.39,0:00:44.89,Default,,0,0,0,,\N{\k25}OF {\k24}USING.
+Dialogue: 0,0:00:45.67,0:00:46.42,Default,,0,0,0,,\N{\k14}THE {\k24}MOTHER {\k35}INSISTED
+Dialogue: 0,0:00:46.42,0:00:47.03,Default,,0,0,0,,\N{\k21}HER {\k21}DAUGHTER {\k17}WAS
+Dialogue: 0,0:00:47.03,0:00:47.65,Default,,0,0,0,,\N{\k16}FREE {\k11}TO {\k10}SIT {\k14}THERE {\k9}AND
+Dialogue: 0,0:00:47.65,0:00:48.39,Default,,0,0,0,,\N{\k24}WASN'T {\k16}DOING {\k33}ANYTHING
+Dialogue: 0,0:00:48.39,0:00:48.64,Default,,0,0,0,,\N{\k24}WRONG.
+Dialogue: 0,0:00:49.38,0:00:50.06,Default,,0,0,0,,\N{\k32}THAT'S {\k9}WHEN {\k12}I {\k14}SAID
+Dialogue: 0,0:00:50.06,0:00:50.85,Default,,0,0,0,,\N{\k11}I {\k11}COULD {\k14}SEE {\k12}WHERE {\k7}THE {\k21}DAUGHTER
+Dialogue: 0,0:00:50.85,0:00:51.64,Default,,0,0,0,,\N{\k17}GOT {\k16}HER {\k43}ENTITLEMENT
+Dialogue: 0,0:00:51.64,0:00:51.84,Default,,0,0,0,,\N{\k20}FROM.
+Dialogue: 0,0:00:52.61,0:00:53.21,Default,,0,0,0,,\N{\k12}THE {\k10}MOM {\k23}SAID {\k14}I
+Dialogue: 0,0:00:53.21,0:00:53.92,Default,,0,0,0,,\N{\k12}WAS {\k13}OUT {\k8}OF {\k15}LINE {\k20}FOR
+Dialogue: 0,0:00:53.92,0:00:54.53,Default,,0,0,0,,\N{\k43}CRITICISING {\k17}HER
+Dialogue: 0,0:00:54.53,0:00:55.32,Default,,0,0,0,,\N{\k34}PARENTING. {\k43}I
+Dialogue: 0,0:00:55.32,0:00:56.35,Default,,0,0,0,,\N{\k78}REPLIED {\k25}THAT
+Dialogue: 0,0:00:56.35,0:00:57.11,Default,,0,0,0,,\N{\k14}SHE {\k24}SHOULDN'T {\k11}BE {\k25}UPSET
+Dialogue: 0,0:00:57.11,0:00:57.74,Default,,0,0,0,,\N{\k24}ABOUT {\k38}CRITICISM
+Dialogue: 0,0:00:57.74,0:00:58.38,Default,,0,0,0,,\N{\k25}IF {\k15}SHE {\k22}RAISED
+Dialogue: 0,0:00:58.38,0:00:59.07,Default,,0,0,0,,\N{\k15}HER {\k14}DAUGHTER {\k39}BETTER.
+Dialogue: 0,0:00:59.89,0:01:00.60,Default,,0,0,0,,\N{\k35}EVENTUALLY {\k16}A {\k17}STAFF
+Dialogue: 0,0:01:00.60,0:01:01.38,Default,,0,0,0,,\N{\k25}MEMBER {\k24}CAME {\k28}OVER.
+Dialogue: 0,0:01:02.29,0:01:03.11,Default,,0,0,0,,\N{\k26}AFTER {\k23}HEARING {\k32}WHAT
+Dialogue: 0,0:01:03.11,0:01:04.15,Default,,0,0,0,,\N{\k14}WAS {\k16}GOING {\k25}ON, {\k6}THEY
+Dialogue: 0,0:01:04.15,0:01:04.84,Default,,0,0,0,,\N{\k18}TOLD {\k15}THE {\k15}GIRL {\k18}SHE
+Dialogue: 0,0:01:04.84,0:01:05.57,Default,,0,0,0,,\N{\k23}NEEDED {\k14}TO {\k15}EITHER {\k20}USE
+Dialogue: 0,0:01:05.57,0:01:06.31,Default,,0,0,0,,\N{\k15}THE {\k21}TREADMILL {\k18}OR {\k17}FREE
+Dialogue: 0,0:01:06.31,0:01:06.92,Default,,0,0,0,,\N{\k14}IT {\k10}UP {\k15}FOR {\k20}SOMEONE
+Dialogue: 0,0:01:06.92,0:01:07.23,Default,,0,0,0,,\N{\k31}ELSE.
+Dialogue: 0,0:01:08.04,0:01:08.71,Default,,0,0,0,,\N{\k14}MY {\k27}GIRLFRIEND {\k26}THINKS
+Dialogue: 0,0:01:08.71,0:01:09.57,Default,,0,0,0,,\N{\k15}I {\k20}SHOULDN'T {\k12}HAVE {\k37}ESCALATED
+Dialogue: 0,0:01:09.57,0:01:10.21,Default,,0,0,0,,\N{\k23}THINGS {\k20}BY {\k20}ARGUING
+Dialogue: 0,0:01:10.21,0:01:10.98,Default,,0,0,0,,\N{\k23}WITH {\k6}THE {\k21}MOTHER {\k24}BUT
+Dialogue: 0,0:01:10.98,0:01:11.65,Default,,0,0,0,,\N{\k9}I {\k20}DON'T {\k17}FEEL {\k20}LIKE
+Dialogue: 0,0:01:11.65,0:01:12.51,Default,,0,0,0,,\N{\k12}I {\k9}DID {\k30}ANYTHING {\k33}WRONG.

@@ -1,0 +1,135 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.01,0:00:05.79,Default,,0,0,0,,\N{\k2}A {\k20}NURSE {\k20}AND {\k13}WORK {\k21}LONG,
+Dialogue: 0,0:00:05.79,0:00:06.75,Default,,0,0,0,,\N{\k40}UNPREDICTABLE {\k55}SHIFTS.
+Dialogue: 0,0:00:07.36,0:00:07.74,Default,,0,0,0,,\N{\k37}BECAUSE
+Dialogue: 0,0:00:07.74,0:00:08.35,Default,,0,0,0,,\N{\k16}OF {\k11}THAT, {\k16}EVERY
+Dialogue: 0,0:00:08.35,0:00:09.08,Default,,0,0,0,,\N{\k17}SUNDAY {\k18}I {\k8}MEAL {\k16}PREP
+Dialogue: 0,0:00:09.08,0:00:09.83,Default,,0,0,0,,\N{\k17}FOR {\k6}THE {\k24}ENTIRE {\k27}WEEK,
+Dialogue: 0,0:00:10.19,0:00:11.40,Default,,0,0,0,,\N{\k16}NOTHING {\k40}FANCY, {\k20}JUST
+Dialogue: 0,0:00:11.40,0:00:12.06,Default,,0,0,0,,\N{\k32}CHICKEN, {\k12}RICE,
+Dialogue: 0,0:00:12.35,0:00:13.11,Default,,0,0,0,,\N{\k4}AND {\k24}VEGETABLES {\k47}PORTIONED
+Dialogue: 0,0:00:13.11,0:00:13.92,Default,,0,0,0,,\N{\k10}INTO {\k27}CONTAINERS {\k22}SO
+Dialogue: 0,0:00:13.92,0:00:14.56,Default,,0,0,0,,\N{\k9}I {\k12}CAN {\k11}GRAB {\k14}THEM {\k16}AND
+Dialogue: 0,0:00:14.56,0:00:16.17,Default,,0,0,0,,\N{\k13}GO. {\k35}IT’S
+Dialogue: 0,0:00:16.17,0:00:16.89,Default,,0,0,0,,\N{\k10}THE {\k14}ONLY {\k15}WAY {\k10}I {\k21}STAY
+Dialogue: 0,0:00:16.89,0:00:17.64,Default,,0,0,0,,\N{\k20}FED {\k32}DURING {\k21}BUSY
+Dialogue: 0,0:00:17.64,0:00:19.07,Default,,0,0,0,,\N{\k39}WEEKS. {\k15}MY
+Dialogue: 0,0:00:19.07,0:00:19.73,Default,,0,0,0,,\N{\k24}ROOMMATE {\k23}HAS {\k17}BEEN
+Dialogue: 0,0:00:19.73,0:00:20.55,Default,,0,0,0,,\N{\k18}DATING {\k19}A {\k14}GUY, {\k29}I’LL
+Dialogue: 0,0:00:20.55,0:00:21.37,Default,,0,0,0,,\N{\k12}CALL {\k17}HIM {\k16}MIKE, {\k35}FOR
+Dialogue: 0,0:00:21.37,0:00:23.12,Default,,0,0,0,,\N{\k16}ABOUT {\k22}THREE {\k19}MONTHS. {\k16}AT
+Dialogue: 0,0:00:23.12,0:00:23.83,Default,,0,0,0,,\N{\k25}FIRST, {\k6}HIM {\k19}COMING
+Dialogue: 0,0:00:23.83,0:00:24.51,Default,,0,0,0,,\N{\k17}OVER {\k17}WAS {\k14}NO {\k17}BIG
+Dialogue: 0,0:00:24.51,0:00:25.71,Default,,0,0,0,,\N{\k17}DEAL. {\k33}THEN
+Dialogue: 0,0:00:25.71,0:00:26.37,Default,,0,0,0,,\N{\k12}IT {\k14}TURNED {\k25}INTO {\k14}HIM
+Dialogue: 0,0:00:26.37,0:00:27.12,Default,,0,0,0,,\N{\k19}STAYING {\k30}OVER {\k24}THREE
+Dialogue: 0,0:00:27.12,0:00:27.73,Default,,0,0,0,,\N{\k9}TO {\k17}FIVE {\k16}NIGHTS {\k17}A
+Dialogue: 0,0:00:27.73,0:00:28.82,Default,,0,0,0,,\N{\k20}WEEK. {\k43}I
+Dialogue: 0,0:00:28.82,0:00:29.50,Default,,0,0,0,,\N{\k23}DIDN’T {\k14}LOVE {\k14}IT, {\k16}BUT
+Dialogue: 0,0:00:29.50,0:00:30.32,Default,,0,0,0,,\N{\k12}I {\k37}TOLERATED {\k32}IT.
+Dialogue: 0,0:00:30.76,0:00:31.19,Default,,0,0,0,,\N{\k43}TWO
+Dialogue: 0,0:00:31.19,0:00:31.83,Default,,0,0,0,,\N{\k16}WEEKS {\k28}AGO, {\k19}I
+Dialogue: 0,0:00:31.83,0:00:32.47,Default,,0,0,0,,\N{\k18}CAME {\k21}HOME {\k23}AFTER
+Dialogue: 0,0:00:32.47,0:00:33.43,Default,,0,0,0,,\N{\k14}A {\k14}BRUTAL {\k20}SHIFT, {\k47}EXHAUSTED
+Dialogue: 0,0:00:33.43,0:00:35.00,Default,,0,0,0,,\N{\k17}AND {\k26}STARVING. {\k43}I
+Dialogue: 0,0:00:35.00,0:00:35.71,Default,,0,0,0,,\N{\k15}OPENED {\k18}THE {\k15}FRIDGE {\k21}AND
+Dialogue: 0,0:00:35.71,0:00:36.46,Default,,0,0,0,,\N{\k20}FOUND {\k23}ALL {\k12}MY {\k17}MEAL
+Dialogue: 0,0:00:36.46,0:00:37.39,Default,,0,0,0,,\N{\k15}PREP {\k42}CONTAINERS {\k35}EMPTY.
+Dialogue: 0,0:00:38.25,0:00:39.02,Default,,0,0,0,,\N{\k10}MIKE {\k14}HAD {\k14}EATEN {\k14}THE {\k24}ENTIRE
+Dialogue: 0,0:00:39.02,0:00:39.67,Default,,0,0,0,,\N{\k33}WEEK’S {\k7}WORTH {\k8}OF {\k15}FOOD
+Dialogue: 0,0:00:39.67,0:00:40.39,Default,,0,0,0,,\N{\k20}WHILE {\k14}MY {\k19}ROOMMATE {\k17}WAS
+Dialogue: 0,0:00:40.39,0:00:41.53,Default,,0,0,0,,\N{\k7}AT {\k20}WORK. {\k11}HE
+Dialogue: 0,0:00:41.53,0:00:43.03,Default,,0,0,0,,\N{\k24}DIDN’T {\k28}ASK. {\k24}HE
+Dialogue: 0,0:00:43.03,0:00:44.57,Default,,0,0,0,,\N{\k25}DIDN’T {\k32}TEXT. {\k43}HE
+Dialogue: 0,0:00:44.57,0:00:45.21,Default,,0,0,0,,\N{\k14}JUST {\k20}HELPED {\k29}HIMSELF.
+Dialogue: 0,0:00:46.06,0:00:46.70,Default,,0,0,0,,\N{\k14}I {\k11}WAS {\k38}FURIOUS.
+Dialogue: 0,0:00:47.57,0:00:47.79,Default,,0,0,0,,\N{\k21}I
+Dialogue: 0,0:00:47.79,0:00:48.53,Default,,0,0,0,,\N{\k26}TEXTED {\k21}MY {\k25}ROOMMATE,
+Dialogue: 0,0:00:48.53,0:00:49.32,Default,,0,0,0,,\N{\k25}AND {\k16}SHE {\k35}APOLOGIZED,
+Dialogue: 0,0:00:49.67,0:00:50.42,Default,,0,0,0,,\N{\k14}SAYING {\k21}MIKE {\k16}FELT {\k21}BAD.
+Dialogue: 0,0:00:51.52,0:00:52.28,Default,,0,0,0,,\N{\k7}I {\k15}TOLD {\k20}HER {\k10}IT {\k21}WASN’T
+Dialogue: 0,0:00:52.28,0:00:52.93,Default,,0,0,0,,\N{\k14}ABOUT {\k23}WHETHER {\k12}HE {\k15}FELT
+Dialogue: 0,0:00:52.93,0:00:53.56,Default,,0,0,0,,\N{\k17}BAD, {\k3}IT {\k7}WAS {\k16}ABOUT
+Dialogue: 0,0:00:53.56,0:00:55.20,Default,,0,0,0,,\N{\k21}BASIC {\k33}BOUNDARIES. {\k24}YOU
+Dialogue: 0,0:00:55.20,0:00:56.11,Default,,0,0,0,,\N{\k23}DON’T {\k10}EAT {\k24}SOMEONE {\k33}ELSE’S
+Dialogue: 0,0:00:56.11,0:00:56.89,Default,,0,0,0,,\N{\k17}FOOD {\k26}WITHOUT {\k33}ASKING.
+Dialogue: 0,0:00:57.46,0:00:57.85,Default,,0,0,0,,\N{\k39}LAST
+Dialogue: 0,0:00:57.85,0:00:58.60,Default,,0,0,0,,\N{\k35}WEEKEND, {\k21}IT {\k16}HAPPENED
+Dialogue: 0,0:00:58.60,0:00:58.84,Default,,0,0,0,,\N{\k24}AGAIN.
+Dialogue: 0,0:00:59.78,0:01:00.43,Default,,0,0,0,,\N{\k11}THIS {\k17}TIME, {\k35}INSTEAD
+Dialogue: 0,0:01:00.43,0:01:01.47,Default,,0,0,0,,\N{\k16}OF {\k24}FULLY {\k17}EMPTY {\k45}CONTAINERS,
+Dialogue: 0,0:01:01.89,0:01:02.67,Default,,0,0,0,,\N{\k2}THERE {\k15}WERE {\k38}TAKEN {\k21}OUT
+Dialogue: 0,0:01:02.67,0:01:04.21,Default,,0,0,0,,\N{\k7}OF {\k16}EACH {\k19}ONE. {\k20}LIKE
+Dialogue: 0,0:01:04.21,0:01:04.90,Default,,0,0,0,,\N{\k12}HE’D {\k23}SAMPLED {\k15}THEM {\k16}ALL.
+Dialogue: 0,0:01:05.59,0:01:05.79,Default,,0,0,0,,\N{\k20}THAT
+Dialogue: 0,0:01:05.79,0:01:06.42,Default,,0,0,0,,\N{\k6}HONESTLY {\k18}FELT {\k15}WORSE
+Dialogue: 0,0:01:06.42,0:01:06.64,Default,,0,0,0,,\N{\k21}SOMEHOW.
+Dialogue: 0,0:01:07.54,0:01:07.90,Default,,0,0,0,,\N{\k9}I {\k26}SNAPPED.
+Dialogue: 0,0:01:08.71,0:01:09.35,Default,,0,0,0,,\N{\k7}I {\k20}TOLD {\k15}MY {\k20}ROOMMATE
+Dialogue: 0,0:01:09.35,0:01:10.06,Default,,0,0,0,,\N{\k21}THAT {\k14}MIKE {\k34}COULDN’T
+Dialogue: 0,0:01:10.06,0:01:10.79,Default,,0,0,0,,\N{\k21}STAY {\k21}OVER {\k29}ANYMORE.
+Dialogue: 0,0:01:11.62,0:01:12.28,Default,,0,0,0,,\N{\k11}I {\k14}SAID {\k14}I {\k26}DIDN’T
+Dialogue: 0,0:01:12.28,0:01:12.93,Default,,0,0,0,,\N{\k12}CARE {\k21}IF {\k9}HE {\k21}PROMISED
+Dialogue: 0,0:01:12.93,0:01:13.68,Default,,0,0,0,,\N{\k20}NOT {\k14}TO {\k7}DO {\k12}IT {\k20}AGAIN,
+Dialogue: 0,0:01:13.92,0:01:14.65,Default,,0,0,0,,\N{\k7}I {\k12}WAS {\k14}TOO {\k21}ANGRY {\k17}AND
+Dialogue: 0,0:01:14.65,0:01:15.28,Default,,0,0,0,,\N{\k34}UNCOMFORTABLE {\k15}AT {\k12}THAT
+Dialogue: 0,0:01:15.28,0:01:15.50,Default,,0,0,0,,\N{\k21}POINT.
+Dialogue: 0,0:01:16.45,0:01:17.29,Default,,0,0,0,,\N{\k32}IT {\k9}GENUINELY {\k7}STRESSED {\k20}ME
+Dialogue: 0,0:01:17.29,0:01:17.90,Default,,0,0,0,,\N{\k14}OUT {\k15}KNOWING {\k16}HE {\k14}WAS
+Dialogue: 0,0:01:17.90,0:01:18.64,Default,,0,0,0,,\N{\k11}IN {\k10}THE {\k28}APARTMENT {\k23}WHILE
+Dialogue: 0,0:01:18.64,0:01:20.09,Default,,0,0,0,,\N{\k9}I {\k14}WAS {\k6}AT {\k20}WORK. {\k19}SHE
+Dialogue: 0,0:01:20.09,0:01:21.00,Default,,0,0,0,,\N{\k24}DIDN’T {\k14}TAKE {\k15}ME {\k35}SERIOUSLY.
+Dialogue: 0,0:01:21.85,0:01:22.70,Default,,0,0,0,,\N{\k14}MIKE {\k23}KEPT {\k20}COMING {\k26}OVER.
+Dialogue: 0,0:01:23.28,0:01:23.64,Default,,0,0,0,,\N{\k35}THAT
+Dialogue: 0,0:01:23.64,0:01:24.48,Default,,0,0,0,,\N{\k20}MADE {\k14}ME {\k14}FEEL {\k35}COMPLETELY
+Dialogue: 0,0:01:24.48,0:01:25.12,Default,,0,0,0,,\N{\k29}POWERLESS {\k15}IN {\k7}MY {\k10}OWN
+Dialogue: 0,0:01:25.12,0:01:25.73,Default,,0,0,0,,\N{\k23}HOME, {\k21}LIKE {\k15}I
+Dialogue: 0,0:01:25.73,0:01:26.35,Default,,0,0,0,,\N{\k12}HAD {\k18}ZERO {\k31}SAY.
+Dialogue: 0,0:01:27.23,0:01:28.45,Default,,0,0,0,,\N{\k12}OUT {\k7}OF {\k37}FRUSTRATION, {\k9}I
+Dialogue: 0,0:01:28.45,0:01:29.06,Default,,0,0,0,,\N{\k16}CALLED {\k21}MY {\k21}ROOMMATE’S
+Dialogue: 0,0:01:29.06,0:01:29.70,Default,,0,0,0,,\N{\k25}MOTHER {\k18}AND {\k20}TOLD
+Dialogue: 0,0:01:29.70,0:01:30.45,Default,,0,0,0,,\N{\k17}HER {\k12}WHAT {\k12}WAS {\k17}GOING {\k15}ON.
+Dialogue: 0,0:01:31.26,0:01:31.50,Default,,0,0,0,,\N{\k23}I
+Dialogue: 0,0:01:31.50,0:01:32.23,Default,,0,0,0,,\N{\k18}ASKED {\k9}HER {\k14}TO {\k15}TALK {\k15}TO
+Dialogue: 0,0:01:32.23,0:01:32.84,Default,,0,0,0,,\N{\k10}HER {\k17}DAUGHTER {\k32}ABOUT
+Dialogue: 0,0:01:32.84,0:01:33.64,Default,,0,0,0,,\N{\k20}HAVING {\k14}MIKE {\k19}STOP {\k26}COMING
+Dialogue: 0,0:01:33.64,0:01:34.98,Default,,0,0,0,,\N{\k31}OVER. {\k24}AFTER
+Dialogue: 0,0:01:34.98,0:01:35.81,Default,,0,0,0,,\N{\k15}THAT, {\k20}MY {\k20}ROOMMATE {\k27}FINALLY
+Dialogue: 0,0:01:35.81,0:01:36.62,Default,,0,0,0,,\N{\k26}CALLED {\k15}ME {\k14}TO {\k24}TALK.
+Dialogue: 0,0:01:37.51,0:01:37.70,Default,,0,0,0,,\N{\k18}SHE
+Dialogue: 0,0:01:37.70,0:01:38.34,Default,,0,0,0,,\N{\k20}SAID {\k11}SHE {\k16}THOUGHT {\k15}WE
+Dialogue: 0,0:01:38.34,0:01:39.04,Default,,0,0,0,,\N{\k11}COULD {\k16}JUST {\k17}WORK {\k12}IT {\k12}OUT
+Dialogue: 0,0:01:39.04,0:01:39.90,Default,,0,0,0,,\N{\k21}BETWEEN {\k19}US {\k12}AND {\k32}REMINDED
+Dialogue: 0,0:01:39.90,0:01:40.59,Default,,0,0,0,,\N{\k25}ME {\k18}OF {\k9}THE {\k15}ONE
+Dialogue: 0,0:01:40.59,0:01:41.40,Default,,0,0,0,,\N{\k21}TIME {\k18}SHE {\k6}AND {\k12}MIKE {\k21}BROUGHT
+Dialogue: 0,0:01:41.40,0:01:42.20,Default,,0,0,0,,\N{\k15}ME {\k23}DINNER {\k40}WHEN
+Dialogue: 0,0:01:42.20,0:01:43.57,Default,,0,0,0,,\N{\k14}THEY {\k11}WENT {\k22}OUT. {\k20}SHE
+Dialogue: 0,0:01:43.57,0:01:44.23,Default,,0,0,0,,\N{\k20}ACCUSED {\k17}ME {\k8}OF {\k19}MAKING
+Dialogue: 0,0:01:44.23,0:01:44.93,Default,,0,0,0,,\N{\k20}HER {\k15}CHOOSE {\k34}BETWEEN
+Dialogue: 0,0:01:44.93,0:01:45.48,Default,,0,0,0,,\N{\k24}ME {\k13}AND {\k16}HIM.
+Dialogue: 0,0:01:46.28,0:01:46.95,Default,,0,0,0,,\N{\k14}NOW {\k21}SHE’S {\k15}GIVING {\k15}ME
+Dialogue: 0,0:01:46.95,0:01:47.59,Default,,0,0,0,,\N{\k14}THE {\k21}SILENT {\k28}TREATMENT
+Dialogue: 0,0:01:47.59,0:01:48.28,Default,,0,0,0,,\N{\k18}AND {\k21}TELLING {\k28}PEOPLE
+Dialogue: 0,0:01:48.28,0:01:49.06,Default,,0,0,0,,\N{\k23}I {\k20}LOST {\k15}IT {\k18}OVER
+Dialogue: 0,0:01:49.06,0:01:49.28,Default,,0,0,0,,\N{\k21}FOOD.
+Dialogue: 0,0:01:50.50,0:01:51.20,Default,,0,0,0,,\N{\k23}I {\k12}KNOW {\k20}CALLING {\k14}HER
+Dialogue: 0,0:01:51.20,0:01:52.62,Default,,0,0,0,,\N{\k9}MOM {\k15}WAS {\k28}EXTREME. {\k43}BUT
+Dialogue: 0,0:01:52.62,0:01:53.29,Default,,0,0,0,,\N{\k11}I {\k24}FELT {\k31}IGNORED
+Dialogue: 0,0:01:53.29,0:01:54.07,Default,,0,0,0,,\N{\k21}AND {\k56}DISRESPECTED
+Dialogue: 0,0:01:54.07,0:01:54.87,Default,,0,0,0,,\N{\k34}IN {\k14}MY {\k9}OWN {\k21}SPACE.
+Dialogue: 0,0:01:55.79,0:01:56.45,Default,,0,0,0,,\N{\k7}I {\k20}DON’T {\k14}THINK {\k14}THIS {\k9}IS
+Dialogue: 0,0:01:56.45,0:01:57.06,Default,,0,0,0,,\N{\k14}JUST {\k21}ABOUT {\k24}FOOD,
+Dialogue: 0,0:01:57.26,0:01:58.07,Default,,0,0,0,,\N{\k7}IT’S {\k15}ABOUT {\k34}BOUNDARIES {\k23}AND
+Dialogue: 0,0:01:58.07,0:01:58.71,Default,,0,0,0,,\N{\k23}FEELING {\k24}SAFE {\k15}IN
+Dialogue: 0,0:01:58.71,0:01:59.04,Default,,0,0,0,,\N{\k9}YOUR {\k22}HOME.
+Dialogue: 0,0:01:59.90,0:02:00.28,Default,,0,0,0,,\N{\k7}DID {\k15}I {\k14}OVERREACT?

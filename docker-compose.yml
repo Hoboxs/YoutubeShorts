@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: youtubeshorts
+
+    working_dir: /app
+
+    environment:
+      PYTHONUNBUFFERED: "1"
+      PIP_NO_CACHE_DIR: "1"
+      TZ: America/Toronto
+
+    # If your app exposes a server (FastAPI/Flask/etc), uncomment and adjust:
+    # ports:
+    #   - "8000:8000"
+
+    # For dev convenience (optional hot reload)
+    # volumes:
+    #   - .:/app
+
+    # Persist output files on the host filesystem
+    volumes:
+      - ./BackgroundClips:/app/BackgroundClips
+      - ./Texts:/app/Texts
+      - ./Processing:/app/Processing
+      - ./Results:/app/Results
+      - ./Tests:/app/Tests
+      - ./Failed:/app/Failed
+      - ./AdditionalFiles:/app/AdditionalFiles
+
+    restart: "no"

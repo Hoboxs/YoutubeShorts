@@ -1,0 +1,122 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.09,0:00:04.75,Default,,0,0,0,,\N{\k28}MY {\k29}WIFE {\k8}HAD
+Dialogue: 0,0:00:04.75,0:00:05.41,Default,,0,0,0,,\N{\k12}DIED {\k28}PLANS {\k25}TO
+Dialogue: 0,0:00:05.41,0:00:06.04,Default,,0,0,0,,\N{\k12}GO {\k28}HIKING {\k21}AND
+Dialogue: 0,0:00:06.04,0:00:06.94,Default,,0,0,0,,\N{\k8}THEN {\k17}HAVE {\k16}DINNER {\k17}WITH {\k30}FRIENDS.
+Dialogue: 0,0:00:07.58,0:00:08.40,Default,,0,0,0,,\N{\k25}BEFORE {\k16}WE {\k14}LEFT, {\k6}WE
+Dialogue: 0,0:00:08.40,0:00:09.03,Default,,0,0,0,,\N{\k19}MADE {\k22}LUNCH {\k21}FOR
+Dialogue: 0,0:00:09.03,0:00:09.74,Default,,0,0,0,,\N{\k12}OUR {\k16}KIDS {\k25}AND {\k16}ASKED
+Dialogue: 0,0:00:09.74,0:00:10.41,Default,,0,0,0,,\N{\k14}MY {\k39}MOTHER-IN-LAW {\k14}TO
+Dialogue: 0,0:00:10.41,0:00:11.11,Default,,0,0,0,,\N{\k16}BRING {\k16}THEM {\k17}DINNER {\k19}SINCE
+Dialogue: 0,0:00:11.11,0:00:11.77,Default,,0,0,0,,\N{\k16}WE {\k30}EXPECTED {\k19}TO
+Dialogue: 0,0:00:11.77,0:00:12.58,Default,,0,0,0,,\N{\k10}BE {\k9}OUT {\k21}INTO {\k16}THE {\k22}EVENING.
+Dialogue: 0,0:00:13.41,0:00:14.25,Default,,0,0,0,,\N{\k22}TO {\k9}BE {\k22}CLEAR, {\k8}WE
+Dialogue: 0,0:00:14.25,0:00:14.88,Default,,0,0,0,,\N{\k14}DID {\k11}NOT {\k24}ASK {\k12}HER
+Dialogue: 0,0:00:14.88,0:00:15.50,Default,,0,0,0,,\N{\k8}TO {\k13}STAY {\k14}AT {\k9}THE {\k16}HOUSE.
+Dialogue: 0,0:00:16.32,0:00:16.92,Default,,0,0,0,,\N{\k30}WE'VE {\k11}LEFT {\k18}OUR
+Dialogue: 0,0:00:16.92,0:00:17.80,Default,,0,0,0,,\N{\k15}KIDS {\k20}HOME {\k23}ALONE {\k28}MANY
+Dialogue: 0,0:00:17.80,0:00:18.42,Default,,0,0,0,,\N{\k17}TIMES {\k19}AND {\k10}TRUST {\k14}THEM
+Dialogue: 0,0:00:18.42,0:00:18.87,Default,,0,0,0,,\N{\k45}COMPLETELY.
+Dialogue: 0,0:00:19.60,0:00:20.23,Default,,0,0,0,,\N{\k21}WE {\k12}ONLY {\k21}ASKED {\k7}HER
+Dialogue: 0,0:00:20.23,0:00:20.87,Default,,0,0,0,,\N{\k10}TO {\k14}DROP {\k17}OFF {\k21}DINNER
+Dialogue: 0,0:00:20.87,0:00:21.51,Default,,0,0,0,,\N{\k17}SO {\k10}THAT {\k14}IF {\k21}SOMETHING
+Dialogue: 0,0:00:21.51,0:00:22.21,Default,,0,0,0,,\N{\k32}DECENT {\k19}TO {\k17}EAT.
+Dialogue: 0,0:00:22.82,0:00:23.55,Default,,0,0,0,,\N{\k25}WE'VE {\k14}TOLD {\k16}HER {\k17}BEFORE
+Dialogue: 0,0:00:23.55,0:00:24.19,Default,,0,0,0,,\N{\k22}SHE'S {\k21}WELCOMED {\k19}TO
+Dialogue: 0,0:00:24.19,0:00:25.03,Default,,0,0,0,,\N{\k14}STAY {\k17}AND {\k26}WATCHED {\k25}TV
+Dialogue: 0,0:00:25.03,0:00:25.87,Default,,0,0,0,,\N{\k12}IF {\k10}SHE {\k11}WANTS {\k17}SHE {\k32}DOESN'T
+Dialogue: 0,0:00:25.87,0:00:26.48,Default,,0,0,0,,\N{\k10}HAVE {\k25}INTERNET {\k24}AT
+Dialogue: 0,0:00:26.48,0:00:27.21,Default,,0,0,0,,\N{\k16}HOME {\k19}BUT {\k17}THERE'S {\k19}NEVER
+Dialogue: 0,0:00:27.21,0:00:28.01,Default,,0,0,0,,\N{\k14}AN {\k37}EXPECTATION {\k28}THAT
+Dialogue: 0,0:00:28.01,0:00:28.57,Default,,0,0,0,,\N{\k14}SHE {\k10}HAS {\k11}TO {\k19}STAY.
+Dialogue: 0,0:00:29.17,0:00:29.80,Default,,0,0,0,,\N{\k39}WE {\k12}HAD {\k10}A
+Dialogue: 0,0:00:29.80,0:00:30.16,Default,,0,0,0,,\N{\k14}GREAT {\k21}DAY.
+Dialogue: 0,0:00:31.01,0:00:31.83,Default,,0,0,0,,\N{\k21}AFTER {\k28}DINNER, {\k5}OUR
+Dialogue: 0,0:00:31.83,0:00:32.46,Default,,0,0,0,,\N{\k26}FRIENDS {\k35}INVITED
+Dialogue: 0,0:00:32.46,0:00:33.06,Default,,0,0,0,,\N{\k17}US {\k14}BACK {\k15}TO {\k12}THEIR
+Dialogue: 0,0:00:33.06,0:00:33.74,Default,,0,0,0,,\N{\k21}PLACE {\k14}TO {\k10}HANG {\k21}OUT.
+Dialogue: 0,0:00:34.39,0:00:35.03,Default,,0,0,0,,\N{\k28}WE {\k11}WENT {\k14}WITH {\k10}THE
+Dialogue: 0,0:00:35.03,0:00:35.67,Default,,0,0,0,,\N{\k20}FLOW, {\k7}LOST
+Dialogue: 0,0:00:35.67,0:00:36.38,Default,,0,0,0,,\N{\k20}TRACK {\k11}OF {\k20}TIME {\k17}AND
+Dialogue: 0,0:00:36.38,0:00:37.06,Default,,0,0,0,,\N{\k27}SUDDENLY {\k16}IT {\k10}WAS {\k14}VERY
+Dialogue: 0,0:00:37.06,0:00:37.28,Default,,0,0,0,,\N{\k21}LATE.
+Dialogue: 0,0:00:38.20,0:00:38.84,Default,,0,0,0,,\N{\k21}AROUND {\k17}THAT {\k24}TIME,
+Dialogue: 0,0:00:39.07,0:00:39.67,Default,,0,0,0,,\N{\k6}MY {\k53}MOTHER-IN-LAW
+Dialogue: 0,0:00:39.67,0:00:40.50,Default,,0,0,0,,\N{\k17}CALLED {\k38}ASKING {\k25}WHERE
+Dialogue: 0,0:00:40.50,0:00:40.75,Default,,0,0,0,,\N{\k14}WE {\k11}WERE.
+Dialogue: 0,0:00:41.35,0:00:42.15,Default,,0,0,0,,\N{\k39}WE {\k17}TOLD {\k21}HER
+Dialogue: 0,0:00:42.15,0:00:42.82,Default,,0,0,0,,\N{\k18}WE {\k15}WERE {\k15}ABOUT {\k16}TO
+Dialogue: 0,0:00:42.82,0:00:43.11,Default,,0,0,0,,\N{\k7}HEAD {\k21}HOME.
+Dialogue: 0,0:00:43.89,0:00:44.61,Default,,0,0,0,,\N{\k16}WHEN {\k11}WE {\k24}ARRIVED {\k19}AROUND
+Dialogue: 0,0:00:44.61,0:00:45.28,Default,,0,0,0,,\N{\k22}3 {\k11}IN {\k6}THE {\k25}MORNING,
+Dialogue: 0,0:00:45.52,0:00:46.17,Default,,0,0,0,,\N{\k3}SHE {\k7}WAS {\k21}STILL {\k14}SITTING {\k17}IN
+Dialogue: 0,0:00:46.17,0:00:46.97,Default,,0,0,0,,\N{\k11}OUR {\k16}LIVING {\k24}ROOM {\k27}CLEARLY
+Dialogue: 0,0:00:46.97,0:00:47.29,Default,,0,0,0,,\N{\k32}ANGRY.
+Dialogue: 0,0:00:48.17,0:00:48.97,Default,,0,0,0,,\N{\k21}THE {\k25}TV {\k32}WASN'T
+Dialogue: 0,0:00:48.97,0:00:49.64,Default,,0,0,0,,\N{\k12}ON, {\k11}SHE {\k14}WAS
+Dialogue: 0,0:00:49.64,0:00:50.07,Default,,0,0,0,,\N{\k15}JUST {\k28}WAITING.
+Dialogue: 0,0:00:50.93,0:00:51.89,Default,,0,0,0,,\N{\k26}SHE {\k25}IMMEDIATELY {\k43}STARTED
+Dialogue: 0,0:00:51.89,0:00:52.57,Default,,0,0,0,,\N{\k34}COMMENTING {\k23}ON {\k10}WHAT
+Dialogue: 0,0:00:52.57,0:00:53.21,Default,,0,0,0,,\N{\k21}TIME {\k14}IT {\k14}WAS {\k14}AND
+Dialogue: 0,0:00:53.21,0:00:54.43,Default,,0,0,0,,\N{\k25}SAYING {\k22}OUR {\k73}16-YEAR-OLD
+Dialogue: 0,0:00:54.43,0:00:55.20,Default,,0,0,0,,\N{\k26}SHOULDN'T {\k11}BE {\k10}UP {\k10}THE {\k17}LATE.
+Dialogue: 0,0:00:55.79,0:00:56.47,Default,,0,0,0,,\N{\k34}FOR {\k33}CONTEXT,
+Dialogue: 0,0:00:56.82,0:00:57.47,Default,,0,0,0,,\N{\k6}WE {\k21}DON'T {\k10}LET {\k11}HIM {\k15}STAY
+Dialogue: 0,0:00:57.47,0:00:58.14,Default,,0,0,0,,\N{\k20}UP {\k21}UNTIL {\k24}3
+Dialogue: 0,0:00:58.14,0:00:58.93,Default,,0,0,0,,\N{\k7}IN {\k7}THE {\k16}MORNING {\k47}REGULARLY.
+Dialogue: 0,0:00:59.74,0:01:00.56,Default,,0,0,0,,\N{\k21}OUR {\k60}12-YEAR-OLD
+Dialogue: 0,0:01:00.56,0:01:01.34,Default,,0,0,0,,\N{\k17}WAS {\k23}ALREADY {\k36}ASLEEP.
+Dialogue: 0,0:01:02.70,0:01:03.42,Default,,0,0,0,,\N{\k15}I {\k24}DIDN'T {\k32}APPRECIATE
+Dialogue: 0,0:01:03.42,0:01:04.06,Default,,0,0,0,,\N{\k23}BEING {\k40}CONFRONTED
+Dialogue: 0,0:01:04.06,0:01:04.68,Default,,0,0,0,,\N{\k20}IN {\k11}MY {\k16}OWN {\k14}HOME
+Dialogue: 0,0:01:04.68,0:01:05.40,Default,,0,0,0,,\N{\k19}LIKE {\k14}WE {\k7}WERE {\k30}TEENAGERS
+Dialogue: 0,0:01:05.40,0:01:06.09,Default,,0,0,0,,\N{\k35}SNEAKING {\k17}IN {\k15}PAST
+Dialogue: 0,0:01:06.09,0:01:06.37,Default,,0,0,0,,\N{\k28}COFFEE.
+Dialogue: 0,0:01:07.14,0:01:07.76,Default,,0,0,0,,\N{\k17}I {\k16}TOLD {\k15}HER {\k12}SHE
+Dialogue: 0,0:01:07.76,0:01:08.43,Default,,0,0,0,,\N{\k19}DIDN'T {\k16}NEED {\k9}TO {\k21}STAY,
+Dialogue: 0,0:01:08.62,0:01:09.31,Default,,0,0,0,,\N{\k7}SHE {\k14}WAS {\k17}ONLY {\k16}ASKED {\k13}TO
+Dialogue: 0,0:01:09.31,0:01:09.68,Default,,0,0,0,,\N{\k14}BRING {\k22}DINNER.
+Dialogue: 0,0:01:10.54,0:01:11.23,Default,,0,0,0,,\N{\k15}SHE {\k29}RESPONDED {\k23}THAT
+Dialogue: 0,0:01:11.23,0:01:12.09,Default,,0,0,0,,\N{\k12}IT {\k6}WAS {\k35}DISRESPECTFUL {\k31}NOT
+Dialogue: 0,0:01:12.09,0:01:12.79,Default,,0,0,0,,\N{\k16}TO {\k15}TELL {\k12}HER {\k14}WHERE {\k11}WE
+Dialogue: 0,0:01:12.79,0:01:13.57,Default,,0,0,0,,\N{\k10}WERE {\k11}OR {\k10}THAT {\k17}WE'D {\k6}BE {\k21}HOME
+Dialogue: 0,0:01:13.57,0:01:14.04,Default,,0,0,0,,\N{\k23}SO {\k22}LATE.
+Dialogue: 0,0:01:14.79,0:01:15.40,Default,,0,0,0,,\N{\k24}IF {\k14}SHE {\k5}HAD {\k16}SAID
+Dialogue: 0,0:01:15.40,0:01:16.01,Default,,0,0,0,,\N{\k17}SHE {\k12}WAS {\k20}WORRIED {\k11}IN
+Dialogue: 0,0:01:16.01,0:01:16.70,Default,,0,0,0,,\N{\k7}A {\k10}CALM {\k11}WAR {\k22}CARRYING {\k15}TURN,
+Dialogue: 0,0:01:17.15,0:01:17.93,Default,,0,0,0,,\N{\k12}THAT {\k14}WOULD {\k14}HAVE {\k12}BEEN {\k25}DIFFERENT.
+Dialogue: 0,0:01:18.76,0:01:19.57,Default,,0,0,0,,\N{\k21}BUT {\k15}SHE {\k15}WAS {\k28}ANGRY
+Dialogue: 0,0:01:19.57,0:01:20.23,Default,,0,0,0,,\N{\k15}AND {\k24}ACCUSED {\k25}TOY
+Dialogue: 0,0:01:20.23,0:01:20.95,Default,,0,0,0,,\N{\k20}AND {\k14}SHE {\k21}EVEN {\k15}SLAMMED
+Dialogue: 0,0:01:20.95,0:01:21.68,Default,,0,0,0,,\N{\k20}THE {\k14}DOOR {\k14}ON {\k10}HER {\k14}WAY
+Dialogue: 0,0:01:21.68,0:01:21.87,Default,,0,0,0,,\N{\k19}OUT.
+Dialogue: 0,0:01:22.59,0:01:23.31,Default,,0,0,0,,\N{\k35}NOW {\k35}THE
+Dialogue: 0,0:01:23.31,0:01:24.00,Default,,0,0,0,,\N{\k20}NEXT {\k20}DAY, {\k15}SHE'S
+Dialogue: 0,0:01:24.00,0:01:24.70,Default,,0,0,0,,\N{\k12}SAYING {\k14}IT {\k17}WASN'T {\k14}ABOUT {\k12}THE
+Dialogue: 0,0:01:24.70,0:01:25.45,Default,,0,0,0,,\N{\k14}TIME {\k17}IT {\k10}WAS {\k14}ABOUT {\k19}BEING
+Dialogue: 0,0:01:25.45,0:01:26.12,Default,,0,0,0,,\N{\k26}WORRIED {\k23}AND {\k16}NOT
+Dialogue: 0,0:01:26.12,0:01:26.84,Default,,0,0,0,,\N{\k19}KNOWING {\k22}WHERE {\k15}WE {\k14}WERE.
+Dialogue: 0,0:01:27.70,0:01:28.40,Default,,0,0,0,,\N{\k28}SHE {\k21}POINTED {\k20}OUT
+Dialogue: 0,0:01:28.40,0:01:29.20,Default,,0,0,0,,\N{\k14}THAT {\k14}WE {\k11}SAID {\k14}WE {\k6}WERE {\k20}GOING
+Dialogue: 0,0:01:29.20,0:01:29.81,Default,,0,0,0,,\N{\k23}HIKING {\k24}AND {\k13}TO
+Dialogue: 0,0:01:29.81,0:01:30.65,Default,,0,0,0,,\N{\k14}DINNER, {\k21}WHICH
+Dialogue: 0,0:01:30.65,0:01:30.93,Default,,0,0,0,,\N{\k14}WE {\k14}DID.
+Dialogue: 0,0:01:31.71,0:01:32.42,Default,,0,0,0,,\N{\k20}WE {\k15}JUST {\k34}ENDED
+Dialogue: 0,0:01:32.42,0:01:33.12,Default,,0,0,0,,\N{\k17}UP {\k30}EXTENDING {\k21}THE
+Dialogue: 0,0:01:33.12,0:01:33.28,Default,,0,0,0,,\N{\k15}NIGHT.
+Dialogue: 0,0:01:34.07,0:01:34.76,Default,,0,0,0,,\N{\k15}WE {\k26}GENUINELY {\k26}HAD
+Dialogue: 0,0:01:34.76,0:01:35.45,Default,,0,0,0,,\N{\k15}NO {\k21}IDEA {\k20}SHE {\k11}WOULD
+Dialogue: 0,0:01:35.45,0:01:36.31,Default,,0,0,0,,\N{\k18}STAY {\k14}THE {\k15}ENTIRE {\k37}TIME.
+Dialogue: 0,0:01:37.07,0:01:37.79,Default,,0,0,0,,\N{\k10}AT {\k11}WE {\k18}NONE, {\k6}WE
+Dialogue: 0,0:01:37.79,0:01:38.62,Default,,0,0,0,,\N{\k26}PROBABLY {\k20}WOULD {\k7}HAVE {\k28}UPDATED
+Dialogue: 0,0:01:38.62,0:01:38.90,Default,,0,0,0,,\N{\k28}HER.

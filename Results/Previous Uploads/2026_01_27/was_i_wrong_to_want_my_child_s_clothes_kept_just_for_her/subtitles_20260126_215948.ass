@@ -1,0 +1,137 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.06,0:00:03.87,Default,,0,0,0,,\N{\k25}MY {\k18}DAUGHTER {\k37}STARTED
+Dialogue: 0,0:00:03.87,0:00:04.67,Default,,0,0,0,,\N{\k29}PRESCHOOL {\k28}LAST {\k21}WEEK
+Dialogue: 0,0:00:04.67,0:00:05.50,Default,,0,0,0,,\N{\k24}AND {\k13}LIKE {\k20}MOST {\k24}PARENTS
+Dialogue: 0,0:00:05.50,0:00:06.17,Default,,0,0,0,,\N{\k24}I {\k13}WAS {\k17}GIVEN {\k12}A
+Dialogue: 0,0:00:06.17,0:00:06.87,Default,,0,0,0,,\N{\k14}LIST {\k9}OF {\k13}THINGS {\k16}TO {\k16}SEND
+Dialogue: 0,0:00:06.87,0:00:07.17,Default,,0,0,0,,\N{\k20}WITH {\k9}HER.
+Dialogue: 0,0:00:07.94,0:00:08.74,Default,,0,0,0,,\N{\k31}THE {\k24}TEACHER {\k24}ASKED
+Dialogue: 0,0:00:08.74,0:00:09.64,Default,,0,0,0,,\N{\k16}FOR {\k32}PULL-UPS, {\k8}WIPES
+Dialogue: 0,0:00:09.64,0:00:10.46,Default,,0,0,0,,\N{\k35}AND {\k8}A {\k14}FULL {\k24}CHANGE
+Dialogue: 0,0:00:10.46,0:00:11.08,Default,,0,0,0,,\N{\k19}OF {\k14}CLOTHES {\k16}IN {\k11}CASE
+Dialogue: 0,0:00:11.08,0:00:11.58,Default,,0,0,0,,\N{\k16}OF {\k33}ACCIDENTS.
+Dialogue: 0,0:00:12.41,0:00:13.14,Default,,0,0,0,,\N{\k25}I {\k14}MADE {\k17}SURE {\k14}TO
+Dialogue: 0,0:00:13.14,0:00:13.92,Default,,0,0,0,,\N{\k13}SEND {\k14}A {\k22}GENEROUS {\k27}SUPPLY
+Dialogue: 0,0:00:13.92,0:00:14.64,Default,,0,0,0,,\N{\k17}OF {\k40}PULL-UPS, {\k4}A
+Dialogue: 0,0:00:14.64,0:00:15.27,Default,,0,0,0,,\N{\k13}BRAND {\k20}NEW {\k9}AND {\k19}OPEN
+Dialogue: 0,0:00:15.27,0:00:16.32,Default,,0,0,0,,\N{\k16}PACK {\k20}OF {\k16}WIPES, {\k10}AND
+Dialogue: 0,0:00:16.32,0:00:16.92,Default,,0,0,0,,\N{\k5}I {\k17}CLEAN {\k16}OUT {\k14}FOR {\k6}IT
+Dialogue: 0,0:00:16.92,0:00:17.55,Default,,0,0,0,,\N{\k5}THAT {\k12}I {\k11}KNEW {\k17}FIT {\k16}HER
+Dialogue: 0,0:00:17.55,0:00:18.28,Default,,0,0,0,,\N{\k16}WELL {\k14}AND {\k10}WAS {\k32}COMFORTABLE.
+Dialogue: 0,0:00:19.17,0:00:19.80,Default,,0,0,0,,\N{\k32}I {\k30}WANTED
+Dialogue: 0,0:00:19.80,0:00:20.42,Default,,0,0,0,,\N{\k14}TO {\k9}BE {\k24}PREPARED {\k14}AND
+Dialogue: 0,0:00:20.42,0:00:21.19,Default,,0,0,0,,\N{\k13}MAKE {\k22}THINGS {\k16}AS {\k25}EASY
+Dialogue: 0,0:00:21.19,0:00:21.89,Default,,0,0,0,,\N{\k17}AS {\k32}POSSIBLE {\k19}FOR
+Dialogue: 0,0:00:21.89,0:00:22.33,Default,,0,0,0,,\N{\k10}THE {\k33}CLASSROOM.
+Dialogue: 0,0:00:23.14,0:00:23.83,Default,,0,0,0,,\N{\k12}WHEN {\k9}I {\k14}PICKED {\k17}MY {\k16}DAUGHTER
+Dialogue: 0,0:00:23.83,0:00:24.71,Default,,0,0,0,,\N{\k23}UP {\k6}A {\k14}FEW {\k14}DAYS {\k29}LATER
+Dialogue: 0,0:00:24.71,0:00:25.44,Default,,0,0,0,,\N{\k20}I {\k19}NOTICED {\k32}SOMETHING
+Dialogue: 0,0:00:25.44,0:00:26.39,Default,,0,0,0,,\N{\k9}THAT {\k30}IMMEDIATELY {\k55}UNSETTLED
+Dialogue: 0,0:00:26.39,0:00:26.57,Default,,0,0,0,,\N{\k17}ME.
+Dialogue: 0,0:00:27.19,0:00:27.92,Default,,0,0,0,,\N{\k35}ONLY {\k22}THE {\k14}PANTS
+Dialogue: 0,0:00:27.92,0:00:28.57,Default,,0,0,0,,\N{\k15}FROM {\k12}A {\k16}SPARE {\k21}OUTFIT
+Dialogue: 0,0:00:28.57,0:00:29.23,Default,,0,0,0,,\N{\k16}WERE {\k12}IN {\k10}HER {\k27}CUBBY.
+Dialogue: 0,0:00:29.96,0:00:30.69,Default,,0,0,0,,\N{\k11}THE {\k18}SHIRT {\k19}WAS {\k23}MISSING.
+Dialogue: 0,0:00:31.55,0:00:32.57,Default,,0,0,0,,\N{\k16}AS {\k8}I {\k12}WAS {\k21}LEAVING {\k43}I
+Dialogue: 0,0:00:32.57,0:00:33.28,Default,,0,0,0,,\N{\k16}SAW {\k21}ANOTHER {\k32}CHILD
+Dialogue: 0,0:00:33.28,0:00:34.00,Default,,0,0,0,,\N{\k14}FROM {\k11}HER {\k21}CLASS {\k24}WEARING
+Dialogue: 0,0:00:34.00,0:00:34.64,Default,,0,0,0,,\N{\k17}THAT {\k21}EXACT {\k24}SHIRT.
+Dialogue: 0,0:00:35.43,0:00:36.15,Default,,0,0,0,,\N{\k20}I {\k33}RECOGNISED {\k17}IT
+Dialogue: 0,0:00:36.15,0:00:36.79,Default,,0,0,0,,\N{\k12}RIGHT {\k19}AWAY {\k22}BECAUSE {\k9}IT
+Dialogue: 0,0:00:36.79,0:00:37.57,Default,,0,0,0,,\N{\k8}WAS {\k15}ONE {\k7}OF {\k10}THE {\k14}FEW {\k21}NICER
+Dialogue: 0,0:00:37.57,0:00:38.50,Default,,0,0,0,,\N{\k17}TOPS {\k21}MY {\k14}DAUGHTER {\k38}OWNS.
+Dialogue: 0,0:00:39.25,0:00:39.93,Default,,0,0,0,,\N{\k10}IN {\k11}THAT {\k26}MOMENT {\k19}MY
+Dialogue: 0,0:00:39.93,0:00:40.39,Default,,0,0,0,,\N{\k17}STOMACH {\k28}DROPPED.
+Dialogue: 0,0:00:41.28,0:00:41.89,Default,,0,0,0,,\N{\k14}I {\k11}WANT {\k11}TO {\k8}BE {\k15}CLEAR
+Dialogue: 0,0:00:41.89,0:00:42.56,Default,,0,0,0,,\N{\k16}THAT {\k11}I {\k38}UNDERSTAND
+Dialogue: 0,0:00:42.56,0:00:43.38,Default,,0,0,0,,\N{\k37}PRESCHOOL {\k44}CLASSROOMS
+Dialogue: 0,0:00:43.38,0:00:44.11,Default,,0,0,0,,\N{\k32}OFTEN {\k15}NEED {\k11}TO {\k14}SHARE
+Dialogue: 0,0:00:44.11,0:00:44.47,Default,,0,0,0,,\N{\k35}SUPPLIES.
+Dialogue: 0,0:00:45.29,0:00:45.93,Default,,0,0,0,,\N{\k17}IF {\k16}ANOTHER {\k29}CHILD
+Dialogue: 0,0:00:45.93,0:00:46.53,Default,,0,0,0,,\N{\k20}NEEDS {\k14}A {\k25}PULL-UP
+Dialogue: 0,0:00:46.53,0:00:47.32,Default,,0,0,0,,\N{\k11}OR {\k16}WIPES {\k50}I
+Dialogue: 0,0:00:47.32,0:00:48.03,Default,,0,0,0,,\N{\k21}TRULY {\k16}DO {\k14}NOT {\k19}MIND
+Dialogue: 0,0:00:48.03,0:00:48.93,Default,,0,0,0,,\N{\k14}MY {\k21}DAUGHTER {\k21}BEING {\k32}USED.
+Dialogue: 0,0:00:49.78,0:00:50.43,Default,,0,0,0,,\N{\k19}I {\k10}KNOW {\k14}NOT {\k21}EVERY
+Dialogue: 0,0:00:50.43,0:00:51.10,Default,,0,0,0,,\N{\k28}FAMILY {\k21}IS {\k16}ABLE
+Dialogue: 0,0:00:51.10,0:00:51.89,Default,,0,0,0,,\N{\k15}TO {\k20}PROVIDE {\k21}THOSE {\k21}THINGS
+Dialogue: 0,0:00:51.89,0:00:52.79,Default,,0,0,0,,\N{\k57}CONSISTENTLY {\k32}AND
+Dialogue: 0,0:00:52.79,0:00:53.50,Default,,0,0,0,,\N{\k12}I {\k10}AM {\k11}MORE {\k14}THAN {\k21}WILLING
+Dialogue: 0,0:00:53.50,0:00:54.24,Default,,0,0,0,,\N{\k17}TO {\k11}SEND {\k28}EXTRA {\k16}IF
+Dialogue: 0,0:00:54.24,0:00:55.10,Default,,0,0,0,,\N{\k10}IT {\k17}HELPS {\k23}ANOTHER {\k34}CHILD
+Dialogue: 0,0:00:55.10,0:00:56.06,Default,,0,0,0,,\N{\k17}GET {\k14}THROUGH {\k11}THE {\k11}DAY {\k40}COMFORTABLY.
+Dialogue: 0,0:00:56.82,0:00:57.46,Default,,0,0,0,,\N{\k17}THAT {\k20}PART {\k14}DOES {\k11}NOT
+Dialogue: 0,0:00:57.46,0:00:58.11,Default,,0,0,0,,\N{\k17}BOTHER {\k17}ME {\k14}AT {\k15}ALL.
+Dialogue: 0,0:00:58.97,0:00:59.64,Default,,0,0,0,,\N{\k6}WHAT {\k17}DOES {\k24}BOTHER {\k17}ME
+Dialogue: 0,0:00:59.64,0:01:00.24,Default,,0,0,0,,\N{\k10}IS {\k7}HER {\k20}CLOTHING {\k21}BEING
+Dialogue: 0,0:01:00.24,0:01:00.50,Default,,0,0,0,,\N{\k25}SHARED.
+Dialogue: 0,0:01:01.32,0:01:02.06,Default,,0,0,0,,\N{\k28}CLOTHES {\k7}ARE {\k38}EXPENSIVE
+Dialogue: 0,0:01:02.06,0:01:02.74,Default,,0,0,0,,\N{\k33}AND {\k14}MY {\k20}DAUGHTER
+Dialogue: 0,0:01:02.74,0:01:03.42,Default,,0,0,0,,\N{\k21}DOES {\k11}NOT {\k16}HAVE {\k17}MANY
+Dialogue: 0,0:01:03.42,0:01:04.06,Default,,0,0,0,,\N{\k17}TO {\k17}BEGIN {\k28}WITH.
+Dialogue: 0,0:01:04.78,0:01:05.57,Default,,0,0,0,,\N{\k14}A {\k12}FOR {\k14}SHIRT {\k17}GETS {\k21}SENT
+Dialogue: 0,0:01:05.57,0:01:06.51,Default,,0,0,0,,\N{\k20}HOME {\k14}ON {\k17}ANOTHER {\k42}CHILD,
+Dialogue: 0,0:01:06.85,0:01:07.54,Default,,0,0,0,,\N{\k12}THERE {\k11}IS {\k6}A {\k20}REAL {\k18}CHANCE
+Dialogue: 0,0:01:07.54,0:01:08.15,Default,,0,0,0,,\N{\k17}IT {\k18}NEVER {\k25}COMES
+Dialogue: 0,0:01:08.15,0:01:08.51,Default,,0,0,0,,\N{\k35}BACK.
+Dialogue: 0,0:01:09.28,0:01:09.92,Default,,0,0,0,,\N{\k23}EVEN {\k16}IF {\k7}IT {\k15}DOES,
+Dialogue: 0,0:01:10.14,0:01:11.35,Default,,0,0,0,,\N{\k6}IT {\k11}COULD {\k14}COME {\k16}BACK {\k73}STANDARD-DAMAGED
+Dialogue: 0,0:01:11.35,0:01:11.98,Default,,0,0,0,,\N{\k29}OR {\k15}NOT {\k16}AT
+Dialogue: 0,0:01:11.98,0:01:12.15,Default,,0,0,0,,\N{\k17}ALL.
+Dialogue: 0,0:01:13.18,0:01:13.84,Default,,0,0,0,,\N{\k17}I {\k23}SIMPLY {\k24}CANNOT
+Dialogue: 0,0:01:13.84,0:01:14.50,Default,,0,0,0,,\N{\k29}AFFORD {\k14}TO {\k21}REPLACE
+Dialogue: 0,0:01:14.50,0:01:15.31,Default,,0,0,0,,\N{\k28}CLOTHING {\k17}THAT {\k35}DISAPPEARS
+Dialogue: 0,0:01:15.31,0:01:16.00,Default,,0,0,0,,\N{\k56}AND {\k12}IT
+Dialogue: 0,0:01:16.00,0:01:16.92,Default,,0,0,0,,\N{\k20}WORRIES {\k17}ME {\k20}KNOWING {\k34}SOMETHING
+Dialogue: 0,0:01:16.92,0:01:17.73,Default,,0,0,0,,\N{\k15}MEANT {\k42}SPECIFICALLY {\k23}FOR
+Dialogue: 0,0:01:17.73,0:01:18.42,Default,,0,0,0,,\N{\k12}MY {\k26}CHILD {\k11}AS {\k18}BEING
+Dialogue: 0,0:01:18.42,0:01:19.21,Default,,0,0,0,,\N{\k31}TREATED {\k21}AS {\k26}COMMUNAL
+Dialogue: 0,0:01:19.21,0:01:19.65,Default,,0,0,0,,\N{\k43}PROPERTY.
+Dialogue: 0,0:01:20.31,0:01:20.93,Default,,0,0,0,,\N{\k40}I {\k7}AM {\k14}NOW
+Dialogue: 0,0:01:20.93,0:01:21.56,Default,,0,0,0,,\N{\k28}DEBATING {\k34}WHETHER
+Dialogue: 0,0:01:21.56,0:01:22.26,Default,,0,0,0,,\N{\k14}TO {\k11}SPEAK {\k16}TO {\k7}A {\k20}TEACHER
+Dialogue: 0,0:01:22.26,0:01:22.90,Default,,0,0,0,,\N{\k15}THE {\k14}NEXT {\k17}TIME {\k16}MY
+Dialogue: 0,0:01:22.90,0:01:23.65,Default,,0,0,0,,\N{\k14}DAUGHTER {\k25}GOES {\k12}TO {\k23}SCHOOL.
+Dialogue: 0,0:01:24.18,0:01:24.85,Default,,0,0,0,,\N{\k37}I {\k14}WANT {\k15}TO
+Dialogue: 0,0:01:24.85,0:01:25.57,Default,,0,0,0,,\N{\k23}POLITELY {\k30}EXPLAIN {\k17}THAT
+Dialogue: 0,0:01:25.57,0:01:26.20,Default,,0,0,0,,\N{\k18}WHILE {\k14}I {\k9}AM {\k20}HAPPY
+Dialogue: 0,0:01:26.20,0:01:27.00,Default,,0,0,0,,\N{\k14}TO {\k20}SHARE {\k45}CONSUMABLE
+Dialogue: 0,0:01:27.00,0:01:27.68,Default,,0,0,0,,\N{\k26}ITEMS {\k21}LIKE {\k20}WIPES
+Dialogue: 0,0:01:27.68,0:01:28.29,Default,,0,0,0,,\N{\k21}AND {\k39}PULL-UPS
+Dialogue: 0,0:01:28.29,0:01:28.98,Default,,0,0,0,,\N{\k18}ARE {\k14}NOT {\k35}COMFORTABLE
+Dialogue: 0,0:01:28.98,0:01:29.62,Default,,0,0,0,,\N{\k17}WITH {\k12}MY {\k34}DAUGHTER'S
+Dialogue: 0,0:01:29.62,0:01:30.40,Default,,0,0,0,,\N{\k9}BARE {\k21}CLOTHES {\k21}BEING {\k24}USED
+Dialogue: 0,0:01:30.40,0:01:30.98,Default,,0,0,0,,\N{\k11}FOR {\k14}OTHER {\k32}CHILDREN.
+Dialogue: 0,0:01:31.62,0:01:32.26,Default,,0,0,0,,\N{\k39}I {\k14}DO {\k10}NOT
+Dialogue: 0,0:01:32.26,0:01:32.98,Default,,0,0,0,,\N{\k15}WANT {\k12}TO {\k17}SOUND {\k26}UNKIND
+Dialogue: 0,0:01:32.98,0:01:33.92,Default,,0,0,0,,\N{\k14}OR {\k29}DIFFICULT, {\k10}BUT
+Dialogue: 0,0:01:33.92,0:01:34.57,Default,,0,0,0,,\N{\k9}I {\k21}ALSO {\k16}FEEL {\k17}LIKE
+Dialogue: 0,0:01:34.57,0:01:35.18,Default,,0,0,0,,\N{\k15}IT {\k12}IS {\k32}REASONABLE
+Dialogue: 0,0:01:35.18,0:01:36.00,Default,,0,0,0,,\N{\k17}TO {\k12}WANT {\k11}MY {\k40}CHILD'S
+Dialogue: 0,0:01:36.00,0:01:36.64,Default,,0,0,0,,\N{\k21}BELONGINGS {\k26}TO {\k15}REMAIN
+Dialogue: 0,0:01:36.64,0:01:36.84,Default,,0,0,0,,\N{\k20}HERS.
+Dialogue: 0,0:01:37.43,0:01:38.20,Default,,0,0,0,,\N{\k35}I {\k18}KEEP {\k21}GOING
+Dialogue: 0,0:01:38.20,0:01:38.92,Default,,0,0,0,,\N{\k17}BACK {\k20}AND {\k34}FORTH,
+Dialogue: 0,0:01:39.12,0:01:40.07,Default,,0,0,0,,\N{\k19}WONDERING {\k24}IF {\k15}SAYING {\k35}SOMETHING
+Dialogue: 0,0:01:40.07,0:01:40.76,Default,,0,0,0,,\N{\k20}WOULD {\k14}MAKE {\k15}ME {\k18}SEEM
+Dialogue: 0,0:01:40.76,0:01:41.79,Default,,0,0,0,,\N{\k28}SELFISH {\k19}OR {\k56}UNCOOPERATIVE,
+Dialogue: 0,0:01:42.20,0:01:42.84,Default,,0,0,0,,\N{\k17}EVEN {\k16}THOUGH {\k11}THE {\k18}THOUGHT
+Dialogue: 0,0:01:42.84,0:01:43.56,Default,,0,0,0,,\N{\k14}OF {\k21}LOSING {\k23}MORE {\k12}OF
+Dialogue: 0,0:01:43.56,0:01:44.45,Default,,0,0,0,,\N{\k6}HER {\k21}CLOTHES {\k25}GENUINELY {\k35}STRESSES
+Dialogue: 0,0:01:44.45,0:01:44.95,Default,,0,0,0,,\N{\k26}ME {\k23}OUT.
+Dialogue: 0,0:01:45.84,0:01:46.51,Default,,0,0,0,,\N{\k17}ALL {\k10}I {\k15}WANT {\k15}IS {\k7}TO
+Dialogue: 0,0:01:46.51,0:01:47.18,Default,,0,0,0,,\N{\k20}PROTECT {\k23}WHAT {\k22}LITTLE
+Dialogue: 0,0:01:47.18,0:01:47.85,Default,,0,0,0,,\N{\k17}SHE {\k4}IS {\k19}WITHOUT {\k26}CAUSING
+Dialogue: 0,0:01:47.85,0:01:48.23,Default,,0,0,0,,\N{\k37}CONFLICT.
+Dialogue: 0,0:01:48.79,0:01:49.48,Default,,0,0,0,,\N{\k35}WOULD {\k7}I {\k12}BE {\k12}WRONG
+Dialogue: 0,0:01:49.48,0:01:50.18,Default,,0,0,0,,\N{\k14}FOR {\k17}BRINGING {\k20}THIS {\k18}UP?

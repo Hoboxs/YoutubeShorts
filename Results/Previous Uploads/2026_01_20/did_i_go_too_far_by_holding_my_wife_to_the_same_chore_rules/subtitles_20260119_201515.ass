@@ -1,0 +1,186 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.68,0:00:04.50,Default,,0,0,0,,\N{\k19}I {\k13}MET {\k14}MY {\k33}PARTNER
+Dialogue: 0,0:00:04.50,0:00:05.12,Default,,0,0,0,,\N{\k46}WHOM {\k16}I
+Dialogue: 0,0:00:05.12,0:00:06.59,Default,,0,0,0,,\N{\k12}WILL {\k16}CALL {\k25}LAURA, {\k25}DURING
+Dialogue: 0,0:00:06.59,0:00:07.25,Default,,0,0,0,,\N{\k20}OUR {\k24}FINAL {\k21}YEAR
+Dialogue: 0,0:00:07.25,0:00:07.96,Default,,0,0,0,,\N{\k20}AT {\k50}UNIVERSITY.
+Dialogue: 0,0:00:08.69,0:00:09.72,Default,,0,0,0,,\N{\k20}SHORTLY {\k32}AFTER {\k50}GRADUATION
+Dialogue: 0,0:00:09.72,0:00:10.35,Default,,0,0,0,,\N{\k39}SHE {\k24}BECAME
+Dialogue: 0,0:00:10.35,0:00:11.01,Default,,0,0,0,,\N{\k36}PREGNANT {\k29}AND
+Dialogue: 0,0:00:11.01,0:00:11.72,Default,,0,0,0,,\N{\k9}WE {\k22}DECIDED {\k38}TOGETHER
+Dialogue: 0,0:00:11.72,0:00:12.35,Default,,0,0,0,,\N{\k11}THAT {\k14}SHE {\k9}WOULD {\k14}NOT {\k13}LOOK
+Dialogue: 0,0:00:12.35,0:00:13.14,Default,,0,0,0,,\N{\k16}FOR {\k17}WORK {\k18}UNTIL {\k25}AFTER
+Dialogue: 0,0:00:13.14,0:00:13.85,Default,,0,0,0,,\N{\k16}OUR {\k17}CHILD {\k13}WAS {\k24}BORN.
+Dialogue: 0,0:00:14.53,0:00:15.38,Default,,0,0,0,,\N{\k10}WHEN {\k13}OUR {\k22}DAUGHTER {\k38}ARRIVED,
+Dialogue: 0,0:00:15.51,0:00:16.48,Default,,0,0,0,,\N{\k8}LAURA {\k22}STAYED {\k25}HOME {\k40}FULL-TIME
+Dialogue: 0,0:00:16.48,0:00:17.10,Default,,0,0,0,,\N{\k16}FOR {\k7}THE {\k16}FIRST {\k22}TWO
+Dialogue: 0,0:00:17.10,0:00:17.35,Default,,0,0,0,,\N{\k25}YEARS.
+Dialogue: 0,0:00:18.01,0:00:18.67,Default,,0,0,0,,\N{\k16}DURING {\k17}THAT {\k32}PERIOD,
+Dialogue: 0,0:00:18.85,0:00:19.48,Default,,0,0,0,,\N{\k14}MONEY {\k16}WAS {\k14}TIGHT {\k17}BUT
+Dialogue: 0,0:00:19.48,0:00:20.23,Default,,0,0,0,,\N{\k35}MANAGEABLE {\k39}AND
+Dialogue: 0,0:00:20.23,0:00:21.00,Default,,0,0,0,,\N{\k10}I {\k21}WORKED {\k44}FULL-TIME
+Dialogue: 0,0:00:21.00,0:00:21.71,Default,,0,0,0,,\N{\k14}TO {\k28}SUPPORT {\k29}US.
+Dialogue: 0,0:00:22.32,0:00:23.16,Default,,0,0,0,,\N{\k16}WHAT {\k17}WAS {\k12}NOT {\k37}MANAGEABLE
+Dialogue: 0,0:00:23.16,0:00:23.82,Default,,0,0,0,,\N{\k28}WAS {\k9}THE {\k28}CONSTANT
+Dialogue: 0,0:00:23.82,0:00:24.46,Default,,0,0,0,,\N{\k33}TENSION {\k30}OVER
+Dialogue: 0,0:00:24.46,0:00:24.87,Default,,0,0,0,,\N{\k41}HOUSEWORK.
+Dialogue: 0,0:00:25.37,0:00:26.17,Default,,0,0,0,,\N{\k30}I {\k12}WOULD {\k16}COME {\k21}HOME
+Dialogue: 0,0:00:26.17,0:00:26.98,Default,,0,0,0,,\N{\k33}EXHAUSTED {\k21}AND {\k24}STILL
+Dialogue: 0,0:00:26.98,0:00:27.73,Default,,0,0,0,,\N{\k14}BE {\k23}FACED {\k10}WITH {\k9}THE {\k17}KITCHEN
+Dialogue: 0,0:00:27.73,0:00:28.66,Default,,0,0,0,,\N{\k22}FULL {\k14}OF {\k19}DISHES, {\k10}TOY
+Dialogue: 0,0:00:28.66,0:00:29.30,Default,,0,0,0,,\N{\k28}SCATTERED {\k35}EVERYWHERE
+Dialogue: 0,0:00:29.30,0:00:30.01,Default,,0,0,0,,\N{\k27}AND {\k12}THE {\k32}EXPECTATION
+Dialogue: 0,0:00:30.01,0:00:30.69,Default,,0,0,0,,\N{\k26}THAT {\k9}I {\k12}WOULD {\k19}CLEAN,
+Dialogue: 0,0:00:31.01,0:00:31.73,Default,,0,0,0,,\N{\k14}COOK {\k23}DINNER, {\k7}CLEAN
+Dialogue: 0,0:00:31.73,0:00:32.43,Default,,0,0,0,,\N{\k24}AGAIN {\k33}AND {\k11}THEN
+Dialogue: 0,0:00:32.43,0:00:33.03,Default,,0,0,0,,\N{\k17}HELP {\k16}WITH {\k25}BEDTIME.
+Dialogue: 0,0:00:33.79,0:00:34.56,Default,,0,0,0,,\N{\k24}AS {\k11}OUR {\k20}DAUGHTER {\k20}GREW
+Dialogue: 0,0:00:34.56,0:00:35.17,Default,,0,0,0,,\N{\k25}OLDER {\k20}AND {\k15}MORE
+Dialogue: 0,0:00:35.17,0:00:35.96,Default,,0,0,0,,\N{\k42}ENERGETIC, {\k3}THE
+Dialogue: 0,0:00:35.96,0:00:36.74,Default,,0,0,0,,\N{\k14}MESS {\k17}ONLY {\k46}MULTIPLIED
+Dialogue: 0,0:00:36.74,0:00:37.34,Default,,0,0,0,,\N{\k28}AND {\k11}I {\k20}FELT
+Dialogue: 0,0:00:37.34,0:00:37.96,Default,,0,0,0,,\N{\k17}LIKE {\k13}I {\k12}WAS {\k17}DROWNING.
+Dialogue: 0,0:00:38.65,0:00:39.35,Default,,0,0,0,,\N{\k18}THE {\k21}BIGGEST {\k17}POINT {\k11}OF
+Dialogue: 0,0:00:39.35,0:00:40.02,Default,,0,0,0,,\N{\k32}CONFLICT {\k20}WAS {\k14}THE
+Dialogue: 0,0:00:40.02,0:00:40.21,Default,,0,0,0,,\N{\k19}KITCHEN.
+Dialogue: 0,0:00:41.00,0:00:41.70,Default,,0,0,0,,\N{\k14}I {\k11}WENT {\k26}WALKING {\k17}AFTER
+Dialogue: 0,0:00:41.70,0:00:42.42,Default,,0,0,0,,\N{\k9}A {\k14}LONG {\k17}DAY {\k12}TO {\k17}FIND
+Dialogue: 0,0:00:42.42,0:00:43.02,Default,,0,0,0,,\N{\k29}KANSAS {\k30}COVERED,
+Dialogue: 0,0:00:43.35,0:00:44.07,Default,,0,0,0,,\N{\k6}DISHES {\k35}PILED {\k14}UP {\k15}AND
+Dialogue: 0,0:00:44.07,0:00:44.64,Default,,0,0,0,,\N{\k14}FOOD {\k20}LEFT {\k21}OUT.
+Dialogue: 0,0:00:45.32,0:00:45.97,Default,,0,0,0,,\N{\k20}I {\k7}WOULD {\k21}CLEAN {\k15}IT,
+Dialogue: 0,0:00:46.06,0:00:46.70,Default,,0,0,0,,\N{\k7}MAKE {\k21}DINNER, {\k6}THEN
+Dialogue: 0,0:00:46.70,0:00:47.50,Default,,0,0,0,,\N{\k19}CLEAN {\k17}THE {\k16}SAME {\k25}SPACE
+Dialogue: 0,0:00:47.50,0:00:48.11,Default,,0,0,0,,\N{\k20}ALL {\k17}OVER {\k23}AGAIN.
+Dialogue: 0,0:00:48.84,0:00:49.52,Default,,0,0,0,,\N{\k23}AFTER {\k17}THAT {\k26}I
+Dialogue: 0,0:00:49.52,0:00:50.17,Default,,0,0,0,,\N{\k13}WOULD {\k12}GO {\k14}THROUGH {\k11}THE {\k14}HOUSE
+Dialogue: 0,0:00:50.17,0:00:50.92,Default,,0,0,0,,\N{\k25}PICKING {\k16}UP {\k14}THE {\k17}DEBRIS
+Dialogue: 0,0:00:50.92,0:00:51.34,Default,,0,0,0,,\N{\k15}OF {\k10}THE {\k16}DAY.
+Dialogue: 0,0:00:52.02,0:00:52.65,Default,,0,0,0,,\N{\k19}WHENEVER {\k25}I {\k17}BROUGHT
+Dialogue: 0,0:00:52.65,0:00:53.25,Default,,0,0,0,,\N{\k18}THIS {\k13}UP, {\k21}LAURA'S
+Dialogue: 0,0:00:53.25,0:00:53.89,Default,,0,0,0,,\N{\k24}RESPONSE {\k15}WAS {\k24}ALWAYS
+Dialogue: 0,0:00:53.89,0:00:54.25,Default,,0,0,0,,\N{\k16}THE {\k19}SAME.
+Dialogue: 0,0:00:54.85,0:00:55.61,Default,,0,0,0,,\N{\k16}SHE {\k11}WAS {\k15}STILL {\k12}A {\k19}CHILD
+Dialogue: 0,0:00:55.61,0:00:56.21,Default,,0,0,0,,\N{\k12}ALL {\k15}DAY {\k32}SO
+Dialogue: 0,0:00:56.21,0:00:56.84,Default,,0,0,0,,\N{\k10}IT {\k7}WAS {\k16}ONLY {\k15}FAIR {\k12}THAT
+Dialogue: 0,0:00:56.84,0:00:57.47,Default,,0,0,0,,\N{\k13}I {\k12}DID {\k15}MORE {\k21}ONCE
+Dialogue: 0,0:00:57.47,0:00:57.96,Default,,0,0,0,,\N{\k14}I {\k14}GOT {\k20}HOME.
+Dialogue: 0,0:00:58.57,0:00:59.50,Default,,0,0,0,,\N{\k24}AFTER {\k33}COUNTLESS {\k34}ARGUMENTS
+Dialogue: 0,0:00:59.50,0:01:00.42,Default,,0,0,0,,\N{\k25}AND {\k20}FEELING {\k46}COMPLETELY
+Dialogue: 0,0:01:00.42,0:01:01.34,Default,,0,0,0,,\N{\k21}WORN {\k25}DOWN, {\k8}I
+Dialogue: 0,0:01:01.34,0:01:02.06,Default,,0,0,0,,\N{\k29}FINALLY {\k15}GAVE {\k26}IN.
+Dialogue: 0,0:01:02.60,0:01:03.24,Default,,0,0,0,,\N{\k17}WE {\k29}CREATED {\k16}A
+Dialogue: 0,0:01:03.24,0:01:03.92,Default,,0,0,0,,\N{\k14}STRICT {\k23}SHORT {\k17}CHART {\k12}TO
+Dialogue: 0,0:01:03.92,0:01:04.64,Default,,0,0,0,,\N{\k21}STOP {\k17}THE {\k32}FIGHTING.
+Dialogue: 0,0:01:05.23,0:01:06.00,Default,,0,0,0,,\N{\k16}HER {\k59}RESPONSIBILITIES
+Dialogue: 0,0:01:06.00,0:01:06.85,Default,,0,0,0,,\N{\k23}WERE {\k32}CHILDCARE {\k29}DURING
+Dialogue: 0,0:01:06.85,0:01:07.87,Default,,0,0,0,,\N{\k14}THE {\k15}DAY, {\k28}LAUNDRY,
+Dialogue: 0,0:01:08.31,0:01:09.06,Default,,0,0,0,,\N{\k14}GROCERY {\k32}SHOPPING {\k28}AND
+Dialogue: 0,0:01:09.06,0:01:09.71,Default,,0,0,0,,\N{\k21}HANDING {\k43}APPOINTMENTS.
+Dialogue: 0,0:01:10.43,0:01:11.15,Default,,0,0,0,,\N{\k14}MINE {\k12}WERE {\k17}COOKING {\k28}DINNER,
+Dialogue: 0,0:01:11.79,0:01:12.42,Default,,0,0,0,,\N{\k14}DAILY {\k29}CLEANING {\k18}LIKE
+Dialogue: 0,0:01:12.42,0:01:13.23,Default,,0,0,0,,\N{\k23}WIPING {\k32}COUNTERS {\k25}AND
+Dialogue: 0,0:01:13.23,0:01:13.87,Default,,0,0,0,,\N{\k21}PICKING {\k18}UP {\k23}TOYS
+Dialogue: 0,0:01:13.87,0:01:14.50,Default,,0,0,0,,\N{\k28}TAKING {\k21}OUT {\k12}THE
+Dialogue: 0,0:01:14.50,0:01:15.42,Default,,0,0,0,,\N{\k20}TRASH, {\k7}MEAL
+Dialogue: 0,0:01:15.42,0:01:16.48,Default,,0,0,0,,\N{\k48}PREPARATION {\k57}AND
+Dialogue: 0,0:01:16.48,0:01:17.12,Default,,0,0,0,,\N{\k11}THE {\k14}FULL {\k18}NIGHT {\k20}TIME
+Dialogue: 0,0:01:17.12,0:01:17.73,Default,,0,0,0,,\N{\k23}ROUTINE {\k37}INCLUDING
+Dialogue: 0,0:01:17.73,0:01:18.26,Default,,0,0,0,,\N{\k52}BATHS.
+Dialogue: 0,0:01:18.81,0:01:19.62,Default,,0,0,0,,\N{\k12}THIS {\k29}SUMMER {\k38}EVERYTHING
+Dialogue: 0,0:01:19.62,0:01:20.14,Default,,0,0,0,,\N{\k51}CHANGED.
+Dialogue: 0,0:01:20.76,0:01:21.48,Default,,0,0,0,,\N{\k19}MY {\k28}COMPANY {\k24}TOLD
+Dialogue: 0,0:01:21.48,0:01:22.21,Default,,0,0,0,,\N{\k21}ME {\k14}I {\k14}WOULD {\k7}BE {\k15}LAID
+Dialogue: 0,0:01:22.21,0:01:22.92,Default,,0,0,0,,\N{\k18}OFF {\k25}AROUND {\k26}LATE
+Dialogue: 0,0:01:22.92,0:01:23.20,Default,,0,0,0,,\N{\k28}AUTUMN.
+Dialogue: 0,0:01:23.75,0:01:24.43,Default,,0,0,0,,\N{\k40}AFTER {\k28}MANY
+Dialogue: 0,0:01:24.43,0:01:25.54,Default,,0,0,0,,\N{\k57}CONVERSATIONS, {\k4}LAURA
+Dialogue: 0,0:01:25.54,0:01:26.15,Default,,0,0,0,,\N{\k23}FOUND {\k14}A {\k12}JOB {\k11}AND
+Dialogue: 0,0:01:26.15,0:01:26.79,Default,,0,0,0,,\N{\k20}BECAME {\k15}THE {\k28}PRIMARY
+Dialogue: 0,0:01:26.79,0:01:27.40,Default,,0,0,0,,\N{\k32}INCOME {\k28}SOURCE
+Dialogue: 0,0:01:27.40,0:01:28.04,Default,,0,0,0,,\N{\k15}FOR {\k9}OUR {\k38}FAMILY.
+Dialogue: 0,0:01:28.57,0:01:29.35,Default,,0,0,0,,\N{\k32}I {\k17}STAYED {\k28}HOME
+Dialogue: 0,0:01:29.35,0:01:30.12,Default,,0,0,0,,\N{\k18}WITH {\k11}OUR {\k26}DAUGHTER {\k20}AND
+Dialogue: 0,0:01:30.12,0:01:30.73,Default,,0,0,0,,\N{\k29}ENROLLED {\k20}IN {\k11}AN
+Dialogue: 0,0:01:30.73,0:01:31.71,Default,,0,0,0,,\N{\k20}ONLINE {\k35}GRADUATE {\k42}PROGRAM
+Dialogue: 0,0:01:31.71,0:01:32.51,Default,,0,0,0,,\N{\k21}SO {\k15}I {\k14}COULD {\k28}IMPROVE
+Dialogue: 0,0:01:32.51,0:01:33.07,Default,,0,0,0,,\N{\k16}MY {\k39}PROSPECTS.
+Dialogue: 0,0:01:33.71,0:01:34.42,Default,,0,0,0,,\N{\k9}FROM {\k16}MY {\k43}PERSPECTIVE,
+Dialogue: 0,0:01:34.90,0:01:35.54,Default,,0,0,0,,\N{\k17}THINGS {\k7}HAVE {\k12}BEEN {\k26}FINE.
+Dialogue: 0,0:01:36.29,0:01:37.00,Default,,0,0,0,,\N{\k10}I {\k19}MANAGE {\k18}OUR {\k21}CHILD
+Dialogue: 0,0:01:37.00,0:01:37.62,Default,,0,0,0,,\N{\k12}TO {\k9}KEEP {\k14}UP {\k14}WITH {\k12}MY
+Dialogue: 0,0:01:37.62,0:01:38.28,Default,,0,0,0,,\N{\k29}STUDIES {\k35}AND
+Dialogue: 0,0:01:38.28,0:01:38.98,Default,,0,0,0,,\N{\k12}MAKE {\k15}SURE {\k14}THE {\k15}HOUSE {\k12}IS
+Dialogue: 0,0:01:38.98,0:01:39.62,Default,,0,0,0,,\N{\k29}REASONABLY {\k34}CLEAN.
+Dialogue: 0,0:01:40.29,0:01:40.98,Default,,0,0,0,,\N{\k18}I {\k21}EVEN {\k11}LOADED {\k16}THE
+Dialogue: 0,0:01:40.98,0:01:41.65,Default,,0,0,0,,\N{\k17}DISHWASHER {\k38}THROUGHOUT {\k11}THE
+Dialogue: 0,0:01:41.65,0:01:42.29,Default,,0,0,0,,\N{\k12}DAY {\k17}SO {\k8}THE {\k11}MESS {\k14}DOES
+Dialogue: 0,0:01:42.29,0:01:42.84,Default,,0,0,0,,\N{\k15}NOT {\k18}PILE {\k20}UP.
+Dialogue: 0,0:01:43.56,0:01:44.23,Default,,0,0,0,,\N{\k23}LAURA, {\k25}HOWEVER,
+Dialogue: 0,0:01:44.45,0:01:44.84,Default,,0,0,0,,\N{\k8}IS {\k29}MISERABLE.
+Dialogue: 0,0:01:45.51,0:01:46.12,Default,,0,0,0,,\N{\k24}SHE {\k19}SAYS {\k16}SHE
+Dialogue: 0,0:01:46.12,0:01:46.87,Default,,0,0,0,,\N{\k14}HATES {\k19}COMING {\k24}HOME {\k17}FROM
+Dialogue: 0,0:01:46.87,0:01:47.54,Default,,0,0,0,,\N{\k21}WORK {\k21}AND {\k22}STILL
+Dialogue: 0,0:01:47.54,0:01:48.29,Default,,0,0,0,,\N{\k21}HAVING {\k15}TO {\k12}DO {\k25}CHORES.
+Dialogue: 0,0:01:49.06,0:01:49.71,Default,,0,0,0,,\N{\k17}SHE {\k24}FEELS {\k14}IT {\k9}IS
+Dialogue: 0,0:01:49.71,0:01:50.48,Default,,0,0,0,,\N{\k28}UNFAIR {\k15}AND {\k32}EXHAUSTING.
+Dialogue: 0,0:01:50.97,0:01:51.73,Default,,0,0,0,,\N{\k40}THIS {\k18}HAS {\k17}TURNED
+Dialogue: 0,0:01:51.73,0:01:52.76,Default,,0,0,0,,\N{\k26}INTO {\k31}CONSTANT {\k44}ARGUMENTS.
+Dialogue: 0,0:01:53.50,0:01:54.26,Default,,0,0,0,,\N{\k12}SHE {\k19}INSISTS {\k26}THAT {\k18}SINCE
+Dialogue: 0,0:01:54.26,0:01:55.07,Default,,0,0,0,,\N{\k14}SHE {\k14}IS {\k14}NEITHER {\k17}ONE {\k21}BRINGING
+Dialogue: 0,0:01:55.07,0:01:55.76,Default,,0,0,0,,\N{\k20}IN {\k20}MOST {\k15}OF {\k12}THE
+Dialogue: 0,0:01:55.76,0:01:56.50,Default,,0,0,0,,\N{\k23}MONEY, {\k6}SHE {\k15}SHOULD
+Dialogue: 0,0:01:56.50,0:01:57.23,Default,,0,0,0,,\N{\k12}NOT {\k17}HAVE {\k12}TO {\k15}DEAL {\k15}WITH
+Dialogue: 0,0:01:57.23,0:01:57.84,Default,,0,0,0,,\N{\k30}HOUSEWORK {\k15}WHEN {\k14}SHE
+Dialogue: 0,0:01:57.84,0:01:58.28,Default,,0,0,0,,\N{\k14}GETS {\k29}HOME.
+Dialogue: 0,0:01:58.85,0:01:59.59,Default,,0,0,0,,\N{\k23}EVERY {\k20}TIME {\k15}SHE {\k14}SAYS
+Dialogue: 0,0:01:59.59,0:02:00.35,Default,,0,0,0,,\N{\k16}THIS, {\k1}I {\k20}POINT {\k20}BACK
+Dialogue: 0,0:02:00.35,0:02:01.04,Default,,0,0,0,,\N{\k20}TO {\k7}THE {\k15}SHORT {\k24}CHART
+Dialogue: 0,0:02:01.04,0:02:01.65,Default,,0,0,0,,\N{\k17}AND {\k23}REMIND {\k20}HER
+Dialogue: 0,0:02:01.65,0:02:02.34,Default,,0,0,0,,\N{\k10}THAT {\k11}THIS {\k12}IS {\k34}EXACTLY
+Dialogue: 0,0:02:02.34,0:02:02.98,Default,,0,0,0,,\N{\k20}WHAT {\k15}I {\k14}DID {\k14}FOR
+Dialogue: 0,0:02:02.98,0:02:03.71,Default,,0,0,0,,\N{\k14}TWO {\k15}FULL {\k21}YEARS {\k21}WHILE
+Dialogue: 0,0:02:03.71,0:02:04.43,Default,,0,0,0,,\N{\k28}WORKING {\k18}FULL {\k25}TIME.
+Dialogue: 0,0:02:05.14,0:02:05.95,Default,,0,0,0,,\N{\k12}I {\k17}WAS {\k12}THE {\k15}SOLE {\k23}PROVIDER
+Dialogue: 0,0:02:05.95,0:02:06.56,Default,,0,0,0,,\N{\k28}THEN {\k20}AND {\k12}I
+Dialogue: 0,0:02:06.56,0:02:07.26,Default,,0,0,0,,\N{\k20}STILL {\k23}COOKED, {\k14}CLEANED
+Dialogue: 0,0:02:07.26,0:02:08.06,Default,,0,0,0,,\N{\k31}AND {\k23}HANDLED {\k24}BEDTIME.
+Dialogue: 0,0:02:08.86,0:02:09.58,Default,,0,0,0,,\N{\k17}I {\k28}ALSO {\k26}REMIND
+Dialogue: 0,0:02:09.58,0:02:10.21,Default,,0,0,0,,\N{\k17}HER {\k10}THAT {\k11}I {\k10}AM {\k13}NOT
+Dialogue: 0,0:02:10.21,0:02:11.00,Default,,0,0,0,,\N{\k31}LOUNGING {\k21}AROUND {\k24}NOW.
+Dialogue: 0,0:02:11.74,0:02:12.40,Default,,0,0,0,,\N{\k12}I {\k9}AM {\k21}SHARING {\k21}FOR
+Dialogue: 0,0:02:12.40,0:02:13.03,Default,,0,0,0,,\N{\k12}OUR {\k28}CHILD {\k11}ALL {\k12}DAY
+Dialogue: 0,0:02:13.03,0:02:13.78,Default,,0,0,0,,\N{\k12}WHILE {\k24}ALSO {\k15}KEEPING {\k21}UP
+Dialogue: 0,0:02:13.78,0:02:14.65,Default,,0,0,0,,\N{\k12}WITH {\k9}THE {\k30}DEMANDING {\k35}ACADEMIC
+Dialogue: 0,0:02:14.65,0:02:15.08,Default,,0,0,0,,\N{\k42}PROGRAM.
+Dialogue: 0,0:02:15.78,0:02:16.41,Default,,0,0,0,,\N{\k15}LAURA {\k19}SAYS {\k28}I
+Dialogue: 0,0:02:16.41,0:02:17.18,Default,,0,0,0,,\N{\k12}AM {\k18}BEING {\k25}RIGID {\k20}AND
+Dialogue: 0,0:02:17.18,0:02:17.93,Default,,0,0,0,,\N{\k25}UNFAIR {\k15}FOR {\k34}REFUSING
+Dialogue: 0,0:02:17.93,0:02:18.56,Default,,0,0,0,,\N{\k19}TO {\k22}CHANGE {\k19}THE
+Dialogue: 0,0:02:18.56,0:02:19.58,Default,,0,0,0,,\N{\k28}SYSTEM. {\k74}I
+Dialogue: 0,0:02:19.58,0:02:20.40,Default,,0,0,0,,\N{\k17}FEEL {\k14}LIKE {\k15}I {\k9}AM {\k24}SIMPLY
+Dialogue: 0,0:02:20.40,0:02:21.34,Default,,0,0,0,,\N{\k34}ASKING {\k17}FOR {\k42}CONSISTENCY
+Dialogue: 0,0:02:21.34,0:02:21.91,Default,,0,0,0,,\N{\k28}AND {\k29}RESPECT.
+Dialogue: 0,0:02:22.69,0:02:23.36,Default,,0,0,0,,\N{\k16}FRIENDS {\k13}WE {\k9}HAVE {\k26}SPOKEN
+Dialogue: 0,0:02:23.36,0:02:23.97,Default,,0,0,0,,\N{\k19}TO {\k6}ARE {\k35}DIVIDED,
+Dialogue: 0,0:02:24.30,0:02:24.93,Default,,0,0,0,,\N{\k23}WHICH {\k12}HAS {\k12}LEFT {\k15}ME
+Dialogue: 0,0:02:24.93,0:02:25.78,Default,,0,0,0,,\N{\k24}SECOND {\k19}GUESSING {\k40}MYSELF.
+Dialogue: 0,0:02:26.50,0:02:27.28,Default,,0,0,0,,\N{\k13}I {\k30}GENUINELY {\k34}WANT
+Dialogue: 0,0:02:27.28,0:02:27.90,Default,,0,0,0,,\N{\k13}TO {\k12}KNOW {\k14}IF {\k21}HOLDING
+Dialogue: 0,0:02:27.90,0:02:28.84,Default,,0,0,0,,\N{\k13}IT {\k14}TO {\k7}THE {\k15}SAME {\k42}EXPECTATIONS
+Dialogue: 0,0:02:28.84,0:02:29.47,Default,,0,0,0,,\N{\k41}I {\k8}HAVE {\k13}LIVED
+Dialogue: 0,0:02:29.47,0:02:30.15,Default,,0,0,0,,\N{\k15}UNDER {\k18}FOR {\k15}YEARS {\k18}MAKES
+Dialogue: 0,0:02:30.15,0:02:30.86,Default,,0,0,0,,\N{\k21}ME {\k48}UNREASONABLE
+Dialogue: 0,0:02:30.86,0:02:31.53,Default,,0,0,0,,\N{\k29}OR {\k15}IF {\k12}I {\k9}AM
+Dialogue: 0,0:02:31.53,0:02:32.36,Default,,0,0,0,,\N{\k34}JUSTIFIED {\k21}IN {\k26}STANDING
+Dialogue: 0,0:02:32.36,0:02:32.80,Default,,0,0,0,,\N{\k19}MY {\k24}GROUND.

@@ -1,0 +1,190 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.54,0:00:04.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MY {\k25}DAUGHTER {\k16}IN
+Dialogue: 0,0:00:04.17,0:00:05.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}LAW {\k16}IS {\k17}VERY {\k36}ARTISTIC
+Dialogue: 0,0:00:05.00,0:00:05.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AND {\k12}HAS {\k8}A {\k13}SMALL {\k24}SIDE
+Dialogue: 0,0:00:05.83,0:00:06.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}BUSINESS {\k33}SELLING {\k17}HER
+Dialogue: 0,0:00:06.59,0:00:06.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}PAINTINGS.
+Dialogue: 0,0:00:07.70,0:00:07.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}FOR
+Dialogue: 0,0:00:07.86,0:00:08.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}YEARS {\k16}SHE {\k9}HAS {\k14}MADE
+Dialogue: 0,0:00:08.46,0:00:09.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}ARTWORK {\k18}FOR {\k27}RELATIVES
+Dialogue: 0,0:00:09.16,0:00:09.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AND {\k17}FRIENDS {\k20}AS
+Dialogue: 0,0:00:09.80,0:00:10.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}GIFTS, {\k37}AND {\k20}MOST
+Dialogue: 0,0:00:10.56,0:00:11.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}PEOPLE {\k19}SEEM {\k11}TO {\k32}GENUINELY
+Dialogue: 0,0:00:11.43,0:00:12.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}LOVE {\k14}WHAT {\k16}SHE
+Dialogue: 0,0:00:12.06,0:00:12.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}CREATES.
+Dialogue: 0,0:00:13.08,0:00:13.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE
+Dialogue: 0,0:00:13.24,0:00:13.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}PROBLEM {\k17}IS {\k8}THAT {\k8}HER
+Dialogue: 0,0:00:13.90,0:00:14.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}STYLE {\k10}IS {\k24}SIMPLY {\k17}NOT
+Dialogue: 0,0:00:14.64,0:00:15.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MY {\k23}TASTE.
+Dialogue: 0,0:00:15.92,0:00:16.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}I
+Dialogue: 0,0:00:16.12,0:00:17.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}PREFER {\k33}PEACEFUL {\k39}LANDSCAPES,
+Dialogue: 0,0:00:17.42,0:00:18.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}OCEANS, {\k47}FORESTS,
+Dialogue: 0,0:00:18.07,0:00:18.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AND {\k21}NATURE {\k19}SCENES
+Dialogue: 0,0:00:18.67,0:00:19.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WITHOUT {\k30}PEOPLE {\k14}IN
+Dialogue: 0,0:00:19.30,0:00:19.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THEM.
+Dialogue: 0,0:00:20.17,0:00:20.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}HER {\k33}PAINTINGS {\k24}ARE
+Dialogue: 0,0:00:20.82,0:00:21.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MUCH {\k19}MORE {\k39}STYLIZED
+Dialogue: 0,0:00:21.57,0:00:22.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AND {\k27}CENTERED {\k22}AROUND
+Dialogue: 0,0:00:22.26,0:00:23.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}PEOPLE {\k17}WITH {\k35}EXAGGERATED
+Dialogue: 0,0:00:23.07,0:00:23.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}FEATURES {\k24}AND
+Dialogue: 0,0:00:23.78,0:00:24.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}DRAMATIC {\k43}PROPORTIONS.
+Dialogue: 0,0:00:25.17,0:00:25.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}I
+Dialogue: 0,0:00:25.57,0:00:26.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}CAN {\k37}APPRECIATE {\k20}THAT
+Dialogue: 0,0:00:26.28,0:00:27.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k11}HAS {\k22}TALENT, {\k27}BUT
+Dialogue: 0,0:00:27.03,0:00:27.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}PERSONALLY {\k17}I
+Dialogue: 0,0:00:27.64,0:00:28.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WOULD {\k16}NEVER {\k29}CHOOSE {\k16}THAT
+Dialogue: 0,0:00:28.39,0:00:29.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}KIND {\k12}OF {\k26}ARTWORK {\k17}TO
+Dialogue: 0,0:00:29.12,0:00:29.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DECORATE {\k17}MY {\k24}HOME.
+Dialogue: 0,0:00:30.64,0:00:31.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}RECENTLY {\k21}MY {\k25}HUSBAND
+Dialogue: 0,0:00:31.39,0:00:32.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k10}I {\k38}DOWNSIZED
+Dialogue: 0,0:00:32.06,0:00:32.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}AND {\k17}MOVED {\k21}INTO {\k6}A
+Dialogue: 0,0:00:32.71,0:00:33.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SMALLER {\k37}HOUSE.
+Dialogue: 0,0:00:34.03,0:00:34.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AS
+Dialogue: 0,0:00:34.21,0:00:34.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}A {\k38}HOUSEWARMING {\k17}GIFT,
+Dialogue: 0,0:00:35.15,0:00:35.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}MY {\k28}DAUGHTER {\k14}IN {\k11}LAW
+Dialogue: 0,0:00:35.75,0:00:36.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}PAINTED {\k13}A {\k18}BEACH {\k19}SCENE
+Dialogue: 0,0:00:36.53,0:00:37.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}FOR {\k14}US {\k20}BECAUSE {\k15}SHE
+Dialogue: 0,0:00:37.15,0:00:37.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}KNOWS {\k15}WE {\k25}ENJOY
+Dialogue: 0,0:00:37.75,0:00:38.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}COASTAL {\k38}VACATIONS.
+Dialogue: 0,0:00:39.29,0:00:39.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE
+Dialogue: 0,0:00:39.46,0:00:40.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}PAINTING {\k26}SHOWED {\k11}A {\k17}WOMAN
+Dialogue: 0,0:00:40.21,0:00:40.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SITTING {\k21}NEAR {\k12}THE
+Dialogue: 0,0:00:40.84,0:00:41.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}SHORELINE, {\k29}BUT
+Dialogue: 0,0:00:41.47,0:00:42.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k32}PROPORTIONS {\k20}WERE
+Dialogue: 0,0:00:42.10,0:00:42.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}VERY {\k46}EXAGGERATED
+Dialogue: 0,0:00:42.78,0:00:43.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}IN {\k10}THE {\k12}WAY {\k17}SHE
+Dialogue: 0,0:00:43.38,0:00:43.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}USUALLY {\k21}PAINTS.
+Dialogue: 0,0:00:44.57,0:00:44.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THE
+Dialogue: 0,0:00:44.79,0:00:45.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}LEGS {\k14}WERE {\k42}UNUSUALLY
+Dialogue: 0,0:00:45.53,0:00:46.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}LONG, {\k7}THE {\k22}BODY
+Dialogue: 0,0:00:46.34,0:00:47.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SHAPE {\k20}WAS {\k32}UNREALISTIC,
+Dialogue: 0,0:00:47.06,0:00:47.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k55}AND {\k26}OVERALL
+Dialogue: 0,0:00:47.88,0:00:48.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IT {\k10}JUST {\k17}WAS {\k15}NOT {\k30}SOMETHING
+Dialogue: 0,0:00:48.78,0:00:49.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k19}WANTED {\k26}HANGING
+Dialogue: 0,0:00:49.38,0:00:50.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IN {\k9}MY {\k18}LIVING {\k27}ROOM.
+Dialogue: 0,0:00:50.79,0:00:51.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHEN
+Dialogue: 0,0:00:51.00,0:00:51.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k11}GAVE {\k16}IT {\k10}TO {\k11}ME,
+Dialogue: 0,0:00:51.84,0:00:52.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}I {\k17}THANKED {\k15}HER {\k24}WARMLY
+Dialogue: 0,0:00:52.46,0:00:53.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}BECAUSE {\k14}I {\k14}DID {\k38}APPRECIATE
+Dialogue: 0,0:00:53.32,0:00:53.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THE {\k19}EFFORT.
+Dialogue: 0,0:00:54.56,0:00:55.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k18}ASSUMED {\k17}THAT {\k9}WOULD {\k12}BE
+Dialogue: 0,0:00:55.24,0:00:55.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k14}END {\k7}OF {\k12}IT.
+Dialogue: 0,0:00:56.17,0:00:56.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}I
+Dialogue: 0,0:00:56.57,0:00:57.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}STORED {\k17}THE {\k20}PAINTING
+Dialogue: 0,0:00:57.17,0:00:57.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IN {\k11}THE {\k14}GARAGE {\k24}WHILE
+Dialogue: 0,0:00:57.85,0:00:58.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WE {\k21}FINISHED {\k42}UNPACKING
+Dialogue: 0,0:00:58.64,0:00:59.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}AND {\k38}DECORATING.
+Dialogue: 0,0:00:59.88,0:01:00.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}LATER,
+Dialogue: 0,0:01:00.57,0:01:01.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k11}BOUGHT {\k14}A {\k16}LARGE {\k23}OCEAN
+Dialogue: 0,0:01:01.29,0:01:02.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}LANDSCAPE {\k24}PRINT {\k15}FOR
+Dialogue: 0,0:01:02.03,0:01:02.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k16}MAIN {\k17}LIVING {\k29}AREA
+Dialogue: 0,0:01:02.75,0:01:03.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}INSTEAD.
+Dialogue: 0,0:01:03.92,0:01:04.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IT
+Dialogue: 0,0:01:04.12,0:01:04.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}FIT {\k14}THE {\k17}SPACE {\k37}PERFECTLY
+Dialogue: 0,0:01:04.95,0:01:05.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AND {\k20}MATCHED {\k9}THE {\k24}CALMER
+Dialogue: 0,0:01:05.68,0:01:06.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}STYLE {\k10}I {\k31}PERSONALLY {\k40}ENJOY.
+Dialogue: 0,0:01:07.35,0:01:07.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}A
+Dialogue: 0,0:01:07.48,0:01:08.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}FEW {\k18}DAYS {\k17}AGO {\k20}MY
+Dialogue: 0,0:01:08.15,0:01:08.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}DAUGHTER {\k14}IN {\k12}LAW {\k15}CAME
+Dialogue: 0,0:01:08.78,0:01:09.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}OVER {\k12}TO {\k11}PICK {\k12}UP
+Dialogue: 0,0:01:09.43,0:01:10.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SOME {\k21}HOLIDAY {\k39}DECORATIONS
+Dialogue: 0,0:01:10.23,0:01:10.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}WE {\k12}NO {\k29}LONGER
+Dialogue: 0,0:01:10.98,0:01:11.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HAD {\k15}ROOM {\k20}FOR.
+Dialogue: 0,0:01:12.18,0:01:12.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}WHILE
+Dialogue: 0,0:01:12.48,0:01:13.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WE {\k9}WERE {\k7}IN {\k8}THE {\k19}GARAGE,
+Dialogue: 0,0:01:13.43,0:01:14.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}SHE {\k21}SPOTTED {\k20}THE {\k26}PAINTING
+Dialogue: 0,0:01:14.20,0:01:14.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}LEANING {\k29}AGAINST {\k20}THE
+Dialogue: 0,0:01:14.93,0:01:15.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WALL.
+Dialogue: 0,0:01:15.76,0:01:16.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SHE
+Dialogue: 0,0:01:16.01,0:01:16.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}IMMEDIATELY {\k28}LOOKED {\k35}SURPRISED
+Dialogue: 0,0:01:16.92,0:01:17.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k12}ASKED {\k15}WHY {\k10}IT {\k7}WAS
+Dialogue: 0,0:01:17.56,0:01:18.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}NOT {\k21}HANGING {\k26}INSIDE
+Dialogue: 0,0:01:18.18,0:01:18.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}THE {\k16}HOUSE.
+Dialogue: 0,0:01:19.14,0:01:19.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}I
+Dialogue: 0,0:01:19.54,0:01:20.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}TRIED {\k19}TO {\k18}AVOID {\k28}HURTING
+Dialogue: 0,0:01:20.42,0:01:21.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HER {\k26}FEELINGS {\k17}AND {\k24}SIMPLY
+Dialogue: 0,0:01:21.26,0:01:22.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SAID {\k10}I {\k12}HAD {\k11}NOT {\k21}FOUND
+Dialogue: 0,0:01:22.01,0:01:22.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k10}RIGHT {\k31}PLACE {\k7}FOR
+Dialogue: 0,0:01:22.65,0:01:22.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IT {\k11}YET.
+Dialogue: 0,0:01:23.51,0:01:23.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BUT
+Dialogue: 0,0:01:23.73,0:01:24.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}SHE {\k15}KEPT {\k32}PUSHING.
+Dialogue: 0,0:01:24.87,0:01:25.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}SHE
+Dialogue: 0,0:01:25.23,0:01:25.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}POINTED {\k23}OUT {\k15}THE
+Dialogue: 0,0:01:25.87,0:01:26.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}NEW {\k25}ARTWORK {\k22}IN
+Dialogue: 0,0:01:26.54,0:01:27.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}THE {\k16}LIVING {\k23}ROOM {\k14}AND {\k26}STARTED
+Dialogue: 0,0:01:27.40,0:01:28.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}SUGGESTING {\k48}PLACES
+Dialogue: 0,0:01:28.20,0:01:28.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WHERE {\k12}HER {\k17}PAINTING {\k18}COULD
+Dialogue: 0,0:01:28.92,0:01:29.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}GO {\k34}INSTEAD.
+Dialogue: 0,0:01:30.00,0:01:30.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}AT
+Dialogue: 0,0:01:30.35,0:01:31.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}ONE {\k28}POINT {\k3}SHE {\k26}LITERALLY
+Dialogue: 0,0:01:31.21,0:01:32.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}PICKED {\k11}IT {\k12}UP {\k9}AND {\k28}STARTED
+Dialogue: 0,0:01:32.09,0:01:32.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}WALKING {\k21}AROUND {\k29}TALKING
+Dialogue: 0,0:01:32.95,0:01:33.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}ABOUT {\k27}DIFFERENT {\k24}WALLS
+Dialogue: 0,0:01:33.70,0:01:34.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHERE {\k11}IT {\k12}MIGHT {\k21}FIT.
+Dialogue: 0,0:01:35.07,0:01:35.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THAT
+Dialogue: 0,0:01:35.26,0:01:35.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WAS {\k16}WHEN {\k7}I {\k29}FINALLY
+Dialogue: 0,0:01:35.92,0:01:36.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}STOPPED {\k26}DODGING {\k12}THE
+Dialogue: 0,0:01:36.62,0:01:36.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}QUESTION.
+Dialogue: 0,0:01:37.73,0:01:37.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I
+Dialogue: 0,0:01:37.85,0:01:38.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}TOLD {\k20}HER {\k21}GENTLY
+Dialogue: 0,0:01:38.50,0:01:39.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}BUT {\k28}HONESTLY {\k28}THAT
+Dialogue: 0,0:01:39.18,0:01:39.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HER {\k15}STYLE {\k17}OF {\k21}ARTWORK
+Dialogue: 0,0:01:39.81,0:01:40.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IS {\k14}JUST {\k15}NOT {\k20}REALLY
+Dialogue: 0,0:01:40.50,0:01:41.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MY {\k19}TASTE {\k16}AND {\k7}THAT
+Dialogue: 0,0:01:41.12,0:01:41.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k12}DID {\k12}NOT {\k15}WANT {\k14}TO
+Dialogue: 0,0:01:41.78,0:01:42.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}HANG {\k16}IT {\k9}IN {\k7}THE {\k18}HOUSE.
+Dialogue: 0,0:01:43.26,0:01:44.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k17}MOOD {\k20}CHANGED {\k56}INSTANTLY.
+Dialogue: 0,0:01:45.06,0:01:45.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SHE
+Dialogue: 0,0:01:45.26,0:01:45.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}BECAME {\k24}VERY {\k21}QUIET,
+Dialogue: 0,0:01:46.09,0:01:47.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}TOOK {\k14}THE {\k32}DECORATIONS, {\k43}AND
+Dialogue: 0,0:01:47.06,0:01:47.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}LEFT {\k17}SHORTLY {\k48}AFTERWARD.
+Dialogue: 0,0:01:48.62,0:01:48.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}A
+Dialogue: 0,0:01:48.79,0:01:49.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}FEW {\k17}HOURS {\k24}LATER {\k17}MY
+Dialogue: 0,0:01:49.51,0:01:50.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SON {\k21}CALLED {\k17}ME {\k26}FURIOUS.
+Dialogue: 0,0:01:51.01,0:01:51.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}HE
+Dialogue: 0,0:01:51.20,0:01:51.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SAID {\k20}HIS {\k20}WIFE {\k14}HAD
+Dialogue: 0,0:01:51.92,0:01:52.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BEEN {\k15}CRYING {\k21}BECAUSE {\k15}SHE
+Dialogue: 0,0:01:52.59,0:01:53.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SPENT {\k31}MANY {\k14}HOURS
+Dialogue: 0,0:01:53.23,0:01:53.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}MAKING {\k15}THE {\k26}PAINTING
+Dialogue: 0,0:01:53.90,0:01:54.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}SPECIFICALLY {\k34}FOR
+Dialogue: 0,0:01:54.65,0:01:55.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}US {\k8}AND {\k17}FELT {\k46}HUMILIATED
+Dialogue: 0,0:01:55.54,0:01:56.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}KNOWING {\k17}I {\k12}HAD {\k14}HIDDEN
+Dialogue: 0,0:01:56.20,0:01:56.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IT {\k14}IN {\k7}THE {\k15}GARAGE.
+Dialogue: 0,0:01:57.37,0:01:57.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}HE
+Dialogue: 0,0:01:57.70,0:01:58.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TOLD {\k16}ME {\k14}I {\k13}SHOULD
+Dialogue: 0,0:01:58.31,0:01:58.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}APOLOGIZE {\k29}AND
+Dialogue: 0,0:01:58.98,0:01:59.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}PUT {\k11}THE {\k21}PAINTING {\k20}UP
+Dialogue: 0,0:01:59.65,0:02:00.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SOMEWHERE {\k14}IN {\k6}THE {\k12}HOUSE
+Dialogue: 0,0:02:00.26,0:02:00.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}ANYWAY {\k28}BECAUSE {\k12}IT
+Dialogue: 0,0:02:00.98,0:02:01.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}WAS {\k20}MADE {\k19}WITH {\k16}LOVE.
+Dialogue: 0,0:02:02.37,0:02:02.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I
+Dialogue: 0,0:02:02.54,0:02:03.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TOLD {\k20}HIM {\k9}I {\k9}WAS {\k16}SORRY
+Dialogue: 0,0:02:03.26,0:02:04.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HER {\k19}FEELINGS {\k21}WERE {\k20}HURT,
+Dialogue: 0,0:02:04.01,0:02:04.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}BUT {\k8}I {\k9}WAS {\k14}NOT
+Dialogue: 0,0:02:04.64,0:02:05.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}GOING {\k15}TO {\k10}HANG {\k23}ARTWORK
+Dialogue: 0,0:02:05.29,0:02:06.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IN {\k12}MY {\k15}HOME {\k15}THAT {\k24}I
+Dialogue: 0,0:02:06.12,0:02:06.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}GENUINELY {\k12}DO {\k17}NOT {\k15}LIKE
+Dialogue: 0,0:02:06.81,0:02:07.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}LOOKING {\k14}AT {\k21}EVERY
+Dialogue: 0,0:02:07.43,0:02:07.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DAY.
+Dialogue: 0,0:02:08.40,0:02:08.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}NOW
+Dialogue: 0,0:02:08.59,0:02:09.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k23}ENTIRE {\k48}SITUATION
+Dialogue: 0,0:02:09.46,0:02:10.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}HAS {\k20}BECOME {\k15}A {\k13}FAMILY
+Dialogue: 0,0:02:10.09,0:02:10.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}ISSUE, {\k32}AND
+Dialogue: 0,0:02:10.74,0:02:11.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k7}AM {\k14}BEING {\k17}TREATED {\k26}LIKE
+Dialogue: 0,0:02:11.52,0:02:12.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k21}CRUELLY {\k29}REJECTED
+Dialogue: 0,0:02:12.19,0:02:13.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SOME {\k24}HEARTFELT {\k34}GIFT
+Dialogue: 0,0:02:13.06,0:02:13.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}FROM {\k29}MY {\k30}PERSPECTIVE
+Dialogue: 0,0:02:13.84,0:02:14.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}I {\k24}SIMPLY {\k18}WANT
+Dialogue: 0,0:02:14.52,0:02:15.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k22}FREEDOM {\k17}TO {\k21}DECORATE
+Dialogue: 0,0:02:15.25,0:02:15.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}MY {\k20}OWN {\k18}HOUSE {\k12}THE
+Dialogue: 0,0:02:15.96,0:02:16.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WAY {\k11}I {\k20}WANT.

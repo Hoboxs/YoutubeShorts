@@ -1,0 +1,126 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.85,0:00:04.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}THERE'S {\k8}A {\k28}POPULAR
+Dialogue: 0,0:00:04.58,0:00:05.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}PARK {\k16}IN {\k11}MY {\k24}AREA
+Dialogue: 0,0:00:05.33,0:00:06.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WITH {\k20}SEVERAL {\k41}PICKLEBALL
+Dialogue: 0,0:00:06.12,0:00:06.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}COURTS, {\k31}AND {\k18}IT'S
+Dialogue: 0,0:00:06.86,0:00:07.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}USUALLY {\k33}REALLY {\k29}BUSY.
+Dialogue: 0,0:00:08.40,0:00:08.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}I'D
+Dialogue: 0,0:00:08.74,0:00:09.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}NEVER {\k22}PLAYED {\k11}THERE {\k32}BEFORE,
+Dialogue: 0,0:00:09.82,0:00:10.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}BUT {\k21}SOME {\k22}FRIENDS {\k22}AND
+Dialogue: 0,0:00:10.56,0:00:11.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k27}DECIDED {\k17}TO {\k14}GO,
+Dialogue: 0,0:00:11.43,0:00:12.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}SO {\k12}I {\k14}BOOKED {\k23}ONE {\k10}OF
+Dialogue: 0,0:00:12.14,0:00:12.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k16}COURTS {\k17}FOR {\k8}A {\k14}COUPLE
+Dialogue: 0,0:00:12.82,0:00:13.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}OF {\k17}HOURS {\k25}ABOUT
+Dialogue: 0,0:00:13.43,0:00:14.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}A {\k12}WEEK {\k16}IN {\k21}ADVANCE.
+Dialogue: 0,0:00:14.92,0:00:15.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE
+Dialogue: 0,0:00:15.08,0:00:15.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}BOOKING {\k33}SYSTEM {\k17}WAS
+Dialogue: 0,0:00:15.75,0:00:16.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}OPEN {\k12}AND {\k16}SHOWED {\k50}AVAILABILITY,
+Dialogue: 0,0:00:17.17,0:00:17.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}SO {\k9}I {\k22}DIDN'T {\k7}THINK {\k24}MUCH
+Dialogue: 0,0:00:17.92,0:00:18.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}OF {\k12}IT, {\k19}EVEN {\k14}THOUGH
+Dialogue: 0,0:00:18.64,0:00:19.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k12}WAS {\k6}A {\k9}BIT {\k24}SURPRISED
+Dialogue: 0,0:00:19.26,0:00:20.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}MORE {\k17}SLOTS {\k25}WEREN'T
+Dialogue: 0,0:00:20.03,0:00:20.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TAKEN.
+Dialogue: 0,0:00:21.10,0:00:21.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WHEN {\k11}WE {\k19}ARRIVED,
+Dialogue: 0,0:00:21.76,0:00:22.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}EVERYTHING {\k19}SEEMED {\k33}NORMAL.
+Dialogue: 0,0:00:23.32,0:00:23.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE
+Dialogue: 0,0:00:23.46,0:00:24.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}GROUP {\k16}ON {\k7}OUR {\k16}COURT {\k24}FINISHED
+Dialogue: 0,0:00:24.26,0:00:24.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}RIGHT {\k12}WHEN {\k11}OUR {\k16}TIME
+Dialogue: 0,0:00:24.87,0:00:25.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}STARTED, {\k19}AND {\k11}WE
+Dialogue: 0,0:00:25.57,0:00:26.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BEGAN {\k27}PLAYING.
+Dialogue: 0,0:00:26.83,0:00:27.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}NO
+Dialogue: 0,0:00:27.00,0:00:27.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ISSUES {\k20}AT {\k25}FIRST.
+Dialogue: 0,0:00:28.25,0:00:28.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}ABOUT {\k23}AN
+Dialogue: 0,0:00:28.71,0:00:29.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}HOUR {\k23}IN,
+Dialogue: 0,0:00:29.39,0:00:30.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}SOME {\k19}OTHER {\k19}FRIENDS {\k20}STOPPED
+Dialogue: 0,0:00:30.10,0:00:30.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}BY, {\k10}SO
+Dialogue: 0,0:00:30.76,0:00:31.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WE {\k19}PAUSED {\k26}BRIEFLY {\k26}TO
+Dialogue: 0,0:00:31.60,0:00:31.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}CHAT.
+Dialogue: 0,0:00:32.47,0:00:32.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WHILE
+Dialogue: 0,0:00:32.71,0:00:33.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WE {\k14}WERE {\k13}OFF {\k10}TO {\k12}THE
+Dialogue: 0,0:00:33.38,0:00:34.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SIDE, {\k17}ANOTHER
+Dialogue: 0,0:00:34.00,0:00:34.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}GROUP {\k21}WALKED {\k17}ONTO
+Dialogue: 0,0:00:34.61,0:00:35.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE {\k14}COURT {\k21}AND {\k24}ACTED
+Dialogue: 0,0:00:35.38,0:00:36.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}LIKE {\k15}IT {\k10}WAS {\k11}THEIR {\k21}TURN.
+Dialogue: 0,0:00:36.93,0:00:37.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I
+Dialogue: 0,0:00:37.10,0:00:37.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TOLD {\k15}THEM {\k14}WE {\k10}HAD {\k10}THE
+Dialogue: 0,0:00:37.78,0:00:38.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}COURT {\k19}RESERVED {\k22}FOR
+Dialogue: 0,0:00:38.38,0:00:38.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ANOTHER {\k26}HOUR.
+Dialogue: 0,0:00:39.65,0:00:39.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MOST
+Dialogue: 0,0:00:39.85,0:00:40.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OF {\k11}THEM {\k14}LEFT {\k25}WITHOUT
+Dialogue: 0,0:00:40.53,0:00:41.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SAYING {\k42}ANYTHING,
+Dialogue: 0,0:00:41.43,0:00:42.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}BUT {\k13}ONE {\k26}PERSON {\k25}SEEMED
+Dialogue: 0,0:00:42.17,0:00:42.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ANNOYED {\k17}AND {\k25}QUESTIONED
+Dialogue: 0,0:00:42.89,0:00:43.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WHY {\k17}I {\k15}WOULD {\k20}RESERVE
+Dialogue: 0,0:00:43.67,0:00:44.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}A {\k12}COURT {\k17}ON {\k7}A {\k24}BUSY
+Dialogue: 0,0:00:44.42,0:00:45.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}WEEKEND {\k28}MORNING.
+Dialogue: 0,0:00:45.75,0:00:45.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WHEN
+Dialogue: 0,0:00:45.97,0:00:46.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k16}SAID {\k21}I'D {\k7}BOOKED {\k11}IT
+Dialogue: 0,0:00:46.65,0:00:47.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AHEAD {\k9}OF {\k20}TIME,
+Dialogue: 0,0:00:47.28,0:00:48.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}HE {\k13}CALLED {\k12}IT {\k10}AN {\k45}INCONSIDERATE
+Dialogue: 0,0:00:48.15,0:00:48.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MOVE {\k19}AND {\k24}WALKED
+Dialogue: 0,0:00:48.78,0:00:49.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}OFF.
+Dialogue: 0,0:00:49.67,0:00:50.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}LATER,
+Dialogue: 0,0:00:50.46,0:00:51.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ANOTHER {\k34}PERSON {\k25}APPROACHED
+Dialogue: 0,0:00:51.28,0:00:51.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}AND {\k14}ASKED {\k16}IF {\k10}WE
+Dialogue: 0,0:00:51.88,0:00:52.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}HAD {\k4}A {\k35}RESERVATION {\k17}IN
+Dialogue: 0,0:00:52.56,0:00:53.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}A {\k17}PRETTY {\k38}FRUSTRATED
+Dialogue: 0,0:00:53.20,0:00:53.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}TONE.
+Dialogue: 0,0:00:54.06,0:00:54.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}WHEN
+Dialogue: 0,0:00:54.46,0:00:54.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k34}CONFIRMED,
+Dialogue: 0,0:00:55.11,0:00:55.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}HE {\k18}SEEMED {\k33}SURPRISED {\k17}THAT
+Dialogue: 0,0:00:55.85,0:00:56.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}RESERVATIONS {\k20}WERE
+Dialogue: 0,0:00:56.52,0:00:57.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}EVEN {\k20}ALLOWED {\k19}DURING {\k16}PEAK
+Dialogue: 0,0:00:57.28,0:00:57.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TIMES {\k24}AND {\k10}WENT {\k11}TO
+Dialogue: 0,0:00:57.93,0:00:58.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}DOUBLE-CHECK {\k20}ON {\k11}HIS
+Dialogue: 0,0:00:58.57,0:00:58.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}PHONE.
+Dialogue: 0,0:00:59.67,0:01:00.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}AFTERWARD,
+Dialogue: 0,0:01:00.35,0:01:00.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WE {\k17}FOUND {\k20}OUT {\k10}THAT
+Dialogue: 0,0:01:00.96,0:01:01.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THERE'S {\k8}AN {\k27}INFORMAL {\k36}SYSTEM
+Dialogue: 0,0:01:01.84,0:01:02.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}MOST {\k48}REGULARS
+Dialogue: 0,0:01:02.56,0:01:02.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FOLLOW.
+Dialogue: 0,0:01:03.60,0:01:04.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}INSTEAD {\k25}OF {\k40}RESERVING,
+Dialogue: 0,0:01:04.95,0:01:05.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}PEOPLE {\k24}TYPICALLY {\k35}WAIT
+Dialogue: 0,0:01:05.76,0:01:06.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IN {\k7}LINE {\k14}AND {\k20}ROTATE {\k28}ONTO
+Dialogue: 0,0:01:06.62,0:01:07.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}COURTS {\k18}WHEN {\k18}GAMES {\k37}FINISH.
+Dialogue: 0,0:01:08.26,0:01:08.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}IT'S
+Dialogue: 0,0:01:08.56,0:01:09.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}KIND {\k14}OF {\k9}AN {\k10}HONOR {\k34}SYSTEM,
+Dialogue: 0,0:01:09.40,0:01:10.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}AND {\k31}APPARENTLY {\k26}MOST
+Dialogue: 0,0:01:10.21,0:01:10.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}PEOPLE {\k20}STICK {\k15}TO {\k18}IT.
+Dialogue: 0,0:01:11.45,0:01:11.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}FROM
+Dialogue: 0,0:01:11.62,0:01:12.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k37}PERSPECTIVE,
+Dialogue: 0,0:01:12.56,0:01:13.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k21}USED {\k12}THE {\k23}OFFICIAL {\k20}BOOKING
+Dialogue: 0,0:01:13.35,0:01:14.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}SYSTEM {\k23}THAT'S {\k24}AVAILABLE
+Dialogue: 0,0:01:14.20,0:01:14.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TO {\k31}EVERYONE.
+Dialogue: 0,0:01:15.42,0:01:15.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}I
+Dialogue: 0,0:01:15.59,0:01:16.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DIDN'T {\k12}SKIP {\k10}A {\k11}LINE {\k48}INTENTIONALLY,
+Dialogue: 0,0:01:16.85,0:01:17.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k4}I {\k11}JUST {\k21}PLANNED {\k21}AHEAD {\k24}USING
+Dialogue: 0,0:01:17.70,0:01:18.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THE {\k18}TOOLS {\k45}PROVIDED.
+Dialogue: 0,0:01:19.12,0:01:19.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}AT
+Dialogue: 0,0:01:19.50,0:01:20.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k19}SAME {\k26}TIME,
+Dialogue: 0,0:01:20.18,0:01:20.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}IT {\k16}SEEMS {\k25}LIKE {\k18}THERE'S
+Dialogue: 0,0:01:20.84,0:01:21.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AN {\k35}UNSPOKEN {\k25}LOCAL
+Dialogue: 0,0:01:21.53,0:01:22.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ETIQUETTE {\k17}THAT {\k6}I {\k26}WASN'T
+Dialogue: 0,0:01:22.28,0:01:23.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AWARE {\k18}OF, {\k23}AND {\k24}BREAKING
+Dialogue: 0,0:01:23.12,0:01:23.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IT {\k20}UPSET {\k28}SOME
+Dialogue: 0,0:01:23.76,0:01:24.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}PEOPLE.
+Dialogue: 0,0:01:24.79,0:01:25.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NOW
+Dialogue: 0,0:01:25.00,0:01:25.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}I'M {\k29}WONDERING {\k21}IF
+Dialogue: 0,0:01:25.70,0:01:26.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k16}SHOULD {\k11}HAVE {\k16}KNOWN {\k21}BETTER
+Dialogue: 0,0:01:26.48,0:01:27.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}OR {\k14}IF {\k9}IT'S {\k28}REASONABLE
+Dialogue: 0,0:01:27.21,0:01:28.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k21}RELY {\k12}ON {\k7}THE {\k29}RESERVATION
+Dialogue: 0,0:01:28.09,0:01:28.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}SYSTEM,
+Dialogue: 0,0:01:28.81,0:01:29.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}EVEN {\k14}IF {\k11}MOST {\k24}PEOPLE
+Dialogue: 0,0:01:29.48,0:01:30.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}DON'T {\k14}USE {\k19}IT.
+Dialogue: 0,0:01:30.70,0:01:30.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WAS
+Dialogue: 0,0:01:30.92,0:01:31.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k12}IN {\k9}THE {\k10}WRONG {\k14}FOR {\k21}BOOKING
+Dialogue: 0,0:01:31.70,0:01:32.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THE {\k17}COURT?

@@ -1,0 +1,118 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.22,0:00:03.96,Default,,0,0,0,,\N{\k23}I {\k12}AM {\k10}A {\k27}16
+Dialogue: 0,0:00:03.96,0:00:04.63,Default,,0,0,0,,\N{\k21}YEAR {\k16}OLD {\k29}STUDENT
+Dialogue: 0,0:00:04.63,0:00:05.50,Default,,0,0,0,,\N{\k34}AND {\k21}RECENTLY {\k29}I
+Dialogue: 0,0:00:05.50,0:00:06.55,Default,,0,0,0,,\N{\k12}WAS {\k20}ASSIGNED {\k16}A {\k11}GROUP {\k46}PRESENTATION
+Dialogue: 0,0:00:06.55,0:00:07.32,Default,,0,0,0,,\N{\k26}WITH {\k16}TWO {\k33}CLASSMATES
+Dialogue: 0,0:00:07.32,0:00:07.98,Default,,0,0,0,,\N{\k27}WHOM {\k22}I {\k16}WILL
+Dialogue: 0,0:00:07.98,0:00:08.74,Default,,0,0,0,,\N{\k17}CALL {\k24}MIRA {\k16}AND {\k17}THEO
+Dialogue: 0,0:00:08.74,0:00:09.41,Default,,0,0,0,,\N{\k33}WITH {\k22}ABOUT {\k11}A
+Dialogue: 0,0:00:09.41,0:00:09.98,Default,,0,0,0,,\N{\k16}WEEK {\k17}TO {\k22}PREPARE.
+Dialogue: 0,0:00:10.82,0:00:11.53,Default,,0,0,0,,\N{\k41}FROM {\k14}THE {\k15}VERY
+Dialogue: 0,0:00:11.53,0:00:12.32,Default,,0,0,0,,\N{\k36}BEGINNING {\k19}IT {\k22}BECAME
+Dialogue: 0,0:00:12.32,0:00:13.09,Default,,0,0,0,,\N{\k21}CLEAR {\k16}THAT {\k22}MOST {\k17}OF
+Dialogue: 0,0:00:13.09,0:00:13.75,Default,,0,0,0,,\N{\k6}THE {\k59}RESPONSIBILITY
+Dialogue: 0,0:00:13.75,0:00:14.50,Default,,0,0,0,,\N{\k33}WAS {\k24}FALLING {\k16}ON
+Dialogue: 0,0:00:14.50,0:00:14.66,Default,,0,0,0,,\N{\k16}ME.
+Dialogue: 0,0:00:15.38,0:00:16.12,Default,,0,0,0,,\N{\k23}I {\k28}RESEARCHED {\k22}THE
+Dialogue: 0,0:00:16.12,0:00:16.76,Default,,0,0,0,,\N{\k19}TOPIC {\k14}IN {\k30}DEPTH,
+Dialogue: 0,0:00:17.03,0:00:17.78,Default,,0,0,0,,\N{\k6}WROTE {\k17}NEARLY {\k25}THE {\k24}ENTIRE
+Dialogue: 0,0:00:17.78,0:00:18.51,Default,,0,0,0,,\N{\k25}SCRIPT {\k24}AND {\k23}DESIGNED
+Dialogue: 0,0:00:18.51,0:00:19.39,Default,,0,0,0,,\N{\k16}THE {\k17}SLIDES {\k17}FROM {\k35}SCRATCH.
+Dialogue: 0,0:00:20.35,0:00:21.01,Default,,0,0,0,,\N{\k26}MIRA {\k21}SHOWED {\k17}UP
+Dialogue: 0,0:00:21.01,0:00:21.62,Default,,0,0,0,,\N{\k17}ONCE, {\k12}HANDED {\k14}ME
+Dialogue: 0,0:00:21.62,0:00:22.44,Default,,0,0,0,,\N{\k9}A {\k10}FEW {\k28}PRINTED {\k33}IMAGES
+Dialogue: 0,0:00:22.44,0:00:23.16,Default,,0,0,0,,\N{\k23}THAT {\k14}LUCY {\k33}RELATED
+Dialogue: 0,0:00:23.16,0:00:24.03,Default,,0,0,0,,\N{\k21}TO {\k10}THE {\k23}TOPIC {\k32}AND
+Dialogue: 0,0:00:24.03,0:00:24.73,Default,,0,0,0,,\N{\k12}THEN {\k32}DISAPPEARED {\k25}FOR
+Dialogue: 0,0:00:24.73,0:00:25.44,Default,,0,0,0,,\N{\k8}THE {\k12}REST {\k16}OF {\k9}THE {\k24}WEEK.
+Dialogue: 0,0:00:26.19,0:00:26.82,Default,,0,0,0,,\N{\k24}THEO {\k27}HELPED {\k10}A
+Dialogue: 0,0:00:26.82,0:00:27.64,Default,,0,0,0,,\N{\k21}LITTLE, {\k26}MOSTLY
+Dialogue: 0,0:00:27.64,0:00:28.66,Default,,0,0,0,,\N{\k16}BY {\k21}OFFERING {\k16}SOME {\k48}SUGGESTIONS,
+Dialogue: 0,0:00:28.92,0:00:29.60,Default,,0,0,0,,\N{\k5}BUT {\k12}THE {\k11}BULK {\k16}OF {\k8}THE {\k14}WORK
+Dialogue: 0,0:00:29.60,0:00:30.14,Default,,0,0,0,,\N{\k16}WAS {\k37}DUMBINE.
+Dialogue: 0,0:00:30.83,0:00:31.57,Default,,0,0,0,,\N{\k39}WHEN {\k33}PRESENTATION
+Dialogue: 0,0:00:31.57,0:00:32.46,Default,,0,0,0,,\N{\k36}DAY {\k19}CAME, {\k6}ALL
+Dialogue: 0,0:00:32.46,0:00:33.14,Default,,0,0,0,,\N{\k19}THREE {\k8}OF {\k10}US {\k29}PRESENTED
+Dialogue: 0,0:00:33.14,0:00:33.85,Default,,0,0,0,,\N{\k42}TOGETHER {\k29}AND
+Dialogue: 0,0:00:33.85,0:00:34.52,Default,,0,0,0,,\N{\k11}OUR {\k28}TEACHER {\k26}PRAISED
+Dialogue: 0,0:00:34.52,0:00:35.20,Default,,0,0,0,,\N{\k15}THE {\k16}GROUP {\k13}OF {\k22}ROLE,
+Dialogue: 0,0:00:35.52,0:00:36.14,Default,,0,0,0,,\N{\k11}SAYING {\k15}WE {\k12}DID {\k21}WELL.
+Dialogue: 0,0:00:37.32,0:00:37.97,Default,,0,0,0,,\N{\k3}WHEN {\k25}GRADES {\k14}WERE {\k21}RELEASED,
+Dialogue: 0,0:00:38.14,0:00:38.60,Default,,0,0,0,,\N{\k10}I {\k11}WAS {\k24}SHOCKED.
+Dialogue: 0,0:00:39.56,0:00:40.20,Default,,0,0,0,,\N{\k14}MIRA {\k32}RECEIVED {\k17}A
+Dialogue: 0,0:00:40.20,0:00:41.24,Default,,0,0,0,,\N{\k19}PERFECT {\k35}SCORE, {\k10}THE
+Dialogue: 0,0:00:41.24,0:00:41.84,Default,,0,0,0,,\N{\k7}YEAR {\k21}RECEIVED {\k30}SLIGHTLY
+Dialogue: 0,0:00:41.84,0:00:42.47,Default,,0,0,0,,\N{\k29}LESS, {\k7}AND
+Dialogue: 0,0:00:42.47,0:00:43.20,Default,,0,0,0,,\N{\k12}I {\k19}RECEIVED {\k22}THE {\k17}LOWEST
+Dialogue: 0,0:00:43.20,0:00:43.84,Default,,0,0,0,,\N{\k25}GRADE {\k11}OF {\k7}THE {\k18}GROUP.
+Dialogue: 0,0:00:44.78,0:00:45.50,Default,,0,0,0,,\N{\k39}CONFUSED {\k16}AND {\k15}UPSET,
+Dialogue: 0,0:00:45.71,0:00:46.67,Default,,0,0,0,,\N{\k7}I {\k22}ASKED {\k7}THAT {\k57}TEACHER
+Dialogue: 0,0:00:46.67,0:00:47.38,Default,,0,0,0,,\N{\k16}WHY {\k13}MY {\k20}SCORE {\k20}WAS
+Dialogue: 0,0:00:47.38,0:00:48.10,Default,,0,0,0,,\N{\k14}LOWER {\k29}EVEN {\k15}THOUGH {\k12}I
+Dialogue: 0,0:00:48.10,0:00:48.70,Default,,0,0,0,,\N{\k15}HAD {\k10}DONE {\k20}MOST {\k14}OF
+Dialogue: 0,0:00:48.70,0:00:48.96,Default,,0,0,0,,\N{\k11}THE {\k14}WORK.
+Dialogue: 0,0:00:49.65,0:00:50.32,Default,,0,0,0,,\N{\k30}SHE {\k19}TOLD {\k16}ME
+Dialogue: 0,0:00:50.32,0:00:51.06,Default,,0,0,0,,\N{\k11}THAT {\k16}MIRA {\k25}APPEARED {\k20}MORE
+Dialogue: 0,0:00:51.06,0:00:51.88,Default,,0,0,0,,\N{\k33}CONFIDENT {\k21}WHILE {\k26}SPEAKING
+Dialogue: 0,0:00:51.88,0:00:52.67,Default,,0,0,0,,\N{\k19}AND {\k10}THAT {\k11}THE {\k8}YEAR {\k29}CONTRIBUTED
+Dialogue: 0,0:00:52.67,0:00:53.52,Default,,0,0,0,,\N{\k21}TO {\k7}THE {\k20}VISUAL {\k34}ASPECT
+Dialogue: 0,0:00:53.52,0:00:54.15,Default,,0,0,0,,\N{\k25}AND {\k10}SHE {\k27}EXPLAINED
+Dialogue: 0,0:00:54.15,0:00:54.84,Default,,0,0,0,,\N{\k16}THAT {\k21}GRADES {\k11}WERE {\k18}BASED
+Dialogue: 0,0:00:54.84,0:00:55.47,Default,,0,0,0,,\N{\k13}ON {\k50}PRESENTATION
+Dialogue: 0,0:00:55.47,0:00:56.20,Default,,0,0,0,,\N{\k44}PERFORMANCE {\k28}RATHER
+Dialogue: 0,0:00:56.20,0:00:56.96,Default,,0,0,0,,\N{\k14}THAN {\k15}EFFORT {\k29}BEHIND {\k16}THE
+Dialogue: 0,0:00:56.96,0:00:57.20,Default,,0,0,0,,\N{\k24}SCENES.
+Dialogue: 0,0:00:57.74,0:00:58.35,Default,,0,0,0,,\N{\k39}I {\k21}TRIED
+Dialogue: 0,0:00:58.35,0:00:59.02,Default,,0,0,0,,\N{\k20}TO {\k28}EXPLAIN {\k17}THAT
+Dialogue: 0,0:00:59.02,0:00:59.65,Default,,0,0,0,,\N{\k21}WITHOUT {\k15}MY {\k25}RESEARCH,
+Dialogue: 0,0:00:59.93,0:01:00.85,Default,,0,0,0,,\N{\k12}WRITING {\k32}AND {\k47}ORGANISATION,
+Dialogue: 0,0:01:01.28,0:01:01.97,Default,,0,0,0,,\N{\k21}THERE {\k11}WOULD {\k16}NOT {\k19}HAVE
+Dialogue: 0,0:01:01.97,0:01:02.60,Default,,0,0,0,,\N{\k12}BEEN {\k7}A {\k42}PRESENTATION
+Dialogue: 0,0:01:02.60,0:01:03.29,Default,,0,0,0,,\N{\k21}AT {\k20}ALL, {\k5}BUT
+Dialogue: 0,0:01:03.29,0:01:04.00,Default,,0,0,0,,\N{\k12}SHE {\k23}BECAME {\k34}VISIBLY
+Dialogue: 0,0:01:04.00,0:01:04.68,Default,,0,0,0,,\N{\k21}ANNOYED {\k18}AND {\k14}SAID {\k14}HER
+Dialogue: 0,0:01:04.68,0:01:05.31,Default,,0,0,0,,\N{\k21}GRADING {\k23}WAS {\k17}FAIR
+Dialogue: 0,0:01:05.31,0:01:05.76,Default,,0,0,0,,\N{\k14}AND {\k30}FINAL.
+Dialogue: 0,0:01:06.95,0:01:07.90,Default,,0,0,0,,\N{\k24}AFTER {\k15}THAT {\k54}CONVERSATION,
+Dialogue: 0,0:01:08.23,0:01:09.26,Default,,0,0,0,,\N{\k6}THE {\k35}SITUATION {\k60}ESCALATED.
+Dialogue: 0,0:01:09.95,0:01:10.92,Default,,0,0,0,,\N{\k30}MY {\k21}TEACHER {\k43}CONTACTED
+Dialogue: 0,0:01:10.92,0:01:11.65,Default,,0,0,0,,\N{\k20}MY {\k19}PARENTS {\k18}AND {\k15}TOLD
+Dialogue: 0,0:01:11.65,0:01:12.26,Default,,0,0,0,,\N{\k18}THEM {\k15}I {\k14}HAD {\k12}BEEN
+Dialogue: 0,0:01:12.26,0:01:13.07,Default,,0,0,0,,\N{\k21}RUDE {\k21}AND {\k37}DISRESPECTFUL,
+Dialogue: 0,0:01:13.59,0:01:14.35,Default,,0,0,0,,\N{\k26}ACCUSING {\k18}ME {\k11}OF {\k20}ACTING
+Dialogue: 0,0:01:14.35,0:01:14.85,Default,,0,0,0,,\N{\k50}ENTITLED.
+Dialogue: 0,0:01:15.68,0:01:16.35,Default,,0,0,0,,\N{\k21}MIRA {\k25}LATER {\k20}TOLD
+Dialogue: 0,0:01:16.35,0:01:16.98,Default,,0,0,0,,\N{\k18}ME {\k11}I {\k14}WAS {\k18}BEING
+Dialogue: 0,0:01:16.98,0:01:17.64,Default,,0,0,0,,\N{\k23}DRAMATIC {\k26}AND {\k15}SHOULD
+Dialogue: 0,0:01:17.64,0:01:18.29,Default,,0,0,0,,\N{\k7}HAVE {\k12}JUST {\k45}ACCEPTED
+Dialogue: 0,0:01:18.29,0:01:19.01,Default,,0,0,0,,\N{\k14}THE {\k18}GRADE {\k21}OR {\k17}ASKED
+Dialogue: 0,0:01:19.01,0:01:19.54,Default,,0,0,0,,\N{\k16}MORE {\k35}POLITELY.
+Dialogue: 0,0:01:20.28,0:01:20.92,Default,,0,0,0,,\N{\k12}FROM {\k14}MY {\k37}PERSPECTIVE,
+Dialogue: 0,0:01:21.20,0:01:21.85,Default,,0,0,0,,\N{\k6}I {\k14}WAS {\k11}NOT {\k20}TRYING {\k14}TO
+Dialogue: 0,0:01:21.85,0:01:22.15,Default,,0,0,0,,\N{\k9}BE {\k20}DISRESPECTFUL.
+Dialogue: 0,0:01:23.28,0:01:24.23,Default,,0,0,0,,\N{\k40}I {\k17}FELT {\k37}FRUSTRATED
+Dialogue: 0,0:01:24.23,0:01:24.98,Default,,0,0,0,,\N{\k20}AND {\k24}DISMISSED {\k29}AFTER
+Dialogue: 0,0:01:24.98,0:01:25.68,Default,,0,0,0,,\N{\k23}PUTTING {\k18}IN {\k5}THE {\k22}MAJORITY
+Dialogue: 0,0:01:25.68,0:01:26.45,Default,,0,0,0,,\N{\k27}OF {\k12}THE {\k15}WORK {\k21}AND
+Dialogue: 0,0:01:26.45,0:01:27.29,Default,,0,0,0,,\N{\k14}THEN {\k20}BEING {\k50}PENALISED
+Dialogue: 0,0:01:27.29,0:01:27.62,Default,,0,0,0,,\N{\k15}FOR {\k16}IT.
+Dialogue: 0,0:01:28.29,0:01:29.18,Default,,0,0,0,,\N{\k20}I {\k12}AM {\k19}STILL {\k36}STRUGGLING
+Dialogue: 0,0:01:29.18,0:01:29.87,Default,,0,0,0,,\N{\k15}TO {\k34}UNDERSTAND {\k19}HOW
+Dialogue: 0,0:01:29.87,0:01:30.57,Default,,0,0,0,,\N{\k16}DOING {\k11}THE {\k18}MOST {\k23}WORK
+Dialogue: 0,0:01:30.57,0:01:31.35,Default,,0,0,0,,\N{\k26}RESULTED {\k23}IN {\k6}THE {\k21}LOWEST
+Dialogue: 0,0:01:31.35,0:01:32.04,Default,,0,0,0,,\N{\k26}GRADE {\k25}AND {\k16}WHETHER
+Dialogue: 0,0:01:32.04,0:01:32.90,Default,,0,0,0,,\N{\k27}STANDING {\k18}UP {\k9}FOR {\k30}MYSELF
+Dialogue: 0,0:01:32.90,0:01:33.64,Default,,0,0,0,,\N{\k19}IN {\k10}THAT {\k20}MOMENT {\k23}TRULY
+Dialogue: 0,0:01:33.64,0:01:34.28,Default,,0,0,0,,\N{\k23}MADE {\k14}ME {\k10}THE {\k15}ONE
+Dialogue: 0,0:01:34.28,0:01:34.64,Default,,0,0,0,,\N{\k12}AND {\k9}THE {\k14}WRONG.

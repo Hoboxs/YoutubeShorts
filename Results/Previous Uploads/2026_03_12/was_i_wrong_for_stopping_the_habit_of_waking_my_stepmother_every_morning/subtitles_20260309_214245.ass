@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.79,0:00:04.41,Default,,80,80,60,,{\k32}17 {\k20}AND {\k9}FOR
+Dialogue: 0,0:00:04.41,0:00:05.09,Default,,80,80,60,,{\k12}THE {\k13}LAST {\k24}FEW {\k17}YEARS
+Dialogue: 0,0:00:05.09,0:00:05.70,Default,,80,80,60,,{\k22}I {\k17}USUALLY {\k20}BEEN
+Dialogue: 0,0:00:05.70,0:00:06.50,Default,,80,80,60,,{\k16}AWAKE {\k25}AROUND {\k16}6 {\k21}IN
+Dialogue: 0,0:00:06.50,0:00:07.78,Default,,80,80,60,,{\k4}THE {\k25}MORNING. {\k22}MOST
+Dialogue: 0,0:00:07.78,0:00:08.56,Default,,80,80,60,,{\k33}MORNINGS {\k24}MY {\k20}YOUNGER
+Dialogue: 0,0:00:08.56,0:00:09.19,Default,,80,80,60,,{\k32}BROTHERS {\k15}GET {\k16}UP
+Dialogue: 0,0:00:09.19,0:00:10.06,Default,,80,80,60,,{\k20}AROUND {\k17}THEN {\k9}TO {\k9}GET {\k28}READY
+Dialogue: 0,0:00:10.06,0:00:10.77,Default,,80,80,60,,{\k16}FOR {\k21}SCHOOL, {\k33}AND
+Dialogue: 0,0:00:10.77,0:00:11.48,Default,,80,80,60,,{\k10}THE {\k17}HOUSE {\k17}IS {\k24}ALREADY
+Dialogue: 0,0:00:11.48,0:00:12.32,Default,,80,80,60,,{\k32}NOISY, {\k51}SO
+Dialogue: 0,0:00:12.32,0:00:12.98,Default,,80,80,60,,{\k11}IT {\k12}JUST {\k25}BECAME {\k16}MY
+Dialogue: 0,0:00:12.98,0:00:14.16,Default,,80,80,60,,{\k25}ROUTINE. {\k12}BUT
+Dialogue: 0,0:00:14.16,0:00:15.06,Default,,80,80,60,,{\k17}THIS {\k19}YEAR, {\k22}DURING
+Dialogue: 0,0:00:15.06,0:00:15.77,Default,,80,80,60,,{\k17}MY {\k19}JUNIOR {\k33}YEAR,
+Dialogue: 0,0:00:16.12,0:00:16.92,Default,,80,80,60,,{\k3}I {\k30}REALIZED {\k25}I {\k20}REALLY
+Dialogue: 0,0:00:16.92,0:00:17.62,Default,,80,80,60,,{\k23}DON {\k12}NEED {\k11}TO {\k10}BE {\k12}UP
+Dialogue: 0,0:00:17.62,0:00:18.87,Default,,80,80,60,,{\k9}THAT {\k28}EARLY. {\k21}MY
+Dialogue: 0,0:00:18.87,0:00:19.53,Default,,80,80,60,,{\k24}SCHEDULE {\k23}ALLOWS {\k17}ME
+Dialogue: 0,0:00:19.53,0:00:20.37,Default,,80,80,60,,{\k12}TO {\k19}SLEEP {\k10}A {\k9}BIT {\k32}LONGER,
+Dialogue: 0,0:00:20.37,0:00:21.10,Default,,80,80,60,,{\k38}AND {\k11}I {\k22}WANTED
+Dialogue: 0,0:00:21.10,0:00:21.76,Default,,80,80,60,,{\k16}TO {\k11}MOVE {\k17}MY {\k20}ALARM
+Dialogue: 0,0:00:21.76,0:00:22.51,Default,,80,80,60,,{\k16}TO {\k3}A {\k17}TIME {\k12}THAT {\k25}ACTUALLY
+Dialogue: 0,0:00:22.51,0:00:23.21,Default,,80,80,60,,{\k17}MAKES {\k17}SENSE {\k17}FOR {\k16}ME.
+Dialogue: 0,0:00:23.92,0:00:24.07,Default,,80,80,60,,{\k15}THE
+Dialogue: 0,0:00:24.07,0:00:24.96,Default,,80,80,60,,{\k18}ISSUE {\k16}IS {\k11}MY {\k42}STEPMOTHER,
+Dialogue: 0,0:00:25.35,0:00:25.96,Default,,80,80,60,,{\k12}WHO {\k9}IS {\k38}36.
+Dialogue: 0,0:00:26.83,0:00:27.19,Default,,80,80,60,,{\k35}SHE
+Dialogue: 0,0:00:27.19,0:00:27.89,Default,,80,80,60,,{\k8}THE {\k14}ONE {\k47}RESPONSIBLE
+Dialogue: 0,0:00:27.89,0:00:28.51,Default,,80,80,60,,{\k20}FOR {\k23}DRIVING {\k17}MY
+Dialogue: 0,0:00:28.51,0:00:29.57,Default,,80,80,60,,{\k19}BROTHERS {\k16}TO {\k22}SCHOOL, {\k47}BUT
+Dialogue: 0,0:00:29.57,0:00:30.32,Default,,80,80,60,,{\k14}SHE {\k33}CONSTANTLY {\k26}SLEEPS
+Dialogue: 0,0:00:30.32,0:00:31.92,Default,,80,80,60,,{\k19}THROUGH {\k12}HER {\k23}ALARM. {\k24}BECAUSE
+Dialogue: 0,0:00:31.92,0:00:32.67,Default,,80,80,60,,{\k11}I {\k10}WAS {\k21}ALREADY {\k32}AWAKE,
+Dialogue: 0,0:00:32.92,0:00:33.65,Default,,80,80,60,,{\k5}I {\k28}STARTED {\k21}WAKING {\k17}HER
+Dialogue: 0,0:00:33.65,0:00:34.29,Default,,80,80,60,,{\k10}UP {\k12}JUST {\k14}TO {\k9}MAKE {\k17}SURE
+Dialogue: 0,0:00:34.29,0:00:35.06,Default,,80,80,60,,{\k14}SHE {\k16}GOT {\k15}UP {\k8}ON {\k21}TIME.
+Dialogue: 0,0:00:35.85,0:00:36.52,Default,,80,80,60,,{\k7}AT {\k20}FIRST {\k17}I {\k20}DIDN
+Dialogue: 0,0:00:36.52,0:00:37.20,Default,,80,80,60,,{\k17}MIND, {\k6}I {\k10}WAS {\k14}JUST
+Dialogue: 0,0:00:37.20,0:00:37.93,Default,,80,80,60,,{\k21}TRYING {\k14}TO {\k7}BE {\k29}HELPFUL.
+Dialogue: 0,0:00:38.65,0:00:38.82,Default,,80,80,60,,{\k16}BUT
+Dialogue: 0,0:00:38.82,0:00:39.38,Default,,80,80,60,,{\k10}IT {\k10}KEPT {\k35}HAPPENING.
+Dialogue: 0,0:00:40.25,0:00:40.88,Default,,80,80,60,,{\k24}SEVERAL {\k24}TIMES {\k14}A
+Dialogue: 0,0:00:40.88,0:00:41.61,Default,,80,80,60,,{\k11}WEEK {\k25}I {\k3}HAVE {\k8}TO {\k9}GO {\k14}WAKE
+Dialogue: 0,0:00:41.61,0:00:42.42,Default,,80,80,60,,{\k16}HER {\k11}UP {\k14}SO {\k14}SHE {\k24}WOULDN
+Dialogue: 0,0:00:42.42,0:00:43.85,Default,,80,80,60,,{\k17}T {\k24}OVERSLEEP. {\k28}AFTER
+Dialogue: 0,0:00:43.85,0:00:44.53,Default,,80,80,60,,{\k7}A {\k14}FEW {\k20}MONTHS {\k14}I {\k11}GOT
+Dialogue: 0,0:00:44.53,0:00:45.89,Default,,80,80,60,,{\k21}TIRED {\k14}OF {\k17}IT. {\k19}I
+Dialogue: 0,0:00:45.89,0:00:46.53,Default,,80,80,60,,{\k20}TOLD {\k17}HER {\k25}DIRECTLY
+Dialogue: 0,0:00:46.53,0:00:47.20,Default,,80,80,60,,{\k25}THAT {\k20}WAKING {\k20}HER
+Dialogue: 0,0:00:47.20,0:00:47.88,Default,,80,80,60,,{\k11}UP {\k10}IN {\k5}THE {\k17}MORNING {\k22}SHOULDN
+Dialogue: 0,0:00:47.88,0:00:48.70,Default,,80,80,60,,{\k11}BE {\k11}MY {\k58}RESPONSIBILITY.
+Dialogue: 0,0:00:49.38,0:00:49.71,Default,,80,80,60,,{\k33}I
+Dialogue: 0,0:00:49.71,0:00:50.35,Default,,80,80,60,,{\k14}THE {\k28}TEENAGER {\k21}AND
+Dialogue: 0,0:00:50.35,0:00:51.84,Default,,80,80,60,,{\k21}SHE {\k7}THE {\k20}ADULT. {\k24}SHE
+Dialogue: 0,0:00:51.84,0:00:52.57,Default,,80,80,60,,{\k25}DIDN {\k14}TAKE {\k15}THAT {\k17}WELL.
+Dialogue: 0,0:00:53.17,0:00:53.53,Default,,80,80,60,,{\k35}SHE
+Dialogue: 0,0:00:53.53,0:00:54.35,Default,,80,80,60,,{\k21}CALLED {\k17}ME {\k42}DISRESPECTFUL
+Dialogue: 0,0:00:54.35,0:00:54.97,Default,,80,80,60,,{\k34}AND {\k11}TOOK {\k15}AWAY
+Dialogue: 0,0:00:54.97,0:00:55.78,Default,,80,80,60,,{\k16}SOME {\k14}OF {\k11}MY {\k38}DEVICES
+Dialogue: 0,0:00:55.78,0:00:56.34,Default,,80,80,60,,{\k21}AS {\k34}PUNISHMENT.
+Dialogue: 0,0:00:57.17,0:00:57.85,Default,,80,80,60,,{\k35}EVENTUALLY {\k17}I {\k14}JUST
+Dialogue: 0,0:00:57.85,0:00:58.60,Default,,80,80,60,,{\k29}STOPPED {\k24}ARGUING {\k20}AND
+Dialogue: 0,0:00:58.60,0:00:59.20,Default,,80,80,60,,{\k21}CHANGED {\k17}MY {\k20}ALARM
+Dialogue: 0,0:00:59.20,0:00:59.88,Default,,80,80,60,,{\k21}SO {\k17}I {\k11}WAKE {\k16}UP
+Dialogue: 0,0:00:59.88,0:01:01.10,Default,,80,80,60,,{\k23}LATER. {\k17}RIGHT
+Dialogue: 0,0:01:01.10,0:01:01.70,Default,,80,80,60,,{\k17}NOW {\k17}IT {\k7}SET {\k16}FOR
+Dialogue: 0,0:01:01.70,0:01:02.42,Default,,80,80,60,,{\k15}6 {\k28}30, {\k28}BUT
+Dialogue: 0,0:01:02.42,0:01:03.11,Default,,80,80,60,,{\k15}I {\k17}PLANNING {\k20}TO {\k15}PUSH
+Dialogue: 0,0:01:03.11,0:01:03.92,Default,,80,80,60,,{\k8}IT {\k11}BACK {\k17}TO {\k17}7 {\k24}SINCE
+Dialogue: 0,0:01:03.92,0:01:04.68,Default,,80,80,60,,{\k20}THAT {\k23}WORKS {\k32}BETTER
+Dialogue: 0,0:01:04.68,0:01:05.87,Default,,80,80,60,,{\k17}FOR {\k12}ME. {\k17}THIS
+Dialogue: 0,0:01:05.87,0:01:06.54,Default,,80,80,60,,{\k30}MORNING {\k19}SHE {\k16}SLEPT
+Dialogue: 0,0:01:06.54,0:01:07.40,Default,,80,80,60,,{\k21}THROUGH {\k11}HER {\k18}ALARM {\k34}AGAIN.
+Dialogue: 0,0:01:08.21,0:01:08.43,Default,,80,80,60,,{\k21}SINCE
+Dialogue: 0,0:01:08.43,0:01:09.09,Default,,80,80,60,,{\k21}I {\k28}WASN {\k15}AWAKE
+Dialogue: 0,0:01:09.09,0:01:09.87,Default,,80,80,60,,{\k14}TO {\k12}WAKE {\k14}HER {\k12}UP, {\k7}SHE
+Dialogue: 0,0:01:09.87,0:01:10.59,Default,,80,80,60,,{\k16}ENDED {\k17}UP {\k14}GETTING {\k23}UP
+Dialogue: 0,0:01:10.59,0:01:11.28,Default,,80,80,60,,{\k18}LATE {\k12}AND {\k9}THE {\k15}KIDS {\k12}WERE
+Dialogue: 0,0:01:11.28,0:01:12.06,Default,,80,80,60,,{\k17}ABOUT {\k24}30 {\k17}MINUTES {\k18}LATE
+Dialogue: 0,0:01:12.06,0:01:13.35,Default,,80,80,60,,{\k12}TO {\k17}SCHOOL. {\k23}SHE
+Dialogue: 0,0:01:13.35,0:01:14.15,Default,,80,80,60,,{\k34}IMMEDIATELY {\k21}BLAMED {\k23}ME.
+Dialogue: 0,0:01:14.85,0:01:15.04,Default,,80,80,60,,{\k18}WHEN
+Dialogue: 0,0:01:15.04,0:01:15.65,Default,,80,80,60,,{\k11}I {\k15}TOLD {\k16}HER {\k9}I {\k7}HAD
+Dialogue: 0,0:01:15.65,0:01:16.26,Default,,80,80,60,,{\k20}CHANGED {\k21}MY {\k18}ALARM
+Dialogue: 0,0:01:16.26,0:01:17.06,Default,,80,80,60,,{\k21}TIME, {\k17}SHE {\k14}SAID {\k26}SOMETHING
+Dialogue: 0,0:01:17.06,0:01:17.87,Default,,80,80,60,,{\k20}LIKE, {\k19}OH,
+Dialogue: 0,0:01:18.14,0:01:18.81,Default,,80,80,60,,{\k12}SO {\k9}YOU {\k15}JUST {\k20}DON {\k9}CARE
+Dialogue: 0,0:01:18.81,0:01:19.07,Default,,80,80,60,,{\k26}ANYMORE.
+Dialogue: 0,0:01:20.34,0:01:21.00,Default,,80,80,60,,{\k31}FROM {\k14}MY {\k20}POINT
+Dialogue: 0,0:01:21.00,0:01:21.65,Default,,80,80,60,,{\k15}OF {\k15}VIEW, {\k11}SHE
+Dialogue: 0,0:01:21.65,0:01:22.29,Default,,80,80,60,,{\k10}THE {\k23}ADULT {\k15}AND {\k14}IT
+Dialogue: 0,0:01:22.29,0:01:23.21,Default,,80,80,60,,{\k6}HER {\k48}RESPONSIBILITY {\k37}TO
+Dialogue: 0,0:01:23.21,0:01:23.95,Default,,80,80,60,,{\k12}WAKE {\k15}UP {\k7}ON {\k21}TIME {\k15}IF
+Dialogue: 0,0:01:23.95,0:01:24.64,Default,,80,80,60,,{\k20}SHE {\k7}THE {\k14}ONE {\k7}IN {\k18}CHARGE
+Dialogue: 0,0:01:24.64,0:01:25.31,Default,,80,80,60,,{\k17}OF {\k16}GETTING {\k20}THE {\k13}KIDS
+Dialogue: 0,0:01:25.31,0:01:26.65,Default,,80,80,60,,{\k14}TO {\k32}SCHOOL. {\k29}WAS
+Dialogue: 0,0:01:26.65,0:01:27.28,Default,,80,80,60,,{\k7}I {\k14}WRONG {\k14}FOR {\k26}DECIDING
+Dialogue: 0,0:01:27.28,0:01:27.95,Default,,80,80,60,,{\k23}TO {\k20}STOP {\k23}WAKING
+Dialogue: 0,0:01:27.95,0:01:28.76,Default,,80,80,60,,{\k18}HER {\k12}UP {\k23}EVERY {\k26}MORNING
+Dialogue: 0,0:01:28.76,0:01:29.50,Default,,80,80,60,,{\k19}AND {\k16}LETTING {\k23}HER {\k14}DEAL
+Dialogue: 0,0:01:29.50,0:01:30.15,Default,,80,80,60,,{\k15}WITH {\k7}THE {\k42}CONSEQUENCES?

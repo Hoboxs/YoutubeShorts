@@ -1,0 +1,148 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.70,0:00:04.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WHEN {\k13}MY {\k20}DAUGHTER {\k20}WAS
+Dialogue: 0,0:00:04.50,0:00:05.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}BORN, {\k16}SHE {\k16}WENT {\k13}THROUGH
+Dialogue: 0,0:00:05.54,0:00:06.41,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}THE {\k20}NORMAL {\k25}NEWBORN {\k28}PHASE
+Dialogue: 0,0:00:06.41,0:00:07.13,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OF {\k13}WAKING {\k20}UP {\k21}CRYING
+Dialogue: 0,0:00:07.13,0:00:07.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}SEVERAL {\k29}TIMES {\k16}A
+Dialogue: 0,0:00:07.82,0:00:08.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}NIGHT. {\k24}HER
+Dialogue: 0,0:00:08.80,0:00:09.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MOTHER {\k22}HAD {\k8}A {\k19}VERY
+Dialogue: 0,0:00:09.51,0:00:10.22,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DIFFICULT {\k44}PREGNANCY
+Dialogue: 0,0:00:10.22,0:00:11.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}AND {\k20}WAS {\k32}EXHAUSTED
+Dialogue: 0,0:00:11.06,0:00:11.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}MOST {\k16}OF {\k9}THE {\k17}TIME
+Dialogue: 0,0:00:11.74,0:00:13.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}AFTERWARD. {\k19}I
+Dialogue: 0,0:00:13.11,0:00:13.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HAVE {\k25}ALWAYS {\k17}BEEN {\k9}A
+Dialogue: 0,0:00:13.75,0:00:14.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}LIGHT {\k41}SLEEPER, {\k9}SO
+Dialogue: 0,0:00:14.67,0:00:15.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHENEVER {\k21}THE {\k17}BABY {\k24}CRIED,
+Dialogue: 0,0:00:15.72,0:00:16.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k8}WOULD {\k22}USUALLY {\k23}WAKE
+Dialogue: 0,0:00:16.33,0:00:17.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}UP {\k21}FIRST {\k16}AND {\k24}HANDLE
+Dialogue: 0,0:00:17.10,0:00:18.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT {\k33}MYSELF. {\k24}MOST
+Dialogue: 0,0:00:18.60,0:00:19.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}NIGHTS {\k16}I {\k12}WOULD {\k16}TAKE {\k19}CARE
+Dialogue: 0,0:00:19.37,0:00:20.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}OF {\k30}EVERYTHING {\k37}QUIETLY.
+Dialogue: 0,0:00:20.89,0:00:21.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}I
+Dialogue: 0,0:00:21.14,0:00:22.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WOULD {\k11}WARM {\k12}A {\k23}BOTTLE, {\k17}CHANGE
+Dialogue: 0,0:00:22.05,0:00:23.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}DIAPERS, {\k8}ROCK {\k15}THE {\k20}BABY
+Dialogue: 0,0:00:23.28,0:00:24.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BACK {\k16}TO {\k21}SLEEP, {\k22}WHATEVER
+Dialogue: 0,0:00:24.24,0:00:25.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}NEEDED {\k5}TO {\k12}BE {\k16}DONE. {\k28}I
+Dialogue: 0,0:00:25.67,0:00:26.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}NEVER {\k28}REALLY {\k12}KEPT
+Dialogue: 0,0:00:26.28,0:00:27.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}SCORE {\k22}THOUGHT {\k21}MUCH
+Dialogue: 0,0:00:27.00,0:00:28.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ABOUT {\k16}IT. {\k35}I
+Dialogue: 0,0:00:28.19,0:00:28.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}ASSUMED {\k16}THERE {\k9}WERE {\k24}ALSO
+Dialogue: 0,0:00:28.94,0:00:29.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NIGHTS {\k17}WHEN {\k12}HER {\k13}MOTHER
+Dialogue: 0,0:00:29.55,0:00:30.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WOKE {\k7}UP {\k23}BEFORE {\k12}I
+Dialogue: 0,0:00:30.19,0:00:31.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}DID, {\k16}SO {\k14}I {\k15}FIGURED {\k22}THINGS
+Dialogue: 0,0:00:31.30,0:00:32.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}NATURALLY {\k33}BALANCED
+Dialogue: 0,0:00:32.03,0:00:33.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OUT {\k17}OVER {\k24}TIME.
+Dialogue: 0,0:00:33.34,0:00:34.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}ONE {\k17}NIGHT {\k16}WE {\k10}WERE {\k11}OUT
+Dialogue: 0,0:00:34.03,0:00:34.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WITH {\k19}FRIENDS, {\k28}AND
+Dialogue: 0,0:00:34.67,0:00:35.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k37}CONVERSATION {\k30}TURNED
+Dialogue: 0,0:00:35.46,0:00:36.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k25}PARENTING. {\k35}MY
+Dialogue: 0,0:00:36.84,0:00:37.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WIFE {\k21}STARTED {\k33}TALKING
+Dialogue: 0,0:00:37.57,0:00:38.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ABOUT {\k16}HOW {\k19}LUCKY {\k14}WE
+Dialogue: 0,0:00:38.29,0:00:38.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}WERE {\k20}BECAUSE {\k15}THE {\k20}BABY
+Dialogue: 0,0:00:38.92,0:00:39.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}“MOSTLY {\k25}SLEPT {\k15}THROUGH
+Dialogue: 0,0:00:39.61,0:00:40.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k17}NIGHT” {\k17}AND {\k12}HOW {\k11}SHE
+Dialogue: 0,0:00:40.32,0:00:40.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}RARELY {\k25}EVER {\k11}HAD
+Dialogue: 0,0:00:40.93,0:00:42.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k2}TO {\k10}GET {\k15}UP {\k14}WITH {\k10}HER. {\k14}I
+Dialogue: 0,0:00:42.38,0:00:43.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}DID {\k10}NOT {\k15}WANT {\k12}TO {\k21}EMBARRASS
+Dialogue: 0,0:00:43.10,0:00:44.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HER {\k10}IN {\k14}FRONT {\k14}OF {\k39}EVERYONE,
+Dialogue: 0,0:00:44.17,0:00:45.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SO {\k10}I {\k14}STAYED {\k19}QUIET. {\k26}BUT
+Dialogue: 0,0:00:45.74,0:00:46.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ONCE {\k15}WE {\k10}GOT {\k30}HOME,
+Dialogue: 0,0:00:46.84,0:00:47.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k23}GENTLY {\k28}MENTIONED {\k16}THAT
+Dialogue: 0,0:00:47.52,0:00:48.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k21}REASON {\k20}SHE {\k29}RARELY
+Dialogue: 0,0:00:48.35,0:00:49.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WOKE {\k19}UP {\k12}WAS {\k21}BECAUSE
+Dialogue: 0,0:00:49.10,0:00:49.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k10}HAD {\k11}BEEN {\k17}GETTING {\k22}UP
+Dialogue: 0,0:00:49.88,0:00:50.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WITH {\k9}THE {\k20}BABY {\k24}MOST
+Dialogue: 0,0:00:50.56,0:00:51.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}NIGHTS. {\k35}THAT
+Dialogue: 0,0:00:51.82,0:00:52.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}CONVERSATION {\k43}EXPLODED
+Dialogue: 0,0:00:52.61,0:00:54.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}IMMEDIATELY. {\k39}SHE
+Dialogue: 0,0:00:54.06,0:00:54.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}BECAME {\k46}EXTREMELY
+Dialogue: 0,0:00:54.78,0:00:55.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}UPSET {\k28}AND
+Dialogue: 0,0:00:55.39,0:00:56.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ACCUSED {\k16}ME {\k7}OF {\k17}TAKING
+Dialogue: 0,0:00:56.03,0:00:57.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}IMPORTANT {\k56}EXPERIENCES
+Dialogue: 0,0:00:57.00,0:00:57.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AWAY {\k16}FROM {\k11}HER {\k16}AS
+Dialogue: 0,0:00:57.70,0:00:58.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}A {\k19}MOTHER. {\k39}SHE
+Dialogue: 0,0:00:58.89,0:00:59.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SAID {\k14}THAT {\k21}BECAUSE {\k14}I
+Dialogue: 0,0:00:59.61,0:01:00.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NEVER {\k20}WOKE {\k13}HER {\k12}UP,
+Dialogue: 0,0:01:00.35,0:01:01.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}HER {\k19}BODY {\k22}NEVER {\k19}LEARNED
+Dialogue: 0,0:01:01.03,0:01:01.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}TO {\k18}RESPOND {\k21}TO {\k7}THE
+Dialogue: 0,0:01:01.64,0:01:02.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}BABY {\k23}CRYING {\k21}DURING
+Dialogue: 0,0:01:02.29,0:01:03.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k20}NIGHT. {\k17}IN
+Dialogue: 0,0:01:03.46,0:01:04.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HER {\k29}MIND, {\k6}I {\k15}HAD
+Dialogue: 0,0:01:04.20,0:01:04.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}“STOLEN” {\k17}THOSE {\k26}MATERNAL
+Dialogue: 0,0:01:04.98,0:01:05.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k56}RESPONSIBILITIES {\k37}FROM
+Dialogue: 0,0:01:05.92,0:01:06.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HER.
+Dialogue: 0,0:01:06.90,0:01:07.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}HONESTLY, {\k7}I {\k19}NEVER
+Dialogue: 0,0:01:07.81,0:01:08.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}VIEWED {\k17}IT {\k18}AS
+Dialogue: 0,0:01:08.50,0:01:09.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}A {\k17}“MOTHER'S {\k12}JOB” {\k17}OR
+Dialogue: 0,0:01:09.29,0:01:10.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}“FATHER'S {\k14}JOB. {\k28}I
+Dialogue: 0,0:01:10.68,0:01:11.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}JUST {\k20}SAW {\k12}IT {\k11}AS
+Dialogue: 0,0:01:11.29,0:01:12.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}PARENTING.
+Dialogue: 0,0:01:12.50,0:01:13.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}OUR {\k21}BABY {\k20}NEEDED {\k21}CARE,
+Dialogue: 0,0:01:13.73,0:01:14.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k9}WAS {\k16}AWAKE, {\k6}SO {\k7}I {\k21}HANDLED
+Dialogue: 0,0:01:14.65,0:01:15.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IT. {\k12}I
+Dialogue: 0,0:01:15.64,0:01:16.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}GENUINELY {\k32}THOUGHT
+Dialogue: 0,0:01:16.26,0:01:17.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}I {\k12}WAS {\k23}HELPING {\k21}BOTH
+Dialogue: 0,0:01:17.07,0:01:17.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MY {\k16}DAUGHTER {\k17}AND {\k14}HER
+Dialogue: 0,0:01:17.71,0:01:18.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MOTHER {\k16}BY {\k17}LETTING {\k21}HER
+Dialogue: 0,0:01:18.43,0:01:19.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}REST {\k24}AFTER {\k23}SUCH
+Dialogue: 0,0:01:19.14,0:01:20.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}A {\k14}ROUGH {\k39}PREGNANCY.
+Dialogue: 0,0:01:20.30,0:01:20.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}FOR
+Dialogue: 0,0:01:20.70,0:01:21.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MORE {\k40}CONTEXT, {\k12}BOTH
+Dialogue: 0,0:01:21.70,0:01:22.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k14}US {\k7}WERE {\k23}WORKING {\k15}AT
+Dialogue: 0,0:01:22.45,0:01:23.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THE {\k19}TIME, {\k6}AND {\k7}I {\k14}WAS {\k30}REGULARLY
+Dialogue: 0,0:01:23.54,0:01:24.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}DOING {\k23}LONG {\k23}SHIFTS
+Dialogue: 0,0:01:24.31,0:01:25.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}SIX {\k18}DAYS {\k14}A {\k11}WEEK {\k21}WHILE
+Dialogue: 0,0:01:25.09,0:01:25.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}SURVIVING {\k12}ON {\k21}VERY
+Dialogue: 0,0:01:25.78,0:01:27.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}LITTLE {\k26}SLEEP. {\k34}WE
+Dialogue: 0,0:01:27.07,0:01:27.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}BARELY {\k14}HAD {\k15}TIME {\k12}TO
+Dialogue: 0,0:01:27.76,0:01:28.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}COMMUNICATE {\k37}PROPERLY
+Dialogue: 0,0:01:28.50,0:01:29.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}OUTSIDE {\k23}OF {\k21}BASIC
+Dialogue: 0,0:01:29.31,0:01:29.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}SURVIVAL {\k26}MODE
+Dialogue: 0,0:01:29.98,0:01:31.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k53}CONVERSATIONS. {\k20}WE
+Dialogue: 0,0:01:31.48,0:01:32.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ALSO {\k21}USED {\k12}AN {\k7}APP
+Dialogue: 0,0:01:32.12,0:01:32.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}TO {\k14}LOG {\k34}FEEDINGS {\k7}AND
+Dialogue: 0,0:01:32.76,0:01:33.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}DIAPER {\k42}CHANGES,
+Dialogue: 0,0:01:33.70,0:01:34.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SO {\k12}I {\k18}ASSUMED {\k19}SHE
+Dialogue: 0,0:01:34.37,0:01:35.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}COULD {\k18}SEE {\k17}HOW {\k26}OFTEN
+Dialogue: 0,0:01:35.12,0:01:35.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k14}WAS {\k14}UP {\k11}WITH {\k8}THE {\k13}BABY
+Dialogue: 0,0:01:35.81,0:01:37.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}IF {\k9}SHE {\k28}CHECKED {\k21}IT.
+Dialogue: 0,0:01:37.21,0:01:37.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}APPARENTLY
+Dialogue: 0,0:01:37.57,0:01:38.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SHE {\k12}WAS {\k15}NOT {\k21}REALLY
+Dialogue: 0,0:01:38.29,0:01:39.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}LOOKING {\k17}AT {\k20}IT,
+Dialogue: 0,0:01:39.04,0:01:39.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AND {\k9}WE {\k20}BOTH {\k23}FAILED
+Dialogue: 0,0:01:39.65,0:01:40.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}BADLY {\k18}AT {\k33}COMMUNICATING
+Dialogue: 0,0:01:40.51,0:01:41.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}ABOUT {\k14}WHAT {\k10}WAS
+Dialogue: 0,0:01:41.18,0:01:42.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}HAPPENING. {\k24}THE
+Dialogue: 0,0:01:42.40,0:01:43.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ARGUMENT {\k34}ITSELF
+Dialogue: 0,0:01:43.04,0:01:43.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}HAPPENED {\k20}MONTHS {\k28}AGO,
+Dialogue: 0,0:01:43.95,0:01:44.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AND {\k9}OUR {\k14}DAUGHTER {\k23}IS {\k10}OLDER
+Dialogue: 0,0:01:44.62,0:01:45.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}NOW {\k10}AND {\k29}THANKFULLY
+Dialogue: 0,0:01:45.28,0:01:46.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}SLEEPING {\k20}MUCH {\k35}BETTER.
+Dialogue: 0,0:01:46.73,0:01:47.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}BUT
+Dialogue: 0,0:01:47.09,0:01:47.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HER {\k14}MOTHER {\k24}STILL {\k17}BRINGS
+Dialogue: 0,0:01:47.79,0:01:48.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IT {\k11}UP {\k14}TO {\k21}FAMILY
+Dialogue: 0,0:01:48.45,0:01:49.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AND {\k15}FRIENDS {\k18}AS {\k9}AN
+Dialogue: 0,0:01:49.07,0:01:49.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}EXAMPLE {\k18}OF {\k20}SOMETHING
+Dialogue: 0,0:01:49.70,0:01:50.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}TERRIBLE {\k19}I {\k14}DID
+Dialogue: 0,0:01:50.37,0:01:51.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TO {\k15}HER, {\k12}AND {\k14}NOW {\k7}I
+Dialogue: 0,0:01:51.26,0:01:51.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}GENUINELY {\k24}DO {\k11}NOT
+Dialogue: 0,0:01:51.87,0:01:52.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}KNOW {\k14}IF {\k5}I {\k24}CROSSED
+Dialogue: 0,0:01:52.48,0:01:53.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}A {\k11}LINE {\k15}BY {\k24}HANDLING {\k23}THINGS
+Dialogue: 0,0:01:53.29,0:01:54.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THE {\k14}WAY {\k15}I {\k17}DID.
+Dialogue: 0,0:01:54.62,0:01:54.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}I
+Dialogue: 0,0:01:54.85,0:01:55.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}NEVER {\k20}MEANT {\k14}TO {\k20}EXCLUDE
+Dialogue: 0,0:01:55.62,0:01:56.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HER. {\k20}I
+Dialogue: 0,0:01:56.65,0:01:57.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}JUST {\k20}WANTED {\k15}TO {\k14}TAKE
+Dialogue: 0,0:01:57.28,0:01:58.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}CARE {\k10}OF {\k11}MY {\k21}DAUGHTER {\k21}AND
+Dialogue: 0,0:01:58.09,0:01:58.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}LET {\k17}HER {\k20}MOTHER {\k14}GET
+Dialogue: 0,0:01:58.71,0:01:59.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SOME {\k28}SLEEP.

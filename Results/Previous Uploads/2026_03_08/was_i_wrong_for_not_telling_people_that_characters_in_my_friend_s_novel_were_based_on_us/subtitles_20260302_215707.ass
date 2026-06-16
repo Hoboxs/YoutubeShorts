@@ -1,0 +1,127 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.33,0:00:05.24,Default,,0,0,0,,\N{\k8}MY {\k21}BEST {\k24}FRIEND, {\k18}MAYA,
+Dialogue: 0,0:00:05.41,0:00:06.04,Default,,0,0,0,,\N{\k6}IS {\k9}AN {\k17}AUTHOR {\k20}WITH {\k8}A
+Dialogue: 0,0:00:06.04,0:00:06.79,Default,,0,0,0,,\N{\k13}FEW {\k26}PUBLISHED {\k35}NOVELS.
+Dialogue: 0,0:00:07.79,0:00:08.11,Default,,0,0,0,,\N{\k31}SHE
+Dialogue: 0,0:00:08.11,0:00:08.75,Default,,0,0,0,,\N{\k10}HAS {\k8}A {\k16}HABIT {\k17}OF {\k11}WEAVING
+Dialogue: 0,0:00:08.75,0:00:09.46,Default,,0,0,0,,\N{\k27}TRAITS {\k14}FROM {\k28}PEOPLE
+Dialogue: 0,0:00:09.46,0:00:10.09,Default,,0,0,0,,\N{\k15}SHE {\k14}LOVES {\k25}INTO {\k8}HER
+Dialogue: 0,0:00:10.09,0:00:10.85,Default,,0,0,0,,\N{\k36}CHARACTERS, {\k11}SMALL
+Dialogue: 0,0:00:10.85,0:00:11.75,Default,,0,0,0,,\N{\k22}THINGS {\k17}LIKE {\k50}PERSONALITY
+Dialogue: 0,0:00:11.75,0:00:12.85,Default,,0,0,0,,\N{\k46}QUIRKS, {\k29}PHYSICAL
+Dialogue: 0,0:00:12.85,0:00:13.75,Default,,0,0,0,,\N{\k40}FEATURES, {\k9}OR
+Dialogue: 0,0:00:13.75,0:00:15.51,Default,,0,0,0,,\N{\k14}SHARED {\k29}MEMORIES. {\k37}IT’S
+Dialogue: 0,0:00:15.51,0:00:16.51,Default,,0,0,0,,\N{\k17}NEVER {\k16}A {\k14}ONE-TO-ONE {\k25}COPY,
+Dialogue: 0,0:00:16.66,0:00:17.28,Default,,0,0,0,,\N{\k1}BUT {\k10}THE {\k33}INSPIRATION {\k16}IS
+Dialogue: 0,0:00:17.28,0:00:18.30,Default,,0,0,0,,\N{\k16}THERE. {\k14}IN
+Dialogue: 0,0:00:18.30,0:00:18.94,Default,,0,0,0,,\N{\k12}HER {\k21}LATEST {\k30}BOOK,
+Dialogue: 0,0:00:19.05,0:00:19.73,Default,,0,0,0,,\N{\k10}THOUGH, {\k8}ONE {\k29}CHARACTER
+Dialogue: 0,0:00:19.73,0:00:20.53,Default,,0,0,0,,\N{\k18}WAS {\k19}VERY {\k41}OBVIOUSLY
+Dialogue: 0,0:00:20.53,0:00:21.26,Default,,0,0,0,,\N{\k22}INSPIRED {\k29}BY {\k20}ME.
+Dialogue: 0,0:00:22.14,0:00:22.48,Default,,0,0,0,,\N{\k33}SIMILAR
+Dialogue: 0,0:00:22.48,0:00:23.23,Default,,0,0,0,,\N{\k39}TEMPERAMENT, {\k23}SIMILAR
+Dialogue: 0,0:00:23.23,0:00:24.21,Default,,0,0,0,,\N{\k32}APPEARANCE, {\k17}AND
+Dialogue: 0,0:00:24.21,0:00:24.94,Default,,0,0,0,,\N{\k24}EVEN {\k17}SOME {\k30}PARALLEL
+Dialogue: 0,0:00:24.94,0:00:25.71,Default,,0,0,0,,\N{\k25}LIFE {\k51}EXPERIENCES.
+Dialogue: 0,0:00:26.54,0:00:26.96,Default,,0,0,0,,\N{\k41}THE
+Dialogue: 0,0:00:26.96,0:00:27.82,Default,,0,0,0,,\N{\k30}ROMANTIC {\k29}LEAD {\k26}OPPOSITE
+Dialogue: 0,0:00:27.82,0:00:28.50,Default,,0,0,0,,\N{\k17}THAT {\k26}CHARACTER {\k23}WAS
+Dialogue: 0,0:00:28.50,0:00:29.19,Default,,0,0,0,,\N{\k23}CLEARLY {\k20}INSPIRED {\k25}BY
+Dialogue: 0,0:00:29.19,0:00:29.92,Default,,0,0,0,,\N{\k17}ANOTHER {\k30}CLOSE {\k24}FRIEND
+Dialogue: 0,0:00:29.92,0:00:30.80,Default,,0,0,0,,\N{\k11}OF {\k22}OURS, {\k16}JORDAN.
+Dialogue: 0,0:00:31.44,0:00:31.85,Default,,0,0,0,,\N{\k41}IN
+Dialogue: 0,0:00:31.85,0:00:32.57,Default,,0,0,0,,\N{\k10}THE {\k25}STORY, {\k5}THOSE
+Dialogue: 0,0:00:32.57,0:00:33.34,Default,,0,0,0,,\N{\k17}TWO {\k34}CHARACTERS {\k24}END
+Dialogue: 0,0:00:33.34,0:00:34.10,Default,,0,0,0,,\N{\k11}UP {\k11}IN {\k7}A {\k44}RELATIONSHIP.
+Dialogue: 0,0:00:34.93,0:00:35.17,Default,,0,0,0,,\N{\k24}FOR
+Dialogue: 0,0:00:35.17,0:00:35.78,Default,,0,0,0,,\N{\k32}CONTEXT, {\k1}THE
+Dialogue: 0,0:00:35.78,0:00:36.65,Default,,0,0,0,,\N{\k19}THREE {\k10}OF {\k12}US {\k15}MET {\k29}COLLEGE.
+Dialogue: 0,0:00:37.71,0:00:38.38,Default,,0,0,0,,\N{\k20}JORDAN {\k25}AND {\k10}I {\k10}HAVE
+Dialogue: 0,0:00:38.38,0:00:39.11,Default,,0,0,0,,\N{\k15}NEVER {\k28}DATED {\k15}OR {\k14}HAD
+Dialogue: 0,0:00:39.11,0:00:40.14,Default,,0,0,0,,\N{\k20}ANY {\k33}ROMANTIC {\k48}INVOLVEMENT
+Dialogue: 0,0:00:40.14,0:00:40.93,Default,,0,0,0,,\N{\k25}IN {\k17}REAL {\k35}LIFE.
+Dialogue: 0,0:00:41.57,0:00:42.17,Default,,0,0,0,,\N{\k14}I {\k20}KNEW {\k15}ABOUT {\k10}THE
+Dialogue: 0,0:00:42.17,0:00:42.97,Default,,0,0,0,,\N{\k42}SIMILARITIES {\k37}BECAUSE
+Dialogue: 0,0:00:42.97,0:00:43.64,Default,,0,0,0,,\N{\k30}MAYA {\k15}AND {\k8}I {\k11}HAVE
+Dialogue: 0,0:00:43.64,0:00:44.29,Default,,0,0,0,,\N{\k6}A {\k23}TRADITION {\k21}WHERE {\k14}I
+Dialogue: 0,0:00:44.29,0:00:44.92,Default,,0,0,0,,\N{\k12}READ {\k10}THE {\k15}THIRD {\k24}DRAFT
+Dialogue: 0,0:00:44.92,0:00:45.57,Default,,0,0,0,,\N{\k19}OF {\k10}HER {\k35}MANUSCRIPTS
+Dialogue: 0,0:00:45.57,0:00:46.28,Default,,0,0,0,,\N{\k34}BEFORE {\k35}PUBLICATION.
+Dialogue: 0,0:00:47.14,0:00:47.42,Default,,0,0,0,,\N{\k28}JORDAN
+Dialogue: 0,0:00:47.42,0:00:48.10,Default,,0,0,0,,\N{\k33}ISN’T {\k16}MUCH {\k17}OF
+Dialogue: 0,0:00:48.10,0:00:48.78,Default,,0,0,0,,\N{\k5}A {\k22}READER, {\k7}SO {\k12}I
+Dialogue: 0,0:00:48.78,0:00:49.50,Default,,0,0,0,,\N{\k17}DIDN’T {\k14}THINK {\k14}TO {\k25}MENTION
+Dialogue: 0,0:00:49.50,0:00:50.71,Default,,0,0,0,,\N{\k21}IT. {\k42}I
+Dialogue: 0,0:00:50.71,0:00:51.38,Default,,0,0,0,,\N{\k17}ALSO {\k21}DIDN’T {\k12}BRING {\k14}IT
+Dialogue: 0,0:00:51.38,0:00:52.82,Default,,0,0,0,,\N{\k9}UP {\k10}TO {\k10}MY {\k21}HUSBAND. {\k35}IN
+Dialogue: 0,0:00:52.82,0:00:53.46,Default,,0,0,0,,\N{\k15}MY {\k24}MIND, {\k3}THESE
+Dialogue: 0,0:00:53.46,0:00:54.25,Default,,0,0,0,,\N{\k11}WERE {\k24}FICTIONAL {\k43}CHARACTERS,
+Dialogue: 0,0:00:54.25,0:00:54.96,Default,,0,0,0,,\N{\k44}INSPIRED {\k25}BY
+Dialogue: 0,0:00:54.96,0:00:55.75,Default,,0,0,0,,\N{\k21}REAL {\k29}PEOPLE, {\k14}YES,
+Dialogue: 0,0:00:55.96,0:00:56.74,Default,,0,0,0,,\N{\k3}BUT {\k15}NOT {\k30}ACTUALLY {\k28}US.
+Dialogue: 0,0:00:57.71,0:00:57.88,Default,,0,0,0,,\N{\k16}THE
+Dialogue: 0,0:00:57.88,0:00:58.89,Default,,0,0,0,,\N{\k14}BOOK {\k15}WAS {\k28}PUBLISHED, {\k7}AND
+Dialogue: 0,0:00:58.89,0:00:59.57,Default,,0,0,0,,\N{\k10}I {\k20}DIDN’T {\k9}GIVE {\k10}IT {\k17}MUCH
+Dialogue: 0,0:00:59.57,0:01:00.74,Default,,0,0,0,,\N{\k17}THOUGHT. {\k28}A
+Dialogue: 0,0:01:00.74,0:01:01.57,Default,,0,0,0,,\N{\k11}WHILE {\k34}LATER, {\k7}WE
+Dialogue: 0,0:01:01.57,0:01:02.20,Default,,0,0,0,,\N{\k14}WERE {\k12}ALL {\k13}AT {\k22}ANOTHER
+Dialogue: 0,0:01:02.20,0:01:03.03,Default,,0,0,0,,\N{\k35}FRIEND’S {\k17}PLACE, {\k7}AND
+Dialogue: 0,0:01:03.03,0:01:03.67,Default,,0,0,0,,\N{\k16}JORDAN {\k32}HAPPENED {\k15}TO
+Dialogue: 0,0:01:03.67,0:01:05.07,Default,,0,0,0,,\N{\k10}BE {\k17}THERE. {\k23}MAYA
+Dialogue: 0,0:01:05.07,0:01:05.70,Default,,0,0,0,,\N{\k28}ASKED {\k12}IF {\k21}JORDAN
+Dialogue: 0,0:01:05.70,0:01:06.37,Default,,0,0,0,,\N{\k25}HAD {\k16}READ {\k11}THE {\k14}BOOK.
+Dialogue: 0,0:01:07.07,0:01:07.34,Default,,0,0,0,,\N{\k26}JORDAN
+Dialogue: 0,0:01:07.34,0:01:08.12,Default,,0,0,0,,\N{\k21}SAID {\k17}YES {\k14}AND {\k24}MENTIONED
+Dialogue: 0,0:01:08.12,0:01:08.92,Default,,0,0,0,,\N{\k21}BEING {\k35}SURPRISED {\k21}THAT
+Dialogue: 0,0:01:08.92,0:01:09.65,Default,,0,0,0,,\N{\k15}WE {\k18}ENDED {\k15}UP {\k23}TOGETHER
+Dialogue: 0,0:01:09.65,0:01:10.45,Default,,0,0,0,,\N{\k18}IN {\k9}THE {\k24}STORY, {\k11}ADDING
+Dialogue: 0,0:01:10.45,0:01:11.12,Default,,0,0,0,,\N{\k18}THAT {\k12}IT {\k17}FELT {\k18}A
+Dialogue: 0,0:01:11.12,0:01:12.68,Default,,0,0,0,,\N{\k17}LITTLE {\k32}STRANGE. {\k20}MY
+Dialogue: 0,0:01:12.68,0:01:13.40,Default,,0,0,0,,\N{\k21}HUSBAND {\k50}OVERHEARD
+Dialogue: 0,0:01:13.40,0:01:14.04,Default,,0,0,0,,\N{\k11}AND {\k12}ASKED {\k12}WHAT {\k11}THAT {\k16}MEANT.
+Dialogue: 0,0:01:14.68,0:01:15.04,Default,,0,0,0,,\N{\k35}THAT’S
+Dialogue: 0,0:01:15.04,0:01:15.85,Default,,0,0,0,,\N{\k5}WHEN {\k14}MAYA {\k30}CASUALLY {\k31}EXPLAINED
+Dialogue: 0,0:01:15.85,0:01:16.48,Default,,0,0,0,,\N{\k18}THAT {\k9}THE {\k34}CHARACTERS
+Dialogue: 0,0:01:16.48,0:01:17.20,Default,,0,0,0,,\N{\k15}WERE {\k23}BASED {\k7}ON {\k24}JORDAN
+Dialogue: 0,0:01:17.20,0:01:18.48,Default,,0,0,0,,\N{\k21}AND {\k14}ME. {\k18}BOTH
+Dialogue: 0,0:01:18.48,0:01:19.14,Default,,0,0,0,,\N{\k37}JORDAN {\k18}AND {\k9}MY
+Dialogue: 0,0:01:19.14,0:01:19.84,Default,,0,0,0,,\N{\k26}HUSBAND {\k23}WERE {\k20}TAKEN
+Dialogue: 0,0:01:19.84,0:01:21.00,Default,,0,0,0,,\N{\k35}ABACK. {\k21}THEY
+Dialogue: 0,0:01:21.00,0:01:21.65,Default,,0,0,0,,\N{\k21}ASKED {\k15}WHY {\k10}I {\k17}HADN’T
+Dialogue: 0,0:01:21.65,0:01:22.26,Default,,0,0,0,,\N{\k18}GIVEN {\k14}THEM {\k7}A {\k20}HEADS-UP.
+Dialogue: 0,0:01:23.07,0:01:23.29,Default,,0,0,0,,\N{\k21}THEY
+Dialogue: 0,0:01:23.29,0:01:23.98,Default,,0,0,0,,\N{\k15}SAID {\k16}THEY {\k17}FELT {\k18}BLINDSIDED
+Dialogue: 0,0:01:24.15,0:01:24.78,Default,,0,0,0,,\N{\k21}AND {\k40}UNCOMFORTABLE,
+Dialogue: 0,0:01:25.04,0:01:25.70,Default,,0,0,0,,\N{\k37}ESPECIALLY {\k28}SINCE
+Dialogue: 0,0:01:25.70,0:01:26.62,Default,,0,0,0,,\N{\k14}THE {\k34}CHARACTERS {\k43}RELATIONSHIP
+Dialogue: 0,0:01:26.62,0:01:27.26,Default,,0,0,0,,\N{\k17}WAS {\k24}PORTRAYED {\k21}IN
+Dialogue: 0,0:01:27.26,0:01:28.62,Default,,0,0,0,,\N{\k25}DETAIL. {\k16}I
+Dialogue: 0,0:01:28.62,0:01:29.37,Default,,0,0,0,,\N{\k28}EXPLAINED {\k17}THAT {\k10}I {\k19}DON’T
+Dialogue: 0,0:01:29.37,0:01:30.18,Default,,0,0,0,,\N{\k20}USUALLY {\k21}SHARE {\k38}INFORMATION
+Dialogue: 0,0:01:30.18,0:01:30.79,Default,,0,0,0,,\N{\k29}ABOUT {\k31}MAYA’S
+Dialogue: 0,0:01:30.79,0:01:31.40,Default,,0,0,0,,\N{\k29}PROJECTS {\k30}BEFORE
+Dialogue: 0,0:01:31.40,0:01:32.12,Default,,0,0,0,,\N{\k25}RELEASE, {\k7}AND {\k12}THAT
+Dialogue: 0,0:01:32.12,0:01:32.73,Default,,0,0,0,,\N{\k11}THE {\k28}CHARACTERS {\k21}ARE
+Dialogue: 0,0:01:32.73,0:01:33.84,Default,,0,0,0,,\N{\k40}FICTIONAL, {\k20}NOT
+Dialogue: 0,0:01:33.84,0:01:34.62,Default,,0,0,0,,\N{\k28}LITERAL {\k50}REPRESENTATIONS
+Dialogue: 0,0:01:34.62,0:01:36.26,Default,,0,0,0,,\N{\k33}OF {\k20}US. {\k21}MOST
+Dialogue: 0,0:01:36.26,0:01:36.87,Default,,0,0,0,,\N{\k19}READERS {\k28}WOULDN’T {\k14}MAKE
+Dialogue: 0,0:01:36.87,0:01:37.54,Default,,0,0,0,,\N{\k12}THE {\k26}CONNECTION {\k28}UNLESS
+Dialogue: 0,0:01:37.54,0:01:38.45,Default,,0,0,0,,\N{\k33}THEY {\k7}KNEW {\k12}US {\k37}PERSONALLY.
+Dialogue: 0,0:01:39.18,0:01:39.42,Default,,0,0,0,,\N{\k23}EVEN
+Dialogue: 0,0:01:39.42,0:01:40.23,Default,,0,0,0,,\N{\k26}SO, {\k15}THEY’RE
+Dialogue: 0,0:01:40.23,0:01:40.98,Default,,0,0,0,,\N{\k16}STILL {\k28}UNEASY {\k29}ABOUT
+Dialogue: 0,0:01:40.98,0:01:41.15,Default,,0,0,0,,\N{\k17}IT.
+Dialogue: 0,0:01:41.90,0:01:42.62,Default,,0,0,0,,\N{\k15}WAS {\k9}I {\k14}WRONG {\k18}FOR {\k14}NOT
+Dialogue: 0,0:01:42.62,0:01:43.29,Default,,0,0,0,,\N{\k25}WARNING {\k20}THEM {\k21}AHEAD
+Dialogue: 0,0:01:43.29,0:01:43.57,Default,,0,0,0,,\N{\k10}OF {\k17}TIME?

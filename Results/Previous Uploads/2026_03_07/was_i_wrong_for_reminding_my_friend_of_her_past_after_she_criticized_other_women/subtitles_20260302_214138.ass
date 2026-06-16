@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.59,0:00:05.36,Default,,0,0,0,,\N{\k22}FRIEND {\k12}OF {\k11}MINE {\k30}RECENTLY
+Dialogue: 0,0:00:05.36,0:00:06.12,Default,,0,0,0,,\N{\k35}STARTED {\k24}SEEING {\k16}A
+Dialogue: 0,0:00:06.12,0:00:06.86,Default,,0,0,0,,\N{\k16}NEW {\k16}GUY {\k19}WHO’S {\k22}PRETTY
+Dialogue: 0,0:00:06.86,0:00:08.33,Default,,0,0,0,,\N{\k51}CONSERVATIVE. {\k27}SINCE
+Dialogue: 0,0:00:08.33,0:00:09.22,Default,,0,0,0,,\N{\k30}DATING {\k19}HIM, {\k14}SHE’S
+Dialogue: 0,0:00:09.22,0:00:09.85,Default,,0,0,0,,\N{\k17}ADOPTED {\k21}A {\k12}LOT {\k11}OF
+Dialogue: 0,0:00:09.85,0:00:10.56,Default,,0,0,0,,\N{\k14}HIS {\k17}VIEWS {\k22}AND {\k16}HAS
+Dialogue: 0,0:00:10.56,0:00:11.33,Default,,0,0,0,,\N{\k13}BEEN {\k32}POSTING {\k32}FREQUENTLY
+Dialogue: 0,0:00:11.33,0:00:11.98,Default,,0,0,0,,\N{\k30}ABOUT {\k33}PURITY,
+Dialogue: 0,0:00:12.19,0:00:12.93,Default,,0,0,0,,\N{\k32}MODESTY, {\k41}AND
+Dialogue: 0,0:00:12.93,0:00:13.66,Default,,0,0,0,,\N{\k33}TRADITIONAL {\k38}VALUES.
+Dialogue: 0,0:00:14.56,0:00:14.80,Default,,0,0,0,,\N{\k24}THE
+Dialogue: 0,0:00:14.80,0:00:15.50,Default,,0,0,0,,\N{\k16}OTHER {\k15}DAY {\k16}SHE {\k22}SHARED
+Dialogue: 0,0:00:15.50,0:00:16.16,Default,,0,0,0,,\N{\k8}A {\k24}STORY {\k9}ON {\k24}SOCIAL
+Dialogue: 0,0:00:16.16,0:00:16.80,Default,,0,0,0,,\N{\k26}MEDIA {\k23}SAYING {\k14}THAT
+Dialogue: 0,0:00:16.80,0:00:17.44,Default,,0,0,0,,\N{\k23}ANYONE {\k19}WHO {\k20}SLEEPS
+Dialogue: 0,0:00:17.44,0:00:18.28,Default,,0,0,0,,\N{\k17}WITH {\k25}MULTIPLE {\k40}PEOPLE
+Dialogue: 0,0:00:18.28,0:00:18.98,Default,,0,0,0,,\N{\k19}IS {\k5}A {\k19}SLUT {\k12}AND {\k12}SHOULD
+Dialogue: 0,0:00:18.98,0:00:19.89,Default,,0,0,0,,\N{\k12}BE {\k25}ASHAMED {\k17}OF {\k35}THEMSELVES.
+Dialogue: 0,0:00:20.67,0:00:20.87,Default,,0,0,0,,\N{\k19}THAT
+Dialogue: 0,0:00:20.87,0:00:21.53,Default,,0,0,0,,\N{\k32}SURPRISED {\k33}ME,
+Dialogue: 0,0:00:21.53,0:00:22.17,Default,,0,0,0,,\N{\k46}BECAUSE {\k17}IN
+Dialogue: 0,0:00:22.17,0:00:22.82,Default,,0,0,0,,\N{\k8}THE {\k13}PAST {\k17}SHE {\k6}HAS {\k17}TOLD
+Dialogue: 0,0:00:22.82,0:00:23.60,Default,,0,0,0,,\N{\k16}ME {\k16}ABOUT {\k19}SLEEPING {\k26}WITH
+Dialogue: 0,0:00:23.60,0:00:24.37,Default,,0,0,0,,\N{\k13}MORE {\k10}THAN {\k16}ONE {\k37}PERSON.
+Dialogue: 0,0:00:25.21,0:00:25.50,Default,,0,0,0,,\N{\k28}SHE
+Dialogue: 0,0:00:25.50,0:00:26.33,Default,,0,0,0,,\N{\k17}EVEN {\k28}TEASED {\k11}ME {\k26}BEFORE
+Dialogue: 0,0:00:26.33,0:00:27.07,Default,,0,0,0,,\N{\k16}FOR {\k16}BEING {\k14}A {\k27}VIRGIN.
+Dialogue: 0,0:00:27.07,0:00:28.35,Default,,0,0,0,,\N{\k44}I {\k83}RESPONDED
+Dialogue: 0,0:00:28.35,0:00:29.32,Default,,0,0,0,,\N{\k19}TO {\k8}HER {\k28}PRIVATELY, {\k10}NOT
+Dialogue: 0,0:00:29.32,0:00:29.98,Default,,0,0,0,,\N{\k39}PUBLICLY, {\k8}AND
+Dialogue: 0,0:00:29.98,0:00:30.73,Default,,0,0,0,,\N{\k14}TOLD {\k14}HER {\k9}I {\k12}WAS {\k25}CONFUSED
+Dialogue: 0,0:00:30.73,0:00:31.33,Default,,0,0,0,,\N{\k24}BY {\k9}HER {\k26}POST,
+Dialogue: 0,0:00:31.33,0:00:32.03,Default,,0,0,0,,\N{\k23}GIVEN {\k20}WHAT {\k14}SHE {\k11}HAD
+Dialogue: 0,0:00:32.03,0:00:32.79,Default,,0,0,0,,\N{\k17}SHARED {\k17}WITH {\k12}ME {\k27}BEFORE.
+Dialogue: 0,0:00:33.75,0:00:34.11,Default,,0,0,0,,\N{\k35}I
+Dialogue: 0,0:00:34.11,0:00:34.71,Default,,0,0,0,,\N{\k17}DIDN’T {\k24}INSULT {\k17}HER
+Dialogue: 0,0:00:34.71,0:00:35.34,Default,,0,0,0,,\N{\k14}OR {\k7}CALL {\k14}HER {\k26}NAMES.
+Dialogue: 0,0:00:36.14,0:00:36.34,Default,,0,0,0,,\N{\k20}I
+Dialogue: 0,0:00:36.34,0:00:36.97,Default,,0,0,0,,\N{\k17}JUST {\k21}POINTED {\k23}OUT
+Dialogue: 0,0:00:36.97,0:00:37.57,Default,,0,0,0,,\N{\k14}THAT {\k12}IT {\k23}DIDN’T {\k10}LINE
+Dialogue: 0,0:00:37.57,0:00:38.24,Default,,0,0,0,,\N{\k20}UP {\k15}WITH {\k10}WHAT {\k11}SHE {\k8}HAD
+Dialogue: 0,0:00:38.24,0:00:39.02,Default,,0,0,0,,\N{\k28}PREVIOUSLY {\k29}SAID {\k20}ABOUT
+Dialogue: 0,0:00:39.02,0:00:39.84,Default,,0,0,0,,\N{\k13}HER {\k12}OWN {\k56}EXPERIENCES.
+Dialogue: 0,0:00:40.56,0:00:40.84,Default,,0,0,0,,\N{\k28}SHE
+Dialogue: 0,0:00:40.84,0:00:41.64,Default,,0,0,0,,\N{\k27}BECAME {\k26}VERY {\k25}UPSET
+Dialogue: 0,0:00:41.64,0:00:42.24,Default,,0,0,0,,\N{\k17}AND {\k17}CLAIMED {\k24}I
+Dialogue: 0,0:00:42.24,0:00:43.00,Default,,0,0,0,,\N{\k11}WAS {\k35}REMEMBERING {\k28}WRONG.
+Dialogue: 0,0:00:43.78,0:00:44.00,Default,,0,0,0,,\N{\k21}THEN
+Dialogue: 0,0:00:44.00,0:00:44.61,Default,,0,0,0,,\N{\k14}SHE {\k21}ACCUSED {\k17}ME {\k7}OF
+Dialogue: 0,0:00:44.61,0:00:45.34,Default,,0,0,0,,\N{\k17}TRYING {\k17}TO {\k20}SHAME {\k16}HER
+Dialogue: 0,0:00:45.34,0:00:45.97,Default,,0,0,0,,\N{\k13}AND {\k12}THROW {\k17}HER {\k19}PAST
+Dialogue: 0,0:00:45.97,0:00:46.43,Default,,0,0,0,,\N{\k20}IN {\k6}HER {\k19}FACE.
+Dialogue: 0,0:00:47.32,0:00:48.11,Default,,0,0,0,,\N{\k17}NOW {\k11}I’M {\k24}QUESTIONING {\k25}WHETHER
+Dialogue: 0,0:00:48.11,0:00:48.88,Default,,0,0,0,,\N{\k14}I {\k21}CROSSED {\k10}A {\k12}LINE {\k17}BY
+Dialogue: 0,0:00:48.88,0:00:49.57,Default,,0,0,0,,\N{\k23}BRINGING {\k20}IT {\k14}UP {\k11}AT
+Dialogue: 0,0:00:49.57,0:00:50.65,Default,,0,0,0,,\N{\k16}ALL. {\k11}I
+Dialogue: 0,0:00:50.65,0:00:51.25,Default,,0,0,0,,\N{\k16}FELT {\k15}LIKE {\k16}SHE {\k11}WAS
+Dialogue: 0,0:00:51.25,0:00:52.00,Default,,0,0,0,,\N{\k16}BEING {\k57}HYPOCRITICAL
+Dialogue: 0,0:00:52.00,0:00:53.32,Default,,0,0,0,,\N{\k20}AND {\k32}UNFAIR, {\k38}ESPECIALLY
+Dialogue: 0,0:00:53.32,0:00:54.03,Default,,0,0,0,,\N{\k17}SINCE {\k17}SHE {\k10}HAD {\k25}MOCKED
+Dialogue: 0,0:00:54.03,0:00:55.53,Default,,0,0,0,,\N{\k6}ME {\k10}IN {\k3}THE {\k29}PAST. {\k43}BUT
+Dialogue: 0,0:00:55.53,0:00:56.15,Default,,0,0,0,,\N{\k14}SHE {\k25}CLEARLY {\k21}FEELS
+Dialogue: 0,0:00:56.15,0:00:57.32,Default,,0,0,0,,\N{\k26}ATTACKED. {\k21}WAS
+Dialogue: 0,0:00:57.32,0:00:57.96,Default,,0,0,0,,\N{\k10}I {\k17}WRONG {\k17}FOR {\k17}SAYING
+Dialogue: 0,0:00:57.96,0:00:58.32,Default,,0,0,0,,\N{\k35}SOMETHING?

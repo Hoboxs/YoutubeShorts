@@ -1,0 +1,107 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.17,0:00:04.79,Default,,0,0,0,,{\an5}AFTER OUR
+Dialogue: 0,0:00:04.79,0:00:05.44,Default,,0,0,0,,{\an5}MOTHER DIED NEARLY
+Dialogue: 0,0:00:05.44,0:00:05.96,Default,,0,0,0,,{\an5}SIX YEARS
+Dialogue: 0,0:00:05.96,0:00:06.74,Default,,0,0,0,,{\an5}AGO, OUR
+Dialogue: 0,0:00:06.74,0:00:07.36,Default,,0,0,0,,{\an5}FAMILY FROZE
+Dialogue: 0,0:00:07.36,0:00:08.00,Default,,0,0,0,,{\an5}IN THAT MOMENT,
+Dialogue: 0,0:00:08.16,0:00:08.67,Default,,0,0,0,,{\an5}ESPECIALLY
+Dialogue: 0,0:00:08.67,0:00:09.24,Default,,0,0,0,,{\an5}MY YOUNGER
+Dialogue: 0,0:00:09.24,0:00:10.41,Default,,0,0,0,,{\an5}SISTER, MARA,
+Dialogue: 0,0:00:10.46,0:00:11.08,Default,,0,0,0,,{\an5}WHO WAS STILL
+Dialogue: 0,0:00:11.08,0:00:11.61,Default,,0,0,0,,{\an5}IN HIGH SCHOOL
+Dialogue: 0,0:00:11.61,0:00:12.30,Default,,0,0,0,,{\an5}WHILE I WAS ALREADY
+Dialogue: 0,0:00:12.30,0:00:12.85,Default,,0,0,0,,{\an5}LIVING ON MY
+Dialogue: 0,0:00:12.85,0:00:13.14,Default,,0,0,0,,{\an5}OWN.
+Dialogue: 0,0:00:13.35,0:00:14.16,Default,,0,0,0,,{\an5}OUR FATHER,
+Dialogue: 0,0:00:14.32,0:00:15.43,Default,,0,0,0,,{\an5}DANIEL, CENTERED
+Dialogue: 0,0:00:15.43,0:00:16.28,Default,,0,0,0,,{\an5}HIS ENTIRE LIFE
+Dialogue: 0,0:00:16.28,0:00:16.82,Default,,0,0,0,,{\an5}AROUND PROTECTING
+Dialogue: 0,0:00:16.82,0:00:17.33,Default,,0,0,0,,{\an5}HER PAIN.
+Dialogue: 0,0:00:17.62,0:00:18.16,Default,,0,0,0,,{\an5}EVEN YEARS
+Dialogue: 0,0:00:18.16,0:00:19.07,Default,,0,0,0,,{\an5}LATER, EVERY
+Dialogue: 0,0:00:19.07,0:00:19.62,Default,,0,0,0,,{\an5}TIME HE TRIED
+Dialogue: 0,0:00:19.62,0:00:20.67,Default,,0,0,0,,{\an5}TO DATE, MARA
+Dialogue: 0,0:00:20.67,0:00:21.73,Default,,0,0,0,,{\an5}WOULD SPIRAL, CRYING,
+Dialogue: 0,0:00:22.01,0:00:22.76,Default,,0,0,0,,{\an5}ACCUSING HIM
+Dialogue: 0,0:00:22.76,0:00:23.39,Default,,0,0,0,,{\an5}OF ERASING OUR
+Dialogue: 0,0:00:23.39,0:00:24.23,Default,,0,0,0,,{\an5}MOM, BEGGING
+Dialogue: 0,0:00:24.23,0:00:24.85,Default,,0,0,0,,{\an5}HIM TO STOP,
+Dialogue: 0,0:00:25.03,0:00:25.71,Default,,0,0,0,,{\an5}AND EACH TIME,
+Dialogue: 0,0:00:25.89,0:00:26.42,Default,,0,0,0,,{\an5}HE DID. IT,
+Dialogue: 0,0:00:26.53,0:00:27.69,Default,,0,0,0,,{\an5}RECENTLY, DANIEL
+Dialogue: 0,0:00:27.69,0:00:28.26,Default,,0,0,0,,{\an5}BEGAN SEEING
+Dialogue: 0,0:00:28.26,0:00:28.87,Default,,0,0,0,,{\an5}A WOMAN NAMED
+Dialogue: 0,0:00:28.87,0:00:29.67,Default,,0,0,0,,{\an5}CLAIRE, A
+Dialogue: 0,0:00:29.67,0:00:30.33,Default,,0,0,0,,{\an5}DIVORCED TEACHER
+Dialogue: 0,0:00:30.33,0:00:31.12,Default,,0,0,0,,{\an5}WITH TWO SONS,
+Dialogue: 0,0:00:31.33,0:00:31.83,Default,,0,0,0,,{\an5}AND FOR
+Dialogue: 0,0:00:31.83,0:00:32.42,Default,,0,0,0,,{\an5}THE FIRST TIME
+Dialogue: 0,0:00:32.42,0:00:33.11,Default,,0,0,0,,{\an5}HE SEEMED GENUINELY
+Dialogue: 0,0:00:33.11,0:00:33.70,Default,,0,0,0,,{\an5}ALIVE AGAIN,
+Dialogue: 0,0:00:33.93,0:00:34.74,Default,,0,0,0,,{\an5}WHEN HE SUGGESTED
+Dialogue: 0,0:00:34.74,0:00:35.42,Default,,0,0,0,,{\an5}SPENDING THE
+Dialogue: 0,0:00:35.42,0:00:36.03,Default,,0,0,0,,{\an5}HOLIDAYS TOGETHER,
+Dialogue: 0,0:00:36.57,0:00:37.20,Default,,0,0,0,,{\an5}MARA SHUT IT
+Dialogue: 0,0:00:37.20,0:00:37.93,Default,,0,0,0,,{\an5}DOWN, CLAIMING
+Dialogue: 0,0:00:37.93,0:00:38.46,Default,,0,0,0,,{\an5}THE HOUSE
+Dialogue: 0,0:00:38.46,0:00:39.03,Default,,0,0,0,,{\an5}WAS HER SAFE
+Dialogue: 0,0:00:39.03,0:00:39.64,Default,,0,0,0,,{\an5}PLACE AND
+Dialogue: 0,0:00:39.64,0:00:40.21,Default,,0,0,0,,{\an5}FULL OF MEMORIES
+Dialogue: 0,0:00:40.21,0:00:40.71,Default,,0,0,0,,{\an5}THAT COULDN'T
+Dialogue: 0,0:00:40.71,0:00:41.85,Default,,0,0,0,,{\an5}BE SHARED, THEN
+Dialogue: 0,0:00:41.85,0:00:42.70,Default,,0,0,0,,{\an5}I LEARNED, THROUGH
+Dialogue: 0,0:00:42.70,0:00:43.38,Default,,0,0,0,,{\an5}A FAMILY CHAT,
+Dialogue: 0,0:00:43.56,0:00:44.20,Default,,0,0,0,,{\an5}THAT SHE PLANNED
+Dialogue: 0,0:00:44.20,0:00:44.84,Default,,0,0,0,,{\an5}TO MOVE BACK IN
+Dialogue: 0,0:00:44.84,0:00:45.38,Default,,0,0,0,,{\an5}AFTER COLLEGE,
+Dialogue: 0,0:00:45.65,0:00:46.20,Default,,0,0,0,,{\an5}A PLAN
+Dialogue: 0,0:00:46.20,0:00:47.02,Default,,0,0,0,,{\an5}SHE'D NEVER MENTIONED
+Dialogue: 0,0:00:47.02,0:00:47.53,Default,,0,0,0,,{\an5}UNTIL CLAIRE
+Dialogue: 0,0:00:47.53,0:00:48.20,Default,,0,0,0,,{\an5}ENTERED THE PICTURE,
+Dialogue: 0,0:00:48.42,0:00:49.00,Default,,0,0,0,,{\an5}FRUSTRATED
+Dialogue: 0,0:00:49.00,0:00:49.65,Default,,0,0,0,,{\an5}AND EXHAUSTED,
+Dialogue: 0,0:00:50.00,0:00:50.64,Default,,0,0,0,,{\an5}I ACCUSE HER
+Dialogue: 0,0:00:50.64,0:00:51.14,Default,,0,0,0,,{\an5}OF USING OUR
+Dialogue: 0,0:00:51.14,0:00:51.65,Default,,0,0,0,,{\an5}MOTHER'S DEATH
+Dialogue: 0,0:00:51.65,0:00:52.32,Default,,0,0,0,,{\an5}TO CONTROL HIM
+Dialogue: 0,0:00:52.32,0:00:52.92,Default,,0,0,0,,{\an5}AND ACTING AS
+Dialogue: 0,0:00:52.92,0:00:53.52,Default,,0,0,0,,{\an5}IF SHE WERE THE ONLY
+Dialogue: 0,0:00:53.52,0:00:54.06,Default,,0,0,0,,{\an5}ONE WHO WHO
+Dialogue: 0,0:00:54.06,0:00:54.74,Default,,0,0,0,,{\an5}LOST
+Dialogue: 0,0:00:54.74,0:00:55.42,Default,,0,0,0,,{\an5}HER WHILE
+Dialogue: 0,0:00:55.42,0:00:56.03,Default,,0,0,0,,{\an5}THE REST OF US
+Dialogue: 0,0:00:56.03,0:00:56.70,Default,,0,0,0,,{\an5}WERE EXPECTED TO
+Dialogue: 0,0:00:56.70,0:00:57.47,Default,,0,0,0,,{\an5}STAY FROZEN FOREVER.
+Dialogue: 0,0:00:57.85,0:00:58.50,Default,,0,0,0,,{\an5}DANIEL TOLD
+Dialogue: 0,0:00:58.50,0:00:59.14,Default,,0,0,0,,{\an5}ME TO STOP.
+Dialogue: 0,0:00:59.34,0:00:59.93,Default,,0,0,0,,{\an5}MARA LEFT
+Dialogue: 0,0:00:59.93,0:01:00.74,Default,,0,0,0,,{\an5}THE CHAT, AND
+Dialogue: 0,0:01:00.74,0:01:01.34,Default,,0,0,0,,{\an5}LATER I WAS
+Dialogue: 0,0:01:01.34,0:01:02.02,Default,,0,0,0,,{\an5}LABELED HEARTLESS
+Dialogue: 0,0:01:02.02,0:01:02.52,Default,,0,0,0,,{\an5}FOR ATTACKING
+Dialogue: 0,0:01:02.52,0:01:03.15,Default,,0,0,0,,{\an5}HER GRIEF.
+Dialogue: 0,0:01:03.62,0:01:04.18,Default,,0,0,0,,{\an5}NOW MY
+Dialogue: 0,0:01:04.18,0:01:04.76,Default,,0,0,0,,{\an5}FATHER WANTS
+Dialogue: 0,0:01:04.76,0:01:05.37,Default,,0,0,0,,{\an5}ME TO APOLOGIZE,
+Dialogue: 0,0:01:05.71,0:01:06.26,Default,,0,0,0,,{\an5}BUT IT
+Dialogue: 0,0:01:06.26,0:01:06.81,Default,,0,0,0,,{\an5}FEELS LIKE ONCE
+Dialogue: 0,0:01:06.81,0:01:07.71,Default,,0,0,0,,{\an5}AGAIN, HIS
+Dialogue: 0,0:01:07.71,0:01:08.34,Default,,0,0,0,,{\an5}HAPPINESS IS
+Dialogue: 0,0:01:08.34,0:01:09.04,Default,,0,0,0,,{\an5}BEING SACRIFICED,
+Dialogue: 0,0:01:09.34,0:01:09.84,Default,,0,0,0,,{\an5}AND I'M
+Dialogue: 0,0:01:09.84,0:01:10.34,Default,,0,0,0,,{\an5}THE ONLY ONE
+Dialogue: 0,0:01:10.34,0:01:10.90,Default,,0,0,0,,{\an5}WILLING TO SAY
+Dialogue: 0,0:01:10.90,0:01:11.31,Default,,0,0,0,,{\an5}IT OUT LOUD.

@@ -1,0 +1,85 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.83,0:00:05.63,Default,,0,0,0,,\N{\k25}I'M {\k28}19 {\k25}IN
+Dialogue: 0,0:00:05.63,0:00:06.28,Default,,0,0,0,,\N{\k20}COLLEGE {\k24}AND {\k20}STILL
+Dialogue: 0,0:00:06.28,0:00:06.82,Default,,0,0,0,,\N{\k21}LIVING {\k13}AT {\k18}HOME.
+Dialogue: 0,0:00:08.00,0:00:08.66,Default,,0,0,0,,\N{\k30}I'VE {\k9}BEEN {\k25}WORKING
+Dialogue: 0,0:00:08.66,0:00:09.30,Default,,0,0,0,,\N{\k45}PART-TIME {\k18}SINCE
+Dialogue: 0,0:00:09.30,0:00:10.14,Default,,0,0,0,,\N{\k13}I {\k8}WAS {\k36}16 {\k25}AND
+Dialogue: 0,0:00:10.14,0:00:10.75,Default,,0,0,0,,\N{\k17}I'M {\k19}VERY {\k24}CAREFUL
+Dialogue: 0,0:00:10.75,0:00:11.16,Default,,0,0,0,,\N{\k22}WITH {\k17}MONEY.
+Dialogue: 0,0:00:11.92,0:00:12.67,Default,,0,0,0,,\N{\k14}I {\k19}DON'T {\k9}GO {\k14}OUT {\k17}MUCH,
+Dialogue: 0,0:00:13.06,0:00:13.69,Default,,0,0,0,,\N{\k8}I {\k17}DON'T {\k21}SPEND {\k16}ON
+Dialogue: 0,0:00:13.69,0:00:14.38,Default,,0,0,0,,\N{\k26}EXPENSIVE {\k41}THINGS,
+Dialogue: 0,0:00:14.72,0:00:15.41,Default,,0,0,0,,\N{\k16}AND {\k15}I'VE {\k20}MANAGED {\k17}TO
+Dialogue: 0,0:00:15.41,0:00:16.21,Default,,0,0,0,,\N{\k16}SAVE {\k17}ABOUT {\k16}FOUR {\k29}DOLLARS,
+Dialogue: 0,0:00:16.39,0:00:16.57,Default,,0,0,0,,\N{\k17}ZERO.
+Dialogue: 0,0:00:17.44,0:00:18.07,Default,,0,0,0,,\N{\k39}LAST {\k23}WEEK,
+Dialogue: 0,0:00:18.28,0:00:18.98,Default,,0,0,0,,\N{\k5}MY {\k14}MOM {\k25}ASKED {\k12}ME {\k12}TO
+Dialogue: 0,0:00:18.98,0:00:19.67,Default,,0,0,0,,\N{\k14}LOG {\k19}INTO {\k14}MY {\k21}BANKING
+Dialogue: 0,0:00:19.67,0:00:20.30,Default,,0,0,0,,\N{\k19}APP {\k12}TO {\k30}TRANSFER
+Dialogue: 0,0:00:20.30,0:00:21.00,Default,,0,0,0,,\N{\k25}MONEY {\k16}FOR {\k28}GROCERIES
+Dialogue: 0,0:00:21.00,0:00:21.66,Default,,0,0,0,,\N{\k33}BECAUSE {\k16}HER {\k16}CARD
+Dialogue: 0,0:00:21.66,0:00:22.19,Default,,0,0,0,,\N{\k28}WASN'T {\k25}WORKING.
+Dialogue: 0,0:00:23.10,0:00:23.78,Default,,0,0,0,,\N{\k7}A {\k14}WHILE {\k12}I {\k11}WAS {\k22}DOING
+Dialogue: 0,0:00:23.78,0:00:24.48,Default,,0,0,0,,\N{\k19}THAT, {\k8}SHE {\k16}SAW {\k16}MY
+Dialogue: 0,0:00:24.48,0:00:24.96,Default,,0,0,0,,\N{\k17}TOTAL {\k30}SAVINGS.
+Dialogue: 0,0:00:25.76,0:00:26.53,Default,,0,0,0,,\N{\k21}LATER {\k19}THAT {\k16}NIGHT {\k19}SHE
+Dialogue: 0,0:00:26.53,0:00:27.21,Default,,0,0,0,,\N{\k17}TOLD {\k16}ME {\k12}THAT {\k21}SINCE
+Dialogue: 0,0:00:27.21,0:00:27.85,Default,,0,0,0,,\N{\k16}I {\k12}LIVE {\k23}UNDER {\k12}HER
+Dialogue: 0,0:00:27.85,0:00:28.89,Default,,0,0,0,,\N{\k28}ROOF, {\k5}I
+Dialogue: 0,0:00:28.89,0:00:29.55,Default,,0,0,0,,\N{\k12}SHOULD {\k12}BE {\k41}CONTRIBUTING
+Dialogue: 0,0:00:29.55,0:00:30.28,Default,,0,0,0,,\N{\k24}MORE {\k16}AND {\k11}THAT {\k20}IT'S
+Dialogue: 0,0:00:30.28,0:00:31.07,Default,,0,0,0,,\N{\k16}SELFISH {\k19}TO {\k16}HOARD {\k27}MONEY
+Dialogue: 0,0:00:31.07,0:00:31.76,Default,,0,0,0,,\N{\k22}WHILE {\k21}SHE'S {\k24}STRUGGLING.
+Dialogue: 0,0:00:32.61,0:00:33.32,Default,,0,0,0,,\N{\k24}SHE {\k17}ASKED {\k16}ME {\k11}TO
+Dialogue: 0,0:00:33.32,0:00:34.24,Default,,0,0,0,,\N{\k7}GIVE {\k12}HER {\k13}TWO {\k24}DOLLARS, {\k12}ZERO
+Dialogue: 0,0:00:34.24,0:00:34.97,Default,,0,0,0,,\N{\k10}TO {\k11}HELP {\k14}THE {\k21}FAMILY {\k15}AND
+Dialogue: 0,0:00:34.97,0:00:35.64,Default,,0,0,0,,\N{\k16}SAID {\k10}I {\k14}COULD {\k25}ALWAYS
+Dialogue: 0,0:00:35.64,0:00:36.17,Default,,0,0,0,,\N{\k17}EARN {\k7}IT {\k28}BACK.
+Dialogue: 0,0:00:36.89,0:00:37.64,Default,,0,0,0,,\N{\k17}FOR {\k30}CONTEXT, {\k6}SHE
+Dialogue: 0,0:00:37.64,0:00:38.32,Default,,0,0,0,,\N{\k20}WORKS {\k47}FULL-TIME.
+Dialogue: 0,0:00:39.50,0:00:40.15,Default,,0,0,0,,\N{\k20}WE'RE {\k11}NOT {\k33}WEALTHY,
+Dialogue: 0,0:00:40.34,0:00:41.32,Default,,0,0,0,,\N{\k3}BUT {\k14}WE'RE {\k11}NOT {\k29}FACING {\k38}EVICTION
+Dialogue: 0,0:00:41.32,0:00:42.11,Default,,0,0,0,,\N{\k15}OR {\k30}ANYTHING {\k33}EXTREME.
+Dialogue: 0,0:00:43.00,0:00:43.78,Default,,0,0,0,,\N{\k11}I {\k24}ALREADY {\k21}COVERED {\k20}MY
+Dialogue: 0,0:00:43.78,0:00:44.52,Default,,0,0,0,,\N{\k10}OWN {\k21}SCHOOL {\k42}EXPENSES,
+Dialogue: 0,0:00:44.93,0:00:45.78,Default,,0,0,0,,\N{\k10}MY {\k20}PHONE {\k21}BILL, {\k6}AND
+Dialogue: 0,0:00:45.78,0:00:46.46,Default,,0,0,0,,\N{\k33}SOMETIMES {\k34}GROCERIES.
+Dialogue: 0,0:00:47.43,0:00:48.21,Default,,0,0,0,,\N{\k17}THE {\k20}MONEY {\k17}I {\k21}SAVED
+Dialogue: 0,0:00:48.21,0:00:48.96,Default,,0,0,0,,\N{\k10}WAS {\k14}MEANT {\k15}FOR {\k17}MOVING {\k16}OUT
+Dialogue: 0,0:00:48.96,0:00:49.61,Default,,0,0,0,,\N{\k43}EVENTUALLY {\k21}OFF
+Dialogue: 0,0:00:49.61,0:00:50.10,Default,,0,0,0,,\N{\k8}OF {\k39}EMERGENCY.
+Dialogue: 0,0:00:50.82,0:00:51.43,Default,,0,0,0,,\N{\k32}WHEN {\k10}I {\k19}TOLD
+Dialogue: 0,0:00:51.43,0:00:52.29,Default,,0,0,0,,\N{\k17}HER {\k8}I {\k21}WASN'T {\k37}COMFORTABLE
+Dialogue: 0,0:00:52.29,0:00:53.14,Default,,0,0,0,,\N{\k24}HANDING {\k30}OVER {\k29}HALF-WAY
+Dialogue: 0,0:00:53.14,0:00:53.84,Default,,0,0,0,,\N{\k32}SAVINGS, {\k8}SHE
+Dialogue: 0,0:00:53.84,0:00:54.56,Default,,0,0,0,,\N{\k17}CALLED {\k17}ME {\k35}UNGRATEFUL
+Dialogue: 0,0:00:54.56,0:00:55.32,Default,,0,0,0,,\N{\k23}AND {\k16}SAID {\k17}I'M {\k17}ACTING
+Dialogue: 0,0:00:55.32,0:00:56.14,Default,,0,0,0,,\N{\k20}LIKE {\k15}A {\k11}TENANT {\k34}INSTEAD
+Dialogue: 0,0:00:56.14,0:00:56.56,Default,,0,0,0,,\N{\k17}OF {\k3}A {\k20}DAUGHTER.
+Dialogue: 0,0:00:57.31,0:00:57.92,Default,,0,0,0,,\N{\k34}NOW {\k26}SOME
+Dialogue: 0,0:00:57.92,0:00:58.67,Default,,0,0,0,,\N{\k33}RELATIVES {\k24}ARE {\k17}SAYING
+Dialogue: 0,0:00:58.67,0:00:59.34,Default,,0,0,0,,\N{\k17}THAT {\k24}FAMILY {\k24}HELPED
+Dialogue: 0,0:00:59.34,0:01:00.00,Default,,0,0,0,,\N{\k31}FAMILY {\k24}AND {\k10}THAT
+Dialogue: 0,0:01:00.00,0:01:00.65,Default,,0,0,0,,\N{\k10}I {\k11}SHOULD {\k16}JUST {\k14}GIVE {\k13}HER
+Dialogue: 0,0:01:00.65,0:01:00.96,Default,,0,0,0,,\N{\k8}THE {\k21}MONEY.
+Dialogue: 0,0:01:01.56,0:01:02.29,Default,,0,0,0,,\N{\k23}BUT {\k12}IT {\k15}FEELS {\k21}LIKE
+Dialogue: 0,0:01:02.29,0:01:02.89,Default,,0,0,0,,\N{\k16}THIS {\k15}ONLY {\k28}BECAME
+Dialogue: 0,0:01:02.89,0:01:03.65,Default,,0,0,0,,\N{\k14}AN {\k17}ISSUE {\k24}ONCE {\k19}SHE
+Dialogue: 0,0:01:03.65,0:01:04.29,Default,,0,0,0,,\N{\k24}REALIZED {\k22}HOW {\k17}MUCH
+Dialogue: 0,0:01:04.29,0:01:04.68,Default,,0,0,0,,\N{\k10}I {\k7}HAD {\k20}SAVED.
+Dialogue: 0,0:01:05.87,0:01:06.64,Default,,0,0,0,,\N{\k30}I'M {\k13}NOT {\k32}REFUSING
+Dialogue: 0,0:01:06.64,0:01:07.34,Default,,0,0,0,,\N{\k15}TO {\k7}HAVE {\k4}A {\k14}HELP, {\k7}I {\k12}JUST
+Dialogue: 0,0:01:07.34,0:01:08.00,Default,,0,0,0,,\N{\k17}DON'T {\k14}WANT {\k10}TO {\k9}GIVE {\k14}UP
+Dialogue: 0,0:01:08.00,0:01:08.68,Default,,0,0,0,,\N{\k14}HALF {\k9}OF {\k30}EVERYTHING {\k14}I
+Dialogue: 0,0:01:08.68,0:01:09.06,Default,,0,0,0,,\N{\k25}WORKED {\k12}FOR.

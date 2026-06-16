@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.46,0:00:06.33,Default,,0,0,0,,\N{\k43}I'M {\k43}19M
+Dialogue: 0,0:00:06.33,0:00:07.09,Default,,0,0,0,,\N{\k28}AND {\k12}HAVE {\k12}BEEN {\k23}TRADING
+Dialogue: 0,0:00:07.09,0:00:07.75,Default,,0,0,0,,\N{\k22}FOR {\k5}A {\k13}FEW {\k24}MONTHS.
+Dialogue: 0,0:00:08.59,0:00:09.90,Default,,0,0,0,,\N{\k30}I'M {\k8}UP {\k21}AROUND {\k70}15%,
+Dialogue: 0,0:00:09.90,0:00:10.66,Default,,0,0,0,,\N{\k37}NOTHING {\k38}CRAZY,
+Dialogue: 0,0:00:10.92,0:00:11.67,Default,,0,0,0,,\N{\k8}BUT {\k24}DECENT {\k17}FOR {\k25}STARTING
+Dialogue: 0,0:00:11.67,0:00:11.90,Default,,0,0,0,,\N{\k22}OUT.
+Dialogue: 0,0:00:12.88,0:00:14.00,Default,,0,0,0,,\N{\k8}MY {\k27}SISTER {\k75}22F
+Dialogue: 0,0:00:14.00,0:00:14.72,Default,,0,0,0,,\N{\k25}NOTICED {\k22}AN {\k8}ASS {\k16}WHICH
+Dialogue: 0,0:00:14.72,0:00:15.38,Default,,0,0,0,,\N{\k16}SHE {\k11}SHOULD {\k11}DO {\k16}WITH {\k10}HER
+Dialogue: 0,0:00:15.38,0:00:15.67,Default,,0,0,0,,\N{\k29}SAVINGS.
+Dialogue: 0,0:00:16.60,0:00:17.33,Default,,0,0,0,,\N{\k7}I {\k19}TOLD {\k17}HER {\k14}SHE {\k14}COULD
+Dialogue: 0,0:00:17.33,0:00:18.01,Default,,0,0,0,,\N{\k10}LOOK {\k19}INTO {\k16}GOLD {\k21}SINCE
+Dialogue: 0,0:00:18.01,0:00:18.85,Default,,0,0,0,,\N{\k17}IT'S {\k24}GENERALLY {\k41}CONSIDERED
+Dialogue: 0,0:00:18.85,0:00:19.50,Default,,0,0,0,,\N{\k19}MORE {\k24}STABLE {\k19}THAN
+Dialogue: 0,0:00:19.50,0:00:20.14,Default,,0,0,0,,\N{\k16}LESS {\k28}VOLATILE {\k19}THAN
+Dialogue: 0,0:00:20.14,0:00:20.87,Default,,0,0,0,,\N{\k9}A {\k10}LOT {\k16}OF {\k19}STOCKS {\k17}OR
+Dialogue: 0,0:00:20.87,0:00:21.12,Default,,0,0,0,,\N{\k24}CRYPTO.
+Dialogue: 0,0:00:21.82,0:00:22.48,Default,,0,0,0,,\N{\k21}I {\k22}DIDN'T {\k11}TELL {\k10}HER
+Dialogue: 0,0:00:22.48,0:00:23.19,Default,,0,0,0,,\N{\k14}TO {\k16}GO {\k19}ALL {\k21}IN,
+Dialogue: 0,0:00:23.50,0:00:24.19,Default,,0,0,0,,\N{\k10}JUST {\k21}SAID {\k16}IT'S {\k21}USUALLY
+Dialogue: 0,0:00:24.19,0:00:24.92,Default,,0,0,0,,\N{\k30}SEEN {\k16}AS {\k7}A {\k18}SAFE
+Dialogue: 0,0:00:24.92,0:00:25.64,Default,,0,0,0,,\N{\k43}INVESTMENT {\k28}COMPARED
+Dialogue: 0,0:00:25.64,0:00:26.50,Default,,0,0,0,,\N{\k17}TO {\k12}HIGHER {\k25}RISK {\k30}ASSETS.
+Dialogue: 0,0:00:27.17,0:00:27.96,Default,,0,0,0,,\N{\k39}SHE {\k18}BOUGHT {\k19}GOLD
+Dialogue: 0,0:00:27.96,0:00:28.94,Default,,0,0,0,,\N{\k17}ON {\k32}JANUARY {\k48}22.
+Dialogue: 0,0:00:29.83,0:00:30.50,Default,,0,0,0,,\N{\k8}THE {\k13}PRICE {\k30}TICKED {\k6}UP {\k7}A
+Dialogue: 0,0:00:30.50,0:00:31.16,Default,,0,0,0,,\N{\k16}BIT {\k21}SO {\k14}SHE {\k14}FELT
+Dialogue: 0,0:00:31.16,0:00:31.83,Default,,0,0,0,,\N{\k35}CONFIDENT {\k17}AND {\k14}BOUGHT
+Dialogue: 0,0:00:31.83,0:00:33.06,Default,,0,0,0,,\N{\k22}MORE {\k14}ON {\k23}JANUARY {\k62}27.
+Dialogue: 0,0:00:33.96,0:00:34.57,Default,,0,0,0,,\N{\k11}IN {\k30}TOTAL {\k19}SHE
+Dialogue: 0,0:00:34.57,0:00:35.56,Default,,0,0,0,,\N{\k14}PUT {\k12}IN {\k29}$10, {\k20}0.
+Dialogue: 0,0:00:36.35,0:00:37.03,Default,,0,0,0,,\N{\k39}RIGHT {\k28}AFTER
+Dialogue: 0,0:00:37.03,0:00:37.74,Default,,0,0,0,,\N{\k16}THAT {\k15}THE {\k17}PRICE {\k20}DROPPED
+Dialogue: 0,0:00:37.74,0:00:38.50,Default,,0,0,0,,\N{\k28}AROUND {\k21}10 {\k25}%
+Dialogue: 0,0:00:38.50,0:00:39.15,Default,,0,0,0,,\N{\k15}IN {\k18}ABOUT {\k11}A {\k19}WEEK.
+Dialogue: 0,0:00:39.92,0:00:40.70,Default,,0,0,0,,\N{\k17}SHE {\k35}PANICKED {\k24}BECAUSE
+Dialogue: 0,0:00:40.70,0:00:41.38,Default,,0,0,0,,\N{\k37}$10 {\k30}WAS
+Dialogue: 0,0:00:41.38,0:00:42.14,Default,,0,0,0,,\N{\k11}A {\k14}LOT {\k14}OF {\k17}MONEY {\k17}FOR
+Dialogue: 0,0:00:42.14,0:00:42.29,Default,,0,0,0,,\N{\k15}HER.
+Dialogue: 0,0:00:43.00,0:00:43.75,Default,,0,0,0,,\N{\k11}ON {\k32}FEBRUARY {\k32}1,
+Dialogue: 0,0:00:44.07,0:00:44.84,Default,,0,0,0,,\N{\k7}SHE {\k20}SOLD {\k48}EVERYTHING,
+Dialogue: 0,0:00:45.03,0:00:45.88,Default,,0,0,0,,\N{\k17}LOCKING {\k16}IN {\k5}A {\k44}$1,
+Dialogue: 0,0:00:46.24,0:00:46.74,Default,,0,0,0,,\N{\k14}0 {\k35}LOSS.
+Dialogue: 0,0:00:47.57,0:00:48.34,Default,,0,0,0,,\N{\k39}NOT {\k10}LONG {\k26}AFTER
+Dialogue: 0,0:00:48.34,0:00:49.11,Default,,0,0,0,,\N{\k17}SHE {\k23}SOLD, {\k3}THE
+Dialogue: 0,0:00:49.11,0:00:49.74,Default,,0,0,0,,\N{\k20}PRICE {\k42}REBOUNDED
+Dialogue: 0,0:00:49.74,0:00:50.34,Default,,0,0,0,,\N{\k11}AND {\k14}IS {\k14}NOW {\k20}HIGHER
+Dialogue: 0,0:00:50.34,0:00:51.15,Default,,0,0,0,,\N{\k11}THAN {\k15}WHEN {\k17}SHE {\k35}ORIGINALLY
+Dialogue: 0,0:00:51.15,0:00:51.38,Default,,0,0,0,,\N{\k22}BOUGHT.
+Dialogue: 0,0:00:52.28,0:00:52.93,Default,,0,0,0,,\N{\k19}NOW {\k17}SHE {\k14}WANTS {\k14}ME
+Dialogue: 0,0:00:52.93,0:00:53.64,Default,,0,0,0,,\N{\k12}TO {\k14}PAY {\k14}HER {\k13}BACK {\k16}THE
+Dialogue: 0,0:00:53.64,0:00:54.34,Default,,0,0,0,,\N{\k35}$1, {\k12}0.
+Dialogue: 0,0:00:55.02,0:00:55.92,Default,,0,0,0,,\N{\k39}SHE {\k19}SAYS {\k30}I'M
+Dialogue: 0,0:00:55.92,0:00:56.84,Default,,0,0,0,,\N{\k7}A {\k15}SLID {\k12}TO {\k14}BY {\k42}DESCRIBING
+Dialogue: 0,0:00:56.84,0:00:57.56,Default,,0,0,0,,\N{\k23}GOLD {\k17}AS {\k8}A {\k21}STABLE
+Dialogue: 0,0:00:57.56,0:00:58.20,Default,,0,0,0,,\N{\k43}WINETROP {\k20}THAT
+Dialogue: 0,0:00:58.20,0:00:59.07,Default,,0,0,0,,\N{\k14}MUCH {\k13}IN {\k6}A {\k16}SHORT {\k37}PERIOD.
+Dialogue: 0,0:00:59.78,0:01:00.42,Default,,0,0,0,,\N{\k24}SHE {\k21}CLAIMS {\k17}SHE
+Dialogue: 0,0:01:00.42,0:01:01.06,Default,,0,0,0,,\N{\k17}WOULDN'T {\k14}HAVE {\k32}INVESTED
+Dialogue: 0,0:01:01.06,0:01:01.70,Default,,0,0,0,,\N{\k19}SO {\k21}HEAVILY {\k16}IF {\k6}I
+Dialogue: 0,0:01:01.70,0:01:02.39,Default,,0,0,0,,\N{\k23}HADN'T {\k17}MADE {\k12}IT {\k15}DOWN
+Dialogue: 0,0:01:02.39,0:01:02.84,Default,,0,0,0,,\N{\k16}LOW {\k28}RISK.
+Dialogue: 0,0:01:03.46,0:01:04.14,Default,,0,0,0,,\N{\k24}I {\k17}TOLD {\k16}HER {\k9}THAT
+Dialogue: 0,0:01:04.14,0:01:04.85,Default,,0,0,0,,\N{\k31}STABLE {\k28}DOESN'T {\k12}MEAN
+Dialogue: 0,0:01:04.85,0:01:05.73,Default,,0,0,0,,\N{\k21}NEVER {\k20}GOES {\k17}DOWN {\k28}AND
+Dialogue: 0,0:01:05.73,0:01:06.54,Default,,0,0,0,,\N{\k12}THAT {\k21}MARKET {\k15}TO {\k30}FLUCTUATE.
+Dialogue: 0,0:01:07.26,0:01:08.00,Default,,0,0,0,,\N{\k28}I {\k17}ALSO {\k28}POINTED
+Dialogue: 0,0:01:08.00,0:01:08.65,Default,,0,0,0,,\N{\k21}OUT {\k14}THAT {\k15}SHE {\k14}MADE
+Dialogue: 0,0:01:08.65,0:01:09.35,Default,,0,0,0,,\N{\k12}THE {\k21}DECISION {\k21}TO {\k14}SELL
+Dialogue: 0,0:01:09.35,0:01:10.06,Default,,0,0,0,,\N{\k23}DURING {\k12}A {\k9}DIP {\k24}RATHER
+Dialogue: 0,0:01:10.06,0:01:10.50,Default,,0,0,0,,\N{\k15}THAN {\k28}HOLDING.
+Dialogue: 0,0:01:11.34,0:01:11.95,Default,,0,0,0,,\N{\k15}I {\k26}DIDN'T {\k19}FORCE
+Dialogue: 0,0:01:11.95,0:01:12.76,Default,,0,0,0,,\N{\k1}HER {\k24}TO {\k20}INVEST {\k35}$10
+Dialogue: 0,0:01:12.76,0:01:13.43,Default,,0,0,0,,\N{\k57}AND {\k9}I
+Dialogue: 0,0:01:13.43,0:01:14.09,Default,,0,0,0,,\N{\k32}DEFINITELY {\k33}DIDN'T
+Dialogue: 0,0:01:14.09,0:01:14.81,Default,,0,0,0,,\N{\k12}TELL {\k6}HER {\k12}TO {\k19}PANIC {\k21}SELL.
+Dialogue: 0,0:01:15.65,0:01:16.54,Default,,0,0,0,,\N{\k24}MY {\k23}MOM, {\k14}THOUGH,
+Dialogue: 0,0:01:16.70,0:01:17.31,Default,,0,0,0,,\N{\k9}THINKS {\k26}I'M {\k6}IN {\k9}THE {\k9}RUN
+Dialogue: 0,0:01:17.31,0:01:17.95,Default,,0,0,0,,\N{\k16}FOR {\k11}GIVING {\k35}FINANCIAL
+Dialogue: 0,0:01:17.95,0:01:18.68,Default,,0,0,0,,\N{\k38}ADVICE {\k15}WHEN {\k18}I'M
+Dialogue: 0,0:01:18.68,0:01:19.48,Default,,0,0,0,,\N{\k11}NOT {\k42}QUALIFIED {\k26}AND
+Dialogue: 0,0:01:19.48,0:01:20.23,Default,,0,0,0,,\N{\k11}SAYS {\k18}IT'S {\k29}PARTIALLY {\k15}MY
+Dialogue: 0,0:01:20.23,0:01:21.04,Default,,0,0,0,,\N{\k18}FAULT {\k17}SHE {\k14}LOST {\k30}MONEY.
+Dialogue: 0,0:01:21.84,0:01:22.45,Default,,0,0,0,,\N{\k43}SO {\k17}NOW
+Dialogue: 0,0:01:22.45,0:01:23.14,Default,,0,0,0,,\N{\k18}I'M {\k15}STUCK {\k34}WONDERING
+Dialogue: 0,0:01:23.14,0:01:24.20,Default,,0,0,0,,\N{\k45}WAS {\k14}THERE {\k46}RESPONSIBLE
+Dialogue: 0,0:01:24.20,0:01:25.07,Default,,0,0,0,,\N{\k21}FOR {\k17}CALLING {\k20}GOLD {\k28}STABLE
+Dialogue: 0,0:01:25.07,0:01:25.76,Default,,0,0,0,,\N{\k21}AND {\k20}GIVING {\k26}INPUT
+Dialogue: 0,0:01:25.76,0:01:26.40,Default,,0,0,0,,\N{\k15}AT {\k14}ALL {\k23}OR {\k10}IS
+Dialogue: 0,0:01:26.40,0:01:27.14,Default,,0,0,0,,\N{\k9}SHE {\k42}RESPONSIBLE {\k21}FOR
+Dialogue: 0,0:01:27.14,0:01:28.09,Default,,0,0,0,,\N{\k12}HER {\k15}OWN {\k29}INVESTMENT {\k37}DECISIONS
+Dialogue: 0,0:01:28.09,0:01:28.81,Default,,0,0,0,,\N{\k21}IN {\k20}PANIC {\k29}SELLING?

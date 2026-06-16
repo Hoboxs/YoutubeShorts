@@ -1,0 +1,121 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.39,0:00:04.13,Default,,0,0,0,,\N{\k24}I {\k13}AM {\k8}A {\k27}TWENTY
+Dialogue: 0,0:00:04.13,0:00:04.83,Default,,0,0,0,,\N{\k20}YEAR {\k16}OLD {\k17}MAN {\k16}WHO
+Dialogue: 0,0:00:04.83,0:00:05.55,Default,,0,0,0,,\N{\k16}HAS {\k17}BEEN {\k22}PAYING {\k15}ON
+Dialogue: 0,0:00:05.55,0:00:06.17,Default,,0,0,0,,\N{\k8}A {\k10}CAR {\k20}LOAN {\k23}TIED
+Dialogue: 0,0:00:06.17,0:00:06.87,Default,,0,0,0,,\N{\k18}TO {\k9}MY {\k24}PARENTS {\k17}SINCE
+Dialogue: 0,0:00:06.87,0:00:07.58,Default,,0,0,0,,\N{\k16}I {\k13}WAS {\k40}SEVENTEEN.
+Dialogue: 0,0:00:08.24,0:00:08.96,Default,,0,0,0,,\N{\k11}FOR {\k12}MY {\k27}BIRTHDAY {\k20}BACK
+Dialogue: 0,0:00:08.96,0:00:09.77,Default,,0,0,0,,\N{\k25}THEN, {\k8}MY {\k25}MOTHER
+Dialogue: 0,0:00:09.77,0:00:10.53,Default,,0,0,0,,\N{\k16}GAVE {\k16}ME {\k12}WHAT {\k11}SHE {\k19}CALLED
+Dialogue: 0,0:00:10.53,0:00:11.32,Default,,0,0,0,,\N{\k14}A {\k20}GIFT, {\k8}A {\k20}BRAND-NEW
+Dialogue: 0,0:00:11.32,0:00:12.03,Default,,0,0,0,,\N{\k16}SEDAN {\k16}THAT {\k13}I {\k25}ASSUMED
+Dialogue: 0,0:00:12.03,0:00:12.66,Default,,0,0,0,,\N{\k30}WAS {\k32}REASONABLY
+Dialogue: 0,0:00:12.66,0:00:13.35,Default,,0,0,0,,\N{\k27}PRICED {\k28}BECAUSE {\k13}HER
+Dialogue: 0,0:00:13.35,0:00:14.22,Default,,0,0,0,,\N{\k12}THEN {\k33}PARTNER, {\k10}WHO
+Dialogue: 0,0:00:14.22,0:00:14.83,Default,,0,0,0,,\N{\k19}CLAIMED {\k14}TO {\k8}BE {\k5}GIVE {\k14}UP
+Dialogue: 0,0:00:14.83,0:00:15.53,Default,,0,0,0,,\N{\k1}FOR {\k24}MONEY, {\k12}HANDED {\k15}THE
+Dialogue: 0,0:00:15.53,0:00:16.23,Default,,0,0,0,,\N{\k38}DEALERSHIP {\k31}PAPERWORK.
+Dialogue: 0,0:00:16.82,0:00:17.57,Default,,0,0,0,,\N{\k30}I {\k23}LATER {\k21}LEARNED
+Dialogue: 0,0:00:17.57,0:00:18.35,Default,,0,0,0,,\N{\k14}THE {\k12}CAR {\k16}WAS {\k35}FINANCED
+Dialogue: 0,0:00:18.35,0:00:19.10,Default,,0,0,0,,\N{\k14}FOR {\k16}NEARLY {\k28}DOUBLE {\k16}ITS
+Dialogue: 0,0:00:19.10,0:00:19.71,Default,,0,0,0,,\N{\k32}ORIGINAL {\k29}VALUE,
+Dialogue: 0,0:00:19.92,0:00:20.53,Default,,0,0,0,,\N{\k9}WITH {\k12}NO {\k19}MONEY {\k19}DOWN
+Dialogue: 0,0:00:20.53,0:00:21.17,Default,,0,0,0,,\N{\k10}IN {\k9}A {\k16}HIGH {\k28}INTEREST
+Dialogue: 0,0:00:21.17,0:00:21.80,Default,,0,0,0,,\N{\k26}RATE {\k21}BECAUSE {\k14}MY
+Dialogue: 0,0:00:21.80,0:00:22.51,Default,,0,0,0,,\N{\k21}MOTHER {\k17}WAS {\k32}UNEMPLOYED
+Dialogue: 0,0:00:22.51,0:00:23.17,Default,,0,0,0,,\N{\k17}AND {\k14}HAD {\k33}PERCREDIT
+Dialogue: 0,0:00:23.17,0:00:23.64,Default,,0,0,0,,\N{\k17}AT {\k8}THE {\k19}TIME.
+Dialogue: 0,0:00:24.30,0:00:24.92,Default,,0,0,0,,\N{\k12}THE {\k21}MONTHLY {\k28}PAYMENT
+Dialogue: 0,0:00:24.92,0:00:25.66,Default,,0,0,0,,\N{\k19}WAS {\k25}ENORMOUS, {\k3}BUT
+Dialogue: 0,0:00:25.66,0:00:26.26,Default,,0,0,0,,\N{\k12}THE {\k23}AGREEMENT {\k24}WAS
+Dialogue: 0,0:00:26.26,0:00:26.96,Default,,0,0,0,,\N{\k7}THAT {\k16}I {\k14}WAS {\k12}SPLIT {\k19}WITH
+Dialogue: 0,0:00:26.96,0:00:27.37,Default,,0,0,0,,\N{\k7}HER {\k33}PARTNER.
+Dialogue: 0,0:00:27.83,0:00:28.51,Default,,0,0,0,,\N{\k35}THAT {\k32}ARRANGEMENT
+Dialogue: 0,0:00:28.51,0:00:29.19,Default,,0,0,0,,\N{\k35}LASTED {\k32}ONLY
+Dialogue: 0,0:00:29.19,0:00:29.94,Default,,0,0,0,,\N{\k12}A {\k12}FEW {\k13}MONTHS {\k36}BEFORE
+Dialogue: 0,0:00:29.94,0:00:30.73,Default,,0,0,0,,\N{\k16}I {\k16}WAS {\k11}LEFT {\k35}COVERING
+Dialogue: 0,0:00:30.73,0:00:31.55,Default,,0,0,0,,\N{\k16}THE {\k14}FULL {\k24}PAYMENT {\k27}ALONE
+Dialogue: 0,0:00:31.55,0:00:32.24,Default,,0,0,0,,\N{\k33}WHICH {\k14}I {\k10}HAVE {\k10}DONE
+Dialogue: 0,0:00:32.24,0:00:32.82,Default,,0,0,0,,\N{\k28}EVER {\k29}SINCE.
+Dialogue: 0,0:00:33.35,0:00:34.11,Default,,0,0,0,,\N{\k24}WHEN {\k11}I {\k14}WAS {\k25}NINETEEN,
+Dialogue: 0,0:00:34.39,0:00:35.02,Default,,0,0,0,,\N{\k6}I {\k17}TRIED {\k14}TO {\k10}MOVE {\k14}THE
+Dialogue: 0,0:00:35.02,0:00:35.64,Default,,0,0,0,,\N{\k11}LOAN {\k28}FULLY {\k21}INTO
+Dialogue: 0,0:00:35.64,0:00:36.29,Default,,0,0,0,,\N{\k11}MY {\k17}NAME, {\k7}BUT
+Dialogue: 0,0:00:36.29,0:00:36.89,Default,,0,0,0,,\N{\k10}THE {\k16}BANK {\k33}EXPLAINED
+Dialogue: 0,0:00:36.89,0:00:37.60,Default,,0,0,0,,\N{\k17}THAT {\k52}REFINANCING
+Dialogue: 0,0:00:37.60,0:00:38.21,Default,,0,0,0,,\N{\k17}WOULD {\k25}INCREASE {\k17}THE
+Dialogue: 0,0:00:38.21,0:00:39.20,Default,,0,0,0,,\N{\k24}TOTAL {\k17}COST {\k56}SIGNIFICANTLY,
+Dialogue: 0,0:00:39.56,0:00:40.28,Default,,0,0,0,,\N{\k9}SO {\k20}WE {\k20}BOTH {\k21}AGREED
+Dialogue: 0,0:00:40.28,0:00:40.88,Default,,0,0,0,,\N{\k17}NOT {\k14}TO {\k11}DO {\k16}IT.
+Dialogue: 0,0:00:41.43,0:00:42.15,Default,,0,0,0,,\N{\k20}I {\k11}HAVE {\k16}SINCE {\k23}MOVED
+Dialogue: 0,0:00:42.15,0:00:42.79,Default,,0,0,0,,\N{\k24}OUT, {\k7}SHARE {\k14}AN
+Dialogue: 0,0:00:42.79,0:00:43.46,Default,,0,0,0,,\N{\k30}APARTMENT, {\k3}AND
+Dialogue: 0,0:00:43.46,0:00:44.17,Default,,0,0,0,,\N{\k6}AM {\k27}STRUGGLING {\k24}MORE {\k14}WITH
+Dialogue: 0,0:00:44.17,0:00:44.57,Default,,0,0,0,,\N{\k39}EXPENSES.
+Dialogue: 0,0:00:45.38,0:00:46.06,Default,,0,0,0,,\N{\k23}AFTER {\k17}SOME {\k26}ADVICE
+Dialogue: 0,0:00:46.06,0:00:46.84,Default,,0,0,0,,\N{\k15}FROM {\k20}PEOPLE {\k17}AROUND {\k24}ME,
+Dialogue: 0,0:00:47.00,0:00:47.65,Default,,0,0,0,,\N{\k7}I {\k32}STARTED {\k25}LOOKING
+Dialogue: 0,0:00:47.65,0:00:48.38,Default,,0,0,0,,\N{\k18}FOR {\k5}A {\k14}MORE {\k34}AFFORDABLE
+Dialogue: 0,0:00:48.38,0:00:49.00,Default,,0,0,0,,\N{\k32}VEHICLE {\k11}AND {\k17}FOUND
+Dialogue: 0,0:00:49.00,0:00:49.61,Default,,0,0,0,,\N{\k11}A {\k20}LIKELY {\k29}USE
+Dialogue: 0,0:00:49.61,0:00:50.25,Default,,0,0,0,,\N{\k22}COMPACT {\k25}CAR {\k15}THAT
+Dialogue: 0,0:00:50.25,0:00:50.96,Default,,0,0,0,,\N{\k14}COSTS {\k21}FAR {\k16}LESS {\k17}THAN
+Dialogue: 0,0:00:50.96,0:00:51.74,Default,,0,0,0,,\N{\k15}WHAT {\k24}I {\k14}AM {\k24}STILL
+Dialogue: 0,0:00:51.74,0:00:52.32,Default,,0,0,0,,\N{\k32}PAYING {\k25}OFF.
+Dialogue: 0,0:00:52.78,0:00:53.43,Default,,0,0,0,,\N{\k28}I {\k19}TOLD {\k17}MY
+Dialogue: 0,0:00:53.43,0:00:54.11,Default,,0,0,0,,\N{\k24}MOTHER {\k17}I {\k25}PLANTED
+Dialogue: 0,0:00:54.11,0:00:54.74,Default,,0,0,0,,\N{\k22}BITE {\k15}AND {\k10}THAT {\k14}SHE
+Dialogue: 0,0:00:54.74,0:00:55.35,Default,,0,0,0,,\N{\k11}COULD {\k20}DECIDE {\k29}WHETHER
+Dialogue: 0,0:00:55.35,0:00:56.10,Default,,0,0,0,,\N{\k14}TO {\k15}SELL {\k14}THE {\k30}ORIGINAL
+Dialogue: 0,0:00:56.10,0:00:57.06,Default,,0,0,0,,\N{\k19}CAR {\k28}HERSELF, {\k16}WHICH
+Dialogue: 0,0:00:57.06,0:00:57.71,Default,,0,0,0,,\N{\k28}IMMEDIATELY {\k23}LED {\k14}TO
+Dialogue: 0,0:00:57.71,0:00:58.06,Default,,0,0,0,,\N{\k3}A {\k30}BLOW-UP.
+Dialogue: 0,0:00:58.67,0:00:59.35,Default,,0,0,0,,\N{\k16}SHE {\k27}INSISTED {\k24}THAT
+Dialogue: 0,0:00:59.35,0:01:00.17,Default,,0,0,0,,\N{\k10}THE {\k1}CAR {\k11}WAS {\k7}MY {\k52}RESPONSIBILITY
+Dialogue: 0,0:01:00.17,0:01:00.79,Default,,0,0,0,,\N{\k38}BECAUSE {\k14}IT {\k9}WAS
+Dialogue: 0,0:01:00.79,0:01:01.74,Default,,0,0,0,,\N{\k8}A {\k25}GIF. {\k30}CLAIMS
+Dialogue: 0,0:01:01.74,0:01:02.34,Default,,0,0,0,,\N{\k5}SHE {\k12}DID {\k11}ME {\k7}A {\k22}FAVOUR
+Dialogue: 0,0:01:02.34,0:01:02.96,Default,,0,0,0,,\N{\k17}BY {\k19}KEEPING {\k24}THE
+Dialogue: 0,0:01:02.96,0:01:03.71,Default,,0,0,0,,\N{\k14}LOAN {\k11}IN {\k12}HER {\k11}NAME {\k25}AND
+Dialogue: 0,0:01:03.71,0:01:04.37,Default,,0,0,0,,\N{\k32}DEMANDED {\k15}I {\k17}EMPTY
+Dialogue: 0,0:01:04.37,0:01:05.01,Default,,0,0,0,,\N{\k14}MY {\k24}SAVINGS {\k25}TO
+Dialogue: 0,0:01:05.01,0:01:05.65,Default,,0,0,0,,\N{\k29}CONTINUE {\k18}PAYING {\k15}FOR
+Dialogue: 0,0:01:05.65,0:01:05.85,Default,,0,0,0,,\N{\k20}IT.
+Dialogue: 0,0:01:06.45,0:01:07.15,Default,,0,0,0,,\N{\k16}WHAT {\k15}MAKES {\k17}THIS {\k20}HARDER
+Dialogue: 0,0:01:07.15,0:01:07.79,Default,,0,0,0,,\N{\k28}IS {\k12}THAT {\k15}SHE {\k7}IS
+Dialogue: 0,0:01:07.79,0:01:09.00,Default,,0,0,0,,\N{\k18}NEARLY {\k33}DIVORCED, {\k42}UNEMPLOYED,
+Dialogue: 0,0:01:09.28,0:01:10.04,Default,,0,0,0,,\N{\k3}AND {\k36}SUPPORTING {\k19}TWO {\k16}YOUNG
+Dialogue: 0,0:01:10.04,0:01:10.42,Default,,0,0,0,,\N{\k11}THE {\k26}CHILDREN.
+Dialogue: 0,0:01:11.15,0:01:11.78,Default,,0,0,0,,\N{\k18}I {\k20}FEEL {\k23}TORN
+Dialogue: 0,0:01:11.78,0:01:12.64,Default,,0,0,0,,\N{\k21}BETWEEN {\k37}BELIEVING {\k26}I
+Dialogue: 0,0:01:12.64,0:01:13.31,Default,,0,0,0,,\N{\k17}SHOULD {\k12}NOT {\k12}BE {\k25}FINANCIALLY
+Dialogue: 0,0:01:13.31,0:01:14.12,Default,,0,0,0,,\N{\k28}TRAPPED {\k21}BY {\k8}A {\k21}DECISION
+Dialogue: 0,0:01:14.12,0:01:14.85,Default,,0,0,0,,\N{\k23}I {\k14}DID {\k18}NOT {\k17}MAKE
+Dialogue: 0,0:01:14.85,0:01:15.57,Default,,0,0,0,,\N{\k20}OR {\k34}UNDERSTAND {\k17}AS
+Dialogue: 0,0:01:15.57,0:01:16.42,Default,,0,0,0,,\N{\k35}SEVENTEEN, {\k6}AND
+Dialogue: 0,0:01:16.42,0:01:17.18,Default,,0,0,0,,\N{\k23}FEELING {\k34}GUILTY {\k18}FOR
+Dialogue: 0,0:01:17.18,0:01:17.93,Default,,0,0,0,,\N{\k17}LEAVING {\k20}HER {\k12}WITH {\k1}A {\k23}MASSIVE
+Dialogue: 0,0:01:17.93,0:01:18.56,Default,,0,0,0,,\N{\k21}DEBT {\k24}DURING {\k15}A
+Dialogue: 0,0:01:18.56,0:01:19.31,Default,,0,0,0,,\N{\k20}VERY {\k28}VULNERABLE {\k27}TIME
+Dialogue: 0,0:01:19.31,0:01:19.78,Default,,0,0,0,,\N{\k14}IN {\k8}HER {\k23}LIFE.
+Dialogue: 0,0:01:20.40,0:01:21.06,Default,,0,0,0,,\N{\k19}I {\k10}AM {\k20}TRYING {\k15}TO
+Dialogue: 0,0:01:21.06,0:01:21.98,Default,,0,0,0,,\N{\k21}FIGURE {\k17}OUT {\k16}WHETHER {\k35}PROTECTING
+Dialogue: 0,0:01:21.98,0:01:22.79,Default,,0,0,0,,\N{\k35}MYSELF {\k45}FINANCIALLY
+Dialogue: 0,0:01:22.79,0:01:23.51,Default,,0,0,0,,\N{\k21}MAKES {\k20}ME {\k29}HEARTLESS
+Dialogue: 0,0:01:23.51,0:01:24.21,Default,,0,0,0,,\N{\k18}OR {\k20}WHETHER {\k17}IT {\k14}IS
+Dialogue: 0,0:01:24.21,0:01:25.04,Default,,0,0,0,,\N{\k34}REASONABLE {\k17}TO {\k30}FINALLY
+Dialogue: 0,0:01:25.04,0:01:25.65,Default,,0,0,0,,\N{\k19}STEP {\k21}AWAY {\k20}FROM
+Dialogue: 0,0:01:25.65,0:01:26.28,Default,,0,0,0,,\N{\k10}A {\k11}BED {\k14}AND {\k7}THAT {\k18}NEVER
+Dialogue: 0,0:01:26.28,0:01:26.93,Default,,0,0,0,,\N{\k20}SHOULD {\k14}HAVE {\k14}BEEN {\k17}MINE
+Dialogue: 0,0:01:26.93,0:01:27.56,Default,,0,0,0,,\N{\k15}TO {\k20}BEGIN {\k26}WITH.

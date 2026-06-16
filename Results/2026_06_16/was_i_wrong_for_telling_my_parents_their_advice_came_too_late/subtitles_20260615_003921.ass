@@ -1,0 +1,194 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.14,0:00:04.13,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}WHEN {\k7}I {\k22}FINISHED {\k20}HIGH {\k21}SCHOOL,
+Dialogue: 0,0:00:04.13,0:00:04.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}MY {\k28}PARENTS {\k16}MADE {\k12}A
+Dialogue: 0,0:00:04.78,0:00:05.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HUGE {\k17}DEAL {\k16}OUT {\k5}OF {\k10}IT.
+Dialogue: 0,0:00:05.82,0:00:06.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THERE {\k11}WAS {\k6}A {\k40}CELEBRATION,
+Dialogue: 0,0:00:06.94,0:00:08.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}SPEECHES, {\k20}PHOTOS, {\k9}AND {\k19}PLENTY
+Dialogue: 0,0:00:08.69,0:00:09.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}OF {\k11}TALK {\k22}ABOUT {\k16}HOW
+Dialogue: 0,0:00:09.38,0:00:10.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}PROUD {\k18}THEY {\k9}WERE {\k11}OF {\k9}ME.
+Dialogue: 0,0:00:10.50,0:00:11.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k16}LEFT {\k16}FOR {\k43}UNIVERSITY
+Dialogue: 0,0:00:11.33,0:00:12.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}FEELING {\k22}LIKE {\k8}I {\k16}HAD
+Dialogue: 0,0:00:12.06,0:00:12.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}A {\k16}STRONG {\k30}SUPPORT {\k32}SYSTEM
+Dialogue: 0,0:00:12.90,0:00:13.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}BEHIND {\k20}ME.
+Dialogue: 0,0:00:13.80,0:00:14.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THAT {\k27}FEELING {\k30}DISAPPEARED
+Dialogue: 0,0:00:14.48,0:00:15.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k45}PRETTY {\k30}QUICKLY.
+Dialogue: 0,0:00:15.59,0:00:16.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}MY {\k22}FIRST {\k13}YEAR {\k14}WAS {\k16}ROUGH.
+Dialogue: 0,0:00:16.76,0:00:17.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k16}WAS {\k17}LIVING {\k14}ON {\k14}MY
+Dialogue: 0,0:00:17.46,0:00:18.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}OWN {\k14}FOR {\k10}THE {\k17}FIRST {\k26}TIME,
+Dialogue: 0,0:00:18.42,0:00:19.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}STRUGGLING {\k46}ACADEMICALLY,
+Dialogue: 0,0:00:19.46,0:00:20.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}AND {\k16}HAVING {\k12}A {\k14}HARD {\k19}TIME
+Dialogue: 0,0:00:20.14,0:00:21.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ADJUSTING {\k42}SOCIALLY.
+Dialogue: 0,0:00:21.23,0:00:21.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THERE {\k8}WERE {\k16}DAYS {\k17}WHEN {\k9}I
+Dialogue: 0,0:00:21.87,0:00:22.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}FELT {\k44}COMPLETELY
+Dialogue: 0,0:00:22.48,0:00:23.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}OVERWHELMED.
+Dialogue: 0,0:00:23.28,0:00:24.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MORE {\k13}THAN {\k22}ONCE, {\k8}I {\k17}CALLED
+Dialogue: 0,0:00:24.30,0:00:24.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MY {\k19}MOTHER {\k12}IN {\k17}TEARS
+Dialogue: 0,0:00:24.98,0:00:26.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}LOOKING {\k19}FOR {\k24}SUPPORT.
+Dialogue: 0,0:00:26.19,0:00:27.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}BOTH {\k40}TIMES,
+Dialogue: 0,0:00:27.01,0:00:27.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}SHE {\k37}BASICALLY {\k19}TOLD
+Dialogue: 0,0:00:27.67,0:00:28.44,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ME {\k10}I {\k9}WOULD {\k22}FIGURE {\k17}IT
+Dialogue: 0,0:00:28.44,0:00:29.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}OUT {\k19}BECAUSE {\k14}I {\k10}WAS {\k23}SMART
+Dialogue: 0,0:00:29.16,0:00:30.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AND {\k37}INDEPENDENT.
+Dialogue: 0,0:00:30.30,0:00:31.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k38}CONVERSATIONS {\k47}ENDED
+Dialogue: 0,0:00:31.23,0:00:31.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}ALMOST {\k19}AS {\k22}QUICKLY
+Dialogue: 0,0:00:31.96,0:00:33.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}AS {\k8}THEY {\k29}STARTED.
+Dialogue: 0,0:00:33.02,0:00:33.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}MY {\k24}FATHER {\k27}WASN'T {\k17}MUCH
+Dialogue: 0,0:00:33.79,0:00:34.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MORE {\k34}INVOLVED.
+Dialogue: 0,0:00:34.64,0:00:35.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}OUTSIDE {\k16}OF {\k7}THE {\k24}OCCASIONAL
+Dialogue: 0,0:00:35.34,0:00:36.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HOLIDAY {\k16}OR {\k20}BIRTHDAY
+Dialogue: 0,0:00:36.02,0:00:36.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}MESSAGE, {\k6}WE {\k27}BARELY
+Dialogue: 0,0:00:36.97,0:00:37.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}SPOKE.
+Dialogue: 0,0:00:37.65,0:00:38.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}IT {\k20}FELT {\k19}LIKE {\k28}ONCE
+Dialogue: 0,0:00:38.39,0:00:39.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I {\k19}MOVED {\k24}INTO
+Dialogue: 0,0:00:39.00,0:00:40.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}MY {\k34}RESIDENCE, {\k3}I {\k17}STOPPED
+Dialogue: 0,0:00:40.11,0:00:40.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}BEING {\k25}PART {\k14}OF
+Dialogue: 0,0:00:40.75,0:00:41.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THEIR {\k24}DAILY {\k35}LIVES.
+Dialogue: 0,0:00:41.92,0:00:42.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THERE {\k10}WERE {\k29}FINANCIAL {\k39}ISSUES
+Dialogue: 0,0:00:42.89,0:00:43.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AS {\k17}WELL.
+Dialogue: 0,0:00:43.60,0:00:44.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BEFORE {\k11}I {\k17}LEFT {\k17}FOR
+Dialogue: 0,0:00:44.21,0:00:45.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}SCHOOL, {\k3}I {\k17}WAS {\k25}UNDER
+Dialogue: 0,0:00:45.25,0:00:45.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE {\k21}IMPRESSION {\k21}THAT
+Dialogue: 0,0:00:45.85,0:00:46.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}CERTAIN {\k38}EXPENSES
+Dialogue: 0,0:00:46.53,0:00:47.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WOULD {\k11}BE {\k20}COVERED.
+Dialogue: 0,0:00:47.56,0:00:48.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ONCE {\k15}I {\k14}GOT {\k20}THERE,
+Dialogue: 0,0:00:48.43,0:00:49.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k15}LEARNED {\k18}THAT {\k27}WASN'T
+Dialogue: 0,0:00:49.11,0:00:50.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}ACTUALLY {\k11}THE {\k20}CASE.
+Dialogue: 0,0:00:50.10,0:00:50.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}RATHER {\k16}THAN {\k21}ARGUE {\k20}ABOUT
+Dialogue: 0,0:00:50.88,0:00:51.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IT, {\k5}I {\k16}FOUND {\k17}WAYS {\k15}TO
+Dialogue: 0,0:00:51.79,0:00:52.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MAKE {\k12}IT {\k14}WORK {\k15}THROUGH {\k42}PART-TIME
+Dialogue: 0,0:00:52.78,0:00:54.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}JOBS, {\k24}STUDENT {\k30}LOANS,
+Dialogue: 0,0:00:54.17,0:00:54.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}AND {\k20}CUTTING {\k42}EXPENSES
+Dialogue: 0,0:00:54.84,0:00:56.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WHEREVER {\k42}POSSIBLE.
+Dialogue: 0,0:00:56.02,0:00:56.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k19}MOMENT {\k17}THAT {\k20}REALLY
+Dialogue: 0,0:00:56.67,0:00:57.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}CHANGED {\k21}THINGS {\k28}HAPPENED
+Dialogue: 0,0:00:57.42,0:00:58.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DURING {\k16}MY {\k21}SECOND
+Dialogue: 0,0:00:58.06,0:00:58.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}YEAR.
+Dialogue: 0,0:00:58.60,0:00:59.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k14}WENT {\k15}THROUGH {\k8}A {\k19}DIFFICULT
+Dialogue: 0,0:00:59.25,0:01:00.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}PERSONAL {\k52}SITUATION
+Dialogue: 0,0:01:00.24,0:01:01.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}AND {\k30}DESPERATELY {\k28}NEEDED
+Dialogue: 0,0:01:01.02,0:01:01.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SOMEONE {\k17}TO {\k14}TALK {\k14}TO.
+Dialogue: 0,0:01:01.93,0:01:02.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}I {\k24}REACHED {\k17}OUT
+Dialogue: 0,0:01:02.60,0:01:03.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}TO {\k10}MY {\k28}MOTHER, {\k7}AND {\k12}SHE
+Dialogue: 0,0:01:03.84,0:01:04.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TOLD {\k18}ME {\k15}SHE {\k6}HAD {\k7}A
+Dialogue: 0,0:01:04.48,0:01:05.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}LOT {\k23}GOING {\k14}ON {\k14}AND {\k12}THAT
+Dialogue: 0,0:01:05.20,0:01:06.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WE {\k10}WOULD {\k15}TALK {\k32}LATER.
+Dialogue: 0,0:01:06.42,0:01:07.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WE {\k17}NEVER {\k18}DID.
+Dialogue: 0,0:01:07.29,0:01:08.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AFTER {\k20}THAT, {\k15}SOMETHING {\k26}SHIFTED
+Dialogue: 0,0:01:08.21,0:01:08.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IN {\k11}ME.
+Dialogue: 0,0:01:08.79,0:01:09.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k20}STOPPED {\k48}EXPECTING
+Dialogue: 0,0:01:09.56,0:01:10.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SUPPORT, {\k14}STOPPED {\k26}ASKING
+Dialogue: 0,0:01:10.42,0:01:11.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FOR {\k20}HELP, {\k5}AND {\k28}ACCEPTED
+Dialogue: 0,0:01:11.37,0:01:12.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THAT {\k9}I {\k14}WAS {\k43}RESPONSIBLE
+Dialogue: 0,0:01:12.23,0:01:12.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}FOR {\k21}HANDLING {\k20}MY
+Dialogue: 0,0:01:12.92,0:01:13.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OWN {\k29}PROBLEMS.
+Dialogue: 0,0:01:13.92,0:01:14.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IT {\k26}WASN'T {\k12}WHAT {\k9}I
+Dialogue: 0,0:01:14.57,0:01:15.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}WANTED, {\k9}BUT {\k10}IT {\k15}FELT
+Dialogue: 0,0:01:15.42,0:01:16.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}EASIER {\k17}THAN {\k18}BEING
+Dialogue: 0,0:01:16.14,0:01:16.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}DISAPPOINTED {\k21}OVER
+Dialogue: 0,0:01:16.84,0:01:17.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AND {\k28}OVER.
+Dialogue: 0,0:01:17.71,0:01:18.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}NOW {\k15}I'M {\k6}IN {\k12}MY {\k28}FINAL
+Dialogue: 0,0:01:18.48,0:01:19.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}YEAR {\k20}AND {\k19}LIVING
+Dialogue: 0,0:01:19.09,0:01:19.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AT {\k15}HOME {\k35}TEMPORARILY
+Dialogue: 0,0:01:19.79,0:01:20.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TO {\k15}SAVE {\k26}MONEY.
+Dialogue: 0,0:01:20.48,0:01:21.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k64}SUDDENLY,
+Dialogue: 0,0:01:21.28,0:01:22.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}BOTH {\k9}OF {\k14}MY {\k21}PARENTS {\k14}ARE
+Dialogue: 0,0:01:22.00,0:01:22.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TAKING {\k17}A {\k21}HUGE {\k32}INTEREST
+Dialogue: 0,0:01:22.92,0:01:23.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IN {\k12}MY {\k29}LIFE.
+Dialogue: 0,0:01:23.73,0:01:24.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THEY {\k15}ASK {\k20}ABOUT {\k17}MY
+Dialogue: 0,0:01:24.45,0:01:25.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}SCHEDULE, {\k6}MY {\k23}CAREER
+Dialogue: 0,0:01:25.43,0:01:26.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}PLANS, {\k10}MY {\k37}FINANCES,
+Dialogue: 0,0:01:26.92,0:01:28.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k19}SLEEP {\k21}HABITS, {\k3}AND {\k24}EVERY
+Dialogue: 0,0:01:28.04,0:01:29.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}DECISION {\k18}I {\k23}MAKE.
+Dialogue: 0,0:01:29.20,0:01:29.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}MY {\k26}FATHER {\k37}CONSTANTLY
+Dialogue: 0,0:01:29.95,0:01:30.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SENDS {\k24}ME {\k23}ARTICLES
+Dialogue: 0,0:01:30.64,0:01:31.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k28}CAREER {\k30}ADVICE.
+Dialogue: 0,0:01:31.79,0:01:32.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k29}MOTHER {\k32}REGULARLY
+Dialogue: 0,0:01:32.56,0:01:33.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}TELLS {\k18}ME {\k12}WHAT {\k14}SHE
+Dialogue: 0,0:01:33.26,0:01:33.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THINKS {\k18}I {\k9}SHOULD {\k9}BE
+Dialogue: 0,0:01:33.87,0:01:34.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}DOING {\k29}DIFFERENTLY.
+Dialogue: 0,0:01:34.87,0:01:35.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}FOR {\k17}WEEKS, {\k7}I {\k12}KEPT {\k17}MY
+Dialogue: 0,0:01:35.73,0:01:36.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THOUGHTS {\k20}TO {\k26}MYSELF
+Dialogue: 0,0:01:36.34,0:01:37.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}BECAUSE {\k18}I {\k15}DIDN'T
+Dialogue: 0,0:01:37.00,0:01:38.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WANT {\k37}UNNECESSARY {\k43}CONFLICT.
+Dialogue: 0,0:01:38.35,0:01:38.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THEN {\k17}ONE {\k24}EVENING
+Dialogue: 0,0:01:38.98,0:01:39.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}AT {\k20}DINNER, {\k7}MY {\k21}MOTHER
+Dialogue: 0,0:01:39.98,0:01:40.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}COMMENTED {\k20}THAT {\k12}I
+Dialogue: 0,0:01:40.62,0:01:41.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}NEEDED {\k14}TO {\k10}BE {\k15}MORE {\k26}FOCUSED
+Dialogue: 0,0:01:41.48,0:01:42.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ABOUT {\k16}MY {\k29}FUTURE.
+Dialogue: 0,0:01:42.68,0:01:43.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}MY {\k28}FATHER {\k35}IMMEDIATELY
+Dialogue: 0,0:01:43.43,0:01:44.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}AGREED {\k15}AND {\k32}STARTED
+Dialogue: 0,0:01:44.28,0:01:45.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}OFFERING {\k34}ADVICE.
+Dialogue: 0,0:01:45.42,0:01:46.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}SOMETHING {\k14}IN {\k12}ME {\k28}FINALLY
+Dialogue: 0,0:01:46.28,0:01:47.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}SNAPPED.
+Dialogue: 0,0:01:47.00,0:01:47.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k20}TOLD {\k17}THEM {\k12}IT {\k7}WAS
+Dialogue: 0,0:01:47.64,0:01:48.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}DIFFICULT {\k21}TO {\k15}TAKE
+Dialogue: 0,0:01:48.28,0:01:49.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}GUIDANCE {\k21}FROM {\k28}PEOPLE
+Dialogue: 0,0:01:49.04,0:01:49.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WHO {\k20}WEREN'T {\k7}THERE {\k10}WHEN {\k14}I
+Dialogue: 0,0:01:49.76,0:01:50.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ACTUALLY {\k24}NEEDED {\k21}IT.
+Dialogue: 0,0:01:50.79,0:01:51.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I {\k34}REMINDED {\k15}THEM
+Dialogue: 0,0:01:51.51,0:01:52.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ABOUT {\k14}THE {\k21}TIMES {\k20}I
+Dialogue: 0,0:01:52.29,0:01:52.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}CALLED {\k24}LOOKING {\k20}FOR
+Dialogue: 0,0:01:52.90,0:01:53.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HELP {\k14}AND {\k25}SUPPORT {\k22}AND
+Dialogue: 0,0:01:53.68,0:01:54.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}GOT {\k24}BRUSHED {\k25}OFF.
+Dialogue: 0,0:01:54.78,0:01:55.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k18}SAID {\k9}I {\k21}SPENT {\k18}YEARS
+Dialogue: 0,0:01:55.54,0:01:56.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}FIGURING {\k32}THINGS {\k21}OUT
+Dialogue: 0,0:01:56.35,0:01:57.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}ALONE {\k23}BECAUSE {\k20}I
+Dialogue: 0,0:01:57.00,0:01:58.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HAD {\k17}NO {\k18}OTHER {\k23}CHOICE.
+Dialogue: 0,0:01:58.29,0:01:58.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k18}TOLD {\k17}THEM {\k12}THAT {\k9}I
+Dialogue: 0,0:01:58.93,0:01:59.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}DIDN'T {\k35}UNDERSTAND
+Dialogue: 0,0:01:59.54,0:02:00.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WHY {\k9}THEY {\k26}SUDDENLY {\k29}WANTED
+Dialogue: 0,0:02:00.43,0:02:01.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k15}PARENT {\k18}ME {\k17}NOW
+Dialogue: 0,0:02:01.09,0:02:02.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WHEN {\k12}THEY {\k15}SEEMED {\k50}UNINTERESTED
+Dialogue: 0,0:02:02.01,0:02:02.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}DURING {\k12}THE {\k15}YEARS {\k17}I
+Dialogue: 0,0:02:02.73,0:02:04.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}WAS {\k28}STRUGGLING {\k18}THE {\k21}MOST.
+Dialogue: 0,0:02:04.07,0:02:05.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k26}TABLE {\k15}WENT {\k23}SILENT.
+Dialogue: 0,0:02:05.14,0:02:05.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}MY {\k18}MOTHER {\k34}STARTED
+Dialogue: 0,0:02:05.76,0:02:06.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}CRYING.
+Dialogue: 0,0:02:06.34,0:02:06.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}MY {\k20}FATHER {\k19}SAID {\k16}I
+Dialogue: 0,0:02:06.98,0:02:07.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WAS {\k20}BEING {\k25}UNFAIR
+Dialogue: 0,0:02:07.59,0:02:08.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AND {\k25}DISRESPECTFUL.
+Dialogue: 0,0:02:08.69,0:02:09.36,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k19}TOLD {\k15}THEM {\k10}I {\k12}WAS
+Dialogue: 0,0:02:09.36,0:02:10.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}SIMPLY {\k28}BEING {\k24}HONEST
+Dialogue: 0,0:02:10.12,0:02:11.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}AND {\k12}LEFT {\k14}THE {\k13}ROOM.
+Dialogue: 0,0:02:11.06,0:02:12.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SINCE {\k20}THEN, {\k14}SEVERAL {\k37}RELATIVES
+Dialogue: 0,0:02:12.12,0:02:13.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}HAVE {\k23}REACHED {\k20}OUT.
+Dialogue: 0,0:02:13.06,0:02:13.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MOST {\k19}OF {\k14}THEM {\k19}AGREE
+Dialogue: 0,0:02:13.71,0:02:14.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THAT {\k14}MY {\k25}PARENTS {\k19}LOVE
+Dialogue: 0,0:02:14.47,0:02:15.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ME {\k12}AND {\k30}PROBABLY
+Dialogue: 0,0:02:15.08,0:02:16.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}THOUGHT {\k17}THEY {\k12}WERE {\k43}ENCOURAGING
+Dialogue: 0,0:02:16.09,0:02:16.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k53}INDEPENDENCE {\k32}RATHER
+Dialogue: 0,0:02:16.96,0:02:18.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THAN {\k43}ABANDONING {\k15}ME.
+Dialogue: 0,0:02:18.18,0:02:18.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k19}DON'T {\k9}DOUBT {\k16}THAT
+Dialogue: 0,0:02:18.80,0:02:19.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THEY {\k12}LOVE {\k15}ME.
+Dialogue: 0,0:02:19.19,0:02:19.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}THAT'S {\k9}NOT {\k15}REALLY
+Dialogue: 0,0:02:19.93,0:02:21.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}WHAT {\k18}I'M {\k15}UPSET {\k23}ABOUT.
+Dialogue: 0,0:02:21.15,0:02:21.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}WHAT {\k19}HURTS {\k12}IS {\k12}THAT {\k13}WHEN
+Dialogue: 0,0:02:21.81,0:02:22.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k24}ACTIVELY {\k37}REACHED
+Dialogue: 0,0:02:22.53,0:02:23.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}OUT {\k12}FOR {\k28}SUPPORT, {\k3}I {\k19}FELT
+Dialogue: 0,0:02:23.81,0:02:24.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}IGNORED.
+Dialogue: 0,0:02:24.62,0:02:25.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}NOW {\k9}THAT {\k21}I'VE {\k12}LEARNED {\k15}HOW
+Dialogue: 0,0:02:25.34,0:02:26.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}TO {\k19}MANAGE {\k25}WITHOUT {\k21}THEM,
+Dialogue: 0,0:02:26.40,0:02:27.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THEY'RE {\k24}SUDDENLY {\k21}FULL {\k12}OF
+Dialogue: 0,0:02:27.08,0:02:27.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}OPINIONS {\k21}ABOUT {\k16}HOW
+Dialogue: 0,0:02:27.80,0:02:29.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k13}SHOULD {\k12}LIVE {\k15}MY {\k31}LIFE.
+Dialogue: 0,0:02:29.06,0:02:29.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}PART {\k12}OF {\k9}ME {\k28}FEELS
+Dialogue: 0,0:02:29.74,0:02:30.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}GUILTY {\k28}FOR {\k18}MAKING
+Dialogue: 0,0:02:30.52,0:02:31.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}MY {\k18}MOTHER {\k21}CRY.
+Dialogue: 0,0:02:31.53,0:02:32.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}ANOTHER {\k26}PART {\k19}FEELS
+Dialogue: 0,0:02:32.15,0:02:32.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}LIKE {\k13}I {\k28}FINALLY
+Dialogue: 0,0:02:32.78,0:02:33.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SAID {\k28}SOMETHING {\k15}THAT
+Dialogue: 0,0:02:33.40,0:02:34.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HAD {\k11}BEEN {\k24}BUILDING {\k18}UP
+Dialogue: 0,0:02:34.06,0:02:34.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FOR {\k18}YEARS.
+Dialogue: 0,0:02:34.90,0:02:35.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WAS {\k9}I {\k14}WRONG {\k13}FOR {\k20}TELLING
+Dialogue: 0,0:02:35.58,0:02:36.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THEM {\k13}THEIR {\k24}ADVICE {\k18}CAME
+Dialogue: 0,0:02:36.34,0:02:36.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}TOO {\k15}LATE?

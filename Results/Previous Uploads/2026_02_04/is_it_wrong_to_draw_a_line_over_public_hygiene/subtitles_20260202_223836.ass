@@ -1,0 +1,101 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.04,0:00:03.68,Default,,0,0,0,,\N{\k16}I'M {\k5}A {\k24}WOMAN {\k18}IN
+Dialogue: 0,0:00:03.68,0:00:04.33,Default,,0,0,0,,\N{\k11}MY {\k16}LATE {\k37}THIRTIES
+Dialogue: 0,0:00:04.33,0:00:04.96,Default,,0,0,0,,\N{\k12}WHO {\k8}HAD {\k21}PLANNED {\k20}ALL
+Dialogue: 0,0:00:04.96,0:00:05.59,Default,,0,0,0,,\N{\k16}DAY {\k16}TO {\k16}VISIT {\k15}A
+Dialogue: 0,0:00:05.59,0:00:06.41,Default,,0,0,0,,\N{\k26}LARGE {\k21}BUSY {\k33}RETAIL
+Dialogue: 0,0:00:06.41,0:00:07.05,Default,,0,0,0,,\N{\k29}COMPLEX {\k33}AFTER
+Dialogue: 0,0:00:07.05,0:00:07.71,Default,,0,0,0,,\N{\k28}FINISHING {\k37}WORK.
+Dialogue: 0,0:00:08.32,0:00:09.00,Default,,0,0,0,,\N{\k29}MY {\k38}PARTNER,
+Dialogue: 0,0:00:09.14,0:00:09.82,Default,,0,0,0,,\N{\k17}WHO {\k11}IS {\k6}A {\k14}FEW {\k17}YEARS
+Dialogue: 0,0:00:09.82,0:00:10.43,Default,,0,0,0,,\N{\k27}YOUNGER {\k16}THAN {\k17}ME,
+Dialogue: 0,0:00:10.74,0:00:11.46,Default,,0,0,0,,\N{\k8}CAME {\k24}OVER {\k16}THE {\k24}EVENING,
+Dialogue: 0,0:00:11.92,0:00:12.69,Default,,0,0,0,,\N{\k9}AND {\k9}I {\k18}GAVE {\k16}HIM {\k23}SEVERAL
+Dialogue: 0,0:00:12.69,0:00:13.41,Default,,0,0,0,,\N{\k36}REMINDERS {\k21}THAT {\k14}WE
+Dialogue: 0,0:00:13.41,0:00:14.08,Default,,0,0,0,,\N{\k11}WOULD {\k12}BE {\k19}LEAVING {\k22}SOON
+Dialogue: 0,0:00:14.08,0:00:14.72,Default,,0,0,0,,\N{\k19}SO {\k14}HE {\k6}HAD {\k24}TIME
+Dialogue: 0,0:00:14.72,0:00:15.27,Default,,0,0,0,,\N{\k17}TO {\k11}GET {\k25}READY.
+Dialogue: 0,0:00:16.30,0:00:17.12,Default,,0,0,0,,\N{\k30}BEFORE {\k13}WE {\k14}LEFT, {\k4}I
+Dialogue: 0,0:00:17.12,0:00:17.73,Default,,0,0,0,,\N{\k16}ASKED {\k14}IF {\k7}HE {\k7}HAD {\k16}BROUGHT
+Dialogue: 0,0:00:17.73,0:00:18.69,Default,,0,0,0,,\N{\k20}SHOES {\k19}WITH {\k17}HIM, {\k14}WHICH
+Dialogue: 0,0:00:18.69,0:00:19.42,Default,,0,0,0,,\N{\k12}IS {\k14}A {\k46}LONGSTANDING
+Dialogue: 0,0:00:19.42,0:00:20.10,Default,,0,0,0,,\N{\k25}POINT {\k16}OF {\k26}TENSION
+Dialogue: 0,0:00:20.10,0:00:20.80,Default,,0,0,0,,\N{\k19}IN {\k12}OUR {\k37}RELATIONSHIP.
+Dialogue: 0,0:00:21.67,0:00:22.37,Default,,0,0,0,,\N{\k33}HE {\k19}TOLD {\k16}ME
+Dialogue: 0,0:00:22.37,0:00:22.82,Default,,0,0,0,,\N{\k14}HE {\k30}HADN'T.
+Dialogue: 0,0:00:23.33,0:00:24.21,Default,,0,0,0,,\N{\k21}I {\k8}HAVE {\k28}EXPLAINED {\k29}MANY
+Dialogue: 0,0:00:24.21,0:00:24.87,Default,,0,0,0,,\N{\k22}TIMES {\k13}THAT {\k14}WHILE {\k16}HE
+Dialogue: 0,0:00:24.87,0:00:25.55,Default,,0,0,0,,\N{\k8}IS {\k14}FREE {\k13}TO {\k16}CHOOSE {\k16}NOT
+Dialogue: 0,0:00:25.55,0:00:26.28,Default,,0,0,0,,\N{\k14}TO {\k10}WEAR {\k21}SHOES {\k26}WHEN
+Dialogue: 0,0:00:26.28,0:00:27.28,Default,,0,0,0,,\N{\k11}HE {\k16}LEAVES {\k14}THE {\k17}HOUSE, {\k6}I
+Dialogue: 0,0:00:27.28,0:00:28.12,Default,,0,0,0,,\N{\k9}AM {\k16}ALSO {\k17}FREE {\k14}TO {\k26}DECIDE
+Dialogue: 0,0:00:28.12,0:00:28.80,Default,,0,0,0,,\N{\k25}WHETHER {\k16}I {\k12}WANT {\k14}TO
+Dialogue: 0,0:00:28.80,0:00:29.42,Default,,0,0,0,,\N{\k5}BE {\k24}INVOLVED {\k21}IN {\k10}THAT
+Dialogue: 0,0:00:29.42,0:00:29.66,Default,,0,0,0,,\N{\k23}CHOICE.
+Dialogue: 0,0:00:30.44,0:00:31.17,Default,,0,0,0,,\N{\k32}I {\k21}TOLD {\k19}HIM
+Dialogue: 0,0:00:31.17,0:00:31.80,Default,,0,0,0,,\N{\k12}THAT {\k7}I {\k19}FIND {\k22}GOING
+Dialogue: 0,0:00:31.80,0:00:32.60,Default,,0,0,0,,\N{\k31}BAREFOOT {\k17}IN {\k30}CROWDED,
+Dialogue: 0,0:00:33.21,0:00:33.85,Default,,0,0,0,,\N{\k32}UPSCALED {\k32}PUBLIC
+Dialogue: 0,0:00:33.85,0:00:34.78,Default,,0,0,0,,\N{\k35}SPACES {\k20}ON {\k35}SANITARY
+Dialogue: 0,0:00:34.78,0:00:35.42,Default,,0,0,0,,\N{\k21}AND {\k42}UNCOMFORTABLE.
+Dialogue: 0,0:00:36.25,0:00:37.17,Default,,0,0,0,,\N{\k21}HE {\k32}IMMEDIATELY {\k38}ACCUSED
+Dialogue: 0,0:00:37.17,0:00:37.85,Default,,0,0,0,,\N{\k16}ME {\k13}OF {\k38}INSULTING
+Dialogue: 0,0:00:37.85,0:00:38.60,Default,,0,0,0,,\N{\k24}HIM {\k14}AND {\k19}CALLING {\k16}HIM
+Dialogue: 0,0:00:38.60,0:00:39.20,Default,,0,0,0,,\N{\k33}DISGUSTING {\k26}AS
+Dialogue: 0,0:00:39.20,0:00:39.60,Default,,0,0,0,,\N{\k5}A {\k34}PERSON.
+Dialogue: 0,0:00:40.28,0:00:41.02,Default,,0,0,0,,\N{\k19}I {\k34}CLARIFIED {\k20}THAT
+Dialogue: 0,0:00:41.02,0:00:41.70,Default,,0,0,0,,\N{\k9}I {\k28}WASN'T {\k30}ATTACKING
+Dialogue: 0,0:00:41.70,0:00:42.57,Default,,0,0,0,,\N{\k15}HIM {\k35}PERSONALLY {\k35}ONLY
+Dialogue: 0,0:00:42.57,0:00:43.21,Default,,0,0,0,,\N{\k12}THE {\k33}BEHAVIOUR {\k17}OF
+Dialogue: 0,0:00:43.21,0:00:43.96,Default,,0,0,0,,\N{\k24}WALKING {\k33}BAREFOOT {\k16}IN
+Dialogue: 0,0:00:43.96,0:00:44.78,Default,,0,0,0,,\N{\k6}A {\k13}PACKED {\k30}SHOPPING {\k32}CENTRE.
+Dialogue: 0,0:00:45.64,0:00:46.35,Default,,0,0,0,,\N{\k28}DURING {\k17}THE {\k25}DRIVE,
+Dialogue: 0,0:00:46.64,0:00:47.25,Default,,0,0,0,,\N{\k6}I {\k14}TOLD {\k17}HIM {\k9}THAT {\k14}IF
+Dialogue: 0,0:00:47.25,0:00:47.89,Default,,0,0,0,,\N{\k8}HE {\k23}WASN'T {\k16}WILLING {\k15}TO
+Dialogue: 0,0:00:47.89,0:00:48.52,Default,,0,0,0,,\N{\k16}WEAR {\k21}SHOES, {\k4}HE
+Dialogue: 0,0:00:48.52,0:00:49.15,Default,,0,0,0,,\N{\k7}WOULD {\k14}NEED {\k11}TO {\k14}STAY {\k7}IN {\k7}THE
+Dialogue: 0,0:00:49.15,0:00:49.75,Default,,0,0,0,,\N{\k12}CAR {\k17}WHILE {\k14}I {\k15}WENT
+Dialogue: 0,0:00:49.75,0:00:50.07,Default,,0,0,0,,\N{\k32}INSIDE.
+Dialogue: 0,0:00:50.97,0:00:51.71,Default,,0,0,0,,\N{\k26}I {\k28}REMINDED {\k19}HIM
+Dialogue: 0,0:00:51.71,0:00:52.34,Default,,0,0,0,,\N{\k20}AGAIN {\k11}THAT {\k20}THIS {\k10}WAS
+Dialogue: 0,0:00:52.34,0:00:53.10,Default,,0,0,0,,\N{\k11}THE {\k24}RESULT {\k23}OF {\k16}HIS
+Dialogue: 0,0:00:53.10,0:00:53.79,Default,,0,0,0,,\N{\k33}DECISION, {\k7}NOT
+Dialogue: 0,0:00:53.79,0:00:54.28,Default,,0,0,0,,\N{\k10}A {\k38}PUNISHMENT.
+Dialogue: 0,0:00:54.84,0:00:55.47,Default,,0,0,0,,\N{\k43}HE {\k19}THEN
+Dialogue: 0,0:00:55.47,0:00:56.10,Default,,0,0,0,,\N{\k40}ESCALATED {\k21}THINGS
+Dialogue: 0,0:00:56.10,0:00:56.78,Default,,0,0,0,,\N{\k24}BY {\k21}ACCUSING {\k21}ME
+Dialogue: 0,0:00:56.78,0:00:57.43,Default,,0,0,0,,\N{\k10}OF {\k14}NOT {\k25}WANTING {\k15}TO
+Dialogue: 0,0:00:57.43,0:00:58.03,Default,,0,0,0,,\N{\k16}SPEND {\k24}TIME {\k19}WITH
+Dialogue: 0,0:00:58.03,0:00:58.64,Default,,0,0,0,,\N{\k10}HIM, {\k7}NOT {\k28}WANTING
+Dialogue: 0,0:00:58.64,0:00:59.39,Default,,0,0,0,,\N{\k14}TO {\k7}BE {\k20}WITH {\k7}HIM {\k7}AT {\k17}ALL
+Dialogue: 0,0:00:59.39,0:01:00.20,Default,,0,0,0,,\N{\k48}AND {\k32}DELIBERATELY
+Dialogue: 0,0:01:00.20,0:01:00.78,Default,,0,0,0,,\N{\k37}SHAMING {\k20}HIM.
+Dialogue: 0,0:01:01.70,0:01:02.43,Default,,0,0,0,,\N{\k9}FROM {\k16}MY {\k47}PERSPECTIVE,
+Dialogue: 0,0:01:03.14,0:01:03.78,Default,,0,0,0,,\N{\k33}THIS {\k30}BOUNDARY
+Dialogue: 0,0:01:03.78,0:01:04.43,Default,,0,0,0,,\N{\k19}HAS {\k20}BEEN {\k25}CLEARLY
+Dialogue: 0,0:01:04.43,0:01:05.31,Default,,0,0,0,,\N{\k60}COMMUNICATED {\k27}MANY
+Dialogue: 0,0:01:05.31,0:01:05.93,Default,,0,0,0,,\N{\k34}TIMES {\k28}AND
+Dialogue: 0,0:01:05.93,0:01:06.56,Default,,0,0,0,,\N{\k6}I {\k23}FOLLOWED {\k21}THROUGH {\k10}ON
+Dialogue: 0,0:01:06.56,0:01:07.26,Default,,0,0,0,,\N{\k23}EXACTLY {\k24}WHAT {\k9}I {\k12}HAD
+Dialogue: 0,0:01:07.26,0:01:07.78,Default,,0,0,0,,\N{\k17}SAID {\k34}BEFORE.
+Dialogue: 0,0:01:08.57,0:01:09.42,Default,,0,0,0,,\N{\k26}FROM {\k15}HIS {\k42}PERSPECTIVE,
+Dialogue: 0,0:01:09.68,0:01:10.71,Default,,0,0,0,,\N{\k7}HE {\k19}FEELS {\k30}JUDGMENT {\k45}REJECTED.
+Dialogue: 0,0:01:11.57,0:01:12.45,Default,,0,0,0,,\N{\k20}NOW {\k9}I {\k6}AM {\k15}LEFT {\k35}WONDERING
+Dialogue: 0,0:01:12.45,0:01:13.31,Default,,0,0,0,,\N{\k24}WHETHER {\k34}STANDING {\k27}FIRM
+Dialogue: 0,0:01:13.31,0:01:14.01,Default,,0,0,0,,\N{\k16}ON {\k14}THIS {\k21}ISSUE {\k17}MAKES
+Dialogue: 0,0:01:14.01,0:01:14.68,Default,,0,0,0,,\N{\k20}ME {\k46}UNREASONABLE
+Dialogue: 0,0:01:14.68,0:01:15.40,Default,,0,0,0,,\N{\k47}OR {\k24}WHETHER
+Dialogue: 0,0:01:15.40,0:01:16.15,Default,,0,0,0,,\N{\k15}IT {\k1}IS {\k10}FAIR {\k13}TO {\k14}SET {\k20}LIMITS
+Dialogue: 0,0:01:16.15,0:01:16.76,Default,,0,0,0,,\N{\k24}AROUND {\k35}BEHAVIOUR
+Dialogue: 0,0:01:16.76,0:01:17.57,Default,,0,0,0,,\N{\k19}THAT {\k14}MAKES {\k21}ME {\k26}DEEPLY
+Dialogue: 0,0:01:17.57,0:01:18.06,Default,,0,0,0,,\N{\k48}UNCOMFORTABLE.

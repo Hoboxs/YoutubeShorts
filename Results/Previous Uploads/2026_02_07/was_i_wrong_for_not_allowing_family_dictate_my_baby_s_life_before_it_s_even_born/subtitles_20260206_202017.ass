@@ -1,0 +1,191 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.33,0:00:05.00,Default,,0,0,0,,\N{\k8}I {\k8}AM {\k25}ENGAGED {\k16}TO {\k8}MY
+Dialogue: 0,0:00:05.00,0:00:05.67,Default,,0,0,0,,\N{\k29}PARTNER {\k28}AND {\k9}WE
+Dialogue: 0,0:00:05.67,0:00:06.41,Default,,0,0,0,,\N{\k26}OFFICIALLY {\k27}COMMITTED {\k20}TO
+Dialogue: 0,0:00:06.41,0:00:07.09,Default,,0,0,0,,\N{\k17}EACH {\k14}OTHER {\k17}LATE {\k17}LAST
+Dialogue: 0,0:00:07.09,0:00:07.37,Default,,0,0,0,,\N{\k28}YEAR.
+Dialogue: 0,0:00:08.09,0:00:08.74,Default,,0,0,0,,\N{\k20}IN {\k19}KEEPING {\k24}WITH
+Dialogue: 0,0:00:08.74,0:00:09.58,Default,,0,0,0,,\N{\k11}HIS {\k30}CULTURAL {\k41}TRADITIONS,
+Dialogue: 0,0:00:09.92,0:00:10.59,Default,,0,0,0,,\N{\k6}HE {\k21}VISITED {\k20}MY {\k19}FAMILY
+Dialogue: 0,0:00:10.59,0:00:11.30,Default,,0,0,0,,\N{\k22}HOME {\k9}TO {\k24}COMPLETE {\k14}THE
+Dialogue: 0,0:00:11.30,0:00:11.93,Default,,0,0,0,,\N{\k37}CUSTOMARY {\k25}MARRIAGE
+Dialogue: 0,0:00:11.93,0:00:12.88,Default,,0,0,0,,\N{\k50}NEGOTIATIONS {\k44}AND
+Dialogue: 0,0:00:12.88,0:00:13.82,Default,,0,0,0,,\N{\k37}EVERYTHING {\k16}WENT {\k40}SMOOTHLY.
+Dialogue: 0,0:00:14.48,0:00:15.24,Default,,0,0,0,,\N{\k40}AT {\k9}THE {\k25}TIME
+Dialogue: 0,0:00:15.24,0:00:15.96,Default,,0,0,0,,\N{\k19}I {\k14}HAD {\k17}ALREADY {\k20}MET
+Dialogue: 0,0:00:15.96,0:00:16.62,Default,,0,0,0,,\N{\k16}HIS {\k25}SISTER {\k12}AND {\k12}HAD
+Dialogue: 0,0:00:16.62,0:00:17.37,Default,,0,0,0,,\N{\k5}A {\k30}POSITIVE {\k39}IMPRESSION
+Dialogue: 0,0:00:17.37,0:00:17.98,Default,,0,0,0,,\N{\k19}OF {\k8}HER {\k17}SHE {\k14}WAS
+Dialogue: 0,0:00:17.98,0:00:18.66,Default,,0,0,0,,\N{\k25}FRIENDLY, {\k28}WELCOMING
+Dialogue: 0,0:00:18.66,0:00:19.39,Default,,0,0,0,,\N{\k26}AND {\k17}SEEMED {\k29}GENUINELY
+Dialogue: 0,0:00:19.39,0:00:20.07,Default,,0,0,0,,\N{\k50}SUPPORTIVE {\k17}OF
+Dialogue: 0,0:00:20.07,0:00:20.60,Default,,0,0,0,,\N{\k8}OUR {\k44}RELATIONSHIP.
+Dialogue: 0,0:00:21.51,0:00:22.21,Default,,0,0,0,,\N{\k35}SHORTLY {\k33}AFTER
+Dialogue: 0,0:00:22.21,0:00:23.00,Default,,0,0,0,,\N{\k16}THE {\k33}ENGAGEMENT {\k28}I
+Dialogue: 0,0:00:23.00,0:00:23.66,Default,,0,0,0,,\N{\k23}TRAVELLED {\k20}BACK {\k21}TO
+Dialogue: 0,0:00:23.66,0:00:24.35,Default,,0,0,0,,\N{\k17}THIS {\k23}CITY {\k14}WHERE {\k14}MY
+Dialogue: 0,0:00:24.35,0:00:25.05,Default,,0,0,0,,\N{\k26}PARTNER {\k17}LIVES {\k25}SO
+Dialogue: 0,0:00:25.05,0:00:25.87,Default,,0,0,0,,\N{\k26}WE {\k12}COULD {\k16}SPEND {\k27}TIME
+Dialogue: 0,0:00:25.87,0:00:26.21,Default,,0,0,0,,\N{\k33}TOGETHER.
+Dialogue: 0,0:00:26.74,0:00:27.55,Default,,0,0,0,,\N{\k47}THE {\k12}DAY {\k21}AFTER
+Dialogue: 0,0:00:27.55,0:00:28.28,Default,,0,0,0,,\N{\k14}I {\k35}ARRIVED {\k22}HIS
+Dialogue: 0,0:00:28.28,0:00:28.96,Default,,0,0,0,,\N{\k19}MOTHER {\k33}INVITED {\k14}US
+Dialogue: 0,0:00:28.96,0:00:29.92,Default,,0,0,0,,\N{\k11}TO {\k6}A {\k17}HOLIDAY {\k23}LUNCH {\k36}AND
+Dialogue: 0,0:00:29.92,0:00:30.67,Default,,0,0,0,,\N{\k13}WE {\k20}HAPPILY {\k41}ACCEPTED.
+Dialogue: 0,0:00:31.40,0:00:32.11,Default,,0,0,0,,\N{\k47}THAT {\k23}SAME
+Dialogue: 0,0:00:32.11,0:00:33.06,Default,,0,0,0,,\N{\k16}DAY {\k32}HOWEVER {\k46}MY
+Dialogue: 0,0:00:33.06,0:00:33.70,Default,,0,0,0,,\N{\k29}PARTNER {\k34}INSISTED
+Dialogue: 0,0:00:33.70,0:00:34.43,Default,,0,0,0,,\N{\k27}ON {\k28}TAKING {\k17}ME
+Dialogue: 0,0:00:34.43,0:00:35.07,Default,,0,0,0,,\N{\k14}TO {\k6}A {\k15}CLINIC {\k28}BECAUSE
+Dialogue: 0,0:00:35.07,0:00:35.71,Default,,0,0,0,,\N{\k12}I {\k14}HAD {\k11}BEEN {\k25}DEALING
+Dialogue: 0,0:00:35.71,0:00:36.34,Default,,0,0,0,,\N{\k21}WITH {\k16}THE {\k24}SEVERE
+Dialogue: 0,0:00:36.34,0:00:37.11,Default,,0,0,0,,\N{\k23}ILLNESS {\k24}THAT {\k29}WASN'T
+Dialogue: 0,0:00:37.11,0:00:37.52,Default,,0,0,0,,\N{\k40}IMPROVING.
+Dialogue: 0,0:00:38.34,0:00:39.07,Default,,0,0,0,,\N{\k31}DURING {\k14}THAT {\k28}VISIT
+Dialogue: 0,0:00:39.07,0:00:39.74,Default,,0,0,0,,\N{\k35}WE {\k30}UNEXPECTEDLY
+Dialogue: 0,0:00:39.74,0:00:40.57,Default,,0,0,0,,\N{\k64}DISCOVERED {\k19}THAT
+Dialogue: 0,0:00:40.57,0:00:41.35,Default,,0,0,0,,\N{\k14}I {\k14}WAS {\k21}ALREADY {\k28}SEVERAL
+Dialogue: 0,0:00:41.35,0:00:41.93,Default,,0,0,0,,\N{\k21}MONTHS {\k35}PREGNANT.
+Dialogue: 0,0:00:42.70,0:00:43.52,Default,,0,0,0,,\N{\k25}I {\k19}HADN'T {\k36}EXPERIENCED
+Dialogue: 0,0:00:43.52,0:00:44.46,Default,,0,0,0,,\N{\k17}THE {\k21}TYPICAL {\k53}SYMPTOMS
+Dialogue: 0,0:00:44.46,0:00:45.06,Default,,0,0,0,,\N{\k47}SO {\k12}THE
+Dialogue: 0,0:00:45.06,0:00:45.84,Default,,0,0,0,,\N{\k14}NEWS {\k15}CAME {\k17}AS {\k7}A {\k22}SHOCK
+Dialogue: 0,0:00:45.84,0:00:46.61,Default,,0,0,0,,\N{\k25}BUT {\k11}WE {\k10}WERE {\k29}EXCITED
+Dialogue: 0,0:00:46.61,0:00:47.24,Default,,0,0,0,,\N{\k20}AND {\k25}GRATEFUL {\k16}THAT
+Dialogue: 0,0:00:47.24,0:00:47.93,Default,,0,0,0,,\N{\k29}EVERYTHING {\k25}APPEARED {\k14}TO
+Dialogue: 0,0:00:47.93,0:00:48.25,Default,,0,0,0,,\N{\k8}BE {\k23}HEALTHY.
+Dialogue: 0,0:00:49.02,0:00:49.89,Default,,0,0,0,,\N{\k27}AT {\k8}THE {\k19}FAMILY {\k32}LUNCH
+Dialogue: 0,0:00:49.89,0:00:50.53,Default,,0,0,0,,\N{\k32}WE {\k17}SHARED {\k14}THE
+Dialogue: 0,0:00:50.53,0:00:51.15,Default,,0,0,0,,\N{\k25}PREGNANCY {\k35}NEWS
+Dialogue: 0,0:00:51.15,0:00:51.82,Default,,0,0,0,,\N{\k10}WITH {\k12}HIS {\k27}MOTHER {\k16}AND
+Dialogue: 0,0:00:51.82,0:00:52.53,Default,,0,0,0,,\N{\k32}SISTER {\k39}WHO
+Dialogue: 0,0:00:52.53,0:00:53.14,Default,,0,0,0,,\N{\k34}INITIALLY {\k25}REACTED
+Dialogue: 0,0:00:53.14,0:00:53.79,Default,,0,0,0,,\N{\k24}WITH {\k41}EXCITEMENT.
+Dialogue: 0,0:00:54.46,0:00:55.32,Default,,0,0,0,,\N{\k39}A {\k11}FEW {\k34}TRADITIONAL
+Dialogue: 0,0:00:55.32,0:00:56.10,Default,,0,0,0,,\N{\k52}EXPECTATIONS {\k25}WERE
+Dialogue: 0,0:00:56.10,0:00:56.84,Default,,0,0,0,,\N{\k28}MENTIONED {\k46}INCLUDING
+Dialogue: 0,0:00:56.84,0:00:57.50,Default,,0,0,0,,\N{\k25}THE {\k14}IDEA {\k25}THAT
+Dialogue: 0,0:00:57.50,0:00:58.21,Default,,0,0,0,,\N{\k10}THE {\k32}BABY'S {\k14}FIRST {\k15}NAME
+Dialogue: 0,0:00:58.21,0:00:58.92,Default,,0,0,0,,\N{\k17}SHOULD {\k12}BE {\k19}CHOSEN {\k20}BY
+Dialogue: 0,0:00:58.92,0:00:59.34,Default,,0,0,0,,\N{\k14}HIS {\k28}MOTHER.
+Dialogue: 0,0:01:00.10,0:01:00.96,Default,,0,0,0,,\N{\k25}MY {\k29}PARTNER {\k30}IMMEDIATELY
+Dialogue: 0,0:01:00.96,0:01:01.65,Default,,0,0,0,,\N{\k28}MADE {\k11}IT {\k14}CLEAR {\k15}THAT
+Dialogue: 0,0:01:01.65,0:01:02.25,Default,,0,0,0,,\N{\k16}NAMING {\k43}DECISIONS
+Dialogue: 0,0:01:02.25,0:01:02.92,Default,,0,0,0,,\N{\k20}WOULD {\k11}BE {\k17}MADE {\k16}BY
+Dialogue: 0,0:01:02.92,0:01:03.53,Default,,0,0,0,,\N{\k10}THE {\k11}TWO {\k10}OF {\k10}US {\k19}ALONE
+Dialogue: 0,0:01:03.53,0:01:04.14,Default,,0,0,0,,\N{\k28}AND {\k10}THE {\k21}TOPIC
+Dialogue: 0,0:01:04.14,0:01:04.59,Default,,0,0,0,,\N{\k20}WAS {\k25}DROPPED.
+Dialogue: 0,0:01:05.42,0:01:06.09,Default,,0,0,0,,\N{\k26}LATER {\k41}WHILE
+Dialogue: 0,0:01:06.09,0:01:06.73,Default,,0,0,0,,\N{\k24}HAVING {\k14}HIS {\k25}SISTER
+Dialogue: 0,0:01:06.73,0:01:07.54,Default,,0,0,0,,\N{\k24}PREPARED {\k25}FOOD {\k30}SHE
+Dialogue: 0,0:01:07.54,0:01:08.20,Default,,0,0,0,,\N{\k15}BROUGHT {\k15}UP {\k9}THE {\k24}IDEA
+Dialogue: 0,0:01:08.20,0:01:09.01,Default,,0,0,0,,\N{\k14}OF {\k3}A {\k42}CELEBRATION {\k21}FOR
+Dialogue: 0,0:01:09.01,0:01:09.42,Default,,0,0,0,,\N{\k10}THE {\k29}BABY.
+Dialogue: 0,0:01:10.43,0:01:11.04,Default,,0,0,0,,\N{\k12}I {\k20}EXPLAINED {\k17}THAT {\k10}MY
+Dialogue: 0,0:01:11.04,0:01:11.65,Default,,0,0,0,,\N{\k15}OWN {\k21}SIBLINGS {\k23}AND
+Dialogue: 0,0:01:11.65,0:01:12.42,Default,,0,0,0,,\N{\k24}FRIENDS {\k19}MIGHT {\k32}ORGANIZE
+Dialogue: 0,0:01:12.42,0:01:13.20,Default,,0,0,0,,\N{\k35}SOMETHING {\k23}ONCE {\k18}I
+Dialogue: 0,0:01:13.20,0:01:13.84,Default,,0,0,0,,\N{\k15}SHED {\k14}THE {\k14}NEWS {\k20}MORE
+Dialogue: 0,0:01:13.84,0:01:14.59,Default,,0,0,0,,\N{\k29}BROADLY {\k45}AND
+Dialogue: 0,0:01:14.59,0:01:15.26,Default,,0,0,0,,\N{\k14}SHE {\k16}EXPRESSED {\k35}HAPPINESS
+Dialogue: 0,0:01:15.26,0:01:16.01,Default,,0,0,0,,\N{\k23}FOR {\k15}ME {\k35}ASKING
+Dialogue: 0,0:01:16.01,0:01:16.73,Default,,0,0,0,,\N{\k18}TO {\k7}BE {\k29}INCLUDED {\k15}IN
+Dialogue: 0,0:01:16.73,0:01:17.35,Default,,0,0,0,,\N{\k7}THE {\k24}PLANNING {\k29}LATER
+Dialogue: 0,0:01:17.35,0:01:17.54,Default,,0,0,0,,\N{\k18}ON.
+Dialogue: 0,0:01:18.37,0:01:19.07,Default,,0,0,0,,\N{\k21}I {\k21}AGREED {\k26}AND
+Dialogue: 0,0:01:19.07,0:01:19.87,Default,,0,0,0,,\N{\k10}THE {\k33}CONVERSATION {\k35}ENDED
+Dialogue: 0,0:01:19.87,0:01:20.54,Default,,0,0,0,,\N{\k16}ON {\k11}WHAT {\k20}SEEMED {\k18}LIKE
+Dialogue: 0,0:01:20.54,0:01:20.98,Default,,0,0,0,,\N{\k9}A {\k12}GOOD {\k21}NOTE.
+Dialogue: 0,0:01:21.60,0:01:22.37,Default,,0,0,0,,\N{\k43}A {\k15}FEW {\k17}WEEKS
+Dialogue: 0,0:01:22.37,0:01:23.09,Default,,0,0,0,,\N{\k34}LATER {\k37}MY
+Dialogue: 0,0:01:23.09,0:01:23.85,Default,,0,0,0,,\N{\k32}PARTNER {\k14}AND {\k7}I {\k21}ATTENDED
+Dialogue: 0,0:01:23.85,0:01:24.57,Default,,0,0,0,,\N{\k20}A {\k20}DETAILED {\k31}MEDICAL
+Dialogue: 0,0:01:24.57,0:01:25.18,Default,,0,0,0,,\N{\k34}APPOINTMENT {\k26}TO
+Dialogue: 0,0:01:25.18,0:01:25.85,Default,,0,0,0,,\N{\k11}CHECK {\k20}ON {\k7}THE {\k28}BABY'S
+Dialogue: 0,0:01:25.85,0:01:26.20,Default,,0,0,0,,\N{\k34}DEVELOPMENT.
+Dialogue: 0,0:01:26.90,0:01:27.56,Default,,0,0,0,,\N{\k43}EVERYTHING {\k21}LOOKED
+Dialogue: 0,0:01:27.56,0:01:28.26,Default,,0,0,0,,\N{\k25}GOOD {\k30}AND {\k14}WE
+Dialogue: 0,0:01:28.26,0:01:28.95,Default,,0,0,0,,\N{\k11}ASKED {\k16}THE {\k23}DOCTOR {\k17}TO
+Dialogue: 0,0:01:28.95,0:01:29.64,Default,,0,0,0,,\N{\k14}WRITE {\k14}THE {\k18}BABY {\k21}SEX
+Dialogue: 0,0:01:29.64,0:01:30.37,Default,,0,0,0,,\N{\k14}ON {\k3}A {\k18}PIECE {\k14}OF {\k23}PAPER
+Dialogue: 0,0:01:30.37,0:01:31.06,Default,,0,0,0,,\N{\k18}AND {\k15}SEAL {\k14}IT {\k9}IN {\k10}AN
+Dialogue: 0,0:01:31.06,0:01:31.71,Default,,0,0,0,,\N{\k17}ENVELOPE {\k32}SO {\k15}WE
+Dialogue: 0,0:01:31.71,0:01:32.48,Default,,0,0,0,,\N{\k14}COULD {\k20}FIND {\k14}OUT {\k28}LATER.
+Dialogue: 0,0:01:33.26,0:01:34.01,Default,,0,0,0,,\N{\k19}WE {\k30}DECIDED {\k25}TO
+Dialogue: 0,0:01:34.01,0:01:34.78,Default,,0,0,0,,\N{\k10}LEAVE {\k14}THE {\k23}ENVELOPE {\k28}WITH
+Dialogue: 0,0:01:34.78,0:01:35.45,Default,,0,0,0,,\N{\k9}MY {\k18}OLDER {\k23}SIBLING {\k15}FOR
+Dialogue: 0,0:01:35.45,0:01:35.92,Default,,0,0,0,,\N{\k46}SAFEKEEPING.
+Dialogue: 0,0:01:36.68,0:01:37.35,Default,,0,0,0,,\N{\k21}WHEN {\k19}WE {\k26}UPDATED
+Dialogue: 0,0:01:37.35,0:01:38.01,Default,,0,0,0,,\N{\k18}OUR {\k25}FAMILIES {\k21}ABOUT
+Dialogue: 0,0:01:38.01,0:01:38.78,Default,,0,0,0,,\N{\k16}THE {\k29}APPOINTMENT {\k29}MY
+Dialogue: 0,0:01:38.78,0:01:39.64,Default,,0,0,0,,\N{\k20}SIDE {\k29}RESPONDED {\k35}CALMLY
+Dialogue: 0,0:01:39.64,0:01:40.12,Default,,0,0,0,,\N{\k20}AND {\k28}RESPECTFULLY.
+Dialogue: 0,0:01:41.01,0:01:41.81,Default,,0,0,0,,\N{\k32}HIS {\k21}SIDE {\k25}HOWEVER
+Dialogue: 0,0:01:41.81,0:01:42.50,Default,,0,0,0,,\N{\k46}REACTED {\k21}VERY
+Dialogue: 0,0:01:42.50,0:01:42.95,Default,,0,0,0,,\N{\k45}DIFFERENTLY.
+Dialogue: 0,0:01:43.78,0:01:44.42,Default,,0,0,0,,\N{\k37}THIS {\k26}SISTER
+Dialogue: 0,0:01:44.42,0:01:45.15,Default,,0,0,0,,\N{\k23}BECAME {\k28}UPSET {\k21}AND
+Dialogue: 0,0:01:45.15,0:01:45.84,Default,,0,0,0,,\N{\k14}TOLD {\k20}THEM {\k7}THAT {\k12}THE {\k14}ENVELOPE
+Dialogue: 0,0:01:45.84,0:01:46.51,Default,,0,0,0,,\N{\k29}SHOULD {\k17}NEVER {\k20}HAVE
+Dialogue: 0,0:01:46.51,0:01:47.18,Default,,0,0,0,,\N{\k12}GONE {\k14}TO {\k7}MY {\k32}FAMILY.
+Dialogue: 0,0:01:47.64,0:01:48.31,Default,,0,0,0,,\N{\k39}SHE {\k27}INSISTED
+Dialogue: 0,0:01:48.31,0:01:49.00,Default,,0,0,0,,\N{\k28}THAT {\k30}AS {\k9}THEY
+Dialogue: 0,0:01:49.00,0:01:49.71,Default,,0,0,0,,\N{\k14}AREN'T {\k12}FROM {\k14}HIS {\k31}SIDE
+Dialogue: 0,0:01:49.71,0:01:50.35,Default,,0,0,0,,\N{\k26}SHE {\k17}SHOULD {\k7}HAVE {\k12}BEEN
+Dialogue: 0,0:01:50.35,0:01:51.04,Default,,0,0,0,,\N{\k32}INVOLVED {\k17}AND {\k18}FELT
+Dialogue: 0,0:01:51.04,0:01:51.85,Default,,0,0,0,,\N{\k31}DELIBERATELY {\k50}EXCLUDED.
+Dialogue: 0,0:01:52.52,0:01:53.31,Default,,0,0,0,,\N{\k39}SHE {\k15}THEN {\k23}INVOLVED
+Dialogue: 0,0:01:53.31,0:01:54.18,Default,,0,0,0,,\N{\k16}THEIR {\k21}MOTHER, {\k6}WHO
+Dialogue: 0,0:01:54.18,0:01:54.81,Default,,0,0,0,,\N{\k13}ECHOED {\k24}THOSE {\k25}FEELINGS
+Dialogue: 0,0:01:54.81,0:01:55.43,Default,,0,0,0,,\N{\k22}AND {\k14}WENT {\k25}FURTHER
+Dialogue: 0,0:01:55.43,0:01:56.12,Default,,0,0,0,,\N{\k15}BY {\k21}SAYING {\k14}SHE {\k16}SHOULD
+Dialogue: 0,0:01:56.12,0:01:56.78,Default,,0,0,0,,\N{\k9}HAVE {\k15}BEEN {\k12}THE {\k14}ONE {\k14}TO
+Dialogue: 0,0:01:56.78,0:01:57.54,Default,,0,0,0,,\N{\k17}RECEIVE {\k16}THE {\k21}ENVELOPE {\k20}AND
+Dialogue: 0,0:01:57.54,0:01:58.28,Default,,0,0,0,,\N{\k17}REVEAL {\k18}THE {\k37}INFORMATION
+Dialogue: 0,0:01:58.28,0:01:58.70,Default,,0,0,0,,\N{\k20}TO {\k21}US.
+Dialogue: 0,0:01:59.31,0:02:00.09,Default,,0,0,0,,\N{\k22}SHE {\k23}ALSO {\k31}REMINDED
+Dialogue: 0,0:02:00.09,0:02:00.70,Default,,0,0,0,,\N{\k21}MY {\k24}PARTNER {\k14}THAT
+Dialogue: 0,0:02:00.70,0:02:01.31,Default,,0,0,0,,\N{\k9}I {\k12}WAS {\k21}JOINING {\k17}THEIR
+Dialogue: 0,0:02:01.31,0:02:02.09,Default,,0,0,0,,\N{\k28}FAMILY {\k20}TO {\k29}MARRIAGE
+Dialogue: 0,0:02:02.09,0:02:02.71,Default,,0,0,0,,\N{\k18}AND {\k28}IMPLIED {\k15}THAT
+Dialogue: 0,0:02:02.71,0:02:03.48,Default,,0,0,0,,\N{\k34}DECISIONS {\k25}ABOUT {\k16}THE
+Dialogue: 0,0:02:03.48,0:02:04.28,Default,,0,0,0,,\N{\k21}BABY {\k17}SHOULD {\k14}BE {\k26}DISCUSSED
+Dialogue: 0,0:02:04.28,0:02:05.04,Default,,0,0,0,,\N{\k21}WITH {\k9}THEM {\k26}BEFORE {\k18}HAND
+Dialogue: 0,0:02:05.04,0:02:06.06,Default,,0,0,0,,\N{\k19}RATHER {\k12}THAN {\k14}MADE {\k56}INDEPENDENTLY.
+Dialogue: 0,0:02:06.81,0:02:07.90,Default,,0,0,0,,\N{\k18}THE {\k37}SITUATION {\k52}ESCALATED
+Dialogue: 0,0:02:07.90,0:02:08.28,Default,,0,0,0,,\N{\k37}QUICKLY.
+Dialogue: 0,0:02:09.00,0:02:09.62,Default,,0,0,0,,\N{\k21}HIS {\k18}MOTHER {\k21}STOPPED
+Dialogue: 0,0:02:09.62,0:02:10.50,Default,,0,0,0,,\N{\k31}SPEAKING {\k12}TO {\k9}HIM {\k34}ENTIRELY,
+Dialogue: 0,0:02:10.78,0:02:11.47,Default,,0,0,0,,\N{\k9}BLOCKED {\k21}HIM {\k21}AND {\k15}TOLD
+Dialogue: 0,0:02:11.47,0:02:12.31,Default,,0,0,0,,\N{\k15}HIM {\k12}SHE {\k8}WAS {\k21}STEPPING {\k25}AWAY
+Dialogue: 0,0:02:12.31,0:02:12.96,Default,,0,0,0,,\N{\k12}FROM {\k18}HIS {\k13}LIFE {\k20}SO
+Dialogue: 0,0:02:12.96,0:02:13.86,Default,,0,0,0,,\N{\k9}HE {\k9}COULD {\k12}MAKE {\k19}HIS {\k8}OWN {\k30}CHOICES.
+Dialogue: 0,0:02:14.47,0:02:15.12,Default,,0,0,0,,\N{\k43}HIS {\k20}SISTER
+Dialogue: 0,0:02:15.12,0:02:15.74,Default,,0,0,0,,\N{\k40}SUPPORTED {\k21}THIS
+Dialogue: 0,0:02:15.74,0:02:16.47,Default,,0,0,0,,\N{\k13}STUNT, {\k29}EMPHASIZING
+Dialogue: 0,0:02:16.47,0:02:17.08,Default,,0,0,0,,\N{\k21}THAT {\k12}IT {\k9}HAD {\k16}ALWAYS
+Dialogue: 0,0:02:17.08,0:02:17.74,Default,,0,0,0,,\N{\k21}BEEN {\k13}THE {\k15}THREE {\k14}OF
+Dialogue: 0,0:02:17.74,0:02:18.37,Default,,0,0,0,,\N{\k15}THEM {\k23}TOGETHER {\k24}AND
+Dialogue: 0,0:02:18.37,0:02:19.03,Default,,0,0,0,,\N{\k24}SUGGESTING {\k29}THAT {\k12}MY
+Dialogue: 0,0:02:19.03,0:02:19.81,Default,,0,0,0,,\N{\k30}PARTNER {\k24}WAS {\k23}CHOOSING
+Dialogue: 0,0:02:19.81,0:02:20.40,Default,,0,0,0,,\N{\k20}ME {\k15}OVER {\k21}THEM.
+Dialogue: 0,0:02:21.19,0:02:22.09,Default,,0,0,0,,\N{\k21}NOW {\k20}I'M {\k15}LEFT {\k31}WONDERING
+Dialogue: 0,0:02:22.09,0:02:22.97,Default,,0,0,0,,\N{\k21}WHETHER {\k30}SETTING {\k35}BOUNDARIES
+Dialogue: 0,0:02:22.97,0:02:23.68,Default,,0,0,0,,\N{\k18}AND {\k15}MAKING {\k36}DECISIONS
+Dialogue: 0,0:02:23.68,0:02:24.41,Default,,0,0,0,,\N{\k25}ABOUT {\k14}MY {\k33}CHILD
+Dialogue: 0,0:02:24.41,0:02:25.08,Default,,0,0,0,,\N{\k16}AS {\k7}A {\k18}COUPLE {\k24}WAS
+Dialogue: 0,0:02:25.08,0:02:25.78,Default,,0,0,0,,\N{\k17}WRONG {\k28}OR {\k24}WHETHER
+Dialogue: 0,0:02:25.78,0:02:26.41,Default,,0,0,0,,\N{\k12}THE {\k31}REACTION {\k19}FROM
+Dialogue: 0,0:02:26.41,0:02:27.31,Default,,0,0,0,,\N{\k16}HIS {\k23}FAMILY {\k50}COSTALIGN
+Dialogue: 0,0:02:27.31,0:02:27.97,Default,,0,0,0,,\N{\k26}BEFORE {\k13}OUR {\k25}BABY
+Dialogue: 0,0:02:27.97,0:02:28.58,Default,,0,0,0,,\N{\k20}WAS {\k18}EVEN {\k21}BORN.

@@ -1,0 +1,141 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.70,0:00:04.32,Default,,0,0,0,,\N{\k37}I {\k9}HAD {\k14}BEEN
+Dialogue: 0,0:00:04.32,0:00:05.04,Default,,0,0,0,,\N{\k29}TRAVELLING {\k25}ABROAD {\k16}WITH
+Dialogue: 0,0:00:05.04,0:00:05.86,Default,,0,0,0,,\N{\k12}MY {\k29}PARTNER {\k40}AND
+Dialogue: 0,0:00:05.86,0:00:06.58,Default,,0,0,0,,\N{\k8}IN {\k7}THE {\k16}DAYS {\k20}LEADING {\k20}UP
+Dialogue: 0,0:00:06.58,0:00:07.21,Default,,0,0,0,,\N{\k16}TO {\k12}THIS {\k35}SITUATION
+Dialogue: 0,0:00:07.21,0:00:07.86,Default,,0,0,0,,\N{\k18}I {\k8}WAS {\k37}EXTREMELY
+Dialogue: 0,0:00:07.86,0:00:08.17,Default,,0,0,0,,\N{\k31}SICK.
+Dialogue: 0,0:00:09.06,0:00:09.67,Default,,0,0,0,,\N{\k9}I {\k16}WAS {\k17}DEALING {\k17}WITH
+Dialogue: 0,0:00:09.67,0:00:10.33,Default,,0,0,0,,\N{\k35}NON-STOP {\k30}STOMACH
+Dialogue: 0,0:00:10.33,0:00:11.38,Default,,0,0,0,,\N{\k25}ISSUES, {\k38}NAUSEA
+Dialogue: 0,0:00:11.38,0:00:12.03,Default,,0,0,0,,\N{\k35}AND {\k29}VOMITING
+Dialogue: 0,0:00:12.03,0:00:12.82,Default,,0,0,0,,\N{\k44}AND {\k8}I {\k25}BARELY
+Dialogue: 0,0:00:12.82,0:00:13.53,Default,,0,0,0,,\N{\k21}SLEPT {\k20}FOR {\k16}TWO {\k13}NIGHTS
+Dialogue: 0,0:00:13.53,0:00:14.22,Default,,0,0,0,,\N{\k20}IN {\k8}A {\k11}ROW {\k28}BECAUSE
+Dialogue: 0,0:00:14.22,0:00:15.01,Default,,0,0,0,,\N{\k13}I {\k24}KEPT {\k20}WAKING {\k21}UP
+Dialogue: 0,0:00:15.01,0:00:15.69,Default,,0,0,0,,\N{\k12}TO {\k9}RUN {\k11}TO {\k8}THE {\k25}BATHROOM.
+Dialogue: 0,0:00:16.53,0:00:17.23,Default,,0,0,0,,\N{\k40}MY {\k29}PARTNER
+Dialogue: 0,0:00:17.23,0:00:17.89,Default,,0,0,0,,\N{\k22}WAS {\k25}FULLY {\k17}AWARE
+Dialogue: 0,0:00:17.89,0:00:18.64,Default,,0,0,0,,\N{\k20}OF {\k16}THIS {\k37}SINCE
+Dialogue: 0,0:00:18.64,0:00:19.42,Default,,0,0,0,,\N{\k16}SHE {\k17}SAW {\k12}IT {\k32}HAPPENING
+Dialogue: 0,0:00:19.42,0:00:20.33,Default,,0,0,0,,\N{\k19}AND {\k16}KNEW {\k16}HOW {\k39}EXHAUSTED
+Dialogue: 0,0:00:20.33,0:00:21.00,Default,,0,0,0,,\N{\k19}AND {\k12}I'M {\k7}WELL {\k26}HOURS.
+Dialogue: 0,0:00:21.78,0:00:22.55,Default,,0,0,0,,\N{\k39}WE {\k8}HAD {\k5}A {\k23}VERY
+Dialogue: 0,0:00:22.55,0:00:23.17,Default,,0,0,0,,\N{\k20}LONG {\k23}TRAVEL {\k17}DAY
+Dialogue: 0,0:00:23.17,0:00:23.78,Default,,0,0,0,,\N{\k19}PLAN {\k17}AND {\k22}ENDED
+Dialogue: 0,0:00:23.78,0:00:24.55,Default,,0,0,0,,\N{\k17}UP {\k19}CHOOSING {\k17}A {\k21}19
+Dialogue: 0,0:00:24.55,0:00:25.33,Default,,0,0,0,,\N{\k22}HOUR {\k27}OVERNIGHT {\k28}COACH
+Dialogue: 0,0:00:25.33,0:00:26.10,Default,,0,0,0,,\N{\k35}INSTEAD {\k16}OF {\k24}FLYING.
+Dialogue: 0,0:00:26.58,0:00:27.19,Default,,0,0,0,,\N{\k39}THE {\k21}FLIGHTS
+Dialogue: 0,0:00:27.19,0:00:27.94,Default,,0,0,0,,\N{\k26}THAT {\k16}WERE {\k32}AVAILABLE
+Dialogue: 0,0:00:27.94,0:00:28.60,Default,,0,0,0,,\N{\k21}WERE {\k44}EXPENSIVE,
+Dialogue: 0,0:00:29.14,0:00:29.83,Default,,0,0,0,,\N{\k41}BADLY {\k28}TIMED
+Dialogue: 0,0:00:29.83,0:00:30.53,Default,,0,0,0,,\N{\k26}AND {\k43}UNCOMFORTABLE.
+Dialogue: 0,0:00:31.42,0:00:32.03,Default,,0,0,0,,\N{\k31}SOME {\k12}WOULD {\k10}HAVE {\k7}HAD
+Dialogue: 0,0:00:32.03,0:00:32.64,Default,,0,0,0,,\N{\k10}A {\k25}LANDING {\k17}IN {\k6}THE
+Dialogue: 0,0:00:32.64,0:00:33.24,Default,,0,0,0,,\N{\k15}MIDDLE {\k17}OF {\k8}THE {\k17}NIGHT
+Dialogue: 0,0:00:33.24,0:00:33.97,Default,,0,0,0,,\N{\k25}AND {\k14}THE {\k17}IDEA {\k15}OF
+Dialogue: 0,0:00:33.97,0:00:34.74,Default,,0,0,0,,\N{\k17}BEING {\k24}STUCK {\k16}UP {\k17}RIGHT
+Dialogue: 0,0:00:34.74,0:00:35.38,Default,,0,0,0,,\N{\k14}IN {\k7}A {\k24}CRAMPED {\k17}PLANE
+Dialogue: 0,0:00:35.38,0:00:36.20,Default,,0,0,0,,\N{\k21}SEAT {\k17}WHILE {\k19}SIX {\k22}ENDED
+Dialogue: 0,0:00:36.20,0:00:36.60,Default,,0,0,0,,\N{\k15}IN {\k24}VARIABLE.
+Dialogue: 0,0:00:37.42,0:00:38.02,Default,,0,0,0,,\N{\k23}I {\k16}PAID {\k20}EXTRA
+Dialogue: 0,0:00:38.02,0:00:38.82,Default,,0,0,0,,\N{\k19}FOR {\k6}A {\k14}HIGH {\k19}END {\k20}OVERNIGHT
+Dialogue: 0,0:00:38.82,0:00:39.50,Default,,0,0,0,,\N{\k28}BUS {\k14}WITH {\k25}FULLY
+Dialogue: 0,0:00:39.50,0:00:40.74,Default,,0,0,0,,\N{\k29}RECLINING {\k24}SEATS, {\k28}BLANKETS
+Dialogue: 0,0:00:40.74,0:00:41.57,Default,,0,0,0,,\N{\k61}AND {\k21}PILLOW
+Dialogue: 0,0:00:41.57,0:00:42.34,Default,,0,0,0,,\N{\k16}SO {\k19}WE {\k10}COULD {\k30}ACTUALLY
+Dialogue: 0,0:00:42.34,0:00:43.02,Default,,0,0,0,,\N{\k15}REST {\k21}DURING {\k16}THE {\k14}TRIP.
+Dialogue: 0,0:00:44.02,0:00:44.65,Default,,0,0,0,,\N{\k9}ON {\k10}THE {\k14}DAY {\k14}WE {\k15}LEFT
+Dialogue: 0,0:00:44.65,0:00:45.38,Default,,0,0,0,,\N{\k22}I {\k5}WAS {\k16}STILL {\k28}FEELING
+Dialogue: 0,0:00:45.38,0:00:46.24,Default,,0,0,0,,\N{\k25}PRETTY {\k29}AWFUL, {\k8}THOUGH
+Dialogue: 0,0:00:46.24,0:00:46.96,Default,,0,0,0,,\N{\k29}SLIGHTLY {\k25}BETTER {\k16}THAN
+Dialogue: 0,0:00:46.96,0:00:47.28,Default,,0,0,0,,\N{\k32}BEFORE.
+Dialogue: 0,0:00:48.21,0:00:48.84,Default,,0,0,0,,\N{\k21}WE {\k20}SPENT {\k20}PART
+Dialogue: 0,0:00:48.84,0:00:49.60,Default,,0,0,0,,\N{\k11}OF {\k10}THE {\k9}DAY {\k26}STOPPING {\k17}AT
+Dialogue: 0,0:00:49.60,0:00:50.34,Default,,0,0,0,,\N{\k28}MULTIPLE {\k46}PHARMACIES
+Dialogue: 0,0:00:50.34,0:00:51.32,Default,,0,0,0,,\N{\k25}SO {\k11}I {\k7}COULD {\k14}GET {\k38}MEDICATION.
+Dialogue: 0,0:00:51.93,0:00:52.57,Default,,0,0,0,,\N{\k35}MY {\k28}PARTNER
+Dialogue: 0,0:00:52.57,0:00:53.39,Default,,0,0,0,,\N{\k28}WASN'T {\k20}FEELING {\k33}AMAZING
+Dialogue: 0,0:00:53.39,0:00:54.21,Default,,0,0,0,,\N{\k38}EITHER {\k43}BUT
+Dialogue: 0,0:00:54.21,0:00:54.93,Default,,0,0,0,,\N{\k12}HER {\k23}SYMPTOMS {\k17}WERE {\k17}MUCH
+Dialogue: 0,0:00:54.93,0:00:55.61,Default,,0,0,0,,\N{\k30}MILDER {\k11}THAN {\k25}MINE.
+Dialogue: 0,0:00:56.39,0:00:57.06,Default,,0,0,0,,\N{\k30}ONCE {\k15}WE {\k10}WERE {\k10}ON
+Dialogue: 0,0:00:57.06,0:00:57.82,Default,,0,0,0,,\N{\k7}THE {\k14}BUS {\k37}I {\k16}MADE
+Dialogue: 0,0:00:57.82,0:00:58.47,Default,,0,0,0,,\N{\k11}THE {\k28}DECISION {\k16}THAT {\k9}THE
+Dialogue: 0,0:00:58.47,0:00:59.34,Default,,0,0,0,,\N{\k20}BEST {\k7}THING {\k12}FOR {\k11}MY {\k34}RECOVERY
+Dialogue: 0,0:00:59.34,0:01:00.02,Default,,0,0,0,,\N{\k19}WAS {\k11}TO {\k18}SLEEP {\k17}AS
+Dialogue: 0,0:01:00.02,0:01:00.75,Default,,0,0,0,,\N{\k13}MUCH {\k22}AS {\k37}POSSIBLE.
+Dialogue: 0,0:01:01.52,0:01:02.43,Default,,0,0,0,,\N{\k23}I {\k14}TOOK {\k20}SLEEP {\k33}MEDICATION
+Dialogue: 0,0:01:02.43,0:01:03.24,Default,,0,0,0,,\N{\k30}SO {\k10}I {\k11}COULD {\k28}FINALLY
+Dialogue: 0,0:01:03.24,0:01:03.89,Default,,0,0,0,,\N{\k23}REST {\k20}AND {\k21}HOPEFULLY
+Dialogue: 0,0:01:03.89,0:01:04.57,Default,,0,0,0,,\N{\k24}BE {\k28}FUNCTIONAL {\k15}THE
+Dialogue: 0,0:01:04.57,0:01:04.93,Default,,0,0,0,,\N{\k20}NEXT {\k15}DAY.
+Dialogue: 0,0:01:05.62,0:01:06.26,Default,,0,0,0,,\N{\k21}I {\k23}EVEN {\k18}OFFERED
+Dialogue: 0,0:01:06.26,0:01:07.15,Default,,0,0,0,,\N{\k14}HER {\k11}THE {\k18}SAME {\k45}MEDICATION,
+Dialogue: 0,0:01:07.56,0:01:08.21,Default,,0,0,0,,\N{\k9}KNOWING {\k15}IT {\k10}MIGHT {\k17}HELP {\k12}HER
+Dialogue: 0,0:01:08.21,0:01:09.01,Default,,0,0,0,,\N{\k18}SLEEP {\k17}THROUGH {\k14}THE {\k9}RIDE {\k20}TOO,
+Dialogue: 0,0:01:09.28,0:01:09.79,Default,,0,0,0,,\N{\k7}BUT {\k14}SHE {\k29}DECLINED.
+Dialogue: 0,0:01:10.87,0:01:11.59,Default,,0,0,0,,\N{\k35}I {\k21}ENDED {\k14}UP
+Dialogue: 0,0:01:11.59,0:01:12.28,Default,,0,0,0,,\N{\k24}SLEEPING {\k25}FOR {\k18}AROUND
+Dialogue: 0,0:01:12.28,0:01:13.00,Default,,0,0,0,,\N{\k34}15 {\k14}OR {\k23}16
+Dialogue: 0,0:01:13.00,0:01:13.56,Default,,0,0,0,,\N{\k21}HOURS {\k34}TOTAL.
+Dialogue: 0,0:01:14.42,0:01:15.15,Default,,0,0,0,,\N{\k17}DURING {\k16}THAT {\k23}TIME {\k15}I
+Dialogue: 0,0:01:15.15,0:01:15.81,Default,,0,0,0,,\N{\k14}HAD {\k15}NO {\k20}IDEA {\k15}SHE
+Dialogue: 0,0:01:15.81,0:01:16.14,Default,,0,0,0,,\N{\k12}WAS {\k20}UPSET.
+Dialogue: 0,0:01:17.00,0:01:17.78,Default,,0,0,0,,\N{\k23}SHE {\k18}NEVER {\k15}WOKE {\k20}ME
+Dialogue: 0,0:01:17.78,0:01:18.57,Default,,0,0,0,,\N{\k15}UP {\k28}AND {\k9}I {\k26}DIDN'T
+Dialogue: 0,0:01:18.57,0:01:19.40,Default,,0,0,0,,\N{\k21}REALISE {\k18}THERE {\k7}WAS {\k6}A {\k28}PROBLEM
+Dialogue: 0,0:01:19.40,0:01:20.09,Default,,0,0,0,,\N{\k21}UNTIL {\k9}I {\k14}WOKE {\k12}UP {\k11}NEAR
+Dialogue: 0,0:01:20.09,0:01:20.70,Default,,0,0,0,,\N{\k12}THE {\k12}END {\k9}OF {\k7}THE {\k18}RIDE
+Dialogue: 0,0:01:20.70,0:01:21.37,Default,,0,0,0,,\N{\k25}WHEN {\k18}SHE {\k23}HERSELF
+Dialogue: 0,0:01:21.37,0:01:21.84,Default,,0,0,0,,\N{\k18}WAS {\k28}ASLEEP.
+Dialogue: 0,0:01:22.68,0:01:23.78,Default,,0,0,0,,\N{\k39}LATER, {\k20}WHEN
+Dialogue: 0,0:01:23.78,0:01:24.65,Default,,0,0,0,,\N{\k17}SHE {\k14}WOKE {\k24}UP {\k31}I
+Dialogue: 0,0:01:24.65,0:01:25.29,Default,,0,0,0,,\N{\k20}REACHED {\k15}FOR {\k10}HER {\k17}HAND
+Dialogue: 0,0:01:25.29,0:01:26.09,Default,,0,0,0,,\N{\k28}AND {\k23}IMMEDIATELY {\k28}SENT
+Dialogue: 0,0:01:26.09,0:01:26.76,Default,,0,0,0,,\N{\k32}SOMETHING {\k15}WAS {\k18}WRONG.
+Dialogue: 0,0:01:27.64,0:01:28.48,Default,,0,0,0,,\N{\k28}WHEN {\k9}I {\k21}ASKED {\k24}SHE
+Dialogue: 0,0:01:28.48,0:01:29.15,Default,,0,0,0,,\N{\k17}TOLD {\k18}ME {\k14}SHE {\k17}FELT
+Dialogue: 0,0:01:29.15,0:01:29.84,Default,,0,0,0,,\N{\k28}ABANDONED {\k24}AND {\k15}SAID
+Dialogue: 0,0:01:29.84,0:01:30.54,Default,,0,0,0,,\N{\k9}I {\k12}HAD {\k12}LEFT {\k19}HER {\k16}ALONE
+Dialogue: 0,0:01:30.54,0:01:31.18,Default,,0,0,0,,\N{\k17}THE {\k20}ENTIRE {\k26}TRIP
+Dialogue: 0,0:01:31.18,0:01:31.79,Default,,0,0,0,,\N{\k9}BY {\k17}CHOOSING {\k18}TO {\k15}SLEEP.
+Dialogue: 0,0:01:32.62,0:01:33.35,Default,,0,0,0,,\N{\k14}FROM {\k14}MY {\k17}POINT {\k14}OF {\k14}VIEW
+Dialogue: 0,0:01:33.35,0:01:34.42,Default,,0,0,0,,\N{\k18}I {\k9}WAS {\k15}SICK, {\k26}SEVERELY
+Dialogue: 0,0:01:34.42,0:01:35.04,Default,,0,0,0,,\N{\k34}SLEEP {\k28}DEPRIVED
+Dialogue: 0,0:01:35.04,0:01:35.87,Default,,0,0,0,,\N{\k25}AND {\k18}TRYING {\k15}TO {\k23}RECOVER.
+Dialogue: 0,0:01:36.81,0:01:37.45,Default,,0,0,0,,\N{\k40}I {\k23}DIDN'T
+Dialogue: 0,0:01:37.45,0:01:38.28,Default,,0,0,0,,\N{\k48}INTENTIONALLY {\k34}IGNORE
+Dialogue: 0,0:01:38.28,0:01:39.15,Default,,0,0,0,,\N{\k20}HER, {\k20}REFUSE {\k31}SUPPORT
+Dialogue: 0,0:01:39.15,0:01:39.87,Default,,0,0,0,,\N{\k32}OR {\k39}KNOWINGLY
+Dialogue: 0,0:01:39.87,0:01:40.45,Default,,0,0,0,,\N{\k18}LEAVE {\k15}HER {\k23}UPSET.
+Dialogue: 0,0:01:41.40,0:01:42.21,Default,,0,0,0,,\N{\k21}I {\k21}TRULY {\k37}BELIEVED
+Dialogue: 0,0:01:42.21,0:01:43.09,Default,,0,0,0,,\N{\k15}RESTING {\k24}WAS {\k14}THE {\k33}HEALTHIEST
+Dialogue: 0,0:01:43.09,0:01:43.78,Default,,0,0,0,,\N{\k28}OPTION {\k14}AT {\k10}THE {\k15}TIME.
+Dialogue: 0,0:01:44.59,0:01:45.28,Default,,0,0,0,,\N{\k18}I'M {\k9}TORN {\k26}BECAUSE {\k14}I
+Dialogue: 0,0:01:45.28,0:01:46.12,Default,,0,0,0,,\N{\k23}UNDERSTAND {\k32}FEELING {\k28}LONELY
+Dialogue: 0,0:01:46.12,0:01:46.87,Default,,0,0,0,,\N{\k15}ON {\k17}SUCH {\k12}A {\k10}LONG {\k19}TRIP
+Dialogue: 0,0:01:46.87,0:01:47.57,Default,,0,0,0,,\N{\k24}BUT {\k7}I {\k20}ALSO {\k17}FEEL
+Dialogue: 0,0:01:47.57,0:01:48.18,Default,,0,0,0,,\N{\k18}LIKE {\k14}MY {\k28}PHYSICAL
+Dialogue: 0,0:01:48.18,0:01:48.85,Default,,0,0,0,,\N{\k37}CONDITION {\k15}AND {\k14}LACK
+Dialogue: 0,0:01:48.85,0:01:49.62,Default,,0,0,0,,\N{\k14}OF {\k14}SLEEP {\k29}MATTERED {\k18}TO.
+Dialogue: 0,0:01:50.28,0:01:51.12,Default,,0,0,0,,\N{\k35}I {\k17}STILL {\k30}DON'T
+Dialogue: 0,0:01:51.12,0:01:51.87,Default,,0,0,0,,\N{\k14}KNOW {\k17}IF {\k43}PRIORITISING
+Dialogue: 0,0:01:51.87,0:01:52.50,Default,,0,0,0,,\N{\k30}SLEEP {\k17}IN {\k14}THAT
+Dialogue: 0,0:01:52.50,0:01:53.42,Default,,0,0,0,,\N{\k40}SITUATION {\k17}WAS {\k34}REASONABLE
+Dialogue: 0,0:01:53.42,0:01:54.04,Default,,0,0,0,,\N{\k17}OR {\k16}IF {\k5}I {\k14}SHOULD {\k8}HAVE
+Dialogue: 0,0:01:54.04,0:01:54.68,Default,,0,0,0,,\N{\k14}PUSHED {\k19}MYSELF {\k30}TO
+Dialogue: 0,0:01:54.68,0:01:55.31,Default,,0,0,0,,\N{\k15}STAY {\k17}AWAKE {\k29}DESPITE
+Dialogue: 0,0:01:55.31,0:01:56.07,Default,,0,0,0,,\N{\k24}HOW {\k9}I {\k42}WAS.

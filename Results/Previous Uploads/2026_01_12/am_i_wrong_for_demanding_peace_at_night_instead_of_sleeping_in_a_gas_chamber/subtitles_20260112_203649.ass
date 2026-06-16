@@ -1,0 +1,108 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.00,0:00:04.54,Default,,0,0,0,,{\an5}I'M A
+Dialogue: 0,0:00:04.54,0:00:05.29,Default,,0,0,0,,{\an5}36-YEAR-OLD
+Dialogue: 0,0:00:05.29,0:00:05.87,Default,,0,0,0,,{\an5}WOMAN MARRIED
+Dialogue: 0,0:00:05.87,0:00:06.79,Default,,0,0,0,,{\an5}TO A 41-YEAR-OLD
+Dialogue: 0,0:00:06.79,0:00:07.04,Default,,0,0,0,,{\an5}MAN.
+Dialogue: 0,0:00:07.33,0:00:08.01,Default,,0,0,0,,{\an5}AND WHILE
+Dialogue: 0,0:00:08.01,0:00:08.56,Default,,0,0,0,,{\an5}OUR RELATIONSHIP
+Dialogue: 0,0:00:08.56,0:00:09.16,Default,,0,0,0,,{\an5}IS SOLID,
+Dialogue: 0,0:00:09.35,0:00:09.92,Default,,0,0,0,,{\an5}NIGHTS IN
+Dialogue: 0,0:00:09.92,0:00:10.59,Default,,0,0,0,,{\an5}OUR APARTMENT HAVE
+Dialogue: 0,0:00:10.59,0:00:11.24,Default,,0,0,0,,{\an5}TURNED INTO SOMETHING
+Dialogue: 0,0:00:11.24,0:00:11.77,Default,,0,0,0,,{\an5}I GENUINELY
+Dialogue: 0,0:00:11.77,0:00:12.41,Default,,0,0,0,,{\an5}DREAD BECAUSE
+Dialogue: 0,0:00:12.41,0:00:12.96,Default,,0,0,0,,{\an5}OF HIS COMPLETE
+Dialogue: 0,0:00:12.96,0:00:13.98,Default,,0,0,0,,{\an5}LACK OF
+Dialogue: 0,0:00:13.98,0:00:14.38,Default,,0,0,0,,{\an5}CONSIDERATION.
+Dialogue: 0,0:00:14.50,0:00:15.16,Default,,0,0,0,,{\an5}ONCE THE
+Dialogue: 0,0:00:15.16,0:00:15.74,Default,,0,0,0,,{\an5}LIGHTS GO OUT,
+Dialogue: 0,0:00:15.82,0:00:16.42,Default,,0,0,0,,{\an5}I USUALLY
+Dialogue: 0,0:00:16.42,0:00:16.92,Default,,0,0,0,,{\an5}FALL ASLEEP
+Dialogue: 0,0:00:16.92,0:00:17.42,Default,,0,0,0,,{\an5}FIRST.
+Dialogue: 0,0:00:17.62,0:00:18.16,Default,,0,0,0,,{\an5}AND LIKE
+Dialogue: 0,0:00:18.16,0:00:18.66,Default,,0,0,0,,{\an5}CLOCKWORK,
+Dialogue: 0,0:00:18.69,0:00:19.26,Default,,0,0,0,,{\an5}HE COMES TO BED
+Dialogue: 0,0:00:19.26,0:00:19.98,Default,,0,0,0,,{\an5}LATER AND IMMEDIATELY
+Dialogue: 0,0:00:19.98,0:00:20.51,Default,,0,0,0,,{\an5}RELEASES
+Dialogue: 0,0:00:20.51,0:00:21.16,Default,,0,0,0,,{\an5}A SERIES OF
+Dialogue: 0,0:00:21.16,0:00:21.69,Default,,0,0,0,,{\an5}THUNDEROUS,
+Dialogue: 0,0:00:22.14,0:00:22.78,Default,,0,0,0,,{\an5}EYE-WATERING
+Dialogue: 0,0:00:22.78,0:00:23.33,Default,,0,0,0,,{\an5}FUMES UNDER
+Dialogue: 0,0:00:23.33,0:00:23.96,Default,,0,0,0,,{\an5}THE COVERS WITH
+Dialogue: 0,0:00:23.96,0:00:24.67,Default,,0,0,0,,{\an5}ZERO ATTEMPT TO
+Dialogue: 0,0:00:24.67,0:00:25.19,Default,,0,0,0,,{\an5}RESTRAIN THEM,
+Dialogue: 0,0:00:25.94,0:00:26.60,Default,,0,0,0,,{\an5}VENTILATE, OR
+Dialogue: 0,0:00:26.60,0:00:27.26,Default,,0,0,0,,{\an5}REMOVE HIMSELF,
+Dialogue: 0,0:00:27.55,0:00:28.23,Default,,0,0,0,,{\an5}TO THE POINT
+Dialogue: 0,0:00:28.23,0:00:28.94,Default,,0,0,0,,{\an5}WHERE I'M GAGGING,
+Dialogue: 0,0:00:28.94,0:00:29.50,Default,,0,0,0,,{\an5}WIDE
+Dialogue: 0,0:00:29.50,0:00:30.17,Default,,0,0,0,,{\an5}AWAKE AND
+Dialogue: 0,0:00:30.17,0:00:30.73,Default,,0,0,0,,{\an5}FORCED TO
+Dialogue: 0,0:00:30.73,0:00:31.28,Default,,0,0,0,,{\an5}FLEE THE BEDROOM
+Dialogue: 0,0:00:31.28,0:00:31.92,Default,,0,0,0,,{\an5}JUST TO BREATHE
+Dialogue: 0,0:00:31.92,0:00:32.42,Default,,0,0,0,,{\an5}WHAT
+Dialogue: 0,0:00:32.42,0:00:33.06,Default,,0,0,0,,{\an5}MAKES IT WORSE
+Dialogue: 0,0:00:33.06,0:00:33.75,Default,,0,0,0,,{\an5}IS THAT HIS DOCTOR
+Dialogue: 0,0:00:33.75,0:00:34.60,Default,,0,0,0,,{\an5}EXPLICITLY TOLD
+Dialogue: 0,0:00:34.60,0:00:35.11,Default,,0,0,0,,{\an5}HIM TO CUT OUT
+Dialogue: 0,0:00:35.11,0:00:35.70,Default,,0,0,0,,{\an5}CERTAIN FOODS
+Dialogue: 0,0:00:35.70,0:00:36.93,Default,,0,0,0,,{\an5}AND TAKE MEDICATION
+Dialogue: 0,0:00:36.93,0:00:37.47,Default,,0,0,0,,{\an5}FOR THE
+Dialogue: 0,0:00:37.47,0:00:38.28,Default,,0,0,0,,{\an5}ISSUE ADVICE
+Dialogue: 0,0:00:38.28,0:00:38.85,Default,,0,0,0,,{\an5}HE'S CHOSEN
+Dialogue: 0,0:00:38.85,0:00:39.78,Default,,0,0,0,,{\an5}TO IGNORE ENTIRELY
+Dialogue: 0,0:00:39.78,0:00:40.38,Default,,0,0,0,,{\an5}WHILE
+Dialogue: 0,0:00:40.38,0:00:40.88,Default,,0,0,0,,{\an5}I GO OUT OF
+Dialogue: 0,0:00:40.88,0:00:41.42,Default,,0,0,0,,{\an5}MY WAY TO LEAVE
+Dialogue: 0,0:00:41.42,0:00:41.92,Default,,0,0,0,,{\an5}THE ROOM IF
+Dialogue: 0,0:00:41.92,0:00:42.50,Default,,0,0,0,,{\an5}I SO MUCH AS
+Dialogue: 0,0:00:42.50,0:00:43.39,Default,,0,0,0,,{\an5}FEEL DISCOMFORT BECAUSE
+Dialogue: 0,0:00:43.39,0:00:44.02,Default,,0,0,0,,{\an5}I DON'T WANT TO
+Dialogue: 0,0:00:44.02,0:00:44.92,Default,,0,0,0,,{\an5}SUBJECT
+Dialogue: 0,0:00:44.92,0:00:45.56,Default,,0,0,0,,{\an5}HIM TO THE SAME
+Dialogue: 0,0:00:45.56,0:00:46.38,Default,,0,0,0,,{\an5}THING HE
+Dialogue: 0,0:00:46.38,0:00:46.97,Default,,0,0,0,,{\an5}INSISTS IT'S
+Dialogue: 0,0:00:46.97,0:00:47.61,Default,,0,0,0,,{\an5}NATURAL THAT
+Dialogue: 0,0:00:47.61,0:00:48.15,Default,,0,0,0,,{\an5}MARRIAGE MEANS
+Dialogue: 0,0:00:48.15,0:00:48.92,Default,,0,0,0,,{\an5}ACCEPTING EVERYTHING
+Dialogue: 0,0:00:48.92,0:00:49.60,Default,,0,0,0,,{\an5}YET
+Dialogue: 0,0:00:49.60,0:00:50.17,Default,,0,0,0,,{\an5}SOMEHOW HE
+Dialogue: 0,0:00:50.17,0:00:50.71,Default,,0,0,0,,{\an5}NEVER BEHAVED
+Dialogue: 0,0:00:50.71,0:00:51.38,Default,,0,0,0,,{\an5}THIS WAY BEFORE
+Dialogue: 0,0:00:51.38,0:00:52.02,Default,,0,0,0,,{\an5}WE LIVED TOGETHER
+Dialogue: 0,0:00:52.02,0:00:52.79,Default,,0,0,0,,{\an5}AND STILL MANAGES
+Dialogue: 0,0:00:52.79,0:00:53.60,Default,,0,0,0,,{\an5}TO CONTROL HIMSELF
+Dialogue: 0,0:00:53.60,0:00:54.61,Default,,0,0,0,,{\an5}EVERYWHERE
+Dialogue: 0,0:00:54.61,0:00:55.24,Default,,0,0,0,,{\an5}ELSE EXCEPT
+Dialogue: 0,0:00:55.24,0:00:55.82,Default,,0,0,0,,{\an5}THE ONE PLACE
+Dialogue: 0,0:00:55.82,0:00:56.42,Default,,0,0,0,,{\an5}I'M TRAPPED IN
+Dialogue: 0,0:00:56.42,0:00:57.39,Default,,0,0,0,,{\an5}HALF ASLEEP AND
+Dialogue: 0,0:00:57.39,0:00:57.93,Default,,0,0,0,,{\an5}NOW NOW I'M BEING
+Dialogue: 0,0:00:57.93,0:00:58.43,Default,,0,0,0,,{\an5}MADE TO FEEL
+Dialogue: 0,0:00:58.43,0:00:59.21,Default,,0,0,0,,{\an5}UNREASONABLE FOR
+Dialogue: 0,0:00:59.21,0:00:59.78,Default,,0,0,0,,{\an5}ASKING HIM TO
+Dialogue: 0,0:00:59.78,0:01:00.32,Default,,0,0,0,,{\an5}AT LEAST STEP
+Dialogue: 0,0:01:00.32,0:01:01.03,Default,,0,0,0,,{\an5}INTO ANOTHER ROOM
+Dialogue: 0,0:01:01.03,0:01:02.02,Default,,0,0,0,,{\an5}OR MAKE
+Dialogue: 0,0:01:02.02,0:01:02.61,Default,,0,0,0,,{\an5}ANY EFFORT AT
+Dialogue: 0,0:01:02.61,0:01:02.79,Default,,0,0,0,,{\an5}ALL.
+Dialogue: 0,0:01:02.93,0:01:03.46,Default,,0,0,0,,{\an5}SO AM
+Dialogue: 0,0:01:03.46,0:01:04.14,Default,,0,0,0,,{\an5}I REALLY THE VILLAIN
+Dialogue: 0,0:01:04.14,0:01:04.76,Default,,0,0,0,,{\an5}HERE FOR WANTING
+Dialogue: 0,0:01:04.76,0:01:05.43,Default,,0,0,0,,{\an5}BASIC RESPECT
+Dialogue: 0,0:01:05.43,0:01:05.98,Default,,0,0,0,,{\an5}AT A NIGHT
+Dialogue: 0,0:01:05.98,0:01:06.65,Default,,0,0,0,,{\an5}OF UNINTERRUPTED
+Dialogue: 0,0:01:06.65,0:01:06.90,Default,,0,0,0,,{\an5}SLEEP?

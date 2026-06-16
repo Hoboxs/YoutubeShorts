@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.41,0:00:04.20,Default,,0,0,0,,\N{\k14}LAST {\k35}WINTER, {\k6}MY
+Dialogue: 0,0:00:04.20,0:00:04.82,Default,,0,0,0,,\N{\k39}PARTNER'S {\k22}MOTHER
+Dialogue: 0,0:00:04.82,0:00:05.58,Default,,0,0,0,,\N{\k17}GAVE {\k21}OUR {\k36}HOUSEHOLD
+Dialogue: 0,0:00:05.58,0:00:06.25,Default,,0,0,0,,\N{\k17}AND {\k10}OUR {\k39}CHILDREN'S
+Dialogue: 0,0:00:06.25,0:00:07.09,Default,,0,0,0,,\N{\k12}EVERY {\k32}RESTAURANT {\k39}GIFT-CARDS
+Dialogue: 0,0:00:07.09,0:00:07.83,Default,,0,0,0,,\N{\k24}AS {\k16}HOLIDAY {\k33}PRESENTS.
+Dialogue: 0,0:00:08.50,0:00:09.27,Default,,0,0,0,,\N{\k19}THEY {\k8}WERE {\k14}ALL {\k14}FOR {\k21}MODEST
+Dialogue: 0,0:00:09.27,0:00:09.98,Default,,0,0,0,,\N{\k30}AMOUNTS, {\k17}ROUGHLY
+Dialogue: 0,0:00:09.98,0:00:10.77,Default,,0,0,0,,\N{\k21}ENOUGH {\k18}TO {\k17}COVER {\k21}PART
+Dialogue: 0,0:00:10.77,0:00:11.43,Default,,0,0,0,,\N{\k12}OF {\k11}A {\k20}CASUAL {\k21}MEAL.
+Dialogue: 0,0:00:12.11,0:00:12.72,Default,,0,0,0,,\N{\k20}I {\k16}THANKED {\k24}HER,
+Dialogue: 0,0:00:13.03,0:00:13.74,Default,,0,0,0,,\N{\k6}PUT {\k14}THE {\k9}CARD {\k16}WITH {\k9}OUR {\k14}OTHER
+Dialogue: 0,0:00:13.74,0:00:14.53,Default,,0,0,0,,\N{\k14}GIFT {\k31}ITEMS, {\k3}AND
+Dialogue: 0,0:00:14.53,0:00:15.27,Default,,0,0,0,,\N{\k10}DID {\k13}NOT {\k12}THINK {\k19}MUCH {\k17}MORE
+Dialogue: 0,0:00:15.27,0:00:15.67,Default,,0,0,0,,\N{\k20}ABOUT {\k19}IT.
+Dialogue: 0,0:00:16.30,0:00:17.05,Default,,0,0,0,,\N{\k14}TO {\k17}ME, {\k7}THERE
+Dialogue: 0,0:00:17.05,0:00:17.78,Default,,0,0,0,,\N{\k10}WERE {\k16}SIMPLY {\k28}GIFTS {\k17}WE
+Dialogue: 0,0:00:17.78,0:00:18.55,Default,,0,0,0,,\N{\k11}COULD {\k20}USE {\k19}WHENEVER {\k25}WE
+Dialogue: 0,0:00:18.55,0:00:19.21,Default,,0,0,0,,\N{\k26}WANTED, {\k11}LIKE
+Dialogue: 0,0:00:19.21,0:00:19.96,Default,,0,0,0,,\N{\k26}ANY {\k17}OTHER {\k30}PRESENT.
+Dialogue: 0,0:00:20.66,0:00:21.33,Default,,0,0,0,,\N{\k12}A {\k14}FEW {\k15}WEEKS {\k26}AGO,
+Dialogue: 0,0:00:21.51,0:00:22.23,Default,,0,0,0,,\N{\k5}SHE {\k32}MESSAGED {\k17}BOTH {\k16}MY
+Dialogue: 0,0:00:22.23,0:00:22.83,Default,,0,0,0,,\N{\k30}PARTNER {\k17}AND {\k12}ME
+Dialogue: 0,0:00:22.83,0:00:23.51,Default,,0,0,0,,\N{\k8}AND {\k27}SUGGESTED {\k32}WE
+Dialogue: 0,0:00:23.51,0:00:24.14,Default,,0,0,0,,\N{\k16}ALL {\k14}GO {\k17}OUT {\k14}TO
+Dialogue: 0,0:00:24.14,0:00:24.85,Default,,0,0,0,,\N{\k5}EAT {\k14}THAT {\k19}SAME {\k17}DATE {\k14}AND
+Dialogue: 0,0:00:24.85,0:00:25.82,Default,,0,0,0,,\N{\k14}USE {\k19}ONE {\k8}OF {\k9}THE {\k44}GIFT-CARDS.
+Dialogue: 0,0:00:25.94,0:00:26.78,Default,,0,0,0,,\N{\k7}I {\k14}WAS {\k28}GENUINELY {\k33}CONFUSED
+Dialogue: 0,0:00:26.78,0:00:27.48,Default,,0,0,0,,\N{\k23}AND {\k10}ASKED {\k17}WHICH {\k17}CARD
+Dialogue: 0,0:00:27.48,0:00:28.23,Default,,0,0,0,,\N{\k19}SHE {\k17}MEANT, {\k17}BECAUSE
+Dialogue: 0,0:00:28.23,0:00:28.85,Default,,0,0,0,,\N{\k16}I {\k20}ASSUMED {\k16}SHE {\k9}WAS
+Dialogue: 0,0:00:28.85,0:00:29.64,Default,,0,0,0,,\N{\k28}TALKING {\k19}ABOUT {\k30}SOMETHING
+Dialogue: 0,0:00:29.64,0:00:30.21,Default,,0,0,0,,\N{\k16}SHE {\k19}STILL {\k21}HAD.
+Dialogue: 0,0:00:30.92,0:00:31.57,Default,,0,0,0,,\N{\k13}SHE {\k30}CLARIFIED {\k21}THAT
+Dialogue: 0,0:00:31.57,0:00:32.17,Default,,0,0,0,,\N{\k12}SHE {\k14}MEANT {\k12}THE {\k21}RESTAURANT
+Dialogue: 0,0:00:32.17,0:00:32.88,Default,,0,0,0,,\N{\k21}CARD {\k24}SHE {\k10}HAD {\k14}GIVEN
+Dialogue: 0,0:00:32.88,0:00:33.24,Default,,0,0,0,,\N{\k14}TO {\k21}US.
+Dialogue: 0,0:00:33.84,0:00:34.61,Default,,0,0,0,,\N{\k23}SHE {\k16}ALSO {\k19}SAID {\k17}SHE
+Dialogue: 0,0:00:34.61,0:00:35.29,Default,,0,0,0,,\N{\k14}DID {\k14}NOT {\k17}HAVE {\k12}THEM {\k9}WITH
+Dialogue: 0,0:00:35.29,0:00:36.14,Default,,0,0,0,,\N{\k10}HER {\k21}BECAUSE {\k16}I {\k10}HAD {\k25}TAKEN
+Dialogue: 0,0:00:36.14,0:00:36.43,Default,,0,0,0,,\N{\k15}THEM {\k14}HOME.
+Dialogue: 0,0:00:37.15,0:00:38.02,Default,,0,0,0,,\N{\k14}I {\k38}RESPONDED {\k34}HONESTLY
+Dialogue: 0,0:00:38.02,0:00:38.84,Default,,0,0,0,,\N{\k19}THAT {\k10}I {\k14}DID {\k11}NOT {\k26}REALISE
+Dialogue: 0,0:00:38.84,0:00:39.53,Default,,0,0,0,,\N{\k17}I {\k11}WAS {\k11}NOT {\k28}SUPPOSED
+Dialogue: 0,0:00:39.53,0:00:40.46,Default,,0,0,0,,\N{\k24}TO {\k7}EAT, {\k20}SINCE
+Dialogue: 0,0:00:40.46,0:00:41.11,Default,,0,0,0,,\N{\k14}THEY {\k10}WERE {\k14}GIVEN {\k15}TO {\k11}US
+Dialogue: 0,0:00:41.11,0:00:41.42,Default,,0,0,0,,\N{\k14}AS {\k16}GIFTS.
+Dialogue: 0,0:00:42.14,0:00:42.75,Default,,0,0,0,,\N{\k17}THAT {\k14}IS {\k15}WHEN {\k14}SHE
+Dialogue: 0,0:00:42.75,0:00:43.35,Default,,0,0,0,,\N{\k28}EXPLAINED {\k17}THAT {\k14}SHE
+Dialogue: 0,0:00:43.35,0:00:43.96,Default,,0,0,0,,\N{\k32}EXPECTED {\k16}TO {\k11}BE
+Dialogue: 0,0:00:43.96,0:00:44.71,Default,,0,0,0,,\N{\k24}INCLUDED {\k32}EVERY {\k19}TIME
+Dialogue: 0,0:00:44.71,0:00:45.35,Default,,0,0,0,,\N{\k17}WE {\k21}USED {\k16}ONE {\k7}OF
+Dialogue: 0,0:00:45.35,0:00:45.70,Default,,0,0,0,,\N{\k14}THIS {\k20}CARDS.
+Dialogue: 0,0:00:46.43,0:00:47.06,Default,,0,0,0,,\N{\k32}ACCORDING {\k17}TO {\k12}HER,
+Dialogue: 0,0:00:47.38,0:00:48.06,Default,,0,0,0,,\N{\k5}THE {\k16}CARD {\k15}TO {\k1}BE {\k14}MEANT {\k16}FOR
+Dialogue: 0,0:00:48.06,0:00:48.75,Default,,0,0,0,,\N{\k21}SHARED {\k28}OUTINGS {\k19}WITH
+Dialogue: 0,0:00:48.75,0:00:49.38,Default,,0,0,0,,\N{\k12}HER, {\k6}NOT {\k14}FOR {\k14}US
+Dialogue: 0,0:00:49.38,0:00:50.11,Default,,0,0,0,,\N{\k9}TO {\k12}USE {\k15}ON {\k12}OUR {\k23}OWN.
+Dialogue: 0,0:00:51.02,0:00:51.70,Default,,0,0,0,,\N{\k29}THIS {\k20}CAUGHT {\k17}ME
+Dialogue: 0,0:00:51.70,0:00:52.52,Default,,0,0,0,,\N{\k27}OFF-GUARD, {\k34}ESPECIALLY
+Dialogue: 0,0:00:52.52,0:00:53.15,Default,,0,0,0,,\N{\k29}BECAUSE {\k14}THE {\k19}AMOUNTS
+Dialogue: 0,0:00:53.15,0:00:53.75,Default,,0,0,0,,\N{\k18}ON {\k11}THE {\k14}CARDS {\k15}WOULD
+Dialogue: 0,0:00:53.75,0:00:54.42,Default,,0,0,0,,\N{\k26}BARELY {\k23}COVER {\k16}A
+Dialogue: 0,0:00:54.42,0:00:55.17,Default,,0,0,0,,\N{\k21}SINGLE {\k28}ADULT {\k25}MEAL
+Dialogue: 0,0:00:55.17,0:00:55.88,Default,,0,0,0,,\N{\k16}IF {\k9}WE {\k12}WENT {\k32}TOGETHER.
+Dialogue: 0,0:00:55.88,0:00:56.67,Default,,0,0,0,,\N{\k79}IT
+Dialogue: 0,0:00:56.67,0:00:57.39,Default,,0,0,0,,\N{\k20}FELT {\k19}LESS {\k17}LIKE {\k14}A
+Dialogue: 0,0:00:57.39,0:00:58.03,Default,,0,0,0,,\N{\k20}GENEROUS {\k28}PRESENT {\k15}AND
+Dialogue: 0,0:00:58.03,0:00:58.71,Default,,0,0,0,,\N{\k14}MORE {\k14}LIKE {\k11}A {\k12}WAY {\k15}TO
+Dialogue: 0,0:00:58.71,0:00:59.34,Default,,0,0,0,,\N{\k32}OBLIGATE {\k11}US {\k18}INTO
+Dialogue: 0,0:00:59.34,0:00:59.67,Default,,0,0,0,,\N{\k33}PLANS.
+Dialogue: 0,0:01:00.25,0:01:01.07,Default,,0,0,0,,\N{\k17}FOR {\k30}ADDITIONAL {\k33}CONTEXT,
+Dialogue: 0,0:01:01.32,0:01:02.21,Default,,0,0,0,,\N{\k6}I {\k11}HAVE {\k15}KEPT {\k22}SOME {\k33}EMOTIONAL
+Dialogue: 0,0:01:02.21,0:01:02.84,Default,,0,0,0,,\N{\k30}DISTANCE {\k21}FROM {\k10}HER
+Dialogue: 0,0:01:02.84,0:01:03.57,Default,,0,0,0,,\N{\k23}OVER {\k10}THE {\k21}PAST {\k17}YEAR
+Dialogue: 0,0:01:03.57,0:01:04.48,Default,,0,0,0,,\N{\k16}DUE {\k15}TO {\k14}ONGOING {\k43}TENSION,
+Dialogue: 0,0:01:04.81,0:01:05.54,Default,,0,0,0,,\N{\k10}AND {\k12}MY {\k27}PARTNER {\k22}TENDS
+Dialogue: 0,0:01:05.54,0:01:06.15,Default,,0,0,0,,\N{\k19}TO {\k16}STAY {\k25}QUIET
+Dialogue: 0,0:01:06.15,0:01:06.90,Default,,0,0,0,,\N{\k10}AND {\k15}AVOID {\k31}CONFLICT {\k16}WHEN
+Dialogue: 0,0:01:06.90,0:01:07.64,Default,,0,0,0,,\N{\k23}ISSUES {\k14}WITH {\k12}HIS {\k23}MOTHER
+Dialogue: 0,0:01:07.64,0:01:08.04,Default,,0,0,0,,\N{\k17}COME {\k22}UP.
+Dialogue: 0,0:01:08.64,0:01:09.40,Default,,0,0,0,,\N{\k14}FROM {\k15}MY {\k46}PERSPECTIVE,
+Dialogue: 0,0:01:09.84,0:01:10.78,Default,,0,0,0,,\N{\k14}THIS {\k17}MAKES {\k20}THE {\k42}SITUATION
+Dialogue: 0,0:01:10.78,0:01:11.43,Default,,0,0,0,,\N{\k21}FEEL {\k26}EVEN {\k17}MORE
+Dialogue: 0,0:01:11.43,0:01:11.81,Default,,0,0,0,,\N{\k37}UNCOMFORTABLE.
+Dialogue: 0,0:01:12.51,0:01:13.15,Default,,0,0,0,,\N{\k24}IT {\k19}SEEMS {\k20}AS
+Dialogue: 0,0:01:13.15,0:01:13.76,Default,,0,0,0,,\N{\k10}THOUGH {\k11}THE {\k38}GIFT-CARDS
+Dialogue: 0,0:01:13.76,0:01:14.48,Default,,0,0,0,,\N{\k11}ARE {\k16}BEING {\k27}USED {\k16}AS
+Dialogue: 0,0:01:14.48,0:01:15.29,Default,,0,0,0,,\N{\k23}LEVERAGE {\k20}TO {\k15}FORCE {\k21}TIME
+Dialogue: 0,0:01:15.29,0:01:15.95,Default,,0,0,0,,\N{\k24}TOGETHER {\k27}RATHER {\k14}THAN
+Dialogue: 0,0:01:15.95,0:01:16.56,Default,,0,0,0,,\N{\k16}AS {\k6}THE {\k13}NO {\k24}STRINGS
+Dialogue: 0,0:01:16.56,0:01:17.20,Default,,0,0,0,,\N{\k23}ATTACHED {\k40}GESTURE.
+Dialogue: 0,0:01:17.87,0:01:18.54,Default,,0,0,0,,\N{\k24}I {\k7}AM {\k34}STRUGGLING
+Dialogue: 0,0:01:18.54,0:01:19.23,Default,,0,0,0,,\N{\k17}WITH {\k23}WHETHER {\k16}IT {\k11}IS
+Dialogue: 0,0:01:19.23,0:01:19.87,Default,,0,0,0,,\N{\k28}UNREASONABLE {\k35}TO
+Dialogue: 0,0:01:19.87,0:01:20.81,Default,,0,0,0,,\N{\k14}WANT {\k14}TO {\k14}USE {\k12}THESE {\k39}GIFT-CARDS
+Dialogue: 0,0:01:20.81,0:01:21.48,Default,,0,0,0,,\N{\k26}FREELY, {\k16}WITHOUT
+Dialogue: 0,0:01:21.48,0:01:22.12,Default,,0,0,0,,\N{\k31}CONDITIONS {\k32}ATTACHED,
+Dialogue: 0,0:01:22.37,0:01:23.00,Default,,0,0,0,,\N{\k6}OR {\k18}WHETHER {\k19}I {\k18}AM
+Dialogue: 0,0:01:23.00,0:01:23.62,Default,,0,0,0,,\N{\k42}OVERREACTING {\k20}TO
+Dialogue: 0,0:01:23.62,0:01:24.23,Default,,0,0,0,,\N{\k21}SOMETHING {\k14}THAT {\k11}SHOULD {\k14}BE
+Dialogue: 0,0:01:24.23,0:01:24.54,Default,,0,0,0,,\N{\k30}HARMLESS.

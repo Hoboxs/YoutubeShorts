@@ -1,0 +1,141 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.70,0:00:03.24,Default,,0,0,0,,{\an5}SO I'M
+Dialogue: 0,0:00:03.24,0:00:03.83,Default,,0,0,0,,{\an5}TURNING 34,
+Dialogue: 0,0:00:04.12,0:00:04.63,Default,,0,0,0,,{\an5}AND MY
+Dialogue: 0,0:00:04.63,0:00:05.21,Default,,0,0,0,,{\an5}FRIEND ROWAN
+Dialogue: 0,0:00:05.21,0:00:05.74,Default,,0,0,0,,{\an5}WAS RIDICULOUSLY
+Dialogue: 0,0:00:05.74,0:00:06.24,Default,,0,0,0,,{\an5}EXCITED
+Dialogue: 0,0:00:06.24,0:00:06.75,Default,,0,0,0,,{\an5}ABOUT MY
+Dialogue: 0,0:00:06.75,0:00:07.36,Default,,0,0,0,,{\an5}BIRTHDAY PRESENT
+Dialogue: 0,0:00:07.36,0:00:07.55,Default,,0,0,0,,{\an5}THIS
+Dialogue: 0,0:00:07.55,0:00:07.75,Default,,0,0,0,,{\an5}YEAR.
+Dialogue: 0,0:00:08.00,0:00:08.48,Default,,0,0,0,,{\an5}HE
+Dialogue: 0,0:00:08.48,0:00:08.93,Default,,0,0,0,,{\an5}KEPT TELLING
+Dialogue: 0,0:00:08.93,0:00:09.40,Default,,0,0,0,,{\an5}ME I WAS
+Dialogue: 0,0:00:09.40,0:00:10.14,Default,,0,0,0,,{\an5}ABSOLUTELY GOING
+Dialogue: 0,0:00:10.14,0:00:10.72,Default,,0,0,0,,{\an5}TO FREAK OUT
+Dialogue: 0,0:00:10.72,0:00:11.09,Default,,0,0,0,,{\an5}IN A GOOD
+Dialogue: 0,0:00:11.09,0:00:11.33,Default,,0,0,0,,{\an5}WAY.
+Dialogue: 0,0:00:11.59,0:00:12.08,Default,,0,0,0,,{\an5}WHEN
+Dialogue: 0,0:00:12.08,0:00:12.58,Default,,0,0,0,,{\an5}THE DAY ROLLED
+Dialogue: 0,0:00:12.58,0:00:13.43,Default,,0,0,0,,{\an5}AROUND, HE
+Dialogue: 0,0:00:13.43,0:00:13.85,Default,,0,0,0,,{\an5}HANDED ME
+Dialogue: 0,0:00:13.85,0:00:14.56,Default,,0,0,0,,{\an5}THIS NEATLY WRAPPED
+Dialogue: 0,0:00:14.56,0:00:14.96,Default,,0,0,0,,{\an5}BOX,
+Dialogue: 0,0:00:15.16,0:00:15.80,Default,,0,0,0,,{\an5}AND INSIDE
+Dialogue: 0,0:00:15.80,0:00:16.33,Default,,0,0,0,,{\an5}WAS A PAIR
+Dialogue: 0,0:00:16.33,0:00:17.10,Default,,0,0,0,,{\an5}OF NOISE -SHIELDING
+Dialogue: 0,0:00:17.10,0:00:17.69,Default,,0,0,0,,{\an5}EARMUFFS MEANT
+Dialogue: 0,0:00:17.69,0:00:17.98,Default,,0,0,0,,{\an5}FOR MY
+Dialogue: 0,0:00:17.98,0:00:18.21,Default,,0,0,0,,{\an5}DOG.
+Dialogue: 0,0:00:18.21,0:00:18.85,Default,,0,0,0,,{\an5}DOG.
+Dialogue: 0,0:00:18.85,0:00:19.50,Default,,0,0,0,,{\an5}FOR CONTEXT,
+Dialogue: 0,0:00:19.80,0:00:20.28,Default,,0,0,0,,{\an5}I HAVE A
+Dialogue: 0,0:00:20.28,0:00:20.87,Default,,0,0,0,,{\an5}TINY MARU
+Dialogue: 0,0:00:20.87,0:00:21.51,Default,,0,0,0,,{\an5}ISLAND TERRIER
+Dialogue: 0,0:00:21.51,0:00:21.98,Default,,0,0,0,,{\an5}WHO TREATS
+Dialogue: 0,0:00:21.98,0:00:22.55,Default,,0,0,0,,{\an5}ANYTHING MADE
+Dialogue: 0,0:00:22.55,0:00:22.98,Default,,0,0,0,,{\an5}OF FABRIC
+Dialogue: 0,0:00:22.98,0:00:23.44,Default,,0,0,0,,{\an5}LIKE IT OWES
+Dialogue: 0,0:00:23.44,0:00:23.57,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:00:23.57,0:00:23.78,Default,,0,0,0,,{\an5}MONEY.
+Dialogue: 0,0:00:24.33,0:00:24.98,Default,,0,0,0,,{\an5}SHE'S ADORABLE,
+Dialogue: 0,0:00:25.28,0:00:25.69,Default,,0,0,0,,{\an5}BUT SHE
+Dialogue: 0,0:00:25.69,0:00:26.12,Default,,0,0,0,,{\an5}DESTROYS
+Dialogue: 0,0:00:26.12,0:00:27.03,Default,,0,0,0,,{\an5}EVERYTHING, AND
+Dialogue: 0,0:00:27.03,0:00:27.53,Default,,0,0,0,,{\an5}SHE ABSOLUTELY
+Dialogue: 0,0:00:27.53,0:00:27.96,Default,,0,0,0,,{\an5}HATES
+Dialogue: 0,0:00:27.96,0:00:28.48,Default,,0,0,0,,{\an5}HAVING ANYTHING
+Dialogue: 0,0:00:28.48,0:00:28.82,Default,,0,0,0,,{\an5}ON HER
+Dialogue: 0,0:00:28.82,0:00:29.07,Default,,0,0,0,,{\an5}HEAD.
+Dialogue: 0,0:00:29.21,0:00:29.73,Default,,0,0,0,,{\an5}I'VE TRIED
+Dialogue: 0,0:00:29.73,0:00:30.33,Default,,0,0,0,,{\an5}SIMILAR THINGS
+Dialogue: 0,0:00:30.33,0:00:31.30,Default,,0,0,0,,{\an5}BEFORE, AND
+Dialogue: 0,0:00:31.30,0:00:31.96,Default,,0,0,0,,{\an5}THEY NEVER LASTED
+Dialogue: 0,0:00:31.96,0:00:32.38,Default,,0,0,0,,{\an5}MORE THAN
+Dialogue: 0,0:00:32.38,0:00:32.57,Default,,0,0,0,,{\an5}A FEW
+Dialogue: 0,0:00:32.57,0:00:32.88,Default,,0,0,0,,{\an5}MINUTES.
+Dialogue: 0,0:00:33.25,0:00:33.67,Default,,0,0,0,,{\an5}ROWAN
+Dialogue: 0,0:00:33.67,0:00:34.15,Default,,0,0,0,,{\an5}KNOWS ALL OF
+Dialogue: 0,0:00:34.15,0:00:34.38,Default,,0,0,0,,{\an5}THIS.
+Dialogue: 0,0:00:34.64,0:00:35.11,Default,,0,0,0,,{\an5}JUST
+Dialogue: 0,0:00:35.11,0:00:35.56,Default,,0,0,0,,{\an5}TO BE CLEAR,
+Dialogue: 0,0:00:35.74,0:00:36.21,Default,,0,0,0,,{\an5}I DIDN'T
+Dialogue: 0,0:00:36.21,0:00:36.65,Default,,0,0,0,,{\an5}TURN DOWN THE
+Dialogue: 0,0:00:36.65,0:00:37.14,Default,,0,0,0,,{\an5}GIFT BECAUSE
+Dialogue: 0,0:00:37.14,0:00:37.71,Default,,0,0,0,,{\an5}IT WAS TECHNICALLY
+Dialogue: 0,0:00:37.71,0:00:38.17,Default,,0,0,0,,{\an5}FOR MY
+Dialogue: 0,0:00:38.17,0:00:38.43,Default,,0,0,0,,{\an5}DOG.
+Dialogue: 0,0:00:38.74,0:00:39.21,Default,,0,0,0,,{\an5}IF
+Dialogue: 0,0:00:39.21,0:00:39.67,Default,,0,0,0,,{\an5}IT WERE SOMETHING
+Dialogue: 0,0:00:39.67,0:00:40.25,Default,,0,0,0,,{\an5}SHE'D ENJOY
+Dialogue: 0,0:00:40.25,0:00:40.75,Default,,0,0,0,,{\an5}OR ACTUALLY
+Dialogue: 0,0:00:40.75,0:00:41.65,Default,,0,0,0,,{\an5}USE, I
+Dialogue: 0,0:00:41.65,0:00:42.20,Default,,0,0,0,,{\an5}WOULD'VE ACCEPTED
+Dialogue: 0,0:00:42.20,0:00:42.64,Default,,0,0,0,,{\an5}IT WITHOUT
+Dialogue: 0,0:00:42.64,0:00:43.06,Default,,0,0,0,,{\an5}HESITATION.
+Dialogue: 0,0:00:43.39,0:00:43.96,Default,,0,0,0,,{\an5}I TURNED
+Dialogue: 0,0:00:43.96,0:00:44.53,Default,,0,0,0,,{\an5}IT DOWN BECAUSE
+Dialogue: 0,0:00:44.53,0:00:44.96,Default,,0,0,0,,{\an5}I KNEW IT
+Dialogue: 0,0:00:44.96,0:00:45.38,Default,,0,0,0,,{\an5}WOULD END UP
+Dialogue: 0,0:00:45.38,0:00:45.74,Default,,0,0,0,,{\an5}RIPPED APART
+Dialogue: 0,0:00:45.74,0:00:46.10,Default,,0,0,0,,{\an5}INSTANTLY.
+Dialogue: 0,0:00:46.10,0:00:46.93,Default,,0,0,0,,{\an5}LATER,
+Dialogue: 0,0:00:47.32,0:00:47.89,Default,,0,0,0,,{\an5}I FOUND
+Dialogue: 0,0:00:47.89,0:00:48.32,Default,,0,0,0,,{\an5}OUT HE SPENT
+Dialogue: 0,0:00:48.32,0:00:48.96,Default,,0,0,0,,{\an5}AROUND $50
+Dialogue: 0,0:00:48.96,0:00:49.57,Default,,0,0,0,,{\an5}ON THEM,
+Dialogue: 0,0:00:49.70,0:00:50.20,Default,,0,0,0,,{\an5}AND I
+Dialogue: 0,0:00:50.20,0:00:50.89,Default,,0,0,0,,{\an5}WOULD'VE FELT AWFUL
+Dialogue: 0,0:00:50.89,0:00:51.42,Default,,0,0,0,,{\an5}WATCHING HER
+Dialogue: 0,0:00:51.42,0:00:52.02,Default,,0,0,0,,{\an5}DESTROY SOMETHING
+Dialogue: 0,0:00:52.02,0:00:52.25,Default,,0,0,0,,{\an5}THAT
+Dialogue: 0,0:00:52.25,0:00:52.75,Default,,0,0,0,,{\an5}PRICEY.
+Dialogue: 0,0:00:52.82,0:00:53.25,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:53.25,0:00:53.70,Default,,0,0,0,,{\an5}THANKED HIM,
+Dialogue: 0,0:00:53.82,0:00:54.32,Default,,0,0,0,,{\an5}TOLD HIM
+Dialogue: 0,0:00:54.32,0:00:54.84,Default,,0,0,0,,{\an5}I APPRECIATED
+Dialogue: 0,0:00:54.84,0:00:55.35,Default,,0,0,0,,{\an5}THE THOUGHT,
+Dialogue: 0,0:00:55.50,0:00:56.14,Default,,0,0,0,,{\an5}AND EXPLAINED
+Dialogue: 0,0:00:56.14,0:00:56.78,Default,,0,0,0,,{\an5}WHY IT WOULDN'T
+Dialogue: 0,0:00:56.78,0:00:57.06,Default,,0,0,0,,{\an5}WORK.
+Dialogue: 0,0:00:57.21,0:00:57.84,Default,,0,0,0,,{\an5}I GENUINELY
+Dialogue: 0,0:00:57.84,0:00:58.32,Default,,0,0,0,,{\an5}TRIED TO
+Dialogue: 0,0:00:58.32,0:00:58.93,Default,,0,0,0,,{\an5}BE GENTLE ABOUT
+Dialogue: 0,0:00:58.93,0:00:59.15,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:00:59.24,0:00:59.75,Default,,0,0,0,,{\an5}I'LL ADMIT
+Dialogue: 0,0:00:59.75,0:01:00.25,Default,,0,0,0,,{\an5}I DID FIND
+Dialogue: 0,0:01:00.25,0:01:00.97,Default,,0,0,0,,{\an5}IT A LITTLE STRANGE
+Dialogue: 0,0:01:00.97,0:01:01.39,Default,,0,0,0,,{\an5}THAT HE GOT
+Dialogue: 0,0:01:01.39,0:01:01.96,Default,,0,0,0,,{\an5}MY DOG SOMETHING
+Dialogue: 0,0:01:01.96,0:01:02.39,Default,,0,0,0,,{\an5}FOR MY
+Dialogue: 0,0:01:02.39,0:01:02.70,Default,,0,0,0,,{\an5}BIRTHDAY.
+Dialogue: 0,0:01:03.26,0:01:03.74,Default,,0,0,0,,{\an5}NOW
+Dialogue: 0,0:01:03.74,0:01:04.35,Default,,0,0,0,,{\an5}ROWAN ISN'T
+Dialogue: 0,0:01:04.35,0:01:04.79,Default,,0,0,0,,{\an5}ANSWERING MY
+Dialogue: 0,0:01:04.79,0:01:05.37,Default,,0,0,0,,{\an5}MESSAGES OR
+Dialogue: 0,0:01:05.37,0:01:05.95,Default,,0,0,0,,{\an5}CALLS AT ALL,
+Dialogue: 0,0:01:06.04,0:01:06.68,Default,,0,0,0,,{\an5}WHICH MAKES
+Dialogue: 0,0:01:06.68,0:01:07.28,Default,,0,0,0,,{\an5}ME WONDER IF
+Dialogue: 0,0:01:07.28,0:01:08.12,Default,,0,0,0,,{\an5}I UNINTENTIONALLY
+Dialogue: 0,0:01:08.12,0:01:08.79,Default,,0,0,0,,{\an5}HURT HIS FEELINGS
+Dialogue: 0,0:01:08.79,0:01:09.26,Default,,0,0,0,,{\an5}OR IF HE'S
+Dialogue: 0,0:01:09.26,0:01:09.42,Default,,0,0,0,,{\an5}JUST
+Dialogue: 0,0:01:09.42,0:01:09.76,Default,,0,0,0,,{\an5}EMBARRASSED.
+Dialogue: 0,0:01:10.46,0:01:10.93,Default,,0,0,0,,{\an5}SO,
+Dialogue: 0,0:01:11.14,0:01:11.56,Default,,0,0,0,,{\an5}WAS I
+Dialogue: 0,0:01:11.56,0:01:11.98,Default,,0,0,0,,{\an5}WRONG FOR
+Dialogue: 0,0:01:11.98,0:01:12.51,Default,,0,0,0,,{\an5}DECLINING THE
+Dialogue: 0,0:01:12.51,0:01:12.73,Default,,0,0,0,,{\an5}GIFT?

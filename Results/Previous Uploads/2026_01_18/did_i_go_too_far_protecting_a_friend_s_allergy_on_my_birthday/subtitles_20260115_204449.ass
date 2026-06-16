@@ -1,0 +1,177 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.52,0:00:04.12,Default,,0,0,0,,{\an5}I'M ABOUT
+Dialogue: 0,0:00:04.12,0:00:04.71,Default,,0,0,0,,{\an5}TO TURN 18
+Dialogue: 0,0:00:04.71,0:00:05.21,Default,,0,0,0,,{\an5}AND PLANNED
+Dialogue: 0,0:00:05.21,0:00:05.82,Default,,0,0,0,,{\an5}A SMALL BIRTHDAY
+Dialogue: 0,0:00:05.82,0:00:06.36,Default,,0,0,0,,{\an5}DINNER AT MY
+Dialogue: 0,0:00:06.36,0:00:06.96,Default,,0,0,0,,{\an5}HOUSE WITH JUST
+Dialogue: 0,0:00:06.96,0:00:07.46,Default,,0,0,0,,{\an5}MY CLOSEST
+Dialogue: 0,0:00:08.36,0:00:08.80,Default,,0,0,0,,{\an5}FRIENDS.
+Dialogue: 0,0:00:08.80,0:00:09.66,Default,,0,0,0,,{\an5}NOTHING WILD,
+Dialogue: 0,0:00:09.80,0:00:10.48,Default,,0,0,0,,{\an5}SOME SIMPLE
+Dialogue: 0,0:00:10.48,0:00:11.32,Default,,0,0,0,,{\an5}GRILLING, ORDERING
+Dialogue: 0,0:00:11.32,0:00:12.19,Default,,0,0,0,,{\an5}PIZZA, AND
+Dialogue: 0,0:00:12.19,0:00:12.92,Default,,0,0,0,,{\an5}LETTING PEOPLE BRING
+Dialogue: 0,0:00:12.92,0:00:13.41,Default,,0,0,0,,{\an5}FOOD IF THEY
+Dialogue: 0,0:00:13.41,0:00:13.72,Default,,0,0,0,,{\an5}WANTED.
+Dialogue: 0,0:00:13.92,0:00:14.51,Default,,0,0,0,,{\an5}BUT WITH NO
+Dialogue: 0,0:00:14.51,0:00:15.46,Default,,0,0,0,,{\an5}PRESSURE, ONE
+Dialogue: 0,0:00:15.46,0:00:16.19,Default,,0,0,0,,{\an5}OF MY FRIENDS ASKED
+Dialogue: 0,0:00:16.19,0:00:16.78,Default,,0,0,0,,{\an5}IF HE COULD BRING
+Dialogue: 0,0:00:16.78,0:00:17.35,Default,,0,0,0,,{\an5}HIS NEW GIRLFRIEND.
+Dialogue: 0,0:00:17.80,0:00:18.37,Default,,0,0,0,,{\an5}AND I
+Dialogue: 0,0:00:18.37,0:00:18.87,Default,,0,0,0,,{\an5}AGREED SINCE
+Dialogue: 0,0:00:18.87,0:00:19.44,Default,,0,0,0,,{\an5}HE WASN'T EVEN
+Dialogue: 0,0:00:19.44,0:00:19.94,Default,,0,0,0,,{\an5}PLANNING TO
+Dialogue: 0,0:00:19.94,0:00:20.94,Default,,0,0,0,,{\an5}STAY LONG. SHE
+Dialogue: 0,0:00:20.94,0:00:21.48,Default,,0,0,0,,{\an5}OFFERED TO MAKE
+Dialogue: 0,0:00:21.48,0:00:22.03,Default,,0,0,0,,{\an5}SOMETHING FOR THE
+Dialogue: 0,0:00:22.03,0:00:22.30,Default,,0,0,0,,{\an5}DINNER.
+Dialogue: 0,0:00:22.46,0:00:23.21,Default,,0,0,0,,{\an5}AND I THANKED
+Dialogue: 0,0:00:23.21,0:00:23.80,Default,,0,0,0,,{\an5}HER BUT TOLD HER
+Dialogue: 0,0:00:23.80,0:00:24.53,Default,,0,0,0,,{\an5}IT WASN'T NECESSARY.
+Dialogue: 0,0:00:24.82,0:00:25.57,Default,,0,0,0,,{\an5}SHE INSISTED
+Dialogue: 0,0:00:25.57,0:00:25.89,Default,,0,0,0,,{\an5}ANYWAY.
+Dialogue: 0,0:00:26.07,0:00:26.71,Default,,0,0,0,,{\an5}I LATER
+Dialogue: 0,0:00:26.71,0:00:27.26,Default,,0,0,0,,{\an5}CREATED A
+Dialogue: 0,0:00:27.26,0:00:27.85,Default,,0,0,0,,{\an5}GROUP CHAT FOR
+Dialogue: 0,0:00:27.85,0:00:28.46,Default,,0,0,0,,{\an5}EVERYONE ATTENDING
+Dialogue: 0,0:00:28.46,0:00:29.05,Default,,0,0,0,,{\an5}AND SENT OUT
+Dialogue: 0,0:00:29.05,0:00:29.71,Default,,0,0,0,,{\an5}THE BASIC DETAILS.
+Dialogue: 0,0:00:30.36,0:00:30.87,Default,,0,0,0,,{\an5}INCLUDING
+Dialogue: 0,0:00:30.87,0:00:31.69,Default,,0,0,0,,{\an5}ONE VERY CLEAR
+Dialogue: 0,0:00:31.69,0:00:32.52,Default,,0,0,0,,{\an5}AND SERIOUS RULE
+Dialogue: 0,0:00:32.52,0:00:33.03,Default,,0,0,0,,{\an5}ONE
+Dialogue: 0,0:00:33.03,0:00:33.61,Default,,0,0,0,,{\an5}OF MY FRIENDS
+Dialogue: 0,0:00:33.61,0:00:34.15,Default,,0,0,0,,{\an5}HAS A SEVERE
+Dialogue: 0,0:00:34.15,0:00:34.67,Default,,0,0,0,,{\an5}NUT ALLERGY
+Dialogue: 0,0:00:34.67,0:00:35.35,Default,,0,0,0,,{\an5}SO
+Dialogue: 0,0:00:35.35,0:00:35.89,Default,,0,0,0,,{\an5}ANYTHING BROUGHT
+Dialogue: 0,0:00:35.89,0:00:36.42,Default,,0,0,0,,{\an5}NEEDED TO BE
+Dialogue: 0,0:00:36.42,0:00:37.06,Default,,0,0,0,,{\an5}COMPLETELY NUT
+Dialogue: 0,0:00:37.06,0:00:37.96,Default,,0,0,0,,{\an5}FREE INCLUDING
+Dialogue: 0,0:00:37.96,0:00:39.39,Default,,0,0,0,,{\an5}AVOIDING CROSS-CONTAMINATION
+Dialogue: 0,0:00:39.39,0:00:40.06,Default,,0,0,0,,{\an5}EVERYONE
+Dialogue: 0,0:00:40.06,0:00:40.82,Default,,0,0,0,,{\an5}ACKNOWLEDGED THE
+Dialogue: 0,0:00:40.82,0:00:41.65,Default,,0,0,0,,{\an5}MESSAGE INCLUDING
+Dialogue: 0,0:00:41.65,0:00:42.28,Default,,0,0,0,,{\an5}THE GIRLFRIEND
+Dialogue: 0,0:00:42.28,0:00:42.84,Default,,0,0,0,,{\an5}WHO
+Dialogue: 0,0:00:42.84,0:00:43.46,Default,,0,0,0,,{\an5}REACTED TO
+Dialogue: 0,0:00:43.46,0:00:44.07,Default,,0,0,0,,{\an5}IT THE NIGHT
+Dialogue: 0,0:00:44.07,0:00:44.82,Default,,0,0,0,,{\an5}BEFORE MY PARTY
+Dialogue: 0,0:00:44.82,0:00:45.38,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:45.38,0:00:46.24,Default,,0,0,0,,{\an5}CASUALLY MENTIONED
+Dialogue: 0,0:00:46.24,0:00:46.79,Default,,0,0,0,,{\an5}WHAT SHE'D MADE
+Dialogue: 0,0:00:46.79,0:00:47.29,Default,,0,0,0,,{\an5}AND SENT ME
+Dialogue: 0,0:00:47.29,0:00:48.15,Default,,0,0,0,,{\an5}A PHOTO IT
+Dialogue: 0,0:00:48.15,0:00:48.96,Default,,0,0,0,,{\an5}WAS A HOMEMADE CAKE
+Dialogue: 0,0:00:48.96,0:00:49.56,Default,,0,0,0,,{\an5}THAT I IMMEDIATELY
+Dialogue: 0,0:00:49.56,0:00:50.15,Default,,0,0,0,,{\an5}RECOGNIZED
+Dialogue: 0,0:00:50.15,0:00:50.70,Default,,0,0,0,,{\an5}AS ONE THAT
+Dialogue: 0,0:00:50.70,0:00:51.29,Default,,0,0,0,,{\an5}USUALLY CONTAINS
+Dialogue: 0,0:00:51.29,0:00:52.60,Default,,0,0,0,,{\an5}NUTS WHEN
+Dialogue: 0,0:00:52.60,0:00:53.46,Default,,0,0,0,,{\an5}I ASKED SHE
+Dialogue: 0,0:00:53.46,0:00:54.03,Default,,0,0,0,,{\an5}CONFIRMED IT
+Dialogue: 0,0:00:54.03,0:00:54.61,Default,,0,0,0,,{\an5}DID BUT
+Dialogue: 0,0:00:54.61,0:00:55.25,Default,,0,0,0,,{\an5}SAID IT WASN'T
+Dialogue: 0,0:00:55.25,0:00:55.78,Default,,0,0,0,,{\an5}MUCH AND
+Dialogue: 0,0:00:55.78,0:00:56.61,Default,,0,0,0,,{\an5}THAT THE ALLERGIC FRIEND
+Dialogue: 0,0:00:56.61,0:00:57.15,Default,,0,0,0,,{\an5}COULD JUST NOT
+Dialogue: 0,0:00:57.15,0:00:58.10,Default,,0,0,0,,{\an5}EAT IT I
+Dialogue: 0,0:00:58.10,0:00:58.84,Default,,0,0,0,,{\an5}TOLD HER I WASN'T
+Dialogue: 0,0:00:58.84,0:00:59.47,Default,,0,0,0,,{\an5}COMFORTABLE HAVING
+Dialogue: 0,0:00:59.47,0:01:00.14,Default,,0,0,0,,{\an5}IT IN MY HOUSE
+Dialogue: 0,0:01:00.14,0:01:00.82,Default,,0,0,0,,{\an5}AT ALL AND ASKED
+Dialogue: 0,0:01:00.82,0:01:01.46,Default,,0,0,0,,{\an5}HER NOT TO BRING IT.
+Dialogue: 0,0:01:01.70,0:01:02.25,Default,,0,0,0,,{\an5}SHE GOT
+Dialogue: 0,0:01:02.25,0:01:02.79,Default,,0,0,0,,{\an5}ANGRY AND
+Dialogue: 0,0:01:02.79,0:01:03.34,Default,,0,0,0,,{\an5}SAID SHE'D ALREADY
+Dialogue: 0,0:01:03.34,0:01:03.92,Default,,0,0,0,,{\an5}PUT IN A LOT
+Dialogue: 0,0:01:03.92,0:01:05.01,Default,,0,0,0,,{\an5}OF EFFORT. SO
+Dialogue: 0,0:01:05.01,0:01:05.62,Default,,0,0,0,,{\an5}EITHER THE CAKE
+Dialogue: 0,0:01:05.62,0:01:06.26,Default,,0,0,0,,{\an5}COMES OR SHE
+Dialogue: 0,0:01:06.26,0:01:06.68,Default,,0,0,0,,{\an5}DOESN'T.
+Dialogue: 0,0:01:06.71,0:01:07.21,Default,,0,0,0,,{\an5}I TOLD
+Dialogue: 0,0:01:07.21,0:01:07.71,Default,,0,0,0,,{\an5}HER THEN SHE
+Dialogue: 0,0:01:07.71,0:01:08.23,Default,,0,0,0,,{\an5}SHOULDN'T COME
+Dialogue: 0,0:01:08.23,0:01:08.76,Default,,0,0,0,,{\an5}BECAUSE
+Dialogue: 0,0:01:08.76,0:01:09.43,Default,,0,0,0,,{\an5}I'D BEEN CLEAR
+Dialogue: 0,0:01:09.43,0:01:10.01,Default,,0,0,0,,{\an5}FROM THE START
+Dialogue: 0,0:01:10.01,0:01:10.59,Default,,0,0,0,,{\an5}AND I WASN'T
+Dialogue: 0,0:01:10.59,0:01:11.37,Default,,0,0,0,,{\an5}RISKING MY FRIEND'S
+Dialogue: 0,0:01:11.37,0:01:12.06,Default,,0,0,0,,{\an5}HEALTH FOR A DESSERT.
+Dialogue: 0,0:01:12.43,0:01:13.14,Default,,0,0,0,,{\an5}SHE ACCUSED
+Dialogue: 0,0:01:13.14,0:01:13.64,Default,,0,0,0,,{\an5}ME OF BEING
+Dialogue: 0,0:01:13.64,0:01:14.14,Default,,0,0,0,,{\an5}DISRESPECTFUL,
+Dialogue: 0,0:01:14.48,0:01:15.07,Default,,0,0,0,,{\an5}SAID SHE
+Dialogue: 0,0:01:15.07,0:01:15.65,Default,,0,0,0,,{\an5}HAD A RIGHT TO
+Dialogue: 0,0:01:15.65,0:01:16.18,Default,,0,0,0,,{\an5}BE THERE BECAUSE
+Dialogue: 0,0:01:16.18,0:01:16.70,Default,,0,0,0,,{\an5}SHE WAS DATING
+Dialogue: 0,0:01:16.70,0:01:17.23,Default,,0,0,0,,{\an5}MY FRIEND.
+Dialogue: 0,0:01:17.54,0:01:18.18,Default,,0,0,0,,{\an5}AND THINGS
+Dialogue: 0,0:01:18.18,0:01:18.71,Default,,0,0,0,,{\an5}ESCALATED
+Dialogue: 0,0:01:18.71,0:01:19.23,Default,,0,0,0,,{\an5}FAST WHEN
+Dialogue: 0,0:01:19.23,0:01:19.98,Default,,0,0,0,,{\an5}HER BOYFRIEND CALLED
+Dialogue: 0,0:01:19.98,0:01:20.15,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:01:20.34,0:01:20.95,Default,,0,0,0,,{\an5}HE YELLED
+Dialogue: 0,0:01:20.95,0:01:21.57,Default,,0,0,0,,{\an5}THAT I WAS CRUEL
+Dialogue: 0,0:01:21.57,0:01:22.20,Default,,0,0,0,,{\an5}AND UNGRATEFUL.
+Dialogue: 0,0:01:22.35,0:01:22.85,Default,,0,0,0,,{\an5}AND I
+Dialogue: 0,0:01:22.85,0:01:23.37,Default,,0,0,0,,{\an5}SNAPPED BACK,
+Dialogue: 0,0:01:23.56,0:01:24.09,Default,,0,0,0,,{\an5}SAYING I
+Dialogue: 0,0:01:24.09,0:01:24.65,Default,,0,0,0,,{\an5}DIDN'T CARE HOW
+Dialogue: 0,0:01:24.65,0:01:25.15,Default,,0,0,0,,{\an5}LONG THE CAKE
+Dialogue: 0,0:01:25.15,0:01:25.40,Default,,0,0,0,,{\an5}TOOK.
+Dialogue: 0,0:01:25.62,0:01:26.14,Default,,0,0,0,,{\an5}NUTS WERE
+Dialogue: 0,0:01:26.14,0:01:26.65,Default,,0,0,0,,{\an5}THE THE ONE THING
+Dialogue: 0,0:01:26.65,0:01:27.51,Default,,0,0,0,,{\an5}I EXPLICITLY SAID
+Dialogue: 0,0:01:27.51,0:01:28.51,Default,,0,0,0,,{\an5}NOT TO BRING. I
+Dialogue: 0,0:01:28.51,0:01:29.01,Default,,0,0,0,,{\an5}ALSO SAID
+Dialogue: 0,0:01:29.01,0:01:29.68,Default,,0,0,0,,{\an5}SOME HARSH THINGS
+Dialogue: 0,0:01:29.68,0:01:30.54,Default,,0,0,0,,{\an5}IN FRUSTRATION ABOUT
+Dialogue: 0,0:01:30.54,0:01:31.23,Default,,0,0,0,,{\an5}HER IGNORING CLEAR
+Dialogue: 0,0:01:31.23,0:01:31.71,Default,,0,0,0,,{\an5}INSTRUCTIONS.
+Dialogue: 0,0:01:32.34,0:01:32.98,Default,,0,0,0,,{\an5}NOW THEY'RE
+Dialogue: 0,0:01:32.98,0:01:33.65,Default,,0,0,0,,{\an5}BOTH SKIPPING THE
+Dialogue: 0,0:01:33.65,0:01:34.31,Default,,0,0,0,,{\an5}PARTY AND TELLING
+Dialogue: 0,0:01:34.31,0:01:35.26,Default,,0,0,0,,{\an5}OTHERS I DISINVITED
+Dialogue: 0,0:01:35.26,0:01:35.81,Default,,0,0,0,,{\an5}HER AFTER SHE
+Dialogue: 0,0:01:35.81,0:01:36.45,Default,,0,0,0,,{\an5}WORKED HARD ON.
+Dialogue: 0,0:01:36.95,0:01:37.59,Default,,0,0,0,,{\an5}SOMETHING FOR
+Dialogue: 0,0:01:37.59,0:01:37.78,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:01:37.85,0:01:38.50,Default,,0,0,0,,{\an5}MOST PEOPLE
+Dialogue: 0,0:01:38.50,0:01:39.04,Default,,0,0,0,,{\an5}NOT ATTENDING
+Dialogue: 0,0:01:39.04,0:01:39.56,Default,,0,0,0,,{\an5}THINK I WAS
+Dialogue: 0,0:01:39.56,0:01:39.87,Default,,0,0,0,,{\an5}WRONG.
+Dialogue: 0,0:01:40.00,0:01:40.51,Default,,0,0,0,,{\an5}WHILE THE
+Dialogue: 0,0:01:40.51,0:01:41.21,Default,,0,0,0,,{\an5}FEW WHO ARE COMING,
+Dialogue: 0,0:01:41.37,0:01:41.90,Default,,0,0,0,,{\an5}ESPECIALLY
+Dialogue: 0,0:01:41.90,0:01:42.45,Default,,0,0,0,,{\an5}THE FRIEND
+Dialogue: 0,0:01:42.45,0:01:43.01,Default,,0,0,0,,{\an5}WITH THE ALLERGY,
+Dialogue: 0,0:01:43.26,0:01:43.84,Default,,0,0,0,,{\an5}SAY I
+Dialogue: 0,0:01:43.84,0:01:44.45,Default,,0,0,0,,{\an5}DID THE RIGHT THING.
+Dialogue: 0,0:01:44.62,0:01:45.15,Default,,0,0,0,,{\an5}WITH MY
+Dialogue: 0,0:01:45.15,0:01:45.71,Default,,0,0,0,,{\an5}PARTY HAPPENING
+Dialogue: 0,0:01:45.71,0:01:46.81,Default,,0,0,0,,{\an5}TOMORROW, I'M
+Dialogue: 0,0:01:46.81,0:01:47.48,Default,,0,0,0,,{\an5}LEFT WONDERING IF
+Dialogue: 0,0:01:47.48,0:01:48.00,Default,,0,0,0,,{\an5}STANDING FIRM
+Dialogue: 0,0:01:48.00,0:01:48.54,Default,,0,0,0,,{\an5}ABOUT SAFETY
+Dialogue: 0,0:01:48.54,0:01:49.06,Default,,0,0,0,,{\an5}MADE ME THE
+Dialogue: 0,0:01:49.06,0:01:49.29,Default,,0,0,0,,{\an5}VILLAIN.
+Dialogue: 0,0:01:49.59,0:01:50.15,Default,,0,0,0,,{\an5}OR IF
+Dialogue: 0,0:01:50.15,0:01:50.76,Default,,0,0,0,,{\an5}I WAS RIGHT TO
+Dialogue: 0,0:01:50.76,0:01:51.45,Default,,0,0,0,,{\an5}DRAW THE LINE EVEN
+Dialogue: 0,0:01:51.45,0:01:52.04,Default,,0,0,0,,{\an5}WHEN IT BLEW UP
+Dialogue: 0,0:01:52.04,0:01:52.34,Default,,0,0,0,,{\an5}FRIENDSHIPS.

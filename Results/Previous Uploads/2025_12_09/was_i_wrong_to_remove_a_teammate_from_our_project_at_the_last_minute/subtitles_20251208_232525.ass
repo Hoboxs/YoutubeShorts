@@ -1,0 +1,220 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.77,0:00:04.28,Default,,0,0,0,,{\an5}I'M TAKING
+Dialogue: 0,0:00:04.28,0:00:04.70,Default,,0,0,0,,{\an5}AN ONLINE
+Dialogue: 0,0:00:04.70,0:00:05.58,Default,,0,0,0,,{\an5}BIOLOGY COURSE
+Dialogue: 0,0:00:05.58,0:00:05.98,Default,,0,0,0,,{\an5}AT A SMALL
+Dialogue: 0,0:00:05.98,0:00:06.79,Default,,0,0,0,,{\an5}COMMUNITY COLLEGE,
+Dialogue: 0,0:00:07.00,0:00:07.51,Default,,0,0,0,,{\an5}AND OUR
+Dialogue: 0,0:00:07.51,0:00:08.06,Default,,0,0,0,,{\an5}FINAL LAB
+Dialogue: 0,0:00:08.06,0:00:08.69,Default,,0,0,0,,{\an5}ASSIGNMENT WAS
+Dialogue: 0,0:00:08.69,0:00:08.93,Default,,0,0,0,,{\an5}A GROUP
+Dialogue: 0,0:00:08.93,0:00:09.33,Default,,0,0,0,,{\an5}PROJECT.
+Dialogue: 0,0:00:09.53,0:00:10.00,Default,,0,0,0,,{\an5}WE WERE
+Dialogue: 0,0:00:10.00,0:00:10.48,Default,,0,0,0,,{\an5}SUPPOSED TO
+Dialogue: 0,0:00:10.48,0:00:10.92,Default,,0,0,0,,{\an5}FORM TEAMS
+Dialogue: 0,0:00:10.92,0:00:11.33,Default,,0,0,0,,{\an5}OF THREE,
+Dialogue: 0,0:00:11.50,0:00:12.01,Default,,0,0,0,,{\an5}PICK AN
+Dialogue: 0,0:00:12.01,0:00:12.43,Default,,0,0,0,,{\an5}EXPERIMENT
+Dialogue: 0,0:00:12.43,0:00:12.96,Default,,0,0,0,,{\an5}TO ANALYZE,
+Dialogue: 0,0:00:13.25,0:00:13.66,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:13.66,0:00:14.08,Default,,0,0,0,,{\an5}PUT TOGETHER
+Dialogue: 0,0:00:14.08,0:00:14.53,Default,,0,0,0,,{\an5}A DIGITAL
+Dialogue: 0,0:00:14.53,0:00:15.03,Default,,0,0,0,,{\an5}PRESENTATION.
+Dialogue: 0,0:00:15.41,0:00:16.14,Default,,0,0,0,,{\an5}THE INSTRUCTOR
+Dialogue: 0,0:00:16.14,0:00:16.64,Default,,0,0,0,,{\an5}OPENED THE
+Dialogue: 0,0:00:16.64,0:00:17.30,Default,,0,0,0,,{\an5}SIGN -UPS ALMOST
+Dialogue: 0,0:00:17.30,0:00:17.85,Default,,0,0,0,,{\an5}FIVE WEEKS
+Dialogue: 0,0:00:17.85,0:00:18.28,Default,,0,0,0,,{\an5}BEFORE THE
+Dialogue: 0,0:00:18.28,0:00:19.39,Default,,0,0,0,,{\an5}DEADLINE, AND
+Dialogue: 0,0:00:19.39,0:00:19.87,Default,,0,0,0,,{\an5}I CONTACTED
+Dialogue: 0,0:00:19.87,0:00:20.37,Default,,0,0,0,,{\an5}MY GROUP
+Dialogue: 0,0:00:20.37,0:00:20.60,Default,,0,0,0,,{\an5}RIGHT
+Dialogue: 0,0:00:20.60,0:00:20.80,Default,,0,0,0,,{\an5}AWAY.
+Dialogue: 0,0:00:21.03,0:00:21.55,Default,,0,0,0,,{\an5}ONE OF
+Dialogue: 0,0:00:21.55,0:00:21.98,Default,,0,0,0,,{\an5}THE MEMBERS,
+Dialogue: 0,0:00:22.17,0:00:22.71,Default,,0,0,0,,{\an5}WHOM I'LL
+Dialogue: 0,0:00:22.71,0:00:23.12,Default,,0,0,0,,{\an5}CALL LENA,
+Dialogue: 0,0:00:23.28,0:00:24.01,Default,,0,0,0,,{\an5}BARELY RESPONDED
+Dialogue: 0,0:00:24.01,0:00:24.32,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:00:24.32,0:00:24.57,Default,,0,0,0,,{\an5}ANYTHING.
+Dialogue: 0,0:00:24.66,0:00:25.14,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:25.14,0:00:25.76,Default,,0,0,0,,{\an5}CANCELED OUR
+Dialogue: 0,0:00:25.76,0:00:26.30,Default,,0,0,0,,{\an5}FIRST PLANNING
+Dialogue: 0,0:00:26.30,0:00:26.71,Default,,0,0,0,,{\an5}CALL TEN
+Dialogue: 0,0:00:26.71,0:00:27.32,Default,,0,0,0,,{\an5}MINUTES AFTER
+Dialogue: 0,0:00:27.32,0:00:27.73,Default,,0,0,0,,{\an5}IT WAS SUPPOSED
+Dialogue: 0,0:00:27.73,0:00:28.14,Default,,0,0,0,,{\an5}TO START
+Dialogue: 0,0:00:28.14,0:00:29.71,Default,,0,0,0,,{\an5}AND KEPT DISAPPEARING
+Dialogue: 0,0:00:29.71,0:00:30.21,Default,,0,0,0,,{\an5}FOR DAYS AT
+Dialogue: 0,0:00:30.21,0:00:30.33,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:00:30.33,0:00:30.67,Default,,0,0,0,,{\an5}TIME.
+Dialogue: 0,0:00:30.76,0:00:31.35,Default,,0,0,0,,{\an5}I UNDERSTAND
+Dialogue: 0,0:00:31.35,0:00:31.78,Default,,0,0,0,,{\an5}PEOPLE
+Dialogue: 0,0:00:31.78,0:00:32.20,Default,,0,0,0,,{\an5}HAVE BUSY
+Dialogue: 0,0:00:32.20,0:00:32.57,Default,,0,0,0,,{\an5}LIVES.
+Dialogue: 0,0:00:32.88,0:00:33.50,Default,,0,0,0,,{\an5}BUT SENDING
+Dialogue: 0,0:00:33.50,0:00:34.15,Default,,0,0,0,,{\an5}A QUICK UPDATE
+Dialogue: 0,0:00:34.15,0:00:34.39,Default,,0,0,0,,{\an5}ISN'T
+Dialogue: 0,0:00:34.39,0:00:34.57,Default,,0,0,0,,{\an5}HARD.
+Dialogue: 0,0:00:34.88,0:00:35.43,Default,,0,0,0,,{\an5}TWO WEEKS
+Dialogue: 0,0:00:35.43,0:00:35.88,Default,,0,0,0,,{\an5}BEFORE THE
+Dialogue: 0,0:00:35.88,0:00:36.61,Default,,0,0,0,,{\an5}PRESENTATION WAS
+Dialogue: 0,0:00:36.61,0:00:36.79,Default,,0,0,0,,{\an5}DUE.
+Dialogue: 0,0:00:37.00,0:00:37.56,Default,,0,0,0,,{\an5}THE OTHER
+Dialogue: 0,0:00:37.56,0:00:38.10,Default,,0,0,0,,{\an5}TEAMMATE AND
+Dialogue: 0,0:00:38.10,0:00:38.56,Default,,0,0,0,,{\an5}I HAD ALREADY
+Dialogue: 0,0:00:38.56,0:00:39.07,Default,,0,0,0,,{\an5}FINISHED OUR
+Dialogue: 0,0:00:39.07,0:00:39.43,Default,,0,0,0,,{\an5}SECTIONS.
+Dialogue: 0,0:00:39.78,0:00:40.29,Default,,0,0,0,,{\an5}ALL THAT
+Dialogue: 0,0:00:40.29,0:00:40.71,Default,,0,0,0,,{\an5}WAS LEFT
+Dialogue: 0,0:00:40.71,0:00:41.20,Default,,0,0,0,,{\an5}WAS LENA'S
+Dialogue: 0,0:00:41.20,0:00:41.43,Default,,0,0,0,,{\an5}SMALL
+Dialogue: 0,0:00:41.43,0:00:41.78,Default,,0,0,0,,{\an5}PORTION.
+Dialogue: 0,0:00:42.07,0:00:42.57,Default,,0,0,0,,{\an5}JUST TWO
+Dialogue: 0,0:00:42.57,0:00:43.06,Default,,0,0,0,,{\an5}SLIDES OUT
+Dialogue: 0,0:00:43.06,0:00:43.38,Default,,0,0,0,,{\an5}OF THE WHOLE
+Dialogue: 0,0:00:43.38,0:00:43.75,Default,,0,0,0,,{\an5}PROJECT.
+Dialogue: 0,0:00:44.00,0:00:44.65,Default,,0,0,0,,{\an5}I MESSAGED
+Dialogue: 0,0:00:44.65,0:00:44.82,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:00:44.82,0:00:45.10,Default,,0,0,0,,{\an5}REPEATEDLY.
+Dialogue: 0,0:00:45.50,0:00:45.97,Default,,0,0,0,,{\an5}REMINDING
+Dialogue: 0,0:00:45.97,0:00:46.53,Default,,0,0,0,,{\an5}HER TO FINISH
+Dialogue: 0,0:00:46.53,0:00:47.11,Default,,0,0,0,,{\an5}HER PART SO
+Dialogue: 0,0:00:47.11,0:00:47.64,Default,,0,0,0,,{\an5}WE'D HAVE TIME
+Dialogue: 0,0:00:47.64,0:00:47.96,Default,,0,0,0,,{\an5}TO REVIEW
+Dialogue: 0,0:00:47.96,0:00:48.32,Default,,0,0,0,,{\an5}EVERYTHING.
+Dialogue: 0,0:00:48.97,0:00:49.38,Default,,0,0,0,,{\an5}NOTHING.
+Dialogue: 0,0:00:49.65,0:00:50.14,Default,,0,0,0,,{\an5}EVENTUALLY.
+Dialogue: 0,0:00:50.35,0:00:50.92,Default,,0,0,0,,{\an5}I SENT
+Dialogue: 0,0:00:50.92,0:00:51.53,Default,,0,0,0,,{\an5}A FINAL NOTE
+Dialogue: 0,0:00:51.53,0:00:52.02,Default,,0,0,0,,{\an5}SAYING I COULD
+Dialogue: 0,0:00:52.02,0:00:52.47,Default,,0,0,0,,{\an5}COMPLETE HER
+Dialogue: 0,0:00:52.47,0:00:52.74,Default,,0,0,0,,{\an5}SECTION
+Dialogue: 0,0:00:52.74,0:00:53.06,Default,,0,0,0,,{\an5}MYSELF.
+Dialogue: 0,0:00:53.56,0:00:54.00,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:00:54.00,0:00:54.21,Default,,0,0,0,,{\an5}IF I
+Dialogue: 0,0:00:54.21,0:00:54.35,Default,,0,0,0,,{\an5}DID.
+Dialogue: 0,0:00:54.57,0:00:55.20,Default,,0,0,0,,{\an5}I'D BE LEAVING
+Dialogue: 0,0:00:55.20,0:00:55.50,Default,,0,0,0,,{\an5}HER NAME
+Dialogue: 0,0:00:55.50,0:00:55.74,Default,,0,0,0,,{\an5}OFF.
+Dialogue: 0,0:00:56.15,0:00:56.64,Default,,0,0,0,,{\an5}MAGICALLY.
+Dialogue: 0,0:00:56.74,0:00:57.15,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:57.15,0:00:57.46,Default,,0,0,0,,{\an5}FINALLY
+Dialogue: 0,0:00:57.46,0:00:57.74,Default,,0,0,0,,{\an5}REPLIED.
+Dialogue: 0,0:00:57.74,0:00:58.89,Default,,0,0,0,,{\an5}PROMISING SHE'D
+Dialogue: 0,0:00:58.89,0:00:59.38,Default,,0,0,0,,{\an5}GET IT DONE THE
+Dialogue: 0,0:00:59.38,0:00:59.52,Default,,0,0,0,,{\an5}NEXT
+Dialogue: 0,0:00:59.52,0:00:59.82,Default,,0,0,0,,{\an5}EVENING.
+Dialogue: 0,0:01:00.02,0:01:00.38,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:00.38,0:01:00.78,Default,,0,0,0,,{\an5}DIDN'T.
+Dialogue: 0,0:01:00.78,0:01:01.47,Default,,0,0,0,,{\an5}AT THAT POINT,
+Dialogue: 0,0:01:01.61,0:01:02.10,Default,,0,0,0,,{\an5}WITH THREE
+Dialogue: 0,0:01:02.10,0:01:02.57,Default,,0,0,0,,{\an5}DAYS LEFT,
+Dialogue: 0,0:01:02.78,0:01:03.28,Default,,0,0,0,,{\an5}I FINISHED
+Dialogue: 0,0:01:03.28,0:01:03.70,Default,,0,0,0,,{\an5}HER SLIDES
+Dialogue: 0,0:01:03.70,0:01:04.92,Default,,0,0,0,,{\an5}MYSELF, REMOVED
+Dialogue: 0,0:01:04.92,0:01:05.35,Default,,0,0,0,,{\an5}HER NAME
+Dialogue: 0,0:01:05.35,0:01:06.09,Default,,0,0,0,,{\an5}FROM THE PRESENTATION,
+Dialogue: 0,0:01:06.42,0:01:07.12,Default,,0,0,0,,{\an5}AND SUBMITTED
+Dialogue: 0,0:01:07.12,0:01:07.31,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:07.31,0:01:07.54,Default,,0,0,0,,{\an5}EARLY.
+Dialogue: 0,0:01:07.76,0:01:08.31,Default,,0,0,0,,{\an5}BEFORE DOING
+Dialogue: 0,0:01:08.31,0:01:09.06,Default,,0,0,0,,{\an5}SO, I
+Dialogue: 0,0:01:09.06,0:01:09.56,Default,,0,0,0,,{\an5}EXPLAINED THE
+Dialogue: 0,0:01:09.56,0:01:10.23,Default,,0,0,0,,{\an5}SITUATION TO
+Dialogue: 0,0:01:10.23,0:01:10.78,Default,,0,0,0,,{\an5}OUR INSTRUCTOR,
+Dialogue: 0,0:01:10.95,0:01:11.56,Default,,0,0,0,,{\an5}WHO SAID
+Dialogue: 0,0:01:11.56,0:01:12.15,Default,,0,0,0,,{\an5}SHE APPRECIATED
+Dialogue: 0,0:01:12.15,0:01:12.78,Default,,0,0,0,,{\an5}KNOWING ABOUT
+Dialogue: 0,0:01:12.78,0:01:13.29,Default,,0,0,0,,{\an5}GROUP MEMBERS
+Dialogue: 0,0:01:13.29,0:01:13.78,Default,,0,0,0,,{\an5}WHO DIDN'T
+Dialogue: 0,0:01:13.78,0:01:14.09,Default,,0,0,0,,{\an5}CONTRIBUTE.
+Dialogue: 0,0:01:14.37,0:01:15.06,Default,,0,0,0,,{\an5}SHE FORMALLY
+Dialogue: 0,0:01:15.06,0:01:15.76,Default,,0,0,0,,{\an5}REMOVED LENA
+Dialogue: 0,0:01:15.76,0:01:16.31,Default,,0,0,0,,{\an5}FROM THE TEAM
+Dialogue: 0,0:01:16.31,0:01:16.85,Default,,0,0,0,,{\an5}ROSTER SO
+Dialogue: 0,0:01:16.85,0:01:17.34,Default,,0,0,0,,{\an5}THE GRADE WOULD
+Dialogue: 0,0:01:17.34,0:01:17.85,Default,,0,0,0,,{\an5}ONLY REFLECT
+Dialogue: 0,0:01:17.85,0:01:18.18,Default,,0,0,0,,{\an5}THE WORK
+Dialogue: 0,0:01:18.18,0:01:18.50,Default,,0,0,0,,{\an5}ACTUALLY.
+Dialogue: 0,0:01:18.95,0:01:19.48,Default,,0,0,0,,{\an5}DONE.
+Dialogue: 0,0:01:19.56,0:01:19.98,Default,,0,0,0,,{\an5}NOW,
+Dialogue: 0,0:01:20.15,0:01:20.76,Default,,0,0,0,,{\an5}AFTER WEEKS
+Dialogue: 0,0:01:20.76,0:01:21.34,Default,,0,0,0,,{\an5}OF SILENCE,
+Dialogue: 0,0:01:21.62,0:01:22.23,Default,,0,0,0,,{\an5}LENA SUDDENLY
+Dialogue: 0,0:01:22.23,0:01:22.85,Default,,0,0,0,,{\an5}MESSAGED
+Dialogue: 0,0:01:22.85,0:01:23.56,Default,,0,0,0,,{\an5}OUR GROUP ASKING
+Dialogue: 0,0:01:23.56,0:01:24.28,Default,,0,0,0,,{\an5}WHETHER I ACCIDENTALLY
+Dialogue: 0,0:01:24.28,0:01:24.76,Default,,0,0,0,,{\an5}SUBMITTED
+Dialogue: 0,0:01:24.76,0:01:25.23,Default,,0,0,0,,{\an5}HER SLIDES
+Dialogue: 0,0:01:25.23,0:01:25.57,Default,,0,0,0,,{\an5}BLANK.
+Dialogue: 0,0:01:25.85,0:01:26.37,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:26.37,0:01:26.95,Default,,0,0,0,,{\an5}BECAME OBVIOUS
+Dialogue: 0,0:01:26.95,0:01:27.42,Default,,0,0,0,,{\an5}SHE NEVER
+Dialogue: 0,0:01:27.42,0:01:27.93,Default,,0,0,0,,{\an5}SO MUCH
+Dialogue: 0,0:01:27.93,0:01:28.42,Default,,0,0,0,,{\an5}AS OPENED THE
+Dialogue: 0,0:01:28.42,0:01:28.71,Default,,0,0,0,,{\an5}DOCUMENT.
+Dialogue: 0,0:01:28.98,0:01:29.59,Default,,0,0,0,,{\an5}SHE DIDN'T
+Dialogue: 0,0:01:29.59,0:01:30.07,Default,,0,0,0,,{\an5}EVEN HAVE EDIT
+Dialogue: 0,0:01:30.07,0:01:30.42,Default,,0,0,0,,{\an5}ACCESS.
+Dialogue: 0,0:01:30.78,0:01:31.18,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:31.18,0:01:31.78,Default,,0,0,0,,{\an5}STILL HASN'T
+Dialogue: 0,0:01:31.78,0:01:32.23,Default,,0,0,0,,{\an5}ASKED WHY HER
+Dialogue: 0,0:01:32.23,0:01:32.71,Default,,0,0,0,,{\an5}NAME IS IT
+Dialogue: 0,0:01:32.71,0:01:33.26,Default,,0,0,0,,{\an5}ON THE SUBMISSION
+Dialogue: 0,0:01:33.26,0:01:33.68,Default,,0,0,0,,{\an5}AND SEEMS
+Dialogue: 0,0:01:33.68,0:01:34.42,Default,,0,0,0,,{\an5}COMPLETELY UNAWARE
+Dialogue: 0,0:01:34.42,0:01:34.84,Default,,0,0,0,,{\an5}SHE'LL
+Dialogue: 0,0:01:34.84,0:01:35.79,Default,,0,0,0,,{\an5}BE GETTING
+Dialogue: 0,0:01:35.79,0:01:35.95,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:01:35.95,0:01:36.23,Default,,0,0,0,,{\an5}ZERO.
+Dialogue: 0,0:01:36.42,0:01:36.98,Default,,0,0,0,,{\an5}I CAN'T
+Dialogue: 0,0:01:36.98,0:01:37.35,Default,,0,0,0,,{\an5}HELP FEELING
+Dialogue: 0,0:01:37.35,0:01:37.64,Default,,0,0,0,,{\an5}GUILTY.
+Dialogue: 0,0:01:37.87,0:01:38.59,Default,,0,0,0,,{\an5}THE ASSIGNMENT
+Dialogue: 0,0:01:38.59,0:01:39.00,Default,,0,0,0,,{\an5}WASN'T
+Dialogue: 0,0:01:39.00,0:01:39.51,Default,,0,0,0,,{\an5}HARD FOR ME
+Dialogue: 0,0:01:39.51,0:01:39.93,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:39.93,0:01:40.37,Default,,0,0,0,,{\an5}I FINISHED
+Dialogue: 0,0:01:40.37,0:01:40.57,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:40.57,0:01:40.76,Default,,0,0,0,,{\an5}QUICKLY.
+Dialogue: 0,0:01:41.09,0:01:41.57,Default,,0,0,0,,{\an5}LOSING
+Dialogue: 0,0:01:41.57,0:01:42.12,Default,,0,0,0,,{\an5}THESE POINTS
+Dialogue: 0,0:01:42.12,0:01:42.65,Default,,0,0,0,,{\an5}MIGHT SERIOUSLY
+Dialogue: 0,0:01:42.65,0:01:43.07,Default,,0,0,0,,{\an5}HURT
+Dialogue: 0,0:01:43.07,0:01:43.71,Default,,0,0,0,,{\an5}HER FINAL GRADE
+Dialogue: 0,0:01:43.71,0:01:44.20,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:01:44.20,0:01:44.65,Default,,0,0,0,,{\an5}AT THE SAME
+Dialogue: 0,0:01:44.65,0:01:45.50,Default,,0,0,0,,{\an5}TIME SHE
+Dialogue: 0,0:01:45.50,0:01:45.92,Default,,0,0,0,,{\an5}HAD ALMOST
+Dialogue: 0,0:01:45.92,0:01:46.34,Default,,0,0,0,,{\an5}A MONTH
+Dialogue: 0,0:01:46.34,0:01:46.87,Default,,0,0,0,,{\an5}IGNORED
+Dialogue: 0,0:01:46.87,0:01:47.71,Default,,0,0,0,,{\an5}EVERY REMINDER
+Dialogue: 0,0:01:47.71,0:01:48.20,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:48.20,0:01:48.73,Default,,0,0,0,,{\an5}LEFT US HANGING
+Dialogue: 0,0:01:48.73,0:01:49.15,Default,,0,0,0,,{\an5}RIGHT UP
+Dialogue: 0,0:01:49.15,0:01:49.51,Default,,0,0,0,,{\an5}UNTIL THE
+Dialogue: 0,0:01:49.51,0:01:49.79,Default,,0,0,0,,{\an5}DEADLINE.
+Dialogue: 0,0:01:50.00,0:01:50.42,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:01:50.42,0:01:50.93,Default,,0,0,0,,{\an5}STUCK WONDERING
+Dialogue: 0,0:01:50.93,0:01:51.35,Default,,0,0,0,,{\an5}IF I WAS
+Dialogue: 0,0:01:51.35,0:01:51.84,Default,,0,0,0,,{\an5}TOO HARSH
+Dialogue: 0,0:01:51.84,0:01:52.35,Default,,0,0,0,,{\an5}OR
+Dialogue: 0,0:01:52.35,0:01:52.90,Default,,0,0,0,,{\an5}IF I SIMPLY
+Dialogue: 0,0:01:52.90,0:01:53.51,Default,,0,0,0,,{\an5}FOLLOWED THROUGH
+Dialogue: 0,0:01:53.51,0:01:54.01,Default,,0,0,0,,{\an5}ON A BOUNDARY
+Dialogue: 0,0:01:54.01,0:01:54.48,Default,,0,0,0,,{\an5}SHE CHOSE
+Dialogue: 0,0:01:54.48,0:01:54.65,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:01:54.65,0:01:54.85,Default,,0,0,0,,{\an5}IGNORE.

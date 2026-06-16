@@ -1,0 +1,115 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.54,0:00:04.28,Default,,0,0,0,,\N{\k35}AFTER {\k38}RECENTLY
+Dialogue: 0,0:00:04.28,0:00:04.94,Default,,0,0,0,,\N{\k31}MOVING {\k26}INTO {\k8}A
+Dialogue: 0,0:00:04.94,0:00:05.66,Default,,0,0,0,,\N{\k11}NEW {\k36}APARTMENT, {\k4}I
+Dialogue: 0,0:00:05.66,0:00:06.33,Default,,0,0,0,,\N{\k20}FOUND {\k29}SEVERAL {\k17}BAGS
+Dialogue: 0,0:00:06.33,0:00:07.08,Default,,0,0,0,,\N{\k24}OF {\k25}GROCERIES {\k24}LEFT
+Dialogue: 0,0:00:07.08,0:00:07.82,Default,,0,0,0,,\N{\k25}OUTSIDE {\k20}MY {\k12}DOOR {\k16}THAT
+Dialogue: 0,0:00:07.82,0:00:08.64,Default,,0,0,0,,\N{\k29}CLEARLY {\k14}WERE {\k14}NOT {\k24}MINE.
+Dialogue: 0,0:00:09.19,0:00:09.80,Default,,0,0,0,,\N{\k40}THE {\k20}ORDER
+Dialogue: 0,0:00:09.80,0:00:10.56,Default,,0,0,0,,\N{\k41}INCLUDED {\k33}FROZEN
+Dialogue: 0,0:00:10.56,0:00:11.24,Default,,0,0,0,,\N{\k9}AND {\k58}REFRIGERATED
+Dialogue: 0,0:00:11.24,0:00:11.93,Default,,0,0,0,,\N{\k25}ITEMS, {\k9}AND
+Dialogue: 0,0:00:11.93,0:00:12.67,Default,,0,0,0,,\N{\k8}I {\k14}HAD {\k11}NO {\k24}IDEA {\k16}WHO
+Dialogue: 0,0:00:12.67,0:00:13.40,Default,,0,0,0,,\N{\k9}THEY {\k20}BELONGED {\k19}TO {\k9}OR {\k12}HOW
+Dialogue: 0,0:00:13.40,0:00:14.06,Default,,0,0,0,,\N{\k19}LONG {\k17}THEY {\k14}HAD {\k14}BEEN
+Dialogue: 0,0:00:14.06,0:00:14.51,Default,,0,0,0,,\N{\k21}SITTING {\k24}THERE.
+Dialogue: 0,0:00:15.30,0:00:15.92,Default,,0,0,0,,\N{\k27}BECAUSE {\k19}I {\k14}DID
+Dialogue: 0,0:00:15.92,0:00:16.64,Default,,0,0,0,,\N{\k13}NOT {\k17}WANT {\k12}THE {\k14}FOOD {\k14}TO
+Dialogue: 0,0:00:16.64,0:00:17.42,Default,,0,0,0,,\N{\k21}SPOIL, {\k4}I {\k30}DECIDED
+Dialogue: 0,0:00:17.42,0:00:18.30,Default,,0,0,0,,\N{\k21}TO {\k3}PUT {\k28}EVERYTHING {\k33}INTO
+Dialogue: 0,0:00:18.30,0:00:19.05,Default,,0,0,0,,\N{\k12}MY {\k39}REFRIGERATOR {\k23}AND
+Dialogue: 0,0:00:19.05,0:00:19.87,Default,,0,0,0,,\N{\k24}FREEZER {\k17}FOR {\k39}SAFEKEEPING.
+Dialogue: 0,0:00:20.53,0:00:21.28,Default,,0,0,0,,\N{\k35}I {\k16}KEPT {\k22}ALL
+Dialogue: 0,0:00:21.28,0:00:22.16,Default,,0,0,0,,\N{\k9}OF {\k10}IT {\k21}INSIDE {\k17}THE {\k28}ORIGINAL
+Dialogue: 0,0:00:22.16,0:00:22.85,Default,,0,0,0,,\N{\k41}DELIVERY {\k28}BAGS
+Dialogue: 0,0:00:22.85,0:00:23.50,Default,,0,0,0,,\N{\k14}WITH {\k12}THE {\k11}TEXT {\k26}STILL
+Dialogue: 0,0:00:23.50,0:00:24.26,Default,,0,0,0,,\N{\k28}ATTACHED {\k17}AND {\k11}DID {\k18}NOT
+Dialogue: 0,0:00:24.26,0:00:24.89,Default,,0,0,0,,\N{\k29}OPEN {\k16}OR {\k17}USE
+Dialogue: 0,0:00:24.89,0:00:25.26,Default,,0,0,0,,\N{\k36}ANYTHING.
+Dialogue: 0,0:00:25.87,0:00:26.48,Default,,0,0,0,,\N{\k28}AT {\k10}THE {\k21}TIME,
+Dialogue: 0,0:00:26.69,0:00:27.39,Default,,0,0,0,,\N{\k6}I {\k17}ASSUMED {\k16}THE {\k29}PREVIOUS
+Dialogue: 0,0:00:27.39,0:00:28.21,Default,,0,0,0,,\N{\k22}TENANT {\k23}MAY {\k6}HAVE {\k29}FORGOTTEN
+Dialogue: 0,0:00:28.21,0:00:28.82,Default,,0,0,0,,\N{\k22}TO {\k16}UPDATE {\k21}THEIR
+Dialogue: 0,0:00:28.82,0:00:29.42,Default,,0,0,0,,\N{\k25}ADDRESS, {\k34}AND
+Dialogue: 0,0:00:29.42,0:00:30.12,Default,,0,0,0,,\N{\k13}FOR {\k16}ALL {\k14}I {\k14}KNEW {\k12}THEY
+Dialogue: 0,0:00:30.12,0:00:30.78,Default,,0,0,0,,\N{\k14}COULD {\k13}HAVE {\k14}MOVED {\k24}FAR
+Dialogue: 0,0:00:30.78,0:00:31.44,Default,,0,0,0,,\N{\k19}AWAY {\k17}OR {\k12}MIGHT {\k16}NOT
+Dialogue: 0,0:00:31.44,0:00:32.10,Default,,0,0,0,,\N{\k19}REALISE {\k23}THE {\k22}MISTAKE
+Dialogue: 0,0:00:32.10,0:00:32.53,Default,,0,0,0,,\N{\k19}FOR {\k24}DAYS.
+Dialogue: 0,0:00:33.29,0:00:34.06,Default,,0,0,0,,\N{\k35}A {\k20}FEW {\k20}HOURS
+Dialogue: 0,0:00:34.06,0:00:34.74,Default,,0,0,0,,\N{\k32}LATER, {\k6}A {\k17}WOMAN
+Dialogue: 0,0:00:34.74,0:00:35.38,Default,,0,0,0,,\N{\k21}KNOCKED {\k14}ON {\k11}MY {\k16}DOOR
+Dialogue: 0,0:00:35.38,0:00:36.17,Default,,0,0,0,,\N{\k14}AND {\k15}SHOWED {\k17}ME {\k10}A {\k21}PHOTO
+Dialogue: 0,0:00:36.17,0:00:36.97,Default,,0,0,0,,\N{\k14}ON {\k7}HER {\k20}PHONE {\k7}OF {\k7}THE {\k21}GROCERY
+Dialogue: 0,0:00:36.97,0:00:37.64,Default,,0,0,0,,\N{\k34}SITTING {\k32}OUTSIDE
+Dialogue: 0,0:00:37.64,0:00:38.15,Default,,0,0,0,,\N{\k24}MY {\k27}UNIT.
+Dialogue: 0,0:00:39.00,0:00:39.67,Default,,0,0,0,,\N{\k34}RELIEVED {\k9}THAT {\k12}THE {\k11}OWNER
+Dialogue: 0,0:00:39.67,0:00:40.43,Default,,0,0,0,,\N{\k17}HAD {\k25}APPEARED, {\k3}I
+Dialogue: 0,0:00:40.43,0:00:41.06,Default,,0,0,0,,\N{\k10}WENT {\k14}TO {\k20}RETRIEVE {\k17}THE
+Dialogue: 0,0:00:41.06,0:00:41.84,Default,,0,0,0,,\N{\k15}BAGS {\k20}FOR {\k15}HER, {\k4}BUT
+Dialogue: 0,0:00:41.84,0:00:42.47,Default,,0,0,0,,\N{\k25}INSTEAD {\k11}OF {\k25}THANKING
+Dialogue: 0,0:00:42.47,0:00:43.15,Default,,0,0,0,,\N{\k17}ME {\k14}SHE {\k35}IMMEDIATELY
+Dialogue: 0,0:00:43.15,0:00:44.02,Default,,0,0,0,,\N{\k26}ACCUSED {\k21}ME {\k10}OF {\k28}STEALING
+Dialogue: 0,0:00:44.02,0:00:44.35,Default,,0,0,0,,\N{\k17}HER {\k15}FOOD.
+Dialogue: 0,0:00:45.15,0:00:45.92,Default,,0,0,0,,\N{\k30}SHE {\k25}RAISED {\k20}HER
+Dialogue: 0,0:00:45.92,0:00:46.78,Default,,0,0,0,,\N{\k25}VOICE, {\k10}CALLED
+Dialogue: 0,0:00:46.78,0:00:47.56,Default,,0,0,0,,\N{\k17}ME {\k7}AND {\k28}CONSIDERED {\k24}IT,
+Dialogue: 0,0:00:47.64,0:00:48.24,Default,,0,0,0,,\N{\k6}AND {\k32}INSISTED {\k21}THAT
+Dialogue: 0,0:00:48.24,0:00:48.88,Default,,0,0,0,,\N{\k11}I {\k14}SHOULD {\k10}NEVER {\k28}TOUCH
+Dialogue: 0,0:00:48.88,0:00:49.50,Default,,0,0,0,,\N{\k25}SOMEONE {\k35}ELSE'S
+Dialogue: 0,0:00:49.50,0:00:49.84,Default,,0,0,0,,\N{\k34}DELIVERY.
+Dialogue: 0,0:00:50.74,0:00:51.53,Default,,0,0,0,,\N{\k19}I {\k17}TRIED {\k17}TO {\k24}CALMLY
+Dialogue: 0,0:00:51.53,0:00:52.21,Default,,0,0,0,,\N{\k24}EXPLAIN {\k21}THAT {\k10}I {\k11}HAD
+Dialogue: 0,0:00:52.21,0:00:52.85,Default,,0,0,0,,\N{\k12}NO {\k21}WAY {\k11}OF {\k17}KNOWING
+Dialogue: 0,0:00:52.85,0:00:53.57,Default,,0,0,0,,\N{\k16}WHO {\k9}THE {\k14}FOOD {\k32}BELONGED
+Dialogue: 0,0:00:53.57,0:00:54.24,Default,,0,0,0,,\N{\k24}TO {\k10}OR {\k10}WHEN {\k11}THEY {\k10}WOULD
+Dialogue: 0,0:00:54.24,0:00:54.96,Default,,0,0,0,,\N{\k15}COME {\k20}LOOKING {\k19}FOR {\k16}IT,
+Dialogue: 0,0:00:55.07,0:00:55.88,Default,,0,0,0,,\N{\k6}AND {\k11}THAT {\k12}I {\k9}HAD {\k16}ONLY {\k24}STORED
+Dialogue: 0,0:00:55.88,0:00:56.65,Default,,0,0,0,,\N{\k14}IT {\k11}TO {\k20}PREVENT {\k31}WASTE.
+Dialogue: 0,0:00:57.43,0:00:58.15,Default,,0,0,0,,\N{\k32}NONE {\k16}OF {\k10}IT {\k13}SEEMED
+Dialogue: 0,0:00:58.15,0:00:58.78,Default,,0,0,0,,\N{\k14}TO {\k16}MATTER {\k15}TO {\k16}HER,
+Dialogue: 0,0:00:59.00,0:00:59.70,Default,,0,0,0,,\N{\k7}AND {\k12}SHE {\k33}CONTINUED {\k16}TO
+Dialogue: 0,0:00:59.70,0:01:00.43,Default,,0,0,0,,\N{\k14}SCOLD {\k17}ME, {\k11}TELLING {\k17}ME
+Dialogue: 0,0:01:00.43,0:01:01.06,Default,,0,0,0,,\N{\k10}THAT {\k16}NEXT {\k21}TIME {\k14}I
+Dialogue: 0,0:01:01.06,0:01:01.85,Default,,0,0,0,,\N{\k11}SHOULD {\k14}LEAVE {\k14}THE {\k15}FOOD {\k24}OUTSIDE
+Dialogue: 0,0:01:01.85,0:01:02.70,Default,,0,0,0,,\N{\k34}EVEN {\k14}IF {\k9}IT {\k26}SPOILED.
+Dialogue: 0,0:01:03.74,0:01:04.54,Default,,0,0,0,,\N{\k11}I {\k14}LIVE {\k15}IN {\k7}AN {\k30}APARTMENT
+Dialogue: 0,0:01:04.54,0:01:05.20,Default,,0,0,0,,\N{\k50}COMPLEX {\k15}WHERE
+Dialogue: 0,0:01:05.20,0:01:06.00,Default,,0,0,0,,\N{\k35}TEMPERATURES {\k43}FLUCTUATE
+Dialogue: 0,0:01:06.00,0:01:06.64,Default,,0,0,0,,\N{\k9}A {\k14}LOT, {\k29}ESPECIALLY
+Dialogue: 0,0:01:06.64,0:01:07.68,Default,,0,0,0,,\N{\k21}IN {\k28}WINTER, {\k14}SO
+Dialogue: 0,0:01:07.68,0:01:08.31,Default,,0,0,0,,\N{\k21}LEAVING {\k41}PERISHABLES
+Dialogue: 0,0:01:08.31,0:01:08.92,Default,,0,0,0,,\N{\k18}THAT {\k15}WAS {\k14}DID {\k12}NOT
+Dialogue: 0,0:01:08.92,0:01:09.71,Default,,0,0,0,,\N{\k17}SEEM {\k20}SAFE {\k12}OR {\k29}REASONABLE
+Dialogue: 0,0:01:09.71,0:01:10.06,Default,,0,0,0,,\N{\k21}TO {\k12}ME.
+Dialogue: 0,0:01:10.90,0:01:11.70,Default,,0,0,0,,\N{\k21}I {\k17}ALSO {\k40}CONSIDERED
+Dialogue: 0,0:01:11.70,0:01:12.50,Default,,0,0,0,,\N{\k37}CONTACTING {\k18}THE {\k23}DELIVERY
+Dialogue: 0,0:01:12.50,0:01:13.31,Default,,0,0,0,,\N{\k48}COMPANY, {\k9}BUT
+Dialogue: 0,0:01:13.31,0:01:13.98,Default,,0,0,0,,\N{\k18}SINCE {\k12}I {\k11}WAS {\k14}NOT {\k10}THE
+Dialogue: 0,0:01:13.98,0:01:14.79,Default,,0,0,0,,\N{\k14}ONE {\k14}WHO {\k17}PLACED {\k12}THE {\k23}ORDER,
+Dialogue: 0,0:01:15.09,0:01:15.71,Default,,0,0,0,,\N{\k2}I {\k25}DOUBTED {\k10}THEY {\k7}COULD {\k15}HELP
+Dialogue: 0,0:01:15.71,0:01:16.34,Default,,0,0,0,,\N{\k21}MUCH {\k12}IN {\k6}THE {\k21}MOMENT.
+Dialogue: 0,0:01:17.26,0:01:18.04,Default,,0,0,0,,\N{\k21}I {\k31}GENUINELY {\k24}THOUGHT
+Dialogue: 0,0:01:18.04,0:01:18.70,Default,,0,0,0,,\N{\k29}HOLDING {\k20}ONTO {\k15}THE
+Dialogue: 0,0:01:18.70,0:01:19.51,Default,,0,0,0,,\N{\k21}GROCERIES {\k59}TEMPORARILY
+Dialogue: 0,0:01:19.51,0:01:20.59,Default,,0,0,0,,\N{\k28}WAS {\k14}THE {\k12}MOST {\k53}RESPONSIBLE
+Dialogue: 0,0:01:20.59,0:01:20.93,Default,,0,0,0,,\N{\k34}OPTION.
+Dialogue: 0,0:01:21.71,0:01:22.35,Default,,0,0,0,,\N{\k29}NOW {\k14}I {\k10}AM {\k9}LEFT
+Dialogue: 0,0:01:22.35,0:01:23.06,Default,,0,0,0,,\N{\k32}WONDERING {\k23}WHETHER {\k14}MY
+Dialogue: 0,0:01:23.06,0:01:23.68,Default,,0,0,0,,\N{\k20}LOGIC {\k21}WAS {\k20}FLAWED,
+Dialogue: 0,0:01:23.84,0:01:24.68,Default,,0,0,0,,\N{\k7}OR {\k12}IF {\k5}I {\k12}WAS {\k21}SIMPLY {\k24}TRYING
+Dialogue: 0,0:01:24.68,0:01:25.34,Default,,0,0,0,,\N{\k15}TO {\k11}DO {\k10}THE {\k12}RIGHT {\k15}THING,
+Dialogue: 0,0:01:25.45,0:01:26.37,Default,,0,0,0,,\N{\k1}I {\k26}BECAME {\k14}AN {\k18}EASY {\k33}TARGET
+Dialogue: 0,0:01:26.37,0:01:27.14,Default,,0,0,0,,\N{\k20}FOR {\k23}SOMEONE {\k32}ELSE'S
+Dialogue: 0,0:01:27.14,0:01:27.51,Default,,0,0,0,,\N{\k37}FRUSTRATION.

@@ -1,0 +1,137 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.16,0:00:05.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}MY {\k29}SISTER
+Dialogue: 0,0:00:05.78,0:00:06.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AND {\k7}I {\k10}WERE {\k25}BOTH {\k28}PREGNANT
+Dialogue: 0,0:00:06.66,0:00:07.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AT {\k5}THE {\k16}SAME {\k20}TIME {\k21}LAST
+Dialogue: 0,0:00:07.46,0:00:07.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}YEAR.
+Dialogue: 0,0:00:08.40,0:00:08.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I
+Dialogue: 0,0:00:08.56,0:00:09.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WAS {\k33}EXPECTING {\k17}MY
+Dialogue: 0,0:00:09.17,0:00:09.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}FIRST {\k30}CHILD,
+Dialogue: 0,0:00:09.80,0:00:10.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}A {\k16}GIRL,
+Dialogue: 0,0:00:10.41,0:00:11.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AND {\k11}SHE {\k16}TOLD {\k28}EVERYONE
+Dialogue: 0,0:00:11.06,0:00:11.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SHE {\k11}WAS {\k16}HAVING {\k8}A
+Dialogue: 0,0:00:11.67,0:00:11.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}BOY.
+Dialogue: 0,0:00:12.58,0:00:12.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}WHAT
+Dialogue: 0,0:00:12.80,0:00:13.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}SHE {\k24}DIDN'T {\k20}SHARE {\k11}AT
+Dialogue: 0,0:00:13.50,0:00:14.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}THE {\k16}TIME {\k13}WAS {\k8}THAT {\k14}SHE {\k9}WAS
+Dialogue: 0,0:00:14.17,0:00:14.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ACTUALLY {\k37}EXPECTING
+Dialogue: 0,0:00:14.83,0:00:15.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TWINS {\k20}AND {\k22}WANTED
+Dialogue: 0,0:00:15.46,0:00:16.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}TO {\k12}KEEP {\k17}THAT {\k20}PART
+Dialogue: 0,0:00:16.10,0:00:16.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}A {\k23}SURPRISE.
+Dialogue: 0,0:00:17.30,0:00:17.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WHILE
+Dialogue: 0,0:00:17.50,0:00:18.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k11}WAS {\k26}PREGNANT,
+Dialogue: 0,0:00:18.23,0:00:18.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k4}I {\k11}TALKED {\k42}OPENLY {\k16}ABOUT
+Dialogue: 0,0:00:18.98,0:00:19.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k9}NAME {\k12}I {\k17}PLANNED {\k16}TO
+Dialogue: 0,0:00:19.66,0:00:20.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}USE {\k12}FOR {\k13}MY {\k28}DAUGHTER.
+Dialogue: 0,0:00:20.96,0:00:21.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}I
+Dialogue: 0,0:00:21.28,0:00:21.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WANTED {\k14}TO {\k12}HONOR {\k19}BOTH
+Dialogue: 0,0:00:21.96,0:00:22.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}OUR {\k20}MOM {\k11}AND {\k14}MY {\k28}PARTNER'S
+Dialogue: 0,0:00:22.82,0:00:23.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MOM {\k16}BY {\k37}COMBINING
+Dialogue: 0,0:00:23.51,0:00:24.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THEIR {\k16}NAMES, {\k14}AND
+Dialogue: 0,0:00:24.17,0:00:24.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k14}LOVED {\k16}THE {\k17}IDEA
+Dialogue: 0,0:00:24.78,0:00:25.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OF {\k13}USING {\k14}A {\k16}NICKNAME {\k26}THAT
+Dialogue: 0,0:00:25.64,0:00:26.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}CAME {\k16}FROM {\k17}THAT.
+Dialogue: 0,0:00:26.62,0:00:27.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}I
+Dialogue: 0,0:00:27.01,0:00:27.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}MENTIONED {\k21}THIS {\k12}TO
+Dialogue: 0,0:00:27.62,0:00:28.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}MY {\k26}SISTER {\k16}MORE {\k9}THAN
+Dialogue: 0,0:00:28.23,0:00:28.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}ONCE, {\k1}AND {\k12}SHE
+Dialogue: 0,0:00:28.92,0:00:29.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}KNEW {\k10}IT {\k9}WAS {\k10}THE {\k14}NAME {\k12}I
+Dialogue: 0,0:00:29.60,0:00:30.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}INTENDED {\k21}TO {\k12}GO {\k19}WITH.
+Dialogue: 0,0:00:30.96,0:00:31.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}SHE,
+Dialogue: 0,0:00:31.51,0:00:32.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}ON {\k12}THE {\k12}OTHER {\k28}HAND,
+Dialogue: 0,0:00:32.43,0:00:33.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}SAID {\k13}SHE {\k14}AND {\k8}HER {\k25}PARTNER
+Dialogue: 0,0:00:33.14,0:00:33.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WERE {\k20}KEEPING {\k21}THEIR {\k21}BABY
+Dialogue: 0,0:00:33.93,0:00:34.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}NAME {\k7}A {\k34}SECRET {\k27}UNTIL
+Dialogue: 0,0:00:34.79,0:00:35.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THE {\k14}BIRTH.
+Dialogue: 0,0:00:35.82,0:00:35.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}A
+Dialogue: 0,0:00:35.97,0:00:36.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MONTH {\k32}BEFORE {\k14}I
+Dialogue: 0,0:00:36.60,0:00:37.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}GAVE {\k35}BIRTH,
+Dialogue: 0,0:00:37.29,0:00:38.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}SHE {\k7}HAD {\k10}HER {\k25}BABIES {\k28}AND
+Dialogue: 0,0:00:38.10,0:00:38.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SURPRISED {\k39}EVERYONE
+Dialogue: 0,0:00:38.78,0:00:39.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}BY {\k30}ANNOUNCING {\k35}TWINS.
+Dialogue: 0,0:00:40.34,0:00:40.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SHE
+Dialogue: 0,0:00:40.52,0:00:41.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}CHOSE {\k16}NAMES {\k21}THAT {\k10}WERE
+Dialogue: 0,0:00:41.20,0:00:41.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}CLEARLY {\k29}INSPIRED {\k28}BY
+Dialogue: 0,0:00:41.96,0:00:42.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}OUR {\k28}MOM'S {\k21}NAME,
+Dialogue: 0,0:00:42.85,0:00:43.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}JUST {\k28}SPLIT {\k20}INTO
+Dialogue: 0,0:00:43.46,0:00:44.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TWO {\k24}PARTS {\k17}FOR
+Dialogue: 0,0:00:44.07,0:00:44.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}EACH {\k32}CHILD.
+Dialogue: 0,0:00:45.20,0:00:45.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}I
+Dialogue: 0,0:00:45.43,0:00:46.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THOUGHT {\k15}IT {\k8}WAS {\k9}A {\k20}SWEET
+Dialogue: 0,0:00:46.14,0:00:46.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}IDEA {\k28}AND {\k21}DIDN'T {\k12}THINK
+Dialogue: 0,0:00:46.84,0:00:47.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}MUCH {\k10}OF {\k7}IT {\k16}BEYOND {\k21}THAT.
+Dialogue: 0,0:00:48.42,0:00:48.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHEN
+Dialogue: 0,0:00:48.60,0:00:49.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MY {\k20}DAUGHTER {\k21}WAS {\k24}BORN,
+Dialogue: 0,0:00:49.82,0:00:50.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k14}WENT {\k24}AHEAD {\k21}AND
+Dialogue: 0,0:00:50.50,0:00:51.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}USED {\k11}THE {\k12}NAME {\k15}I {\k10}HAD
+Dialogue: 0,0:00:51.17,0:00:51.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}BEEN {\k24}PLANNING {\k11}THE {\k20}ENTIRE
+Dialogue: 0,0:00:51.85,0:00:52.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}TIME.
+Dialogue: 0,0:00:52.60,0:00:53.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}IT
+Dialogue: 0,0:00:53.00,0:00:53.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}MEANT {\k18}A {\k7}LOT {\k15}TO {\k12}ME,
+Dialogue: 0,0:00:53.89,0:00:54.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}AND {\k6}I {\k13}HAD {\k20}ALREADY {\k28}SHARED
+Dialogue: 0,0:00:54.64,0:00:55.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IT, {\k16}PREPARED {\k17}FOR
+Dialogue: 0,0:00:55.24,0:00:55.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IT, {\k8}AND {\k19}EVEN
+Dialogue: 0,0:00:55.89,0:00:56.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HAD {\k53}PERSONALIZED
+Dialogue: 0,0:00:56.60,0:00:57.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ITEMS {\k30}MADE.
+Dialogue: 0,0:00:57.82,0:00:58.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}SINCE
+Dialogue: 0,0:00:58.06,0:00:58.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THEN, {\k7}MY {\k24}SISTER
+Dialogue: 0,0:00:58.84,0:00:59.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}HAS {\k20}BEEN {\k25}UPSET.
+Dialogue: 0,0:01:00.35,0:01:00.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SHE
+Dialogue: 0,0:01:00.53,0:01:01.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}KEEPS {\k25}BRINGING {\k17}UP
+Dialogue: 0,0:01:01.21,0:01:01.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HOW {\k25}SIMILAR {\k28}NAMES
+Dialogue: 0,0:01:01.92,0:01:02.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ARE {\k19}BETWEEN {\k22}ALL
+Dialogue: 0,0:01:02.52,0:01:03.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THREE {\k21}KIDS {\k20}AND
+Dialogue: 0,0:01:03.17,0:01:03.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SAYS {\k20}IT'S {\k33}CONFUSING.
+Dialogue: 0,0:01:04.57,0:01:04.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SHE
+Dialogue: 0,0:01:04.79,0:01:05.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}ALSO {\k17}MAKES {\k14}A {\k16}POINT
+Dialogue: 0,0:01:05.54,0:01:06.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k21}TELLING {\k31}PEOPLE
+Dialogue: 0,0:01:06.21,0:01:07.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THAT {\k9}HER {\k22}CHILDREN {\k13}WERE {\k20}BORN
+Dialogue: 0,0:01:07.01,0:01:07.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}FIRST,
+Dialogue: 0,0:01:07.73,0:01:08.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AS {\k12}IF {\k10}THAT {\k25}SETTLES {\k14}THE
+Dialogue: 0,0:01:08.43,0:01:08.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ISSUE.
+Dialogue: 0,0:01:09.29,0:01:09.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FROM
+Dialogue: 0,0:01:09.45,0:01:10.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k44}PERSPECTIVE,
+Dialogue: 0,0:01:10.40,0:01:11.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k23}DIDN'T {\k18}TAKE {\k31}ANYTHING
+Dialogue: 0,0:01:11.21,0:01:11.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}FROM {\k17}HER.
+Dialogue: 0,0:01:12.34,0:01:12.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}I
+Dialogue: 0,0:01:12.54,0:01:13.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HAD {\k15}BEEN {\k24}CLEAR {\k21}ABOUT
+Dialogue: 0,0:01:13.28,0:01:14.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k17}CHOICE {\k21}WELL {\k22}BEFORE
+Dialogue: 0,0:01:14.04,0:01:14.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k26}BABIES {\k15}WERE {\k28}BORN,
+Dialogue: 0,0:01:15.00,0:01:15.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AND {\k12}SHE {\k17}CHOSE {\k20}NOT {\k15}TO
+Dialogue: 0,0:01:15.73,0:01:16.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}SHARE {\k14}HER {\k28}PLANS.
+Dialogue: 0,0:01:16.87,0:01:17.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}IF
+Dialogue: 0,0:01:17.23,0:01:17.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k10}HAD {\k9}KNOWN {\k16}IN {\k23}ADVANCE,
+Dialogue: 0,0:01:18.40,0:01:19.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k35}PROBABLY {\k21}WOULD
+Dialogue: 0,0:01:19.06,0:01:19.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HAVE {\k50}RECONSIDERED
+Dialogue: 0,0:01:19.68,0:01:20.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}TO {\k17}AVOID {\k37}OVERLAP,
+Dialogue: 0,0:01:20.56,0:01:21.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}BUT {\k12}I {\k23}WASN'T {\k14}GIVEN {\k17}THAT
+Dialogue: 0,0:01:21.31,0:01:21.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}CHANCE.
+Dialogue: 0,0:01:22.37,0:01:22.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NOW
+Dialogue: 0,0:01:22.57,0:01:23.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I'M {\k32}CONSIDERING {\k29}WHETHER
+Dialogue: 0,0:01:23.34,0:01:24.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k14}SHOULD {\k26}REARRANGE {\k23}MY
+Dialogue: 0,0:01:24.07,0:01:24.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}DAUGHTER'S {\k10}NAME {\k17}JUST
+Dialogue: 0,0:01:24.71,0:01:25.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}TO {\k15}REDUCE {\k39}TENSION,
+Dialogue: 0,0:01:25.84,0:01:26.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}BUT {\k12}IT {\k15}FEELS {\k21}LIKE {\k21}GIVING
+Dialogue: 0,0:01:26.65,0:01:27.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IN {\k7}WHEN {\k12}I {\k21}DON'T
+Dialogue: 0,0:01:27.26,0:01:27.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THINK {\k14}I {\k7}DID {\k34}ANYTHING
+Dialogue: 0,0:01:27.98,0:01:28.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WRONG.
+Dialogue: 0,0:01:28.98,0:01:29.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}I'M
+Dialogue: 0,0:01:29.23,0:01:29.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HONESTLY {\k24}TORN {\k23}BETWEEN
+Dialogue: 0,0:01:29.92,0:01:30.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}WANTING {\k15}TO {\k12}KEEP {\k14}THE
+Dialogue: 0,0:01:30.64,0:01:31.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}PEACE {\k10}AND {\k23}FEELING {\k15}LIKE
+Dialogue: 0,0:01:31.31,0:01:32.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I {\k31}SHOULDN'T {\k10}HAVE {\k14}TO
+Dialogue: 0,0:01:32.04,0:01:32.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}CHANGE {\k34}SOMETHING {\k14}THAT
+Dialogue: 0,0:01:32.71,0:01:33.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WAS {\k17}ALREADY {\k34}DECIDED
+Dialogue: 0,0:01:33.35,0:01:33.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}LONG {\k28}BEFORE.
+Dialogue: 0,0:01:34.65,0:01:34.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}WAS
+Dialogue: 0,0:01:34.84,0:01:35.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k7}IN {\k10}THE {\k9}WRONG {\k14}FOR {\k20}STICKING
+Dialogue: 0,0:01:35.56,0:01:36.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WITH {\k9}THE {\k14}NAME {\k14}I {\k20}CHOSE?

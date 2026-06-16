@@ -1,0 +1,155 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.20,0:00:03.72,Default,,0,0,0,,{\an5}A FEW
+Dialogue: 0,0:00:03.72,0:00:04.40,Default,,0,0,0,,{\an5}WEEKS BEFORE THE
+Dialogue: 0,0:00:04.40,0:00:05.44,Default,,0,0,0,,{\an5}HOLIDAYS, MY
+Dialogue: 0,0:00:05.44,0:00:05.94,Default,,0,0,0,,{\an5}PARTNER AND
+Dialogue: 0,0:00:05.94,0:00:06.51,Default,,0,0,0,,{\an5}I DECIDED TO
+Dialogue: 0,0:00:06.51,0:00:07.05,Default,,0,0,0,,{\an5}SURPRISE OUR
+Dialogue: 0,0:00:07.05,0:00:07.70,Default,,0,0,0,,{\an5}ONLY CHILD WITH
+Dialogue: 0,0:00:07.70,0:00:08.24,Default,,0,0,0,,{\an5}SOMETHING BIG.
+Dialogue: 0,0:00:08.41,0:00:09.16,Default,,0,0,0,,{\an5}A TICKET
+Dialogue: 0,0:00:09.16,0:00:09.83,Default,,0,0,0,,{\an5}TO A LIVE SHOW
+Dialogue: 0,0:00:09.83,0:00:10.33,Default,,0,0,0,,{\an5}JUST BEFORE
+Dialogue: 0,0:00:10.33,0:00:10.90,Default,,0,0,0,,{\an5}THE NEW YEAR.
+Dialogue: 0,0:00:11.03,0:00:11.66,Default,,0,0,0,,{\an5}IT WASN'T
+Dialogue: 0,0:00:11.66,0:00:12.35,Default,,0,0,0,,{\an5}A CASUAL GIFT.
+Dialogue: 0,0:00:12.56,0:00:13.14,Default,,0,0,0,,{\an5}THE VENUE
+Dialogue: 0,0:00:13.14,0:00:13.80,Default,,0,0,0,,{\an5}IS SEVERAL HOURS
+Dialogue: 0,0:00:13.80,0:00:14.85,Default,,0,0,0,,{\an5}AWAY, REQUIRED
+Dialogue: 0,0:00:14.85,0:00:15.41,Default,,0,0,0,,{\an5}AN OVERNIGHT
+Dialogue: 0,0:00:15.41,0:00:16.32,Default,,0,0,0,,{\an5}STAY, TIME
+Dialogue: 0,0:00:16.32,0:00:17.17,Default,,0,0,0,,{\an5}OFF WORK, AND
+Dialogue: 0,0:00:17.17,0:00:17.80,Default,,0,0,0,,{\an5}CAREFUL PLANNING.
+Dialogue: 0,0:00:18.00,0:00:18.64,Default,,0,0,0,,{\an5}I WAS GOING
+Dialogue: 0,0:00:18.64,0:00:19.46,Default,,0,0,0,,{\an5}TOO, PARTLY
+Dialogue: 0,0:00:19.46,0:00:19.98,Default,,0,0,0,,{\an5}BECAUSE SHE'S
+Dialogue: 0,0:00:19.98,0:00:20.48,Default,,0,0,0,,{\an5}STILL YOUNG,
+Dialogue: 0,0:00:20.64,0:00:21.35,Default,,0,0,0,,{\an5}PARTLY BECAUSE
+Dialogue: 0,0:00:21.35,0:00:21.85,Default,,0,0,0,,{\an5}I GENUINELY
+Dialogue: 0,0:00:21.85,0:00:22.35,Default,,0,0,0,,{\an5}LOVE THE
+Dialogue: 0,0:00:22.35,0:00:23.23,Default,,0,0,0,,{\an5}ARTIST, AND
+Dialogue: 0,0:00:23.23,0:00:23.78,Default,,0,0,0,,{\an5}PARTLY BECAUSE
+Dialogue: 0,0:00:23.78,0:00:24.37,Default,,0,0,0,,{\an5}IT FELT LIKE
+Dialogue: 0,0:00:24.37,0:00:25.03,Default,,0,0,0,,{\an5}ONE OF THOSE RARE,
+Dialogue: 0,0:00:25.21,0:00:26.03,Default,,0,0,0,,{\an5}MEMORY-MAKING
+Dialogue: 0,0:00:26.03,0:00:26.66,Default,,0,0,0,,{\an5}MOMENTS PARENTS
+Dialogue: 0,0:00:26.66,0:00:27.21,Default,,0,0,0,,{\an5}HOPE FOR.
+Dialogue: 0,0:00:27.21,0:00:27.98,Default,,0,0,0,,{\an5}WE WRAPPED
+Dialogue: 0,0:00:27.98,0:00:28.94,Default,,0,0,0,,{\an5}THE CONFIRMATION NICELY
+Dialogue: 0,0:00:28.94,0:00:29.44,Default,,0,0,0,,{\an5}AND GAVE
+Dialogue: 0,0:00:29.44,0:00:30.01,Default,,0,0,0,,{\an5}IT TO HER EARLY
+Dialogue: 0,0:00:30.01,0:00:30.67,Default,,0,0,0,,{\an5}AND HER
+Dialogue: 0,0:00:30.67,0:00:31.32,Default,,0,0,0,,{\an5}REACTION WAS
+Dialogue: 0,0:00:31.32,0:00:32.35,Default,,0,0,0,,{\an5}PURE JOY NOT
+Dialogue: 0,0:00:32.35,0:00:32.93,Default,,0,0,0,,{\an5}LONG AFTER
+Dialogue: 0,0:00:32.93,0:00:33.82,Default,,0,0,0,,{\an5}MY PARTNER'S
+Dialogue: 0,0:00:33.82,0:00:34.38,Default,,0,0,0,,{\an5}SISTER CALLED
+Dialogue: 0,0:00:34.38,0:00:34.88,Default,,0,0,0,,{\an5}TO CHAT ABOUT
+Dialogue: 0,0:00:34.88,0:00:35.60,Default,,0,0,0,,{\an5}HOLIDAY PLANS
+Dialogue: 0,0:00:35.60,0:00:36.21,Default,,0,0,0,,{\an5}DURING
+Dialogue: 0,0:00:36.21,0:00:36.84,Default,,0,0,0,,{\an5}THE CONVERSATION
+Dialogue: 0,0:00:36.84,0:00:37.42,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:37.42,0:00:37.92,Default,,0,0,0,,{\an5}MENTIONED THE
+Dialogue: 0,0:00:37.92,0:00:38.74,Default,,0,0,0,,{\an5}CONCERT NOT
+Dialogue: 0,0:00:38.74,0:00:39.25,Default,,0,0,0,,{\an5}THINKING MUCH
+Dialogue: 0,0:00:39.25,0:00:39.96,Default,,0,0,0,,{\an5}OF IT THERE
+Dialogue: 0,0:00:39.96,0:00:40.71,Default,,0,0,0,,{\an5}WAS A LONG PAUSE
+Dialogue: 0,0:00:40.71,0:00:41.39,Default,,0,0,0,,{\an5}THEN
+Dialogue: 0,0:00:41.39,0:00:42.07,Default,,0,0,0,,{\an5}A QUIET COMMENT
+Dialogue: 0,0:00:42.07,0:00:42.64,Default,,0,0,0,,{\an5}ABOUT HOW HER
+Dialogue: 0,0:00:42.64,0:00:43.17,Default,,0,0,0,,{\an5}CHILD WOULD HAVE
+Dialogue: 0,0:00:43.17,0:00:43.84,Default,,0,0,0,,{\an5}LOVED SOMETHING LIKE
+Dialogue: 0,0:00:43.84,0:00:44.74,Default,,0,0,0,,{\an5}THAT SHE
+Dialogue: 0,0:00:44.74,0:00:45.46,Default,,0,0,0,,{\an5}ASKED QUESTIONS
+Dialogue: 0,0:00:45.46,0:00:46.10,Default,,0,0,0,,{\an5}WHERE
+Dialogue: 0,0:00:46.10,0:00:46.97,Default,,0,0,0,,{\an5}IT WAS WHEN
+Dialogue: 0,0:00:46.97,0:00:47.84,Default,,0,0,0,,{\an5}IT WAS HOW
+Dialogue: 0,0:00:47.84,0:00:48.39,Default,,0,0,0,,{\an5}EXCITING IT
+Dialogue: 0,0:00:48.39,0:00:49.14,Default,,0,0,0,,{\an5}SOUNDED AND
+Dialogue: 0,0:00:49.14,0:00:49.85,Default,,0,0,0,,{\an5}EVENTUALLY SAID
+Dialogue: 0,0:00:49.85,0:00:50.42,Default,,0,0,0,,{\an5}OUTRIGHT THAT
+Dialogue: 0,0:00:50.42,0:00:50.96,Default,,0,0,0,,{\an5}HER KID WOULD HAVE
+Dialogue: 0,0:00:50.96,0:00:51.57,Default,,0,0,0,,{\an5}BEEN OVER THE MOON
+Dialogue: 0,0:00:51.57,0:00:52.64,Default,,0,0,0,,{\an5}TO GO BY
+Dialogue: 0,0:00:52.64,0:00:53.32,Default,,0,0,0,,{\an5}THEN THE
+Dialogue: 0,0:00:53.32,0:00:54.03,Default,,0,0,0,,{\an5}TICKET WAS ALREADY
+Dialogue: 0,0:00:54.03,0:00:54.89,Default,,0,0,0,,{\an5}GIVEN THE
+Dialogue: 0,0:00:54.89,0:00:55.42,Default,,0,0,0,,{\an5}PLANS ALREADY
+Dialogue: 0,0:00:55.42,0:00:56.11,Default,,0,0,0,,{\an5}SET AND
+Dialogue: 0,0:00:56.11,0:00:56.71,Default,,0,0,0,,{\an5}MY HEART ALREADY
+Dialogue: 0,0:00:56.71,0:00:57.57,Default,,0,0,0,,{\an5}SINKING AFTER
+Dialogue: 0,0:00:57.57,0:00:58.17,Default,,0,0,0,,{\an5}WE HUNG
+Dialogue: 0,0:00:58.17,0:00:58.75,Default,,0,0,0,,{\an5}UP, THE
+Dialogue: 0,0:00:58.75,0:00:59.43,Default,,0,0,0,,{\an5}GUILT HIT HARD.
+Dialogue: 0,0:00:59.60,0:01:00.20,Default,,0,0,0,,{\an5}I CHECKED THE
+Dialogue: 0,0:01:00.20,0:01:00.74,Default,,0,0,0,,{\an5}WEBSITE AND
+Dialogue: 0,0:01:00.74,0:01:01.38,Default,,0,0,0,,{\an5}SAW THERE WERE STILL
+Dialogue: 0,0:01:01.38,0:01:02.00,Default,,0,0,0,,{\an5}TICKETS AVAILABLE,
+Dialogue: 0,0:01:02.25,0:01:02.88,Default,,0,0,0,,{\an5}BUT BUYING
+Dialogue: 0,0:01:02.88,0:01:03.38,Default,,0,0,0,,{\an5}ANOTHER ONE
+Dialogue: 0,0:01:03.38,0:01:04.20,Default,,0,0,0,,{\an5}WOULDN'T HAVE BEEN SIMPLE.
+Dialogue: 0,0:01:04.37,0:01:05.04,Default,,0,0,0,,{\an5}THAT WOULD MEAN
+Dialogue: 0,0:01:05.04,0:01:05.68,Default,,0,0,0,,{\an5}EXPLAINING WHY
+Dialogue: 0,0:01:05.68,0:01:06.20,Default,,0,0,0,,{\an5}ONLY ONE OF
+Dialogue: 0,0:01:06.20,0:01:06.76,Default,,0,0,0,,{\an5}THE OTHER CHILDREN
+Dialogue: 0,0:01:06.76,0:01:08.35,Default,,0,0,0,,{\an5}WAS INCLUDED. ARRANGING
+Dialogue: 0,0:01:08.35,0:01:09.07,Default,,0,0,0,,{\an5}EXTRA TRAVEL,
+Dialogue: 0,0:01:09.23,0:01:09.73,Default,,0,0,0,,{\an5}SUPERVISION,
+Dialogue: 0,0:01:10.12,0:01:10.76,Default,,0,0,0,,{\an5}AND EXPENSES
+Dialogue: 0,0:01:10.76,0:01:11.37,Default,,0,0,0,,{\an5}WE HADN'T
+Dialogue: 0,0:01:11.37,0:01:11.92,Default,,0,0,0,,{\an5}BUDGETED FOR,
+Dialogue: 0,0:01:12.07,0:01:12.79,Default,,0,0,0,,{\an5}AND QUIETLY
+Dialogue: 0,0:01:12.79,0:01:13.34,Default,,0,0,0,,{\an5}TURNING A
+Dialogue: 0,0:01:13.34,0:01:13.93,Default,,0,0,0,,{\an5}CAREFULLY PLANNED
+Dialogue: 0,0:01:13.93,0:01:14.43,Default,,0,0,0,,{\an5}PARENT-CHILD
+Dialogue: 0,0:01:14.43,0:01:15.31,Default,,0,0,0,,{\an5}EXPERIENCE INTO
+Dialogue: 0,0:01:15.31,0:01:15.93,Default,,0,0,0,,{\an5}SOMETHING COMPLETELY
+Dialogue: 0,0:01:15.93,0:01:16.37,Default,,0,0,0,,{\an5}DIFFERENT.
+Dialogue: 0,0:01:16.68,0:01:17.20,Default,,0,0,0,,{\an5}OUR
+Dialogue: 0,0:01:17.20,0:01:17.84,Default,,0,0,0,,{\an5}FAMILY CIRCUMSTANCES
+Dialogue: 0,0:01:17.84,0:01:18.45,Default,,0,0,0,,{\an5}AREN'T
+Dialogue: 0,0:01:18.45,0:01:19.50,Default,,0,0,0,,{\an5}THE SAME, FINANCIALLY
+Dialogue: 0,0:01:19.50,0:01:20.37,Default,,0,0,0,,{\an5}OR LOGISTICALLY,
+Dialogue: 0,0:01:20.65,0:01:21.34,Default,,0,0,0,,{\an5}AND THIS GIFT
+Dialogue: 0,0:01:21.34,0:01:21.95,Default,,0,0,0,,{\an5}WAS SOMETHING WE
+Dialogue: 0,0:01:21.95,0:01:22.59,Default,,0,0,0,,{\an5}CHOSE INTENTIONALLY
+Dialogue: 0,0:01:22.59,0:01:23.23,Default,,0,0,0,,{\an5}FOR OUR OWN
+Dialogue: 0,0:01:23.23,0:01:23.51,Default,,0,0,0,,{\an5}CHILD.
+Dialogue: 0,0:01:23.51,0:01:24.40,Default,,0,0,0,,{\an5}CHILD NOW
+Dialogue: 0,0:01:24.40,0:01:25.12,Default,,0,0,0,,{\an5}CHRISTMAS DINNER
+Dialogue: 0,0:01:25.12,0:01:26.20,Default,,0,0,0,,{\an5}IS APPROACHING AND
+Dialogue: 0,0:01:26.20,0:01:26.93,Default,,0,0,0,,{\an5}THE EXCITEMENT IN
+Dialogue: 0,0:01:26.93,0:01:27.54,Default,,0,0,0,,{\an5}MY HOUSE FEELS
+Dialogue: 0,0:01:27.54,0:01:28.07,Default,,0,0,0,,{\an5}TANGLED WITH
+Dialogue: 0,0:01:28.07,0:01:28.78,Default,,0,0,0,,{\an5}DREAD I
+Dialogue: 0,0:01:28.78,0:01:29.54,Default,,0,0,0,,{\an5}CAN ALREADY PICTURE
+Dialogue: 0,0:01:29.54,0:01:30.12,Default,,0,0,0,,{\an5}THE MOMENT WHEN
+Dialogue: 0,0:01:30.12,0:01:30.92,Default,,0,0,0,,{\an5}THE STORY COMES UP
+Dialogue: 0,0:01:30.92,0:01:31.73,Default,,0,0,0,,{\an5}THE COMPARISON
+Dialogue: 0,0:01:31.73,0:01:32.28,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:01:32.28,0:01:33.29,Default,,0,0,0,,{\an5}DISAPPOINTMENT I
+Dialogue: 0,0:01:33.29,0:01:33.85,Default,,0,0,0,,{\an5}DIDN'T MEAN TO
+Dialogue: 0,0:01:33.85,0:01:34.45,Default,,0,0,0,,{\an5}EXCLUDE ANYONE
+Dialogue: 0,0:01:34.45,0:01:35.04,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:01:35.04,0:01:35.59,Default,,0,0,0,,{\an5}I CAN'T UNDO
+Dialogue: 0,0:01:35.59,0:01:36.26,Default,,0,0,0,,{\an5}WHAT'S ALREADY BEEN
+Dialogue: 0,0:01:36.26,0:01:37.07,Default,,0,0,0,,{\an5}GIVEN WHAT
+Dialogue: 0,0:01:37.07,0:01:37.65,Default,,0,0,0,,{\an5}WAS SUPPOSED TO
+Dialogue: 0,0:01:37.65,0:01:38.45,Default,,0,0,0,,{\an5}BE A JOYFUL SURPRISE
+Dialogue: 0,0:01:38.45,0:01:39.04,Default,,0,0,0,,{\an5}NOW FEELS
+Dialogue: 0,0:01:39.04,0:01:39.65,Default,,0,0,0,,{\an5}LIKE A SILENT
+Dialogue: 0,0:01:39.65,0:01:40.54,Default,,0,0,0,,{\an5}HOLIDAY LANDMINE
+Dialogue: 0,0:01:40.54,0:01:41.09,Default,,0,0,0,,{\an5}WAITING TO GO
+Dialogue: 0,0:01:41.09,0:01:41.87,Default,,0,0,0,,{\an5}OFF

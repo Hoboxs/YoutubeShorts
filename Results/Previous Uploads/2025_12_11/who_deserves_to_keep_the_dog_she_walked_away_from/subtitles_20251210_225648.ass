@@ -1,0 +1,212 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.70,0:00:03.12,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:03.12,0:00:03.87,Default,,0,0,0,,{\an5}COUSIN, I'LL
+Dialogue: 0,0:00:03.87,0:00:04.41,Default,,0,0,0,,{\an5}CALL HER MARIN,
+Dialogue: 0,0:00:04.66,0:00:05.33,Default,,0,0,0,,{\an5}ADOPTED A
+Dialogue: 0,0:00:05.33,0:00:06.09,Default,,0,0,0,,{\an5}FLUFFY RETRIEVER
+Dialogue: 0,0:00:06.09,0:00:06.50,Default,,0,0,0,,{\an5}PUP LAST
+Dialogue: 0,0:00:06.50,0:00:07.01,Default,,0,0,0,,{\an5}YEAR AFTER
+Dialogue: 0,0:00:07.01,0:00:07.44,Default,,0,0,0,,{\an5}HER PARTNER
+Dialogue: 0,0:00:07.44,0:00:07.90,Default,,0,0,0,,{\an5}IN OSLO,
+Dialogue: 0,0:00:08.60,0:00:09.24,Default,,0,0,0,,{\an5}NORWAY CLAIMED
+Dialogue: 0,0:00:09.24,0:00:09.80,Default,,0,0,0,,{\an5}A DOG WOULD
+Dialogue: 0,0:00:09.80,0:00:10.35,Default,,0,0,0,,{\an5}HELP HER FEEL
+Dialogue: 0,0:00:10.35,0:00:10.69,Default,,0,0,0,,{\an5}CENTERED.
+Dialogue: 0,0:00:10.90,0:00:11.38,Default,,0,0,0,,{\an5}THEY BROKE
+Dialogue: 0,0:00:11.38,0:00:11.98,Default,,0,0,0,,{\an5}UP LESS THAN
+Dialogue: 0,0:00:11.98,0:00:12.35,Default,,0,0,0,,{\an5}FIVE DAYS
+Dialogue: 0,0:00:12.35,0:00:12.66,Default,,0,0,0,,{\an5}LATER.
+Dialogue: 0,0:00:12.90,0:00:13.30,Default,,0,0,0,,{\an5}ABOUT
+Dialogue: 0,0:00:13.30,0:00:13.88,Default,,0,0,0,,{\an5}SEVEN MONTHS
+Dialogue: 0,0:00:13.88,0:00:14.69,Default,,0,0,0,,{\an5}AGO, MARIN
+Dialogue: 0,0:00:14.69,0:00:15.17,Default,,0,0,0,,{\an5}CALLED ME
+Dialogue: 0,0:00:15.17,0:00:15.61,Default,,0,0,0,,{\an5}SOBBING,
+Dialogue: 0,0:00:15.67,0:00:16.28,Default,,0,0,0,,{\an5}SAYING SHE
+Dialogue: 0,0:00:16.28,0:00:16.69,Default,,0,0,0,,{\an5}NEEDED A
+Dialogue: 0,0:00:16.69,0:00:17.17,Default,,0,0,0,,{\an5}BRIEF PAUSE
+Dialogue: 0,0:00:17.17,0:00:17.64,Default,,0,0,0,,{\an5}FROM CARING
+Dialogue: 0,0:00:17.64,0:00:17.87,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:00:17.87,0:00:18.05,Default,,0,0,0,,{\an5}HIM.
+Dialogue: 0,0:00:18.19,0:00:18.89,Default,,0,0,0,,{\an5}SHE PROMISED
+Dialogue: 0,0:00:18.89,0:00:19.50,Default,,0,0,0,,{\an5}IT WOULD BE THREE
+Dialogue: 0,0:00:19.50,0:00:19.76,Default,,0,0,0,,{\an5}DAYS.
+Dialogue: 0,0:00:20.00,0:00:20.48,Default,,0,0,0,,{\an5}NO
+Dialogue: 0,0:00:20.48,0:00:20.66,Default,,0,0,0,,{\an5}MORE.
+Dialogue: 0,0:00:20.83,0:00:21.51,Default,,0,0,0,,{\an5}I'M 22,
+Dialogue: 0,0:00:21.87,0:00:22.32,Default,,0,0,0,,{\an5}JUGGLING
+Dialogue: 0,0:00:22.32,0:00:22.80,Default,,0,0,0,,{\an5}A MUSEUM
+Dialogue: 0,0:00:22.80,0:00:23.51,Default,,0,0,0,,{\an5}INTERNSHIP AND
+Dialogue: 0,0:00:23.51,0:00:24.03,Default,,0,0,0,,{\an5}EVENING CLASSES
+Dialogue: 0,0:00:24.03,0:00:24.30,Default,,0,0,0,,{\an5}IN
+Dialogue: 0,0:00:24.30,0:00:24.71,Default,,0,0,0,,{\an5}VALENCIA.
+Dialogue: 0,0:00:24.85,0:00:25.35,Default,,0,0,0,,{\an5}BUT I'VE
+Dialogue: 0,0:00:25.35,0:00:25.82,Default,,0,0,0,,{\an5}ALWAYS LOVED
+Dialogue: 0,0:00:25.82,0:00:26.16,Default,,0,0,0,,{\an5}ANIMALS.
+Dialogue: 0,0:00:26.42,0:00:26.87,Default,,0,0,0,,{\an5}SO
+Dialogue: 0,0:00:26.87,0:00:27.00,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:27.00,0:00:27.21,Default,,0,0,0,,{\an5}AGREED.
+Dialogue: 0,0:00:27.21,0:00:27.37,Default,,0,0,0,,{\an5}READ.
+Dialogue: 0,0:00:27.51,0:00:28.07,Default,,0,0,0,,{\an5}THOSE THREE
+Dialogue: 0,0:00:28.07,0:00:28.76,Default,,0,0,0,,{\an5}DAYS STRETCHED
+Dialogue: 0,0:00:28.76,0:00:29.21,Default,,0,0,0,,{\an5}INTO MORE
+Dialogue: 0,0:00:29.21,0:00:29.67,Default,,0,0,0,,{\an5}THAN HALF A
+Dialogue: 0,0:00:29.67,0:00:29.92,Default,,0,0,0,,{\an5}YEAR.
+Dialogue: 0,0:00:30.57,0:00:31.14,Default,,0,0,0,,{\an5}MARIN STOPPED
+Dialogue: 0,0:00:31.14,0:00:31.73,Default,,0,0,0,,{\an5}CHECKING IN
+Dialogue: 0,0:00:31.73,0:00:32.02,Default,,0,0,0,,{\an5}ENTIRELY.
+Dialogue: 0,0:00:32.32,0:00:32.96,Default,,0,0,0,,{\an5}SHE STOPPED
+Dialogue: 0,0:00:32.96,0:00:33.52,Default,,0,0,0,,{\an5}SENDING ANY
+Dialogue: 0,0:00:33.52,0:00:33.79,Default,,0,0,0,,{\an5}MONEY.
+Dialogue: 0,0:00:33.96,0:00:34.53,Default,,0,0,0,,{\an5}SHE EVEN
+Dialogue: 0,0:00:34.53,0:00:35.07,Default,,0,0,0,,{\an5}REMOVED ME
+Dialogue: 0,0:00:35.07,0:00:35.61,Default,,0,0,0,,{\an5}FROM HER SOCIAL
+Dialogue: 0,0:00:35.61,0:00:36.20,Default,,0,0,0,,{\an5}MEDIA WHILE
+Dialogue: 0,0:00:36.20,0:00:36.74,Default,,0,0,0,,{\an5}STILL POSTING
+Dialogue: 0,0:00:36.74,0:00:37.32,Default,,0,0,0,,{\an5}BEACH TRIPS,
+Dialogue: 0,0:00:37.60,0:00:38.34,Default,,0,0,0,,{\an5}ROOFTOP
+Dialogue: 0,0:00:38.34,0:00:38.82,Default,,0,0,0,,{\an5}PARTIES,
+Dialogue: 0,0:00:39.07,0:00:39.50,Default,,0,0,0,,{\an5}AND A
+Dialogue: 0,0:00:39.50,0:00:40.02,Default,,0,0,0,,{\an5}NEW ROMANCE
+Dialogue: 0,0:00:40.02,0:00:40.50,Default,,0,0,0,,{\an5}EVERY OTHER
+Dialogue: 0,0:00:40.50,0:00:40.85,Default,,0,0,0,,{\an5}WEEK.
+Dialogue: 0,0:00:41.02,0:00:41.52,Default,,0,0,0,,{\an5}MEANWHILE,
+Dialogue: 0,0:00:41.78,0:00:42.32,Default,,0,0,0,,{\an5}HER DOG,
+Dialogue: 0,0:00:42.53,0:00:43.10,Default,,0,0,0,,{\an5}A WARM,
+Dialogue: 0,0:00:43.21,0:00:43.88,Default,,0,0,0,,{\an5}HONEY -COLORED
+Dialogue: 0,0:00:43.88,0:00:44.35,Default,,0,0,0,,{\an5}RETRIEVER
+Dialogue: 0,0:00:44.35,0:00:44.78,Default,,0,0,0,,{\an5}WITH A GOOFY
+Dialogue: 0,0:00:44.78,0:00:45.75,Default,,0,0,0,,{\an5}GRIN, BECAME
+Dialogue: 0,0:00:45.75,0:00:46.28,Default,,0,0,0,,{\an5}PART OF MY
+Dialogue: 0,0:00:46.28,0:00:46.60,Default,,0,0,0,,{\an5}LIFE.
+Dialogue: 0,0:00:46.78,0:00:47.35,Default,,0,0,0,,{\an5}HE CURLS
+Dialogue: 0,0:00:47.35,0:00:47.96,Default,,0,0,0,,{\an5}UP AGAINST MY
+Dialogue: 0,0:00:47.96,0:00:48.43,Default,,0,0,0,,{\an5}LEGS EVERY
+Dialogue: 0,0:00:48.43,0:00:49.29,Default,,0,0,0,,{\an5}NIGHT, TROTS
+Dialogue: 0,0:00:49.29,0:00:49.84,Default,,0,0,0,,{\an5}BEHIND ME
+Dialogue: 0,0:00:49.84,0:00:50.32,Default,,0,0,0,,{\an5}FROM ROOM TO
+Dialogue: 0,0:00:50.32,0:00:51.03,Default,,0,0,0,,{\an5}ROOM, AND
+Dialogue: 0,0:00:51.03,0:00:51.57,Default,,0,0,0,,{\an5}PLAYS GENTLY
+Dialogue: 0,0:00:51.57,0:00:52.11,Default,,0,0,0,,{\an5}WITH MY TWO
+Dialogue: 0,0:00:52.11,0:00:52.65,Default,,0,0,0,,{\an5}OLDER CATS
+Dialogue: 0,0:00:52.65,0:00:53.06,Default,,0,0,0,,{\an5}LIKE HE'S
+Dialogue: 0,0:00:53.06,0:00:53.52,Default,,0,0,0,,{\an5}ALWAYS BELONG
+Dialogue: 0,0:00:53.52,0:00:54.64,Default,,0,0,0,,{\an5}HERE I'VE
+Dialogue: 0,0:00:54.64,0:00:55.25,Default,,0,0,0,,{\an5}COVERED EVERYTHING
+Dialogue: 0,0:00:55.25,0:00:55.96,Default,,0,0,0,,{\an5}VETS
+Dialogue: 0,0:00:55.96,0:00:56.46,Default,,0,0,0,,{\an5}FOOD
+Dialogue: 0,0:00:56.46,0:00:57.15,Default,,0,0,0,,{\an5}GROOMING
+Dialogue: 0,0:00:57.15,0:00:57.78,Default,,0,0,0,,{\an5}TRAINING
+Dialogue: 0,0:00:57.78,0:00:58.60,Default,,0,0,0,,{\an5}GEAR EASILY
+Dialogue: 0,0:00:58.60,0:00:59.25,Default,,0,0,0,,{\an5}OVER 900
+Dialogue: 0,0:00:59.25,0:00:59.67,Default,,0,0,0,,{\an5}EUROS
+Dialogue: 0,0:00:59.67,0:01:00.11,Default,,0,0,0,,{\an5}BY NOW
+Dialogue: 0,0:01:00.11,0:01:00.74,Default,,0,0,0,,{\an5}THEN
+Dialogue: 0,0:01:00.74,0:01:01.15,Default,,0,0,0,,{\an5}TWO DAYS
+Dialogue: 0,0:01:01.15,0:01:01.84,Default,,0,0,0,,{\an5}AGO SHE
+Dialogue: 0,0:01:01.84,0:01:02.75,Default,,0,0,0,,{\an5}SUDDENLY REAPPEARED
+Dialogue: 0,0:01:02.75,0:01:03.24,Default,,0,0,0,,{\an5}WITH A CHEERFUL
+Dialogue: 0,0:01:03.24,0:01:03.88,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:01:03.88,0:01:04.45,Default,,0,0,0,,{\an5}FINALLY FEELING
+Dialogue: 0,0:01:04.45,0:01:05.14,Default,,0,0,0,,{\an5}BALANCED AGAIN
+Dialogue: 0,0:01:05.14,0:01:05.78,Default,,0,0,0,,{\an5}CAN
+Dialogue: 0,0:01:05.78,0:01:06.21,Default,,0,0,0,,{\an5}YOU BRING MY
+Dialogue: 0,0:01:06.21,0:01:06.79,Default,,0,0,0,,{\an5}DOG BACK THIS
+Dialogue: 0,0:01:06.79,0:01:07.73,Default,,0,0,0,,{\an5}WEEKEND AS
+Dialogue: 0,0:01:07.73,0:01:08.23,Default,,0,0,0,,{\an5}IF SHE HADN'T
+Dialogue: 0,0:01:08.23,0:01:08.73,Default,,0,0,0,,{\an5}VANISHED FOR
+Dialogue: 0,0:01:08.73,0:01:09.20,Default,,0,0,0,,{\an5}HALF A YEAR
+Dialogue: 0,0:01:09.20,0:01:09.76,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:09.76,0:01:10.23,Default,,0,0,0,,{\an5}TOLD HER I
+Dialogue: 0,0:01:10.23,0:01:10.78,Default,,0,0,0,,{\an5}WAS GLAD SHE
+Dialogue: 0,0:01:10.78,0:01:11.35,Default,,0,0,0,,{\an5}WAS DOING BETTER
+Dialogue: 0,0:01:11.35,0:01:11.90,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:01:11.90,0:01:12.40,Default,,0,0,0,,{\an5}SHE HAD WALKED
+Dialogue: 0,0:01:12.40,0:01:12.84,Default,,0,0,0,,{\an5}AWAY FROM
+Dialogue: 0,0:01:12.84,0:01:13.50,Default,,0,0,0,,{\an5}HIM FOR MONTHS
+Dialogue: 0,0:01:13.50,0:01:14.01,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:14.01,0:01:14.45,Default,,0,0,0,,{\an5}TAKING HIM
+Dialogue: 0,0:01:14.45,0:01:14.93,Default,,0,0,0,,{\an5}FROM A STEADY
+Dialogue: 0,0:01:14.93,0:01:15.42,Default,,0,0,0,,{\an5}HOME NOW
+Dialogue: 0,0:01:15.42,0:01:15.93,Default,,0,0,0,,{\an5}WOULD BE DEEPLY
+Dialogue: 0,0:01:15.93,0:01:17.28,Default,,0,0,0,,{\an5}UNFAIR THAT'S
+Dialogue: 0,0:01:17.28,0:01:18.00,Default,,0,0,0,,{\an5}WHEN SHE ERUPTED
+Dialogue: 0,0:01:18.00,0:01:18.43,Default,,0,0,0,,{\an5}LONG
+Dialogue: 0,0:01:18.43,0:01:18.92,Default,,0,0,0,,{\an5}MESSAGES
+Dialogue: 0,0:01:18.92,0:01:19.56,Default,,0,0,0,,{\an5}ACCUSING ME
+Dialogue: 0,0:01:19.56,0:01:19.98,Default,,0,0,0,,{\an5}OF DESTROYING
+Dialogue: 0,0:01:19.98,0:01:20.56,Default,,0,0,0,,{\an5}THROWING HER LIFE,
+Dialogue: 0,0:01:20.65,0:01:21.09,Default,,0,0,0,,{\an5}CLAIMING I
+Dialogue: 0,0:01:21.09,0:01:21.54,Default,,0,0,0,,{\an5}STOLE HER
+Dialogue: 0,0:01:21.54,0:01:22.26,Default,,0,0,0,,{\an5}COMPANION, AND
+Dialogue: 0,0:01:22.26,0:01:23.20,Default,,0,0,0,,{\an5}THREATENING
+Dialogue: 0,0:01:23.20,0:01:23.62,Default,,0,0,0,,{\an5}TO INVOLVE
+Dialogue: 0,0:01:23.62,0:01:24.01,Default,,0,0,0,,{\an5}AUTHORITIES.
+Dialogue: 0,0:01:24.42,0:01:25.00,Default,,0,0,0,,{\an5}MY MOTHER
+Dialogue: 0,0:01:25.00,0:01:25.57,Default,,0,0,0,,{\an5}TOOK HER SIDE,
+Dialogue: 0,0:01:25.81,0:01:26.54,Default,,0,0,0,,{\an5}INSISTING
+Dialogue: 0,0:01:26.54,0:01:26.95,Default,,0,0,0,,{\an5}THAT FAMILY
+Dialogue: 0,0:01:26.95,0:01:27.51,Default,,0,0,0,,{\an5}SHOULD COOPERATE,
+Dialogue: 0,0:01:27.81,0:01:28.28,Default,,0,0,0,,{\an5}BUT MY AUNT
+Dialogue: 0,0:01:28.28,0:01:28.87,Default,,0,0,0,,{\an5}QUIETLY TOLD
+Dialogue: 0,0:01:28.87,0:01:29.31,Default,,0,0,0,,{\an5}ME SHE WAS
+Dialogue: 0,0:01:29.31,0:01:29.79,Default,,0,0,0,,{\an5}PROUD OF ME
+Dialogue: 0,0:01:29.79,0:01:30.78,Default,,0,0,0,,{\an5}FOR GIVING
+Dialogue: 0,0:01:30.78,0:01:31.20,Default,,0,0,0,,{\an5}THE DOG
+Dialogue: 0,0:01:31.20,0:01:31.98,Default,,0,0,0,,{\an5}THE STABILITY MARIN
+Dialogue: 0,0:01:31.98,0:01:32.31,Default,,0,0,0,,{\an5}NEVER
+Dialogue: 0,0:01:32.31,0:01:32.71,Default,,0,0,0,,{\an5}MANAGED.
+Dialogue: 0,0:01:32.93,0:01:33.34,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:33.34,0:01:33.81,Default,,0,0,0,,{\an5}TOLD MARIN
+Dialogue: 0,0:01:33.81,0:01:34.26,Default,,0,0,0,,{\an5}THAT IF SHE
+Dialogue: 0,0:01:34.26,0:01:34.81,Default,,0,0,0,,{\an5}TRULY INTENDED
+Dialogue: 0,0:01:34.81,0:01:35.23,Default,,0,0,0,,{\an5}TO TAKE
+Dialogue: 0,0:01:35.23,0:01:35.64,Default,,0,0,0,,{\an5}HIM BACK,
+Dialogue: 0,0:01:35.78,0:01:36.35,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:36.35,0:01:36.79,Default,,0,0,0,,{\an5}NEEDED TO
+Dialogue: 0,0:01:36.79,0:01:37.34,Default,,0,0,0,,{\an5}REIMBURSE THE
+Dialogue: 0,0:01:37.34,0:01:37.78,Default,,0,0,0,,{\an5}MONEY I'D
+Dialogue: 0,0:01:37.78,0:01:38.20,Default,,0,0,0,,{\an5}SPENT AND
+Dialogue: 0,0:01:38.20,0:01:38.65,Default,,0,0,0,,{\an5}SIGN A CLEAR
+Dialogue: 0,0:01:38.65,0:01:39.31,Default,,0,0,0,,{\an5}AGREEMENT ACCEPTING
+Dialogue: 0,0:01:39.31,0:01:40.57,Default,,0,0,0,,{\an5}FULL ONGOING
+Dialogue: 0,0:01:40.57,0:01:41.07,Default,,0,0,0,,{\an5}RESPONSIBILITY.
+Dialogue: 0,0:01:41.51,0:01:42.00,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:42.00,0:01:42.79,Default,,0,0,0,,{\an5}REFUSED IMMEDIATELY,
+Dialogue: 0,0:01:43.12,0:01:43.68,Default,,0,0,0,,{\an5}TELLING ME
+Dialogue: 0,0:01:43.68,0:01:44.26,Default,,0,0,0,,{\an5}TO STAY GONE
+Dialogue: 0,0:01:44.26,0:01:45.01,Default,,0,0,0,,{\an5}FOREVER, AND
+Dialogue: 0,0:01:45.01,0:01:45.54,Default,,0,0,0,,{\an5}IS NOW TELLING
+Dialogue: 0,0:01:45.54,0:01:46.20,Default,,0,0,0,,{\an5}RELATIVES I
+Dialogue: 0,0:01:46.20,0:01:46.73,Default,,0,0,0,,{\an5}SNATCHED HER
+Dialogue: 0,0:01:46.73,0:01:47.28,Default,,0,0,0,,{\an5}DOG, EVEN
+Dialogue: 0,0:01:47.28,0:01:48.37,Default,,0,0,0,,{\an5}THOUGH HE'S
+Dialogue: 0,0:01:48.37,0:01:48.92,Default,,0,0,0,,{\an5}CURRENTLY ASLEEP
+Dialogue: 0,0:01:48.92,0:01:49.35,Default,,0,0,0,,{\an5}WITH HIS
+Dialogue: 0,0:01:49.35,0:01:49.78,Default,,0,0,0,,{\an5}HEAD ON MY
+Dialogue: 0,0:01:49.78,0:01:50.64,Default,,0,0,0,,{\an5}KNEE, SAFE
+Dialogue: 0,0:01:50.64,0:01:51.18,Default,,0,0,0,,{\an5}AND TRUSTING,
+Dialogue: 0,0:01:51.31,0:01:51.78,Default,,0,0,0,,{\an5}WAS I
+Dialogue: 0,0:01:51.78,0:01:52.29,Default,,0,0,0,,{\an5}WRONG TO KEEP
+Dialogue: 0,0:01:52.29,0:01:52.79,Default,,0,0,0,,{\an5}CARING FOR
+Dialogue: 0,0:01:52.79,0:01:53.23,Default,,0,0,0,,{\an5}THE DOG SHE
+Dialogue: 0,0:01:53.23,0:01:53.57,Default,,0,0,0,,{\an5}ABANDONED?
+Dialogue: 0,0:01:53.79,0:01:54.21,Default,,0,0,0,,{\an5}OR IS
+Dialogue: 0,0:01:54.21,0:01:54.68,Default,,0,0,0,,{\an5}SHE FURIOUS
+Dialogue: 0,0:01:54.68,0:01:55.23,Default,,0,0,0,,{\an5}ONLY BECAUSE
+Dialogue: 0,0:01:55.23,0:01:55.73,Default,,0,0,0,,{\an5}SHE SUDDENLY
+Dialogue: 0,0:01:55.73,0:01:56.31,Default,,0,0,0,,{\an5}WANTS SOMETHING
+Dialogue: 0,0:01:56.31,0:01:56.78,Default,,0,0,0,,{\an5}SHE DIDN'T
+Dialogue: 0,0:01:56.78,0:01:57.09,Default,,0,0,0,,{\an5}BOTHER TO
+Dialogue: 0,0:01:57.09,0:01:57.28,Default,,0,0,0,,{\an5}KEEP?

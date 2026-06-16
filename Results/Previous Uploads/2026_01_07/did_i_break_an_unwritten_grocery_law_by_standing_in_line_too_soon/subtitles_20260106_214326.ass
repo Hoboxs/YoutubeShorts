@@ -1,0 +1,186 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.66,0:00:04.24,Default,,0,0,0,,{\an5}I WAS
+Dialogue: 0,0:00:04.24,0:00:04.74,Default,,0,0,0,,{\an5}AT A CROWDED
+Dialogue: 0,0:00:04.74,0:00:05.25,Default,,0,0,0,,{\an5}SUPERMARKET
+Dialogue: 0,0:00:05.25,0:00:05.94,Default,,0,0,0,,{\an5}I'LL CALL FRESH
+Dialogue: 0,0:00:05.94,0:00:06.54,Default,,0,0,0,,{\an5}MEADOW MARKET,
+Dialogue: 0,0:00:06.71,0:00:07.24,Default,,0,0,0,,{\an5}ONE OF
+Dialogue: 0,0:00:07.24,0:00:07.75,Default,,0,0,0,,{\an5}THOSE BIG-NAME
+Dialogue: 0,0:00:07.75,0:00:08.33,Default,,0,0,0,,{\an5}CHAINS THAT
+Dialogue: 0,0:00:08.33,0:00:08.98,Default,,0,0,0,,{\an5}FEELS A LOT LIKE
+Dialogue: 0,0:00:08.98,0:00:09.56,Default,,0,0,0,,{\an5}EVERY OTHER ONE.
+Dialogue: 0,0:00:09.85,0:00:10.48,Default,,0,0,0,,{\an5}WHEN THIS
+Dialogue: 0,0:00:10.48,0:00:11.27,Default,,0,0,0,,{\an5}SURPRISINGLY DRAMATIC
+Dialogue: 0,0:00:11.27,0:00:11.77,Default,,0,0,0,,{\an5}SITUATION
+Dialogue: 0,0:00:11.77,0:00:12.58,Default,,0,0,0,,{\an5}UNFOLDED,
+Dialogue: 0,0:00:12.67,0:00:13.38,Default,,0,0,0,,{\an5}I WAS SHOPPING
+Dialogue: 0,0:00:13.38,0:00:13.96,Default,,0,0,0,,{\an5}WITH TWO CLOSE
+Dialogue: 0,0:00:13.96,0:00:14.58,Default,,0,0,0,,{\an5}RELATIVES WHO
+Dialogue: 0,0:00:14.58,0:00:15.09,Default,,0,0,0,,{\an5}HELPED TAKE CARE
+Dialogue: 0,0:00:15.09,0:00:16.10,Default,,0,0,0,,{\an5}OF ME. AND
+Dialogue: 0,0:00:16.10,0:00:16.62,Default,,0,0,0,,{\an5}THE STORE WAS
+Dialogue: 0,0:00:16.62,0:00:17.39,Default,,0,0,0,,{\an5}ABSOLUTE CHAOS.
+Dialogue: 0,0:00:17.73,0:00:18.46,Default,,0,0,0,,{\an5}EVERY CHECKOUT
+Dialogue: 0,0:00:18.46,0:00:19.01,Default,,0,0,0,,{\an5}LANE BACKED
+Dialogue: 0,0:00:19.01,0:00:19.28,Default,,0,0,0,,{\an5}UP.
+Dialogue: 0,0:00:19.48,0:00:20.26,Default,,0,0,0,,{\an5}CARTS WEDGED
+Dialogue: 0,0:00:20.26,0:00:20.78,Default,,0,0,0,,{\an5}AT ODD ANGLES.
+Dialogue: 0,0:00:21.10,0:00:21.94,Default,,0,0,0,,{\an5}PEOPLE SIGHING
+Dialogue: 0,0:00:21.94,0:00:22.46,Default,,0,0,0,,{\an5}LOUDLY LIKE
+Dialogue: 0,0:00:22.46,0:00:23.12,Default,,0,0,0,,{\an5}IT WAS A COMPETITIVE
+Dialogue: 0,0:00:23.12,0:00:23.46,Default,,0,0,0,,{\an5}SPORT.
+Dialogue: 0,0:00:23.69,0:00:24.32,Default,,0,0,0,,{\an5}SEEING HOW
+Dialogue: 0,0:00:24.32,0:00:24.87,Default,,0,0,0,,{\an5}BAD THE LINES
+Dialogue: 0,0:00:24.87,0:00:25.64,Default,,0,0,0,,{\an5}WERE, THEY
+Dialogue: 0,0:00:25.64,0:00:26.35,Default,,0,0,0,,{\an5}ASKED ME TO STAND
+Dialogue: 0,0:00:26.35,0:00:27.05,Default,,0,0,0,,{\an5}IN ONE OF THE SHORTER
+Dialogue: 0,0:00:27.05,0:00:27.55,Default,,0,0,0,,{\an5}ONES WHILE
+Dialogue: 0,0:00:27.55,0:00:28.12,Default,,0,0,0,,{\an5}THEY RUSHED BACK
+Dialogue: 0,0:00:28.12,0:00:28.76,Default,,0,0,0,,{\an5}TO GRAB THE SINGLE
+Dialogue: 0,0:00:28.76,0:00:29.01,Default,,0,0,0,,{\an5}THING.
+Dialogue: 0,0:00:29.01,0:00:29.62,Default,,0,0,0,,{\an5}THING.
+Dialogue: 0,0:00:29.62,0:00:30.19,Default,,0,0,0,,{\an5}WE'D FORGOTTEN.
+Dialogue: 0,0:00:30.46,0:00:31.16,Default,,0,0,0,,{\an5}THIS IS SOMETHING
+Dialogue: 0,0:00:31.16,0:00:31.85,Default,,0,0,0,,{\an5}WE'VE DONE BEFORE
+Dialogue: 0,0:00:31.85,0:00:32.38,Default,,0,0,0,,{\an5}WITHOUT ISSUE,
+Dialogue: 0,0:00:32.53,0:00:33.07,Default,,0,0,0,,{\an5}AND I'VE
+Dialogue: 0,0:00:33.07,0:00:33.61,Default,,0,0,0,,{\an5}ALWAYS HANDLED
+Dialogue: 0,0:00:33.61,0:00:34.28,Default,,0,0,0,,{\an5}IT THE SAME WAY.
+Dialogue: 0,0:00:34.46,0:00:35.15,Default,,0,0,0,,{\an5}IF IT SOMEHOW
+Dialogue: 0,0:00:35.15,0:00:35.75,Default,,0,0,0,,{\an5}BECOMES MY
+Dialogue: 0,0:00:35.75,0:00:36.29,Default,,0,0,0,,{\an5}TURN AND THEY'RE
+Dialogue: 0,0:00:36.29,0:00:36.88,Default,,0,0,0,,{\an5}NOT BACK YET,
+Dialogue: 0,0:00:37.00,0:00:37.79,Default,,0,0,0,,{\an5}I STEP ASIDE
+Dialogue: 0,0:00:37.79,0:00:38.29,Default,,0,0,0,,{\an5}AND LET THE
+Dialogue: 0,0:00:38.29,0:00:38.84,Default,,0,0,0,,{\an5}NEXT SHOPPER
+Dialogue: 0,0:00:38.84,0:00:39.52,Default,,0,0,0,,{\an5}GO SO I DON'T
+Dialogue: 0,0:00:39.52,0:00:40.21,Default,,0,0,0,,{\an5}SLOW ANYTHING DOWN
+Dialogue: 0,0:00:40.21,0:00:40.75,Default,,0,0,0,,{\an5}OR HOLD ANYONE
+Dialogue: 0,0:00:40.75,0:00:41.47,Default,,0,0,0,,{\an5}HOSTAGE WITH
+Dialogue: 0,0:00:41.47,0:00:42.11,Default,,0,0,0,,{\an5}AN
+Dialogue: 0,0:00:42.11,0:00:42.64,Default,,0,0,0,,{\an5}EMPTY CART.
+Dialogue: 0,0:00:42.85,0:00:43.39,Default,,0,0,0,,{\an5}WHILE I WAS
+Dialogue: 0,0:00:43.39,0:00:44.15,Default,,0,0,0,,{\an5}WAITING THERE QUIETLY,
+Dialogue: 0,0:00:44.43,0:00:44.93,Default,,0,0,0,,{\an5}HOLDING
+Dialogue: 0,0:00:44.93,0:00:45.50,Default,,0,0,0,,{\an5}NOTHING AND
+Dialogue: 0,0:00:45.50,0:00:46.28,Default,,0,0,0,,{\an5}BOTHERING NO ONE,
+Dialogue: 0,0:00:46.34,0:00:46.85,Default,,0,0,0,,{\an5}THE MAN
+Dialogue: 0,0:00:46.85,0:00:47.38,Default,,0,0,0,,{\an5}BEHIND ME
+Dialogue: 0,0:00:47.38,0:00:47.96,Default,,0,0,0,,{\an5}SUDDENLY LOST
+Dialogue: 0,0:00:47.96,0:00:48.24,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:00:48.35,0:00:48.97,Default,,0,0,0,,{\an5}HE ACCUSED
+Dialogue: 0,0:00:48.97,0:00:49.74,Default,,0,0,0,,{\an5}ME, LOUDLY,
+Dialogue: 0,0:00:50.00,0:00:50.79,Default,,0,0,0,,{\an5}OF BEING RUDE,
+Dialogue: 0,0:00:50.93,0:00:52.20,Default,,0,0,0,,{\an5}DISRESPECTFUL, AND
+Dialogue: 0,0:00:52.20,0:00:52.93,Default,,0,0,0,,{\an5}CUTTING THE LINE,
+Dialogue: 0,0:00:53.03,0:00:53.60,Default,,0,0,0,,{\an5}INSISTING
+Dialogue: 0,0:00:53.60,0:00:54.21,Default,,0,0,0,,{\an5}THAT YOU'RE ONLY ALLOWED
+Dialogue: 0,0:00:54.21,0:00:54.74,Default,,0,0,0,,{\an5}TO QUEUE UP
+Dialogue: 0,0:00:54.74,0:00:55.43,Default,,0,0,0,,{\an5}AFTER EVERY SINGLE
+Dialogue: 0,0:00:55.43,0:00:56.00,Default,,0,0,0,,{\an5}ITEM IS
+Dialogue: 0,0:00:56.00,0:00:56.85,Default,,0,0,0,,{\an5}ALREADY
+Dialogue: 0,0:00:56.85,0:00:57.52,Default,,0,0,0,,{\an5}IN YOUR POSSESSION.
+Dialogue: 0,0:00:57.84,0:00:58.42,Default,,0,0,0,,{\an5}HE DIDN'T
+Dialogue: 0,0:00:58.42,0:00:58.92,Default,,0,0,0,,{\an5}EXPLAIN WHY
+Dialogue: 0,0:00:58.92,0:00:59.57,Default,,0,0,0,,{\an5}THIS WAS APPARENTLY
+Dialogue: 0,0:00:59.57,0:01:00.34,Default,,0,0,0,,{\an5}A SACRED RULE.
+Dialogue: 0,0:01:00.52,0:01:01.11,Default,,0,0,0,,{\an5}JUST SPOKE
+Dialogue: 0,0:01:01.11,0:01:01.78,Default,,0,0,0,,{\an5}WITH THE CONFIDENCE
+Dialogue: 0,0:01:01.78,0:01:02.60,Default,,0,0,0,,{\an5}OF SOMEONE DELIVERING
+Dialogue: 0,0:01:02.60,0:01:03.29,Default,,0,0,0,,{\an5}A MORAL VERDICT.
+Dialogue: 0,0:01:03.53,0:01:04.07,Default,,0,0,0,,{\an5}THE TENSION
+Dialogue: 0,0:01:04.07,0:01:04.95,Default,,0,0,0,,{\an5}FELT ABSURDLY
+Dialogue: 0,0:01:04.95,0:01:05.15,Default,,0,0,0,,{\an5}HIGH.
+Dialogue: 0,0:01:05.31,0:01:05.87,Default,,0,0,0,,{\an5}LIKE I'D
+Dialogue: 0,0:01:05.87,0:01:06.50,Default,,0,0,0,,{\an5}VIOLATED SOME
+Dialogue: 0,0:01:06.50,0:01:07.01,Default,,0,0,0,,{\an5}ANCIENT GROCERY
+Dialogue: 0,0:01:07.01,0:01:07.64,Default,,0,0,0,,{\an5}CODE RATHER
+Dialogue: 0,0:01:07.64,0:01:08.31,Default,,0,0,0,,{\an5}THAN JUST STANDING
+Dialogue: 0,0:01:08.31,0:01:09.00,Default,,0,0,0,,{\an5}STILL IN A PUBLIC
+Dialogue: 0,0:01:09.00,0:01:09.29,Default,,0,0,0,,{\an5}SPACE.
+Dialogue: 0,0:01:09.73,0:01:10.31,Default,,0,0,0,,{\an5}THERE ARE
+Dialogue: 0,0:01:10.31,0:01:11.06,Default,,0,0,0,,{\an5}NO POSTED RULES
+Dialogue: 0,0:01:11.06,0:01:11.79,Default,,0,0,0,,{\an5}AT FRESH MEADOW
+Dialogue: 0,0:01:11.79,0:01:12.29,Default,,0,0,0,,{\an5}MARKET ABOUT
+Dialogue: 0,0:01:12.29,0:01:12.62,Default,,0,0,0,,{\an5}THIS.
+Dialogue: 0,0:01:12.78,0:01:13.56,Default,,0,0,0,,{\an5}AND I WASN'T
+Dialogue: 0,0:01:13.56,0:01:14.48,Default,,0,0,0,,{\an5}BLOCKING THE CASHIER
+Dialogue: 0,0:01:14.48,0:01:15.09,Default,,0,0,0,,{\an5}OR PREVENTING THE
+Dialogue: 0,0:01:15.09,0:01:15.70,Default,,0,0,0,,{\an5}LINE FROM MOVING.
+Dialogue: 0,0:01:16.06,0:01:16.64,Default,,0,0,0,,{\an5}YET HE
+Dialogue: 0,0:01:16.64,0:01:17.26,Default,,0,0,0,,{\an5}ACTED LIKE I'D
+Dialogue: 0,0:01:17.26,0:01:18.26,Default,,0,0,0,,{\an5}PERSONALLY SABOTAGED
+Dialogue: 0,0:01:18.26,0:01:19.15,Default,,0,0,0,,{\an5}HIS ENTIRE AFTERNOON.
+Dialogue: 0,0:01:19.40,0:01:19.95,Default,,0,0,0,,{\an5}TO MAKE
+Dialogue: 0,0:01:19.95,0:01:20.45,Default,,0,0,0,,{\an5}MATTERS MORE
+Dialogue: 0,0:01:20.45,0:01:20.73,Default,,0,0,0,,{\an5}INTENSE.
+Dialogue: 0,0:01:21.12,0:01:21.84,Default,,0,0,0,,{\an5}MY RELATIVES
+Dialogue: 0,0:01:21.84,0:01:22.45,Default,,0,0,0,,{\an5}WEREN'T WANDERING
+Dialogue: 0,0:01:22.45,0:01:23.15,Default,,0,0,0,,{\an5}AIMLESSLY OR
+Dialogue: 0,0:01:23.15,0:01:23.70,Default,,0,0,0,,{\an5}ADDING A DOZEN
+Dialogue: 0,0:01:23.70,0:01:24.21,Default,,0,0,0,,{\an5}THINGS TO THE
+Dialogue: 0,0:01:24.21,0:01:24.45,Default,,0,0,0,,{\an5}CART.
+Dialogue: 0,0:01:24.70,0:01:25.29,Default,,0,0,0,,{\an5}THEY HAD
+Dialogue: 0,0:01:25.29,0:01:25.93,Default,,0,0,0,,{\an5}GONE STRAIGHT TO
+Dialogue: 0,0:01:25.93,0:01:26.65,Default,,0,0,0,,{\an5}THE PET AISLE TO
+Dialogue: 0,0:01:26.65,0:01:27.18,Default,,0,0,0,,{\an5}GRAB A MASSIVE
+Dialogue: 0,0:01:27.18,0:01:27.92,Default,,0,0,0,,{\an5}BAG OF CANINE
+Dialogue: 0,0:01:27.92,0:01:28.50,Default,,0,0,0,,{\an5}HARVEST PRIME
+Dialogue: 0,0:01:28.50,0:01:29.23,Default,,0,0,0,,{\an5}BLEND DOG FOOD
+Dialogue: 0,0:01:29.23,0:01:29.95,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:29.95,0:01:30.64,Default,,0,0,0,,{\an5}A SMALLER POUCH
+Dialogue: 0,0:01:30.64,0:01:31.18,Default,,0,0,0,,{\an5}OF UP JOY
+Dialogue: 0,0:01:31.18,0:01:31.90,Default,,0,0,0,,{\an5}VARIETY BITES
+Dialogue: 0,0:01:31.90,0:01:32.56,Default,,0,0,0,,{\an5}BOTH
+Dialogue: 0,0:01:32.56,0:01:33.12,Default,,0,0,0,,{\an5}FROM THE SAME
+Dialogue: 0,0:01:33.12,0:01:33.73,Default,,0,0,0,,{\an5}SECTION AND
+Dialogue: 0,0:01:33.73,0:01:34.26,Default,,0,0,0,,{\an5}BOTH IMPOSSIBLE
+Dialogue: 0,0:01:34.26,0:01:34.92,Default,,0,0,0,,{\an5}TO CARRY BY
+Dialogue: 0,0:01:34.92,0:01:35.93,Default,,0,0,0,,{\an5}HAND THE
+Dialogue: 0,0:01:35.93,0:01:36.43,Default,,0,0,0,,{\an5}KIBBLE ALONE
+Dialogue: 0,0:01:36.43,0:01:36.93,Default,,0,0,0,,{\an5}WAS HEAVY
+Dialogue: 0,0:01:36.93,0:01:37.71,Default,,0,0,0,,{\an5}ENOUGH TO JUSTIFY
+Dialogue: 0,0:01:37.71,0:01:38.65,Default,,0,0,0,,{\an5}THE CART AND
+Dialogue: 0,0:01:38.65,0:01:39.34,Default,,0,0,0,,{\an5}IT HONESTLY NEVER
+Dialogue: 0,0:01:39.34,0:01:39.84,Default,,0,0,0,,{\an5}CROSSED OUR
+Dialogue: 0,0:01:39.84,0:01:40.56,Default,,0,0,0,,{\an5}MINDS THAT FORGETTING
+Dialogue: 0,0:01:40.56,0:01:41.18,Default,,0,0,0,,{\an5}ONE BULKY
+Dialogue: 0,0:01:41.18,0:01:41.71,Default,,0,0,0,,{\an5}ITEM MEANT
+Dialogue: 0,0:01:41.71,0:01:42.23,Default,,0,0,0,,{\an5}WE SHOULD ABANDON
+Dialogue: 0,0:01:42.23,0:01:43.31,Default,,0,0,0,,{\an5}OUR SPOT
+Dialogue: 0,0:01:43.31,0:01:44.00,Default,,0,0,0,,{\an5}AND RESTART THE
+Dialogue: 0,0:01:44.00,0:01:44.57,Default,,0,0,0,,{\an5}WHOLE PROCESS
+Dialogue: 0,0:01:44.57,0:01:45.07,Default,,0,0,0,,{\an5}FROM THE BACK
+Dialogue: 0,0:01:45.07,0:01:45.70,Default,,0,0,0,,{\an5}OF THE LINE LIKE
+Dialogue: 0,0:01:45.70,0:01:46.29,Default,,0,0,0,,{\an5}WE'D COMMITTED SOME
+Dialogue: 0,0:01:46.29,0:01:47.54,Default,,0,0,0,,{\an5}KIND OF RETAIL
+Dialogue: 0,0:01:47.54,0:01:48.48,Default,,0,0,0,,{\an5}SIN STILL
+Dialogue: 0,0:01:48.48,0:01:49.01,Default,,0,0,0,,{\an5}AFTER
+Dialogue: 0,0:01:49.01,0:01:49.65,Default,,0,0,0,,{\an5}BEING PUBLICLY
+Dialogue: 0,0:01:49.65,0:01:50.34,Default,,0,0,0,,{\an5}SCOLDED BY
+Dialogue: 0,0:01:50.34,0:01:51.04,Default,,0,0,0,,{\an5}A STRANGER WHO
+Dialogue: 0,0:01:51.04,0:01:51.62,Default,,0,0,0,,{\an5}SEEMED PERSONALLY
+Dialogue: 0,0:01:51.62,0:01:52.28,Default,,0,0,0,,{\an5}OFFENDED BY
+Dialogue: 0,0:01:52.28,0:01:53.64,Default,,0,0,0,,{\an5}MY PRESENCE I'VE
+Dialogue: 0,0:01:53.64,0:01:54.31,Default,,0,0,0,,{\an5}BEEN WONDERING EVER
+Dialogue: 0,0:01:54.31,0:01:55.28,Default,,0,0,0,,{\an5}SINCE DID
+Dialogue: 0,0:01:55.28,0:01:55.84,Default,,0,0,0,,{\an5}I ACTUALLY DO
+Dialogue: 0,0:01:55.84,0:01:56.40,Default,,0,0,0,,{\an5}SOMETHING WRONG
+Dialogue: 0,0:01:56.40,0:01:57.09,Default,,0,0,0,,{\an5}HERE OR
+Dialogue: 0,0:01:57.09,0:01:57.65,Default,,0,0,0,,{\an5}WAS THIS JUST
+Dialogue: 0,0:01:57.65,0:01:58.20,Default,,0,0,0,,{\an5}MISPLACED
+Dialogue: 0,0:01:58.20,0:01:58.76,Default,,0,0,0,,{\an5}HOLIDAY STRESS
+Dialogue: 0,0:01:58.76,0:01:59.45,Default,,0,0,0,,{\an5}EXPLODING IN
+Dialogue: 0,0:01:59.45,0:01:59.84,Default,,0,0,0,,{\an5}AISLE 7.

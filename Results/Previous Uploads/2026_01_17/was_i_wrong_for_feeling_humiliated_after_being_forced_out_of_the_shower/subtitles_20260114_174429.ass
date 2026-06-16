@@ -1,0 +1,153 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.92,0:00:04.54,Default,,0,0,0,,{\an5}AFTER A
+Dialogue: 0,0:00:04.54,0:00:05.37,Default,,0,0,0,,{\an5}LONG, EXHAUSTING
+Dialogue: 0,0:00:05.37,0:00:06.33,Default,,0,0,0,,{\an5}SHIFT, I
+Dialogue: 0,0:00:06.33,0:00:07.08,Default,,0,0,0,,{\an5}FINALLY GOT HOME
+Dialogue: 0,0:00:07.08,0:00:07.66,Default,,0,0,0,,{\an5}TO OUR SMALL,
+Dialogue: 0,0:00:07.79,0:00:08.40,Default,,0,0,0,,{\an5}DRAFTY
+Dialogue: 0,0:00:08.40,0:00:08.98,Default,,0,0,0,,{\an5}APARTMENT IN
+Dialogue: 0,0:00:08.98,0:00:09.48,Default,,0,0,0,,{\an5}A COLD MOUNTAIN
+Dialogue: 0,0:00:09.48,0:00:10.09,Default,,0,0,0,,{\an5}TOWN AND TOLD
+Dialogue: 0,0:00:10.09,0:00:11.19,Default,,0,0,0,,{\an5}MY PARTNER, EVAN,
+Dialogue: 0,0:00:11.40,0:00:11.93,Default,,0,0,0,,{\an5}THAT I WAS
+Dialogue: 0,0:00:11.93,0:00:12.50,Default,,0,0,0,,{\an5}GOING TO TAKE A
+Dialogue: 0,0:00:12.50,0:00:13.24,Default,,0,0,0,,{\an5}QUICK SHOWER BEFORE
+Dialogue: 0,0:00:13.24,0:00:13.92,Default,,0,0,0,,{\an5}WE SETTLED IN
+Dialogue: 0,0:00:13.92,0:00:15.01,Default,,0,0,0,,{\an5}FOR THE NIGHT. THE
+Dialogue: 0,0:00:15.01,0:00:15.74,Default,,0,0,0,,{\an5}HOUSE WAS FREEZING
+Dialogue: 0,0:00:15.74,0:00:16.37,Default,,0,0,0,,{\an5}BECAUSE THE OLD
+Dialogue: 0,0:00:16.37,0:00:16.96,Default,,0,0,0,,{\an5}HEATER HADN'T
+Dialogue: 0,0:00:16.96,0:00:17.64,Default,,0,0,0,,{\an5}BEEN TURNED ON YET.
+Dialogue: 0,0:00:17.87,0:00:18.42,Default,,0,0,0,,{\an5}AND I
+Dialogue: 0,0:00:18.42,0:00:19.12,Default,,0,0,0,,{\an5}WAS LOOKING FORWARD
+Dialogue: 0,0:00:19.12,0:00:19.67,Default,,0,0,0,,{\an5}TO THOSE FEW
+Dialogue: 0,0:00:19.67,0:00:20.30,Default,,0,0,0,,{\an5}WARM MINUTES MORE
+Dialogue: 0,0:00:20.30,0:00:21.62,Default,,0,0,0,,{\an5}THAN ANYTHING. I
+Dialogue: 0,0:00:21.62,0:00:22.26,Default,,0,0,0,,{\an5}BARELY HAD TIME
+Dialogue: 0,0:00:22.26,0:00:22.87,Default,,0,0,0,,{\an5}TO RINSE BEFORE
+Dialogue: 0,0:00:22.87,0:00:23.51,Default,,0,0,0,,{\an5}I HAD SHAMPOO
+Dialogue: 0,0:00:23.51,0:00:24.14,Default,,0,0,0,,{\an5}WORKED INTO MY
+Dialogue: 0,0:00:24.14,0:00:24.64,Default,,0,0,0,,{\an5}HAIR WHEN THE
+Dialogue: 0,0:00:24.64,0:00:25.30,Default,,0,0,0,,{\an5}BATHROOM DOOR SUDDENLY
+Dialogue: 0,0:00:25.30,0:00:26.32,Default,,0,0,0,,{\an5}FLEW
+Dialogue: 0,0:00:26.32,0:00:26.71,Default,,0,0,0,,{\an5}OPEN.
+Dialogue: 0,0:00:26.85,0:00:27.42,Default,,0,0,0,,{\an5}EVAN STOOD
+Dialogue: 0,0:00:27.42,0:00:28.14,Default,,0,0,0,,{\an5}THERE PANICKED,
+Dialogue: 0,0:00:28.23,0:00:29.05,Default,,0,0,0,,{\an5}APOLOGIZING
+Dialogue: 0,0:00:29.05,0:00:29.71,Default,,0,0,0,,{\an5}OVER AND OVER,
+Dialogue: 0,0:00:29.89,0:00:30.50,Default,,0,0,0,,{\an5}SAYING HE
+Dialogue: 0,0:00:30.50,0:00:31.16,Default,,0,0,0,,{\an5}NEEDED THE BATHROOM
+Dialogue: 0,0:00:31.16,0:00:31.89,Default,,0,0,0,,{\an5}IMMEDIATELY AND
+Dialogue: 0,0:00:31.89,0:00:32.67,Default,,0,0,0,,{\an5}THAT IT WASN'T OPTIONAL.
+Dialogue: 0,0:00:32.92,0:00:33.42,Default,,0,0,0,,{\an5}I TRIED
+Dialogue: 0,0:00:33.42,0:00:34.02,Default,,0,0,0,,{\an5}TO LAUGH IT OFF
+Dialogue: 0,0:00:34.02,0:00:34.61,Default,,0,0,0,,{\an5}AT FIRST AND
+Dialogue: 0,0:00:34.61,0:00:35.20,Default,,0,0,0,,{\an5}TOLD HIM I JUST
+Dialogue: 0,0:00:35.20,0:00:35.88,Default,,0,0,0,,{\an5}CLOSED THE CURTAIN
+Dialogue: 0,0:00:35.88,0:00:36.42,Default,,0,0,0,,{\an5}AND HE COULD USE
+Dialogue: 0,0:00:36.42,0:00:37.53,Default,,0,0,0,,{\an5}THE TOILET. BUT
+Dialogue: 0,0:00:37.53,0:00:38.21,Default,,0,0,0,,{\an5}HIS TONE CHANGED
+Dialogue: 0,0:00:38.21,0:00:38.79,Default,,0,0,0,,{\an5}FAST HE
+Dialogue: 0,0:00:38.79,0:00:39.34,Default,,0,0,0,,{\an5}INSISTED I
+Dialogue: 0,0:00:39.34,0:00:39.84,Default,,0,0,0,,{\an5}HAD TO GET OUT
+Dialogue: 0,0:00:39.84,0:00:41.06,Default,,0,0,0,,{\an5}RIGHT NOW. ACTING
+Dialogue: 0,0:00:41.06,0:00:41.71,Default,,0,0,0,,{\an5}LIKE I WAS BEING
+Dialogue: 0,0:00:41.71,0:00:42.52,Default,,0,0,0,,{\an5}UNREASONABLE FOR
+Dialogue: 0,0:00:42.52,0:00:43.03,Default,,0,0,0,,{\an5}EVEN SUGGESTING
+Dialogue: 0,0:00:43.03,0:00:43.56,Default,,0,0,0,,{\an5}OTHERWISE.
+Dialogue: 0,0:00:43.96,0:00:44.71,Default,,0,0,0,,{\an5}FOR CONTEXT,
+Dialogue: 0,0:00:45.03,0:00:45.53,Default,,0,0,0,,{\an5}WE'VE LIVED
+Dialogue: 0,0:00:45.53,0:00:46.07,Default,,0,0,0,,{\an5}TOGETHER FOR
+Dialogue: 0,0:00:46.07,0:00:46.71,Default,,0,0,0,,{\an5}OVER TWO YEARS
+Dialogue: 0,0:00:46.71,0:00:47.25,Default,,0,0,0,,{\an5}AND ARE GENERALLY
+Dialogue: 0,0:00:47.25,0:00:47.92,Default,,0,0,0,,{\an5}COMFORTABLE WITH
+Dialogue: 0,0:00:47.92,0:00:49.02,Default,,0,0,0,,{\an5}EACH OTHER. BUT
+Dialogue: 0,0:00:49.02,0:00:49.53,Default,,0,0,0,,{\an5}WE STILL HAVE
+Dialogue: 0,0:00:49.53,0:00:49.84,Default,,0,0,0,,{\an5}BOUNDARIES.
+Dialogue: 0,0:00:50.21,0:00:50.85,Default,,0,0,0,,{\an5}THIS BEING
+Dialogue: 0,0:00:50.85,0:00:51.92,Default,,0,0,0,,{\an5}A BIG ONE, EVAN
+Dialogue: 0,0:00:51.92,0:00:52.56,Default,,0,0,0,,{\an5}HAS A DIGESTIVE
+Dialogue: 0,0:00:52.56,0:00:53.43,Default,,0,0,0,,{\an5}CONDITION THAT
+Dialogue: 0,0:00:53.43,0:00:54.34,Default,,0,0,0,,{\an5}MAKES BATHROOM EMERGENCIES
+Dialogue: 0,0:00:54.34,0:00:54.96,Default,,0,0,0,,{\an5}SUDDEN AND
+Dialogue: 0,0:00:54.96,0:00:55.20,Default,,0,0,0,,{\an5}INTENSE.
+Dialogue: 0,0:00:55.70,0:00:56.28,Default,,0,0,0,,{\an5}SO I
+Dialogue: 0,0:00:56.28,0:00:56.93,Default,,0,0,0,,{\an5}UNDERSTAND THAT
+Dialogue: 0,0:00:56.93,0:00:57.46,Default,,0,0,0,,{\an5}WHEN HE HAS TO
+Dialogue: 0,0:00:57.46,0:00:58.21,Default,,0,0,0,,{\an5}GO, IT'S
+Dialogue: 0,0:00:58.21,0:00:58.47,Default,,0,0,0,,{\an5}URGENT.
+Dialogue: 0,0:00:58.67,0:00:59.60,Default,,0,0,0,,{\an5}STILL, WHAT
+Dialogue: 0,0:00:59.60,0:01:00.10,Default,,0,0,0,,{\an5}BOTHERED ME
+Dialogue: 0,0:01:00.10,0:01:01.14,Default,,0,0,0,,{\an5}WAS HOW NON-NEGOTIABLE
+Dialogue: 0,0:01:01.14,0:01:02.14,Default,,0,0,0,,{\an5}IT BECAME. I
+Dialogue: 0,0:01:02.14,0:01:02.82,Default,,0,0,0,,{\an5}ENDED UP STEPPING
+Dialogue: 0,0:01:02.82,0:01:03.50,Default,,0,0,0,,{\an5}OUT OF THE SHOWER
+Dialogue: 0,0:01:03.50,0:01:04.68,Default,,0,0,0,,{\an5}MID-WASH, WATER
+Dialogue: 0,0:01:04.68,0:01:05.18,Default,,0,0,0,,{\an5}DRIPPING OFF
+Dialogue: 0,0:01:05.18,0:01:05.95,Default,,0,0,0,,{\an5}ME, SHAMPOO
+Dialogue: 0,0:01:05.95,0:01:06.54,Default,,0,0,0,,{\an5}STILL IN MY
+Dialogue: 0,0:01:06.54,0:01:07.43,Default,,0,0,0,,{\an5}HAIR, FREEZING
+Dialogue: 0,0:01:07.43,0:01:08.01,Default,,0,0,0,,{\an5}IN THE HALLWAY
+Dialogue: 0,0:01:08.01,0:01:08.59,Default,,0,0,0,,{\an5}WHILE HE LOCKED
+Dialogue: 0,0:01:08.59,0:01:09.23,Default,,0,0,0,,{\an5}THE BATHROOM DOOR
+Dialogue: 0,0:01:09.23,0:01:09.79,Default,,0,0,0,,{\an5}BEHIND HIM.
+Dialogue: 0,0:01:10.04,0:01:10.70,Default,,0,0,0,,{\an5}I STOOD
+Dialogue: 0,0:01:10.70,0:01:11.26,Default,,0,0,0,,{\an5}THERE SHIVERING,
+Dialogue: 0,0:01:11.43,0:01:11.98,Default,,0,0,0,,{\an5}BAREFOOT
+Dialogue: 0,0:01:11.98,0:01:12.76,Default,,0,0,0,,{\an5}ON COLD FLOORS,
+Dialogue: 0,0:01:12.95,0:01:13.79,Default,,0,0,0,,{\an5}FEELING RIDICULOUS
+Dialogue: 0,0:01:13.79,0:01:14.50,Default,,0,0,0,,{\an5}AND STRANGELY
+Dialogue: 0,0:01:14.50,0:01:15.68,Default,,0,0,0,,{\an5}EMBARRASSED, WAITING
+Dialogue: 0,0:01:15.68,0:01:16.42,Default,,0,0,0,,{\an5}FOR HIM TO FINISH
+Dialogue: 0,0:01:16.42,0:01:16.98,Default,,0,0,0,,{\an5}WHILE MY HAIR
+Dialogue: 0,0:01:16.98,0:01:17.48,Default,,0,0,0,,{\an5}DRIED STIFF
+Dialogue: 0,0:01:17.48,0:01:18.01,Default,,0,0,0,,{\an5}AND SOAPY.
+Dialogue: 0,0:01:18.40,0:01:19.21,Default,,0,0,0,,{\an5}IT WASN'T
+Dialogue: 0,0:01:19.21,0:01:19.87,Default,,0,0,0,,{\an5}A MASSIVE CRISIS
+Dialogue: 0,0:01:19.87,0:01:20.42,Default,,0,0,0,,{\an5}IN THE GRAND
+Dialogue: 0,0:01:20.42,0:01:21.14,Default,,0,0,0,,{\an5}SCHEME OF THINGS,
+Dialogue: 0,0:01:21.28,0:01:21.79,Default,,0,0,0,,{\an5}BUT THE
+Dialogue: 0,0:01:21.79,0:01:22.42,Default,,0,0,0,,{\an5}LONGER I STOOD
+Dialogue: 0,0:01:22.42,0:01:23.04,Default,,0,0,0,,{\an5}THERE, THE
+Dialogue: 0,0:01:23.04,0:01:23.65,Default,,0,0,0,,{\an5}MORE IT SANK
+Dialogue: 0,0:01:23.65,0:01:24.37,Default,,0,0,0,,{\an5}IN HOW UNCOMFORTABLE
+Dialogue: 0,0:01:24.37,0:01:25.04,Default,,0,0,0,,{\an5}AND UNNECESSARY
+Dialogue: 0,0:01:25.04,0:01:25.70,Default,,0,0,0,,{\an5}IT FELT.
+Dialogue: 0,0:01:25.81,0:01:26.45,Default,,0,0,0,,{\an5}I COULDN'T
+Dialogue: 0,0:01:26.45,0:01:27.04,Default,,0,0,0,,{\an5}SHAKE THE FEELING
+Dialogue: 0,0:01:27.04,0:01:27.70,Default,,0,0,0,,{\an5}THAT I'D BEEN TREATED
+Dialogue: 0,0:01:27.70,0:01:28.59,Default,,0,0,0,,{\an5}LIKE AN INCONVENIENCE
+Dialogue: 0,0:01:28.59,0:01:29.14,Default,,0,0,0,,{\an5}INSTEAD OF A
+Dialogue: 0,0:01:29.14,0:01:29.43,Default,,0,0,0,,{\an5}PARTNER.
+Dialogue: 0,0:01:30.00,0:01:30.76,Default,,0,0,0,,{\an5}ESPECIALLY WHEN
+Dialogue: 0,0:01:30.76,0:01:31.45,Default,,0,0,0,,{\an5}THERE WERE OTHER WAYS
+Dialogue: 0,0:01:31.45,0:01:31.98,Default,,0,0,0,,{\an5}THE SITUATION
+Dialogue: 0,0:01:31.98,0:01:32.56,Default,,0,0,0,,{\an5}COULD HAVE BEEN
+Dialogue: 0,0:01:32.56,0:01:33.12,Default,,0,0,0,,{\an5}HANDLED WITH A
+Dialogue: 0,0:01:33.12,0:01:34.45,Default,,0,0,0,,{\an5}LITTLE MORE CONSIDERATION.
+Dialogue: 0,0:01:34.86,0:01:35.45,Default,,0,0,0,,{\an5}I KEEP
+Dialogue: 0,0:01:35.45,0:01:35.98,Default,,0,0,0,,{\an5}REPLAYING
+Dialogue: 0,0:01:35.98,0:01:36.48,Default,,0,0,0,,{\an5}IT IN MY HEAD
+Dialogue: 0,0:01:36.48,0:01:37.12,Default,,0,0,0,,{\an5}AND WONDERING IF
+Dialogue: 0,0:01:37.12,0:01:37.79,Default,,0,0,0,,{\an5}I'M OVERREACTING.
+Dialogue: 0,0:01:38.15,0:01:38.70,Default,,0,0,0,,{\an5}OR IF
+Dialogue: 0,0:01:38.70,0:01:39.31,Default,,0,0,0,,{\an5}IT REALLY WAS AN
+Dialogue: 0,0:01:39.31,0:01:40.07,Default,,0,0,0,,{\an5}UNREASONABLE THING
+Dialogue: 0,0:01:40.07,0:01:40.71,Default,,0,0,0,,{\an5}TO ASK SOMEONE
+Dialogue: 0,0:01:40.71,0:01:41.34,Default,,0,0,0,,{\an5}YOU LIVE WITH TO
+Dialogue: 0,0:01:41.34,0:01:41.98,Default,,0,0,0,,{\an5}ABANDON A SHOWER
+Dialogue: 0,0:01:41.98,0:01:42.95,Default,,0,0,0,,{\an5}LIKE THAT
+Dialogue: 0,0:01:42.95,0:01:43.45,Default,,0,0,0,,{\an5}JUST SO YOU CAN
+Dialogue: 0,0:01:43.45,0:01:44.06,Default,,0,0,0,,{\an5}USE THE TOILET.

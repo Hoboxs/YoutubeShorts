@@ -1,0 +1,174 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.54,0:00:05.21,Default,,80,80,60,,{\k12}A {\k17}FEW {\k17}WEEKS {\k20}AGO
+Dialogue: 0,0:00:05.21,0:00:05.94,Default,,80,80,60,,{\k16}MY {\k17}DAUGHTER {\k22}10 {\k16}WENT
+Dialogue: 0,0:00:05.94,0:00:06.70,Default,,80,80,60,,{\k15}TO {\k8}A {\k20}BIRTHDAY {\k32}PARTY
+Dialogue: 0,0:00:06.70,0:00:07.36,Default,,80,80,60,,{\k17}FOR {\k8}A {\k16}FRIEND {\k16}WHO {\k8}HAD
+Dialogue: 0,0:00:07.36,0:00:08.00,Default,,80,80,60,,{\k13}JUST {\k17}TURNED {\k32}ELEVEN.
+Dialogue: 0,0:00:08.69,0:00:08.92,Default,,80,80,60,,{\k22}IT
+Dialogue: 0,0:00:08.92,0:00:09.64,Default,,80,80,60,,{\k9}WAS {\k22}HELD {\k14}AT {\k8}THE {\k17}FRIEND
+Dialogue: 0,0:00:09.64,0:00:10.50,Default,,80,80,60,,{\k32}HOUSE, {\k17}AND
+Dialogue: 0,0:00:10.50,0:00:11.16,Default,,80,80,60,,{\k24}MOST {\k14}OF {\k15}THE {\k12}KIDS
+Dialogue: 0,0:00:11.16,0:00:12.00,Default,,80,80,60,,{\k35}ENDED {\k22}UP {\k25}OUTSIDE
+Dialogue: 0,0:00:12.00,0:00:12.67,Default,,80,80,60,,{\k25}PLAYING {\k25}GAMES {\k16}IN
+Dialogue: 0,0:00:12.67,0:00:14.00,Default,,80,80,60,,{\k6}THE {\k29}BACKYARD. {\k25}AT
+Dialogue: 0,0:00:14.00,0:00:14.77,Default,,80,80,60,,{\k14}ONE {\k24}POINT {\k15}THEY {\k24}STARTED
+Dialogue: 0,0:00:14.77,0:00:15.56,Default,,80,80,60,,{\k33}TOSSING {\k16}A {\k28}FOOTBALL
+Dialogue: 0,0:00:15.56,0:00:16.67,Default,,80,80,60,,{\k29}AROUND. {\k14}THE
+Dialogue: 0,0:00:16.67,0:00:17.37,Default,,80,80,60,,{\k26}BIRTHDAY {\k23}GIRL {\k19}S
+Dialogue: 0,0:00:17.37,0:00:18.12,Default,,80,80,60,,{\k16}DAD {\k19}WAS {\k20}THROWING {\k17}PASSES
+Dialogue: 0,0:00:18.12,0:00:18.73,Default,,80,80,60,,{\k16}WHILE {\k1}THE {\k15}KIDS {\k16}RAN
+Dialogue: 0,0:00:18.73,0:00:19.48,Default,,80,80,60,,{\k20}ROUTES {\k13}TO {\k14}CATCH {\k26}THEM.
+Dialogue: 0,0:00:20.05,0:00:20.33,Default,,80,80,60,,{\k28}SOME
+Dialogue: 0,0:00:20.33,0:00:21.12,Default,,80,80,60,,{\k32}BACKGROUND {\k21}MATTERS {\k24}HERE.
+Dialogue: 0,0:00:21.83,0:00:21.98,Default,,80,80,60,,{\k14}THE
+Dialogue: 0,0:00:21.98,0:00:22.87,Default,,80,80,60,,{\k23}PREVIOUS {\k33}SUMMER, {\k16}WHILE
+Dialogue: 0,0:00:22.87,0:00:23.57,Default,,80,80,60,,{\k14}THIS {\k26}FAMILY {\k17}WAS {\k11}OUT
+Dialogue: 0,0:00:23.57,0:00:24.46,Default,,80,80,60,,{\k8}OF {\k28}TOWN, {\k3}THEIR
+Dialogue: 0,0:00:24.46,0:00:25.21,Default,,80,80,60,,{\k11}ABOVE-GROUND {\k21}POOL {\k16}HAD
+Dialogue: 0,0:00:25.21,0:00:26.00,Default,,80,80,60,,{\k24}COLLAPSED {\k25}AND {\k28}FLOODED
+Dialogue: 0,0:00:26.00,0:00:27.42,Default,,80,80,60,,{\k23}THEIR {\k26}YARD. {\k39}IT
+Dialogue: 0,0:00:27.42,0:00:28.12,Default,,80,80,60,,{\k21}CAUSED {\k21}A {\k12}LOT {\k14}OF
+Dialogue: 0,0:00:28.12,0:00:28.76,Default,,80,80,60,,{\k25}DAMAGE, {\k6}AND
+Dialogue: 0,0:00:28.76,0:00:29.55,Default,,80,80,60,,{\k9}THEIR {\k28}HOMEOWNERS {\k41}INSURANCE
+Dialogue: 0,0:00:29.55,0:00:30.37,Default,,80,80,60,,{\k17}HAD {\k14}BEEN {\k24}INVOLVED {\k25}BECAUSE
+Dialogue: 0,0:00:30.37,0:00:31.07,Default,,80,80,60,,{\k14}OF {\k32}STRUCTURAL {\k23}ISSUES
+Dialogue: 0,0:00:31.07,0:00:31.62,Default,,80,80,60,,{\k22}AND {\k32}REPAIRS.
+Dialogue: 0,0:00:32.47,0:00:33.24,Default,,80,80,60,,{\k16}DURING {\k15}THE {\k44}RECONSTRUCTION,
+Dialogue: 0,0:00:33.57,0:00:34.21,Default,,80,80,60,,{\k14}HEAVY {\k32}EQUIPMENT {\k17}HAD
+Dialogue: 0,0:00:34.21,0:00:34.96,Default,,80,80,60,,{\k16}BEEN {\k19}USED {\k14}IN {\k3}THE {\k20}BACKYARD
+Dialogue: 0,0:00:34.96,0:00:35.61,Default,,80,80,60,,{\k24}TO {\k21}REBUILD {\k19}A
+Dialogue: 0,0:00:35.61,0:00:36.60,Default,,80,80,60,,{\k32}RETAINING {\k24}WALL, {\k12}WHICH
+Dialogue: 0,0:00:36.60,0:00:37.24,Default,,80,80,60,,{\k11}LEFT {\k20}DEEP {\k19}RUTS {\k12}AND
+Dialogue: 0,0:00:37.24,0:00:37.88,Default,,80,80,60,,{\k33}UNEVEN {\k30}GROUND
+Dialogue: 0,0:00:37.88,0:00:38.56,Default,,80,80,60,,{\k14}IN {\k13}THE {\k12}AREA {\k15}WHERE {\k12}THE
+Dialogue: 0,0:00:38.56,0:00:40.00,Default,,80,80,60,,{\k14}KIDS {\k15}WERE {\k24}PLAYING. {\k15}WHILE
+Dialogue: 0,0:00:40.00,0:00:40.64,Default,,80,80,60,,{\k21}RUNNING {\k17}TO {\k7}CATCH {\k16}A
+Dialogue: 0,0:00:40.64,0:00:41.35,Default,,80,80,60,,{\k29}PASS, {\k7}MY {\k17}DAUGHTER
+Dialogue: 0,0:00:41.35,0:00:41.97,Default,,80,80,60,,{\k29}TRIPPED {\k12}IN {\k11}ONE {\k7}OF
+Dialogue: 0,0:00:41.97,0:00:43.24,Default,,80,80,60,,{\k17}THOSE {\k26}RUTS. {\k24}WHEN
+Dialogue: 0,0:00:43.24,0:00:44.06,Default,,80,80,60,,{\k15}SHE {\k20}FELL, {\k12}SHE
+Dialogue: 0,0:00:44.06,0:00:44.85,Default,,80,80,60,,{\k15}SLAMMED {\k25}INTO {\k12}A {\k25}LARGE
+Dialogue: 0,0:00:44.85,0:00:45.52,Default,,80,80,60,,{\k21}METAL {\k26}HOUSING {\k17}BOX
+Dialogue: 0,0:00:45.52,0:00:46.35,Default,,80,80,60,,{\k15}THAT {\k25}CONTAINED {\k16}THE {\k25}POOL
+Dialogue: 0,0:00:46.35,0:00:47.21,Default,,80,80,60,,{\k10}PUMP {\k14}AND {\k21}WATER {\k39}CONNECTIONS.
+Dialogue: 0,0:00:47.97,0:00:48.14,Default,,80,80,60,,{\k16}THE
+Dialogue: 0,0:00:48.14,0:00:48.88,Default,,80,80,60,,{\k21}IMPACT {\k32}BROKE {\k20}PART
+Dialogue: 0,0:00:48.88,0:00:49.75,Default,,80,80,60,,{\k11}OF {\k10}THE {\k29}EQUIPMENT, {\k35}AND
+Dialogue: 0,0:00:49.75,0:00:50.39,Default,,80,80,60,,{\k28}WATER {\k35}STARTED
+Dialogue: 0,0:00:50.39,0:00:51.07,Default,,80,80,60,,{\k24}POURING {\k24}OUT {\k19}INTO
+Dialogue: 0,0:00:51.07,0:00:52.28,Default,,80,80,60,,{\k16}THE {\k14}YARD. {\k14}THEY
+Dialogue: 0,0:00:52.28,0:00:53.00,Default,,80,80,60,,{\k24}MANAGED {\k25}TO {\k6}SHUT {\k15}OFF
+Dialogue: 0,0:00:53.00,0:00:53.74,Default,,80,80,60,,{\k11}THE {\k22}WATER, {\k10}BUT
+Dialogue: 0,0:00:53.74,0:00:54.38,Default,,80,80,60,,{\k19}BECAUSE {\k10}OF {\k7}THE {\k12}WAY {\k14}THE
+Dialogue: 0,0:00:54.38,0:00:55.17,Default,,80,80,60,,{\k14}PUMP {\k13}HAD {\k32}APPARENTLY {\k20}BEEN
+Dialogue: 0,0:00:55.17,0:00:55.88,Default,,80,80,60,,{\k28}PATCHED {\k17}TOGETHER {\k24}AFTER
+Dialogue: 0,0:00:55.88,0:00:56.53,Default,,80,80,60,,{\k15}THE {\k16}POOL {\k33}INCIDENT,
+Dialogue: 0,0:00:56.85,0:00:57.47,Default,,80,80,60,,{\k6}THEY {\k21}ENDED {\k17}UP {\k15}NEEDING
+Dialogue: 0,0:00:57.47,0:00:58.11,Default,,80,80,60,,{\k20}TO {\k11}SHUT {\k17}OFF {\k14}THE
+Dialogue: 0,0:00:58.11,0:00:58.79,Default,,80,80,60,,{\k26}ENTIRE {\k23}WATER {\k17}MAIN.
+Dialogue: 0,0:00:59.47,0:00:59.67,Default,,80,80,60,,{\k20}THE
+Dialogue: 0,0:00:59.67,0:01:00.43,Default,,80,80,60,,{\k28}FAMILY {\k24}WAS {\k23}WITHOUT
+Dialogue: 0,0:01:00.43,0:01:01.11,Default,,80,80,60,,{\k26}RUNNING {\k27}WATER {\k14}FOR
+Dialogue: 0,0:01:01.11,0:01:01.89,Default,,80,80,60,,{\k16}ABOUT {\k17}TWO {\k15}DAYS {\k28}UNTIL
+Dialogue: 0,0:01:01.89,0:01:02.53,Default,,80,80,60,,{\k12}A {\k23}PLUMBER {\k12}COULD {\k15}COME
+Dialogue: 0,0:01:02.53,0:01:03.38,Default,,80,80,60,,{\k17}OUT {\k14}AND {\k16}FIX {\k35}EVERYTHING
+Dialogue: 0,0:01:03.38,0:01:03.74,Default,,80,80,60,,{\k35}PROPERLY.
+Dialogue: 0,0:01:04.71,0:01:05.51,Default,,80,80,60,,{\k35}UNFORTUNATELY, {\k7}MY
+Dialogue: 0,0:01:05.51,0:01:06.12,Default,,80,80,60,,{\k26}DAUGHTER {\k20}WAS {\k14}HURT
+Dialogue: 0,0:01:06.12,0:01:07.48,Default,,80,80,60,,{\k14}IN {\k9}THE {\k15}FALL. {\k18}SHE
+Dialogue: 0,0:01:07.48,0:01:08.12,Default,,80,80,60,,{\k17}BROKE {\k24}HER {\k21}COLLARBONE
+Dialogue: 0,0:01:08.12,0:01:09.01,Default,,80,80,60,,{\k11}AND {\k20}BADLY {\k6}SPRAINED {\k25}BOTH
+Dialogue: 0,0:01:09.01,0:01:09.70,Default,,80,80,60,,{\k16}HER {\k17}ANKLE {\k23}AND {\k10}HER
+Dialogue: 0,0:01:09.70,0:01:10.71,Default,,80,80,60,,{\k14}KNEE. {\k14}FOR
+Dialogue: 0,0:01:10.71,0:01:11.45,Default,,80,80,60,,{\k12}A {\k21}WHILE {\k15}WE {\k9}THOUGHT {\k14}THE
+Dialogue: 0,0:01:11.45,0:01:12.06,Default,,80,80,60,,{\k38}SITUATION {\k21}WAS
+Dialogue: 0,0:01:12.06,0:01:12.76,Default,,80,80,60,,{\k15}JUST {\k12}AN {\k42}UNFORTUNATE
+Dialogue: 0,0:01:12.76,0:01:13.21,Default,,80,80,60,,{\k45}ACCIDENT.
+Dialogue: 0,0:01:14.04,0:01:14.84,Default,,80,80,60,,{\k14}THEN {\k19}ABOUT {\k12}A {\k12}WEEK {\k21}AGO
+Dialogue: 0,0:01:14.84,0:01:15.45,Default,,80,80,60,,{\k15}MY {\k21}HUSBAND {\k23}AND
+Dialogue: 0,0:01:15.45,0:01:16.35,Default,,80,80,60,,{\k10}I {\k23}RECEIVED {\k18}A {\k37}CERTIFIED
+Dialogue: 0,0:01:16.35,0:01:17.28,Default,,80,80,60,,{\k20}LETTER {\k25}FROM {\k12}OUR {\k34}FRIENDS.
+Dialogue: 0,0:01:17.93,0:01:18.07,Default,,80,80,60,,{\k14}IN
+Dialogue: 0,0:01:18.07,0:01:18.79,Default,,80,80,60,,{\k15}IT, {\k11}THEY {\k14}SAID
+Dialogue: 0,0:01:18.79,0:01:19.40,Default,,80,80,60,,{\k14}THEY {\k26}EXPECTED {\k20}US
+Dialogue: 0,0:01:19.40,0:01:20.04,Default,,80,80,60,,{\k9}TO {\k9}PAY {\k14}FOR {\k6}THE {\k24}REPAIRS
+Dialogue: 0,0:01:20.04,0:01:20.71,Default,,80,80,60,,{\k17}TO {\k9}THE {\k20}DAMAGED {\k20}PUMP,
+Dialogue: 0,0:01:21.01,0:01:21.73,Default,,80,80,60,,{\k6}THE {\k20}WATER {\k28}DAMAGE {\k17}TO
+Dialogue: 0,0:01:21.73,0:01:22.35,Default,,80,80,60,,{\k7}THEIR {\k14}YARD, {\k7}AND
+Dialogue: 0,0:01:22.35,0:01:23.01,Default,,80,80,60,,{\k7}THE {\k46}INCONVENIENCE {\k11}OF
+Dialogue: 0,0:01:23.01,0:01:23.64,Default,,80,80,60,,{\k12}BEING {\k23}WITHOUT {\k26}WATER
+Dialogue: 0,0:01:23.64,0:01:24.40,Default,,80,80,60,,{\k14}FOR {\k35}48 {\k26}HOURS.
+Dialogue: 0,0:01:24.91,0:01:25.31,Default,,80,80,60,,{\k40}THAT
+Dialogue: 0,0:01:25.31,0:01:25.92,Default,,80,80,60,,{\k34}COMPLETELY {\k26}CAUGHT
+Dialogue: 0,0:01:25.92,0:01:26.45,Default,,80,80,60,,{\k15}US {\k15}OFF {\k21}GUARD.
+Dialogue: 0,0:01:27.34,0:01:27.98,Default,,80,80,60,,{\k9}AS {\k15}SOON {\k21}AS {\k16}WE
+Dialogue: 0,0:01:27.98,0:01:28.65,Default,,80,80,60,,{\k33}RECEIVED {\k16}THE {\k17}LETTER,
+Dialogue: 0,0:01:29.07,0:01:29.76,Default,,80,80,60,,{\k6}I {\k43}CONTACTED {\k18}THEIR
+Dialogue: 0,0:01:29.76,0:01:30.43,Default,,80,80,60,,{\k17}HOMEOWNERS {\k28}INSURANCE
+Dialogue: 0,0:01:30.43,0:01:31.76,Default,,80,80,60,,{\k42}COMPANY. {\k26}I
+Dialogue: 0,0:01:31.76,0:01:32.73,Default,,80,80,60,,{\k25}ALREADY {\k14}HAD {\k12}THE {\k45}INFORMATION
+Dialogue: 0,0:01:32.73,0:01:33.40,Default,,80,80,60,,{\k30}BECAUSE {\k17}MY {\k18}FRIEND
+Dialogue: 0,0:01:33.40,0:01:34.09,Default,,80,80,60,,{\k15}HAD {\k17}TALKED {\k24}ABOUT {\k11}THE
+Dialogue: 0,0:01:34.09,0:01:34.81,Default,,80,80,60,,{\k26}INSURANCE {\k45}SITUATION
+Dialogue: 0,0:01:34.81,0:01:35.54,Default,,80,80,60,,{\k26}DURING {\k12}THE {\k34}PREVIOUS
+Dialogue: 0,0:01:35.54,0:01:36.15,Default,,80,80,60,,{\k23}POOL {\k37}INCIDENT.
+Dialogue: 0,0:01:36.95,0:01:37.15,Default,,80,80,60,,{\k20}I
+Dialogue: 0,0:01:37.15,0:01:37.87,Default,,80,80,60,,{\k20}REACHED {\k18}OUT {\k14}TO {\k19}SUBMIT
+Dialogue: 0,0:01:37.87,0:01:38.62,Default,,80,80,60,,{\k16}MY {\k37}DAUGHTER {\k20}MEDICAL
+Dialogue: 0,0:01:38.62,0:01:39.37,Default,,80,80,60,,{\k21}BILLS {\k35}RELATED {\k17}TO
+Dialogue: 0,0:01:39.37,0:01:40.65,Default,,80,80,60,,{\k10}THE {\k28}INJURY. {\k9}TO
+Dialogue: 0,0:01:40.65,0:01:41.37,Default,,80,80,60,,{\k10}BE {\k19}CLEAR, {\k7}WE
+Dialogue: 0,0:01:41.37,0:01:42.20,Default,,80,80,60,,{\k10}DO {\k17}HAVE {\k18}HEALTH {\k35}INSURANCE
+Dialogue: 0,0:01:42.20,0:01:42.81,Default,,80,80,60,,{\k20}FOR {\k9}OUR {\k31}CHILD,
+Dialogue: 0,0:01:42.81,0:01:43.45,Default,,80,80,60,,{\k18}AND {\k23}BEFORE {\k21}GETTING
+Dialogue: 0,0:01:43.45,0:01:44.15,Default,,80,80,60,,{\k24}THAT {\k14}LETTER {\k20}WE {\k11}HAD
+Dialogue: 0,0:01:44.15,0:01:44.81,Default,,80,80,60,,{\k20}PLANNED {\k18}TO {\k15}COVER {\k11}HER
+Dialogue: 0,0:01:44.81,0:01:45.76,Default,,80,80,60,,{\k26}MEDICAL {\k28}COSTS {\k40}OURSELVES.
+Dialogue: 0,0:01:46.51,0:01:47.26,Default,,80,80,60,,{\k10}BUT {\k21}AFTER {\k20}BEING {\k21}ASKED
+Dialogue: 0,0:01:47.26,0:01:47.87,Default,,80,80,60,,{\k17}TO {\k7}PAY {\k12}FOR {\k23}DAMAGE
+Dialogue: 0,0:01:47.87,0:01:48.50,Default,,80,80,60,,{\k18}THAT {\k28}HAPPENED {\k15}WHEN
+Dialogue: 0,0:01:48.50,0:01:49.40,Default,,80,80,60,,{\k12}SHE {\k19}TRIPPED {\k10}ON {\k12}THEIR {\k35}PROPERTY,
+Dialogue: 0,0:01:49.56,0:01:51.09,Default,,80,80,60,,{\k6}IT {\k17}FELT {\k35}DIFFERENT. {\k21}NOW
+Dialogue: 0,0:01:51.09,0:01:51.85,Default,,80,80,60,,{\k16}MY {\k19}FRIEND {\k14}IS {\k26}FURIOUS
+Dialogue: 0,0:01:51.85,0:01:53.09,Default,,80,80,60,,{\k21}WITH {\k15}ME. {\k23}SHE
+Dialogue: 0,0:01:53.09,0:01:53.76,Default,,80,80,60,,{\k20}SAID {\k15}THAT {\k30}REPORTING
+Dialogue: 0,0:01:53.76,0:01:54.51,Default,,80,80,60,,{\k25}THE {\k26}INCIDENT {\k23}TO
+Dialogue: 0,0:01:54.51,0:01:55.28,Default,,80,80,60,,{\k7}THEIR {\k32}INSURANCE {\k35}HAS
+Dialogue: 0,0:01:55.28,0:01:55.98,Default,,80,80,60,,{\k17}MADE {\k26}THINGS {\k26}WORSE
+Dialogue: 0,0:01:55.98,0:01:56.29,Default,,80,80,60,,{\k14}FOR {\k17}THEM.
+Dialogue: 0,0:01:57.01,0:01:57.93,Default,,80,80,60,,{\k35}APPARENTLY {\k16}THEIR {\k39}PREMIUMS
+Dialogue: 0,0:01:57.93,0:01:58.54,Default,,80,80,60,,{\k4}HAD {\k21}ALREADY {\k34}INCREASED
+Dialogue: 0,0:01:58.54,0:01:59.26,Default,,80,80,60,,{\k31}AFTER {\k12}THE {\k28}PREVIOUS
+Dialogue: 0,0:01:59.26,0:02:00.00,Default,,80,80,60,,{\k28}CLAIM, {\k29}AND {\k15}NOW
+Dialogue: 0,0:02:00.00,0:02:00.68,Default,,80,80,60,,{\k23}THEY {\k10}BEEN {\k34}NOTIFIED
+Dialogue: 0,0:02:00.68,0:02:01.34,Default,,80,80,60,,{\k19}THAT {\k12}THEIR {\k34}POLICY
+Dialogue: 0,0:02:01.34,0:02:02.01,Default,,80,80,60,,{\k15}IS {\k15}BEING {\k35}CANCELED
+Dialogue: 0,0:02:02.01,0:02:02.87,Default,,80,80,60,,{\k21}DUE {\k7}TO {\k20}MULTIPLE {\k35}CLAIMS.
+Dialogue: 0,0:02:03.71,0:02:04.48,Default,,80,80,60,,{\k9}SHE {\k18}SAYS {\k20}I {\k11}SHOULD {\k16}NEVER
+Dialogue: 0,0:02:04.48,0:02:05.31,Default,,80,80,60,,{\k23}HAVE {\k34}CONTACTED {\k25}THEIR
+Dialogue: 0,0:02:05.31,0:02:06.00,Default,,80,80,60,,{\k34}INSURANCE {\k15}AND {\k8}THAT {\k9}I
+Dialogue: 0,0:02:06.00,0:02:06.70,Default,,80,80,60,,{\k12}DID {\k11}IT {\k14}OUT {\k7}OF {\k24}SPITE.
+Dialogue: 0,0:02:07.42,0:02:07.62,Default,,80,80,60,,{\k20}FROM
+Dialogue: 0,0:02:07.62,0:02:08.53,Default,,80,80,60,,{\k9}MY {\k43}PERSPECTIVE, {\k7}THEY
+Dialogue: 0,0:02:08.53,0:02:09.24,Default,,80,80,60,,{\k14}TRIED {\k15}TO {\k18}CHARGE {\k11}US {\k10}FOR
+Dialogue: 0,0:02:09.24,0:02:09.87,Default,,80,80,60,,{\k25}SOMETHING {\k15}THAT {\k21}HAPPENED
+Dialogue: 0,0:02:09.87,0:02:10.63,Default,,80,80,60,,{\k14}ON {\k9}THEIR {\k29}PROPERTY {\k21}WHILE
+Dialogue: 0,0:02:10.63,0:02:11.50,Default,,80,80,60,,{\k16}MY {\k25}CHILD {\k15}GOT {\k28}SERIOUSLY
+Dialogue: 0,0:02:11.50,0:02:12.86,Default,,80,80,60,,{\k28}HURT. {\k28}STILL,
+Dialogue: 0,0:02:13.06,0:02:13.75,Default,,80,80,60,,{\k19}I {\k26}WONDERING {\k23}IF
+Dialogue: 0,0:02:13.75,0:02:14.50,Default,,80,80,60,,{\k12}I {\k31}ESCALATED {\k30}THINGS
+Dialogue: 0,0:02:14.50,0:02:15.18,Default,,80,80,60,,{\k68}UNNECESSARILY.
+Dialogue: 0,0:02:15.97,0:02:16.91,Default,,80,80,60,,{\k15}WAS {\k8}I {\k18}WRONG {\k15}FOR {\k35}CONTACTING
+Dialogue: 0,0:02:16.91,0:02:17.84,Default,,80,80,60,,{\k28}THEIR {\k28}INSURANCE {\k36}COMPANY
+Dialogue: 0,0:02:17.84,0:02:18.58,Default,,80,80,60,,{\k34}AFTER {\k40}RECEIVING
+Dialogue: 0,0:02:18.58,0:02:19.12,Default,,80,80,60,,{\k23}THAT {\k30}LETTER?

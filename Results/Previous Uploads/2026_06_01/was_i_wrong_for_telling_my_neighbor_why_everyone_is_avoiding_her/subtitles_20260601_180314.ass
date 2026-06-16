@@ -1,0 +1,170 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.12,0:00:04.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k9}AM {\k6}A {\k86}25-YEAR-OLD
+Dialogue: 0,0:00:04.24,0:00:04.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WOMAN {\k20}LIVING {\k20}IN
+Dialogue: 0,0:00:04.86,0:00:06.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}A {\k13}ROW {\k17}OF {\k14}ATTACHED {\k55}TOWNHOUSES.
+Dialogue: 0,0:00:06.33,0:00:06.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ABOUT {\k33}FOURTEEN
+Dialogue: 0,0:00:06.96,0:00:07.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MONTHS {\k28}AGO, {\k33}A
+Dialogue: 0,0:00:07.75,0:00:08.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}NEW {\k18}COUPLE {\k21}MOVED {\k18}INTO
+Dialogue: 0,0:00:08.46,0:00:09.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}THE {\k14}UNIT {\k22}NEXT {\k15}TO
+Dialogue: 0,0:00:09.11,0:00:09.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MINE.
+Dialogue: 0,0:00:09.64,0:00:10.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}FOR {\k9}THE {\k19}FIRST {\k22}FEW
+Dialogue: 0,0:00:10.25,0:00:11.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}MONTHS, {\k30}EVERYTHING
+Dialogue: 0,0:00:11.30,0:00:12.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}SEEMED {\k34}NORMAL.
+Dialogue: 0,0:00:12.17,0:00:13.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THEN {\k12}THE {\k35}RENOVATION {\k24}WORK
+Dialogue: 0,0:00:13.00,0:00:13.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}STARTED.
+Dialogue: 0,0:00:13.35,0:00:14.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}AND {\k12}IT {\k19}NEVER
+Dialogue: 0,0:00:14.09,0:00:14.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SEEMED {\k16}TO {\k20}END.
+Dialogue: 0,0:00:14.90,0:00:15.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}FOR {\k24}ROUGHLY {\k27}SEVEN {\k16}MONTHS
+Dialogue: 0,0:00:15.66,0:00:16.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}STRAIGHT, {\k37}THERE
+Dialogue: 0,0:00:16.33,0:00:17.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HAS {\k16}BEEN {\k44}CONSTRUCTION
+Dialogue: 0,0:00:17.10,0:00:17.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AT {\k7}THEIR {\k26}PROPERTY {\k27}SIX
+Dialogue: 0,0:00:17.89,0:00:18.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}DAYS {\k9}A {\k24}WEEK.
+Dialogue: 0,0:00:18.96,0:00:19.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k23}CREWS {\k23}ARRIVE {\k21}AROUND
+Dialogue: 0,0:00:19.71,0:00:20.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}8 {\k9}IN {\k8}THE {\k21}MORNING,
+Dialogue: 0,0:00:20.55,0:00:21.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}SOMETIMES {\k35}EVEN
+Dialogue: 0,0:00:21.16,0:00:21.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}EARLIER, {\k30}AND {\k7}THE {\k22}NOISE
+Dialogue: 0,0:00:21.94,0:00:23.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}BEGINS {\k44}IMMEDIATELY.
+Dialogue: 0,0:00:23.26,0:00:23.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT {\k12}IS {\k14}NOT {\k17}JUST {\k12}THE
+Dialogue: 0,0:00:23.94,0:00:24.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}SOUND {\k20}OF {\k14}TOOLS {\k15}AND
+Dialogue: 0,0:00:24.57,0:00:25.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}MACHINERY.
+Dialogue: 0,0:00:25.32,0:00:25.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}THE {\k28}WORKERS {\k32}REGULARLY
+Dialogue: 0,0:00:25.98,0:00:26.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}SHOUT {\k19}ACROSS {\k16}THE
+Dialogue: 0,0:00:26.64,0:00:28.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}PROPERTY, {\k10}SING {\k23}LOUDLY,
+Dialogue: 0,0:00:28.14,0:00:28.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}BLAST {\k38}MUSIC, {\k35}AND
+Dialogue: 0,0:00:28.98,0:00:29.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}CARRY {\k10}ON {\k37}CONVERSATIONS
+Dialogue: 0,0:00:29.67,0:00:30.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}AT {\k16}FULL {\k35}VOLUME.
+Dialogue: 0,0:00:30.89,0:00:31.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}SEVERAL {\k30}NEIGHBORS
+Dialogue: 0,0:00:31.51,0:00:32.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HAVE {\k34}POLITELY {\k19}ASKED
+Dialogue: 0,0:00:32.21,0:00:32.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THEM {\k9}TO {\k16}KEEP {\k15}IT {\k12}DOWN
+Dialogue: 0,0:00:32.92,0:00:33.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}DURING {\k18}THE {\k15}EARLY {\k24}MORNING
+Dialogue: 0,0:00:33.74,0:00:34.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}HOURS, {\k42}ESPECIALLY
+Dialogue: 0,0:00:34.78,0:00:35.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ON {\k25}WEEKENDS.
+Dialogue: 0,0:00:35.97,0:00:37.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}INSTEAD {\k17}OF {\k46}COOPERATING,
+Dialogue: 0,0:00:37.10,0:00:37.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}SOME {\k11}OF {\k8}THE {\k17}WORKERS {\k21}SEEM
+Dialogue: 0,0:00:37.78,0:00:38.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k17}TAKE {\k10}IT {\k12}AS {\k3}A
+Dialogue: 0,0:00:38.38,0:00:39.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}CHALLENGE {\k20}AND {\k20}BECOME
+Dialogue: 0,0:00:39.02,0:00:40.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}EVEN {\k17}LOUDER.
+Dialogue: 0,0:00:40.02,0:00:40.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}THE {\k17}CREWS {\k16}HAVE {\k21}ALSO
+Dialogue: 0,0:00:40.64,0:00:41.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}CAUSED {\k37}OTHER
+Dialogue: 0,0:00:41.25,0:00:42.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}ISSUES {\k32}THROUGHOUT {\k15}THE
+Dialogue: 0,0:00:42.00,0:00:42.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}NEIGHBORHOOD.
+Dialogue: 0,0:00:42.82,0:00:43.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}WORK {\k44}MATERIALS {\k21}AND
+Dialogue: 0,0:00:43.56,0:00:44.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DEBRIS {\k43}OCCASIONALLY
+Dialogue: 0,0:00:44.21,0:00:44.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}END {\k15}UP {\k14}IN {\k17}NEARBY
+Dialogue: 0,0:00:44.93,0:00:45.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}YARDS, {\k39}AND
+Dialogue: 0,0:00:45.61,0:00:46.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}WORKERS {\k19}HAVE {\k17}ENTERED
+Dialogue: 0,0:00:46.29,0:00:46.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}PRIVATE {\k29}GARDENS
+Dialogue: 0,0:00:46.89,0:00:47.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}TO {\k22}RETRIEVE {\k33}ITEMS
+Dialogue: 0,0:00:47.67,0:00:49.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WITHOUT {\k28}ASKING {\k33}PERMISSION.
+Dialogue: 0,0:00:49.11,0:00:49.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THEIR {\k27}VEHICLES {\k50}FREQUENTLY
+Dialogue: 0,0:00:49.97,0:00:50.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}BLOCK {\k15}THE {\k17}NARROW {\k21}STREET
+Dialogue: 0,0:00:50.75,0:00:51.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}DURING {\k23}BUSY {\k24}MORNING
+Dialogue: 0,0:00:51.53,0:00:52.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}HOURS, {\k14}MAKING {\k15}IT
+Dialogue: 0,0:00:52.47,0:00:53.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}DIFFICULT {\k17}FOR {\k32}RESIDENTS
+Dialogue: 0,0:00:53.32,0:00:54.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}TO {\k5}LEAVE {\k18}FOR {\k19}WORK
+Dialogue: 0,0:00:54.03,0:00:54.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}OR {\k24}SCHOOL.
+Dialogue: 0,0:00:54.75,0:00:55.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHENEVER {\k33}SOMEONE {\k28}ASKS
+Dialogue: 0,0:00:55.57,0:00:56.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THEM {\k10}TO {\k24}MOVE, {\k7}THEY
+Dialogue: 0,0:00:56.64,0:00:57.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}OFTEN {\k29}RESPOND {\k20}WITH
+Dialogue: 0,0:00:57.34,0:00:58.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}VISIBLE {\k46}IRRITATION.
+Dialogue: 0,0:00:58.10,0:00:58.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k53}BECAUSE {\k20}MY
+Dialogue: 0,0:00:58.84,0:00:59.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HOME {\k21}SHARES {\k17}A {\k21}WALL
+Dialogue: 0,0:00:59.61,0:01:00.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}WITH {\k11}THEIRS, {\k6}THE {\k14}IMPACT {\k28}HAS
+Dialogue: 0,0:01:00.70,0:01:02.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}BEEN {\k37}ESPECIALLY {\k42}NOTICEABLE.
+Dialogue: 0,0:01:02.15,0:01:02.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}THE {\k28}CONSTANT {\k35}VIBRATION
+Dialogue: 0,0:01:02.85,0:01:03.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}FROM {\k24}POWER {\k20}TOOLS
+Dialogue: 0,0:01:03.56,0:01:04.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AND {\k24}HEAVY {\k27}EQUIPMENT
+Dialogue: 0,0:01:04.23,0:01:05.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}HAS {\k23}TRIGGERED {\k28}SEVERE
+Dialogue: 0,0:01:05.00,0:01:05.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HEADACHES {\k22}AND {\k39}MIGRAINES
+Dialogue: 0,0:01:05.93,0:01:06.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}FOR {\k14}ME {\k9}ON {\k28}MULTIPLE
+Dialogue: 0,0:01:06.57,0:01:07.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}OCCASIONS.
+Dialogue: 0,0:01:07.59,0:01:08.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WHAT {\k24}MAKES {\k14}IT {\k9}MORE
+Dialogue: 0,0:01:08.21,0:01:08.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}FRUSTRATING {\k33}IS
+Dialogue: 0,0:01:08.95,0:01:09.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THAT {\k11}NONE {\k10}OF {\k11}US {\k22}REALLY
+Dialogue: 0,0:01:09.68,0:01:10.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}KNOW {\k14}WHAT {\k12}IS {\k20}BEING {\k20}DONE.
+Dialogue: 0,0:01:10.90,0:01:11.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k28}PROJECT {\k19}DOES {\k14}NOT
+Dialogue: 0,0:01:11.59,0:01:12.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}APPEAR {\k14}TO {\k8}BE {\k9}A {\k23}MAJOR
+Dialogue: 0,0:01:12.37,0:01:13.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}ADDITION, {\k9}AND {\k17}MOST {\k16}OF
+Dialogue: 0,0:01:13.62,0:01:14.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k18}ACTIVITY {\k41}SEEMS
+Dialogue: 0,0:01:14.31,0:01:15.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k18}INVOLVE {\k20}THE {\k23}EXTERIOR
+Dialogue: 0,0:01:15.07,0:01:16.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}OF {\k9}THE {\k18}HOUSE.
+Dialogue: 0,0:01:16.09,0:01:17.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}YET {\k14}MONTH {\k26}AFTER {\k23}MONTH,
+Dialogue: 0,0:01:17.35,0:01:18.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THE {\k12}WORK {\k48}CONTINUES.
+Dialogue: 0,0:01:18.48,0:01:19.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}A {\k10}FEW {\k17}DAYS {\k26}AGO,
+Dialogue: 0,0:01:19.54,0:01:20.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THE {\k18}WIFE {\k21}NEXT {\k25}DOOR
+Dialogue: 0,0:01:20.37,0:01:21.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}APPROACHED {\k17}ME {\k12}AND {\k14}ASKED
+Dialogue: 0,0:01:21.06,0:01:21.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHY {\k11}THERE {\k18}SEEMED {\k14}TO
+Dialogue: 0,0:01:21.70,0:01:22.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}BE {\k26}TENSION {\k32}BETWEEN
+Dialogue: 0,0:01:22.40,0:01:23.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HER {\k34}FAMILY {\k29}AND
+Dialogue: 0,0:01:23.20,0:01:24.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE {\k14}REST {\k10}OF {\k7}THE {\k28}NEIGHBORHOOD.
+Dialogue: 0,0:01:24.45,0:01:25.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SHE {\k15}LOOKED {\k38}GENUINELY
+Dialogue: 0,0:01:25.18,0:01:25.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k45}CONFUSED.
+Dialogue: 0,0:01:25.98,0:01:26.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k26}DECIDED {\k23}TO
+Dialogue: 0,0:01:26.59,0:01:27.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ANSWER {\k43}HONESTLY.
+Dialogue: 0,0:01:27.20,0:01:28.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}I {\k19}TOLD {\k21}HER,
+Dialogue: 0,0:01:28.37,0:01:29.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}“YOU {\k12}HAVE {\k7}HAD {\k28}NOISY {\k37}CONSTRUCTION
+Dialogue: 0,0:01:29.23,0:01:29.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}HAPPENING {\k23}ALMOST
+Dialogue: 0,0:01:29.93,0:01:30.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}EVERY {\k15}DAY {\k14}FOR
+Dialogue: 0,0:01:30.56,0:01:31.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SEVEN {\k28}MONTHS.
+Dialogue: 0,0:01:31.48,0:01:32.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}PEOPLE {\k15}ARE {\k34}EXHAUSTED
+Dialogue: 0,0:01:32.20,0:01:34.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AND {\k40}FRUSTRATED.
+Dialogue: 0,0:01:34.12,0:01:34.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}SHE {\k15}LOOKED {\k34}HURT
+Dialogue: 0,0:01:34.98,0:01:35.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}BUT {\k28}SIMPLY {\k37}NODDED
+Dialogue: 0,0:01:35.64,0:01:36.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k21}WALKED {\k25}AWAY.
+Dialogue: 0,0:01:36.59,0:01:37.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}A {\k12}FEW {\k20}DAYS {\k29}LATER,
+Dialogue: 0,0:01:37.45,0:01:38.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k4}HER {\k21}HUSBAND {\k43}CONFRONTED
+Dialogue: 0,0:01:38.15,0:01:38.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}ME.
+Dialogue: 0,0:01:38.84,0:01:39.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HE {\k21}SAID {\k17}I {\k16}WAS
+Dialogue: 0,0:01:39.48,0:01:40.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}BEING {\k23}UNFAIR {\k20}AND {\k23}ACTING
+Dialogue: 0,0:01:40.31,0:01:41.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}ANGRY {\k12}OVER {\k33}SOMETHING
+Dialogue: 0,0:01:41.09,0:01:41.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k62}UNAVOIDABLE
+Dialogue: 0,0:01:41.71,0:01:42.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BECAUSE {\k41}CONSTRUCTION {\k24}WORK
+Dialogue: 0,0:01:42.56,0:01:43.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IS {\k34}NATURALLY {\k28}LOUD.
+Dialogue: 0,0:01:43.81,0:01:44.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HE {\k26}ALSO {\k20}ACCUSED
+Dialogue: 0,0:01:44.42,0:01:45.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ME {\k14}OF {\k18}BLAMING {\k26}HIS
+Dialogue: 0,0:01:45.18,0:01:46.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WIFE {\k14}FOR {\k3}THE {\k26}BEHAVIOR {\k23}OF
+Dialogue: 0,0:01:46.01,0:01:47.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k42}CONTRACTORS, {\k21}WHICH
+Dialogue: 0,0:01:47.21,0:01:48.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WAS {\k15}NOT {\k16}WHAT {\k11}I {\k28}INTENDED.
+Dialogue: 0,0:01:48.68,0:01:49.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}ACCORDING {\k26}TO {\k13}HIM,
+Dialogue: 0,0:01:49.51,0:01:50.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}THE {\k14}HOUSE {\k20}REQUIRED {\k51}EXTENSIVE
+Dialogue: 0,0:01:50.43,0:01:51.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}REPAIRS {\k17}TO {\k12}MAKE {\k18}IT
+Dialogue: 0,0:01:51.18,0:01:52.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}LIVABLE, {\k6}AND {\k9}THERE {\k12}WAS {\k14}NO
+Dialogue: 0,0:01:52.14,0:01:53.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WAY {\k25}AROUND {\k14}THE {\k32}DISRUPTION.
+Dialogue: 0,0:01:53.56,0:01:54.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}BEFORE {\k28}LEAVING, {\k7}HE
+Dialogue: 0,0:01:54.43,0:01:55.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}TOLD {\k17}ME {\k12}HE {\k20}HOPED
+Dialogue: 0,0:01:55.12,0:01:55.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k12}NEVER {\k23}FOUND {\k28}MYSELF
+Dialogue: 0,0:01:55.85,0:01:56.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}NEEDING {\k29}MAJOR {\k21}WORK
+Dialogue: 0,0:01:56.64,0:01:57.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}DONE {\k9}ON {\k14}MY {\k14}OWN {\k23}HOUSE.
+Dialogue: 0,0:01:57.92,0:01:59.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}FOR {\k28}ADDITIONAL {\k45}CONTEXT,
+Dialogue: 0,0:01:59.04,0:01:59.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SEVERAL {\k28}NEIGHBORS {\k16}HAVE
+Dialogue: 0,0:01:59.68,0:02:00.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ALREADY {\k34}REPORTED {\k18}THE
+Dialogue: 0,0:02:00.40,0:02:01.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}SITUATION {\k34}TO
+Dialogue: 0,0:02:01.15,0:02:02.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}LOCAL {\k40}AUTHORITIES.
+Dialogue: 0,0:02:02.23,0:02:03.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}HOWEVER, {\k28}BECAUSE
+Dialogue: 0,0:02:03.37,0:02:04.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE {\k15}WORK {\k15}IS {\k20}TAKING
+Dialogue: 0,0:02:04.06,0:02:04.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}PLACE {\k24}DURING {\k23}LEGALLY
+Dialogue: 0,0:02:04.79,0:02:05.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}PERMITTED {\k28}HOURS {\k20}AND
+Dialogue: 0,0:02:05.56,0:02:06.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k38}HOMEOWNERS {\k21}HAVE
+Dialogue: 0,0:02:06.26,0:02:07.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k17}PROPER {\k29}PERMITS, {\k34}OFFICIALS
+Dialogue: 0,0:02:07.34,0:02:08.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HAVE {\k14}SAID {\k13}THERE {\k12}IS {\k18}LITTLE
+Dialogue: 0,0:02:08.12,0:02:09.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THEY {\k15}CAN {\k15}DO.
+Dialogue: 0,0:02:09.08,0:02:09.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NOW {\k10}I {\k9}AM {\k25}WONDERING
+Dialogue: 0,0:02:09.71,0:02:10.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WHETHER {\k18}I {\k21}CROSSED
+Dialogue: 0,0:02:10.37,0:02:11.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}A {\k12}LINE {\k21}BY {\k20}BEING
+Dialogue: 0,0:02:11.02,0:02:11.63,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}SO {\k28}DIRECT {\k19}WHEN
+Dialogue: 0,0:02:11.63,0:02:12.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SHE {\k15}ASKED {\k15}WHY {\k12}THE
+Dialogue: 0,0:02:12.24,0:02:13.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}NEIGHBORHOOD {\k18}SEEMED {\k28}UNHAPPY
+Dialogue: 0,0:02:13.02,0:02:13.91,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WITH {\k17}THEM, {\k7}OR {\k21}WHETHER
+Dialogue: 0,0:02:13.91,0:02:14.63,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k28}SIMPLY {\k29}ANSWERED
+Dialogue: 0,0:02:14.63,0:02:15.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k28}QUESTION {\k18}SHE
+Dialogue: 0,0:02:15.24,0:02:15.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}CHOSE {\k15}TO {\k22}ASK.

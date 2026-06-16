@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.82,0:00:06.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}LAST {\k33}SUNDAY {\k14}I
+Dialogue: 0,0:00:06.48,0:00:07.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WENT {\k18}OUT {\k16}WITH {\k7}A {\k14}GROUP
+Dialogue: 0,0:00:07.16,0:00:07.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}OF {\k24}FRIENDS {\k21}I {\k12}HAVE
+Dialogue: 0,0:00:07.87,0:00:09.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}KNOWN {\k18}FOR {\k5}A {\k14}LONG {\k27}TIME.
+Dialogue: 0,0:00:09.14,0:00:09.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WE {\k9}HAD {\k17}DINNER {\k28}AND
+Dialogue: 0,0:00:09.80,0:00:10.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}LATER {\k17}WENT {\k14}TO {\k4}A {\k13}BOARD
+Dialogue: 0,0:00:10.43,0:00:11.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}GAME {\k24}CAFÉ {\k13}WHERE {\k14}SOME
+Dialogue: 0,0:00:11.17,0:00:11.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}PEOPLE {\k19}DRANK {\k33}ALCOHOL
+Dialogue: 0,0:00:11.93,0:00:13.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WHILE {\k29}OTHERS, {\k27}INCLUDING
+Dialogue: 0,0:00:13.08,0:00:14.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}ME, {\k8}DID {\k16}NOT.
+Dialogue: 0,0:00:14.14,0:00:15.27,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}THE {\k10}DAY {\k27}BEFORE, {\k27}SOMEONE
+Dialogue: 0,0:00:15.27,0:00:15.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IN {\k11}OUR {\k18}GROUP {\k16}CHAT
+Dialogue: 0,0:00:15.88,0:00:16.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}ASKED {\k13}HOW {\k32}EVERYONE
+Dialogue: 0,0:00:16.55,0:00:17.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WAS {\k14}GETTING {\k24}TO {\k9}THE
+Dialogue: 0,0:00:17.19,0:00:17.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}VENUE.
+Dialogue: 0,0:00:17.87,0:00:18.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k16}SAID {\k14}I {\k13}WOULD {\k8}BE
+Dialogue: 0,0:00:18.48,0:00:19.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}DRIVING {\k31}MYSELF {\k28}BECAUSE
+Dialogue: 0,0:00:19.35,0:00:20.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I {\k12}LIVE {\k19}QUITE {\k21}FAR
+Dialogue: 0,0:00:20.05,0:00:20.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AWAY {\k21}AND {\k10}HAD {\k13}AN
+Dialogue: 0,0:00:20.73,0:00:21.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}EARLY {\k22}MORNING {\k21}WORK {\k33}APPOINTMENT
+Dialogue: 0,0:00:21.66,0:00:22.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THE {\k17}NEXT {\k19}DAY.
+Dialogue: 0,0:00:22.69,0:00:23.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k14}DID {\k12}NOT {\k23}OFFER
+Dialogue: 0,0:00:23.33,0:00:24.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k17}DRIVE {\k35}ANYONE
+Dialogue: 0,0:00:24.01,0:00:24.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ELSE, {\k23}AND {\k26}NOBODY
+Dialogue: 0,0:00:24.80,0:00:25.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ASKED {\k12}ME {\k12}TO {\k11}DO {\k12}SO.
+Dialogue: 0,0:00:25.92,0:00:26.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AT {\k10}THE {\k17}CAFÉ, {\k6}I {\k17}STAYED
+Dialogue: 0,0:00:26.82,0:00:27.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}COMPLETELY {\k33}SOBER
+Dialogue: 0,0:00:27.51,0:00:28.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SO {\k10}I {\k12}COULD {\k17}DRIVE
+Dialogue: 0,0:00:28.12,0:00:28.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}HOME {\k23}SAFELY.
+Dialogue: 0,0:00:28.55,0:00:29.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k70}EVERYTHING
+Dialogue: 0,0:00:29.26,0:00:29.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WAS {\k17}GOING {\k19}FINE
+Dialogue: 0,0:00:29.89,0:00:30.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}UNTIL {\k16}NEAR {\k25}CLOSING
+Dialogue: 0,0:00:30.55,0:00:31.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}TIME {\k16}WHEN {\k16}ONE {\k9}OF
+Dialogue: 0,0:00:31.19,0:00:31.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k19}FRIENDS {\k21}SAID {\k14}IT
+Dialogue: 0,0:00:31.87,0:00:32.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k13}GOOD {\k12}THAT {\k10}I {\k13}WOULD {\k8}BE
+Dialogue: 0,0:00:32.56,0:00:33.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}DRIVING {\k39}EVERYONE {\k24}HOME.
+Dialogue: 0,0:00:33.78,0:00:34.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I {\k21}ASSUMED {\k16}THERE
+Dialogue: 0,0:00:34.38,0:00:35.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WAS {\k8}A {\k29}MISUNDERSTANDING {\k42}AND
+Dialogue: 0,0:00:35.28,0:00:36.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}CLARIFIED {\k24}THAT {\k16}I
+Dialogue: 0,0:00:36.02,0:00:36.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WAS {\k20}ONLY {\k32}DRIVING
+Dialogue: 0,0:00:36.70,0:00:37.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}MYSELF.
+Dialogue: 0,0:00:37.50,0:00:38.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THAT {\k12}IS {\k14}WHEN {\k10}I {\k23}LEARNED
+Dialogue: 0,0:00:38.25,0:00:38.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THAT {\k21}ANOTHER {\k30}FRIEND
+Dialogue: 0,0:00:38.92,0:00:39.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HAD {\k11}BEEN {\k24}TELLING {\k30}PEOPLE
+Dialogue: 0,0:00:39.70,0:00:40.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DURING {\k14}THE {\k17}EVENING {\k15}THAT
+Dialogue: 0,0:00:40.43,0:00:41.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k11}WOULD {\k8}NOT {\k11}BE {\k24}DRINKING
+Dialogue: 0,0:00:41.10,0:00:41.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AND {\k10}WOULD {\k17}THEREFORE {\k15}BE
+Dialogue: 0,0:00:41.79,0:00:42.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k44}RESPONSIBLE {\k21}FOR
+Dialogue: 0,0:00:42.46,0:00:43.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}DRIVING {\k33}EVERYONE
+Dialogue: 0,0:00:43.07,0:00:43.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}HOME.
+Dialogue: 0,0:00:43.79,0:00:44.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE {\k29}PROBLEM {\k20}IS
+Dialogue: 0,0:00:44.46,0:00:45.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THAT {\k11}I {\k20}NEVER {\k29}AGREED
+Dialogue: 0,0:00:45.17,0:00:46.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TO {\k15}THIS {\k34}ARRANGEMENT.
+Dialogue: 0,0:00:46.34,0:00:47.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SEVERAL {\k29}FRIENDS {\k16}LIVED
+Dialogue: 0,0:00:47.02,0:00:47.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}IN {\k26}COMPLETELY {\k42}DIFFERENT
+Dialogue: 0,0:00:47.84,0:00:48.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k51}DIRECTIONS {\k20}FROM
+Dialogue: 0,0:00:48.56,0:00:49.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k19}HOME, {\k25}AND {\k20}DRIVING
+Dialogue: 0,0:00:49.35,0:00:50.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}EVERYONE {\k17}WOULD {\k14}HAVE
+Dialogue: 0,0:00:50.06,0:00:50.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ADDED {\k19}MORE {\k12}THAN {\k14}AN
+Dialogue: 0,0:00:50.70,0:00:51.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HOUR {\k14}AND {\k7}A {\k10}HALF {\k15}TO
+Dialogue: 0,0:00:51.35,0:00:52.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}MY {\k19}TRIP.
+Dialogue: 0,0:00:52.17,0:00:52.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k24}ALSO {\k21}HAD
+Dialogue: 0,0:00:52.78,0:00:53.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AN {\k14}EARLY {\k25}MORNING {\k17}WORK
+Dialogue: 0,0:00:53.50,0:00:54.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}APPOINTMENT {\k19}AND {\k17}NEEDED
+Dialogue: 0,0:00:54.25,0:00:55.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TO {\k7}BE {\k29}RESTED.
+Dialogue: 0,0:00:55.21,0:00:55.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SOME {\k21}FRIENDS {\k26}SAID
+Dialogue: 0,0:00:55.88,0:00:56.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}RIDE-SHARING {\k42}SERVICES
+Dialogue: 0,0:00:56.71,0:00:57.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WERE {\k38}EXPENSIVE
+Dialogue: 0,0:00:57.34,0:00:58.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k11}THAT {\k7}THEIR {\k16}PHONE {\k29}BATTERIES
+Dialogue: 0,0:00:58.17,0:00:58.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WERE {\k17}LOW, {\k29}SO
+Dialogue: 0,0:00:58.89,0:00:59.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IT {\k10}WOULD {\k15}BE {\k32}EASIER
+Dialogue: 0,0:00:59.67,0:01:00.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}IF {\k5}I {\k17}HELPED.
+Dialogue: 0,0:01:00.61,0:01:01.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k24}OFFERED {\k14}A {\k32}COMPROMISE.
+Dialogue: 0,0:01:01.96,0:01:02.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k13}COULD {\k16}DRIVE {\k15}THE {\k14}TWO
+Dialogue: 0,0:01:02.61,0:01:03.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}FRIENDS {\k17}WHO {\k11}LIVED {\k25}CLOSEST
+Dialogue: 0,0:01:03.39,0:01:04.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TO {\k14}ME, {\k23}AND {\k8}I
+Dialogue: 0,0:01:04.06,0:01:04.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WOULD {\k15}STAY {\k14}WITH {\k7}THE {\k21}OTHERS
+Dialogue: 0,0:01:04.78,0:01:05.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHILE {\k15}THEY {\k26}ARRANGED
+Dialogue: 0,0:01:05.40,0:01:06.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}TRANSPORTATION.
+Dialogue: 0,0:01:06.54,0:01:07.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k21}ALSO {\k26}WAITED {\k19}WITH
+Dialogue: 0,0:01:07.31,0:01:08.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THEM {\k18}UNTIL {\k17}THEIR {\k32}RIDE-SHARE
+Dialogue: 0,0:01:08.12,0:01:08.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}CARS {\k18}ARRIVED {\k21}SO
+Dialogue: 0,0:01:08.76,0:01:09.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}NOBODY {\k20}WAS {\k15}LEFT
+Dialogue: 0,0:01:09.37,0:01:10.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}STRANDED.
+Dialogue: 0,0:01:10.21,0:01:11.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}HOWEVER, {\k7}THE {\k20}FRIEND {\k20}WHO
+Dialogue: 0,0:01:11.26,0:01:12.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HAD {\k12}TOLD {\k31}OTHERS {\k24}I
+Dialogue: 0,0:01:12.06,0:01:12.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}WOULD {\k14}DRIVE {\k40}EVERYONE
+Dialogue: 0,0:01:12.70,0:01:13.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}BECAME {\k28}UPSET.
+Dialogue: 0,0:01:13.68,0:01:14.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}SHE {\k23}SAID {\k23}I
+Dialogue: 0,0:01:14.28,0:01:14.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}EMBARRASSED {\k6}HER {\k20}BECAUSE {\k20}SHE
+Dialogue: 0,0:01:14.98,0:01:15.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}HAD {\k21}ALREADY {\k24}PROMISED {\k35}PEOPLE
+Dialogue: 0,0:01:15.90,0:01:17.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k10}WOULD {\k15}TAKE {\k15}THEM {\k18}HOME.
+Dialogue: 0,0:01:17.06,0:01:17.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k15}TOLD {\k18}HER {\k14}SHE {\k12}SHOULD
+Dialogue: 0,0:01:17.76,0:01:18.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}NOT {\k15}HAVE {\k16}MADE {\k35}PROMISES
+Dialogue: 0,0:01:18.54,0:01:19.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}INVOLVING {\k24}MY
+Dialogue: 0,0:01:19.18,0:01:19.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}CAR, {\k29}TIME, {\k26}OR
+Dialogue: 0,0:01:19.90,0:01:20.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k51}RESPONSIBILITY {\k42}WITHOUT
+Dialogue: 0,0:01:20.84,0:01:22.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}ASKING {\k14}ME {\k21}FIRST.
+Dialogue: 0,0:01:22.14,0:01:23.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k14}REST {\k16}OF {\k9}THE {\k9}NIGHT {\k28}ENDED
+Dialogue: 0,0:01:23.01,0:01:23.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}AWKWARDLY, {\k26}AND
+Dialogue: 0,0:01:23.71,0:01:24.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}NOW {\k15}SHE {\k10}IS {\k19}TELLING {\k26}OTHER
+Dialogue: 0,0:01:24.57,0:01:25.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}PEOPLE {\k15}THAT {\k9}I {\k15}RUINED
+Dialogue: 0,0:01:25.31,0:01:26.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k21}EVENING {\k18}BY {\k31}REFUSING
+Dialogue: 0,0:01:26.15,0:01:26.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TO {\k18}DRIVE {\k37}EVERYONE
+Dialogue: 0,0:01:26.92,0:01:27.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WHEN {\k12}I {\k14}WAS {\k17}NOT {\k28}DRINKING
+Dialogue: 0,0:01:27.79,0:01:28.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}ANYWAY.
+Dialogue: 0,0:01:28.65,0:01:29.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k14}DO {\k14}NOT {\k15}THINK {\k15}IT
+Dialogue: 0,0:01:29.31,0:01:30.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IS {\k20}UNREASONABLE {\k38}TO
+Dialogue: 0,0:01:30.04,0:01:30.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}SET {\k34}BOUNDARIES {\k33}AROUND
+Dialogue: 0,0:01:30.87,0:01:32.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MY {\k21}TIME {\k12}AND {\k61}RESPONSIBILITY,
+Dialogue: 0,0:01:32.50,0:01:33.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}ESPECIALLY {\k28}WHEN
+Dialogue: 0,0:01:33.20,0:01:33.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k18}NEVER {\k21}AGREED {\k15}TO
+Dialogue: 0,0:01:33.85,0:01:34.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TAKE {\k12}ON {\k9}THAT {\k20}ROLE.
+Dialogue: 0,0:01:34.87,0:01:35.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}STILL, {\k7}I {\k7}AM {\k30}WONDERING
+Dialogue: 0,0:01:35.90,0:01:36.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IF {\k3}I {\k21}HANDLED {\k16}THE
+Dialogue: 0,0:01:36.54,0:01:37.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}SITUATION {\k21}TOO {\k29}STRICTLY.
+Dialogue: 0,0:01:37.84,0:01:38.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AM {\k15}I {\k12}IN {\k6}THE {\k11}WRONG?

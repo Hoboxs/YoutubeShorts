@@ -1,0 +1,143 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.37,0:00:04.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}MY {\k23}MOTHER {\k33}RECENTLY
+Dialogue: 0,0:00:04.17,0:00:04.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}TOLD {\k19}ME {\k12}AND
+Dialogue: 0,0:00:04.79,0:00:05.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}MY {\k17}TWO {\k24}SIBLINGS {\k25}THAT
+Dialogue: 0,0:00:05.58,0:00:06.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}SHE {\k21}EXPECTS {\k24}EACH {\k12}OF
+Dialogue: 0,0:00:06.28,0:00:07.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}US {\k9}TO {\k12}GIVE {\k12}HER {\k13}THE {\k24}EQUIVALENT
+Dialogue: 0,0:00:07.12,0:00:07.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}OF {\k16}ABOUT {\k15}THREE {\k15}HUNDRED
+Dialogue: 0,0:00:07.78,0:00:08.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}DOLLARS {\k54}EVERY
+Dialogue: 0,0:00:08.48,0:00:09.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MONTH {\k19}FOR {\k8}HER {\k41}RETIREMENT.
+Dialogue: 0,0:00:10.17,0:00:10.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ACCORDING {\k28}TO {\k9}HER,
+Dialogue: 0,0:00:11.19,0:00:12.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}SUPPORTING {\k20}HER {\k37}FINANCIALLY
+Dialogue: 0,0:00:12.11,0:00:13.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}IS {\k11}OUR {\k51}RESPONSIBILITY
+Dialogue: 0,0:00:13.03,0:00:13.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}AS {\k6}HER {\k32}CHILDREN.
+Dialogue: 0,0:00:14.66,0:00:15.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}UNDER {\k22}DIFFERENT {\k67}CIRCUMSTANCES,
+Dialogue: 0,0:00:16.17,0:00:16.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k37}PROBABLY {\k17}WOULD
+Dialogue: 0,0:00:16.82,0:00:17.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NOT {\k16}HAVE {\k12}AN {\k17}ISSUE
+Dialogue: 0,0:00:17.46,0:00:17.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}HELPING.
+Dialogue: 0,0:00:18.57,0:00:18.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}BUT
+Dialogue: 0,0:00:18.67,0:00:19.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k14}PART {\k23}THAT {\k17}BOTHERS
+Dialogue: 0,0:00:19.35,0:00:20.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ME {\k16}IS {\k8}THAT {\k16}SHE {\k9}IS
+Dialogue: 0,0:00:20.03,0:00:21.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}NOT {\k32}STRUGGLING {\k53}FINANCIALLY.
+Dialogue: 0,0:00:21.73,0:00:21.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SHE
+Dialogue: 0,0:00:21.92,0:00:22.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}OWNS {\k24}SEVERAL {\k23}RENTAL
+Dialogue: 0,0:00:22.53,0:00:23.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}PROPERTIES {\k22}THAT {\k16}BRING
+Dialogue: 0,0:00:23.26,0:00:24.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IN {\k17}MORE {\k20}INCOME {\k29}EVERY
+Dialogue: 0,0:00:24.05,0:00:24.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MONTH {\k16}THAN {\k17}MOST {\k17}OF
+Dialogue: 0,0:00:24.78,0:00:25.44,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}US {\k19}EARN {\k16}FROM {\k14}OUR
+Dialogue: 0,0:00:25.44,0:00:25.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}JOBS.
+Dialogue: 0,0:00:26.30,0:00:26.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}ALL
+Dialogue: 0,0:00:26.69,0:00:27.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THREE {\k14}OF {\k14}US {\k12}ARE
+Dialogue: 0,0:00:27.30,0:00:27.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}IN {\k9}OUR {\k46}THIRTIES
+Dialogue: 0,0:00:27.98,0:00:28.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AND {\k14}HAVE {\k13}OUR {\k16}OWN {\k33}FAMILIES
+Dialogue: 0,0:00:28.89,0:00:29.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}TO {\k32}SUPPORT.
+Dialogue: 0,0:00:30.23,0:00:30.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k28}SISTERS {\k19}ARE
+Dialogue: 0,0:00:30.83,0:00:31.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}STAY-AT-HOME {\k29}MOTHERS,
+Dialogue: 0,0:00:32.00,0:00:32.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}SO {\k38}REALISTICALLY {\k35}THEIR
+Dialogue: 0,0:00:32.85,0:00:33.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HUSBANDS {\k19}WOULD {\k12}BE {\k11}THE
+Dialogue: 0,0:00:33.50,0:00:34.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}ONES {\k21}PAYING {\k17}THIS {\k17}MONEY
+Dialogue: 0,0:00:34.21,0:00:34.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}EACH {\k14}MONTH.
+Dialogue: 0,0:00:35.38,0:00:35.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I
+Dialogue: 0,0:00:35.52,0:00:36.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ASKED {\k11}MY {\k15}MOTHER {\k16}IF
+Dialogue: 0,0:00:36.14,0:00:36.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}SHE {\k12}GIVES {\k13}HER {\k3}OWN {\k17}PARENTS
+Dialogue: 0,0:00:36.82,0:00:37.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}MONTHLY {\k24}PAYMENTS
+Dialogue: 0,0:00:37.42,0:00:37.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}LIKE {\k24}THIS.
+Dialogue: 0,0:00:38.60,0:00:38.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}SHE
+Dialogue: 0,0:00:38.84,0:00:39.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SAID {\k21}NO,
+Dialogue: 0,0:00:39.52,0:00:40.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ALTHOUGH {\k28}SHE {\k5}HAS {\k44}OCCASIONALLY
+Dialogue: 0,0:00:40.52,0:00:41.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}GIVEN {\k14}THEM {\k25}MONEY
+Dialogue: 0,0:00:41.17,0:00:41.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WHEN {\k25}NEEDED.
+Dialogue: 0,0:00:42.32,0:00:42.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}I
+Dialogue: 0,0:00:42.50,0:00:43.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ALSO {\k25}POINTED {\k20}OUT
+Dialogue: 0,0:00:43.14,0:00:43.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THAT {\k15}WE {\k7}ARE {\k10}ALL {\k20}TRYING
+Dialogue: 0,0:00:43.78,0:00:44.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k15}RAISE {\k32}CHILDREN
+Dialogue: 0,0:00:44.39,0:00:45.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}DURING {\k14}A {\k28}DIFFICULT
+Dialogue: 0,0:00:45.10,0:00:45.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}ECONOMY {\k19}WITH
+Dialogue: 0,0:00:45.75,0:00:46.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HIGH {\k23}LIVING {\k28}COSTS.
+Dialogue: 0,0:00:47.14,0:00:47.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HER
+Dialogue: 0,0:00:47.25,0:00:47.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}RESPONSE {\k24}WAS {\k10}THAT
+Dialogue: 0,0:00:47.88,0:00:48.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THREE {\k20}HUNDRED {\k19}DOLLARS {\k20}IS
+Dialogue: 0,0:00:48.67,0:00:49.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}“NOT {\k14}THAT {\k35}MUCH.
+Dialogue: 0,0:00:50.17,0:00:50.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}FOR {\k30}CONTEXT,
+Dialogue: 0,0:00:50.88,0:00:51.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}THE {\k17}AVERAGE {\k32}MONTHLY {\k29}SALARY
+Dialogue: 0,0:00:51.71,0:00:52.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WHERE {\k10}WE {\k14}LIVE {\k14}IS
+Dialogue: 0,0:00:52.38,0:00:53.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AROUND {\k31}ONE {\k31}THOUSAND
+Dialogue: 0,0:00:53.19,0:00:53.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}DOLLARS. {\k31}I
+Dialogue: 0,0:00:53.82,0:00:54.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}TOLD
+Dialogue: 0,0:00:54.14,0:00:54.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HER {\k21}I {\k14}COULD
+Dialogue: 0,0:00:54.82,0:00:55.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}NEVER {\k35}IMAGINE {\k33}DEMANDING
+Dialogue: 0,0:00:55.65,0:00:56.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}FIXED {\k26}MONTHLY {\k33}PAYMENTS
+Dialogue: 0,0:00:56.57,0:00:57.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}FROM {\k17}MY {\k12}OWN {\k25}CHILDREN
+Dialogue: 0,0:00:57.32,0:00:57.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WHILE {\k11}THEY {\k10}WERE {\k17}TRYING
+Dialogue: 0,0:00:57.96,0:00:58.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k19}BUILD {\k17}THEIR {\k16}OWN
+Dialogue: 0,0:00:58.64,0:00:59.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}LIVES {\k21}AND {\k17}RAISE {\k46}FAMILIES.
+Dialogue: 0,0:01:00.34,0:01:00.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SHE
+Dialogue: 0,0:01:00.56,0:01:01.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}RESPONDED {\k25}BY {\k28}SAYING
+Dialogue: 0,0:01:01.38,0:01:02.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THAT {\k19}CHILDREN {\k20}HAVE {\k11}A
+Dialogue: 0,0:01:02.03,0:01:02.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}DUTY {\k24}TO {\k15}TAKE {\k17}CARE
+Dialogue: 0,0:01:02.79,0:01:03.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}OF {\k7}THEIR {\k29}PARENTS.
+Dialogue: 0,0:01:04.09,0:01:04.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}TO {\k10}BE {\k19}FAIR,
+Dialogue: 0,0:01:04.79,0:01:05.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}MY {\k26}PARENTS {\k15}DID {\k23}SPEND
+Dialogue: 0,0:01:05.51,0:01:06.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}A {\k42}SIGNIFICANT {\k35}AMOUNT
+Dialogue: 0,0:01:06.42,0:01:07.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}OF {\k23}MONEY {\k16}ON {\k14}OUR
+Dialogue: 0,0:01:07.12,0:01:07.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}EDUCATION {\k33}GROWING
+Dialogue: 0,0:01:07.81,0:01:08.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}UP.
+Dialogue: 0,0:01:08.76,0:01:08.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WE
+Dialogue: 0,0:01:08.93,0:01:09.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}ALL {\k23}ATTENDED {\k29}PRIVATE
+Dialogue: 0,0:01:09.59,0:01:10.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}SCHOOLS, {\k50}AND
+Dialogue: 0,0:01:10.51,0:01:11.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BECAUSE {\k12}OF {\k15}THAT {\k10}I
+Dialogue: 0,0:01:11.12,0:01:12.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}NOW {\k14}HAVE {\k6}A {\k21}RELATIVELY {\k45}STABLE
+Dialogue: 0,0:01:12.15,0:01:12.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}JOB {\k20}THAT {\k19}PAYS {\k24}ABOVE
+Dialogue: 0,0:01:12.98,0:01:13.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AVERAGE.
+Dialogue: 0,0:01:13.85,0:01:14.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}STILL,
+Dialogue: 0,0:01:14.71,0:01:15.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THIS {\k21}FEELS {\k20}LESS
+Dialogue: 0,0:01:15.35,0:01:16.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}LIKE {\k23}SUPPORT {\k20}AND {\k14}MORE
+Dialogue: 0,0:01:16.07,0:01:16.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}LIKE {\k46}ENTITLEMENT
+Dialogue: 0,0:01:16.70,0:01:17.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TO {\k14}ME.
+Dialogue: 0,0:01:17.84,0:01:18.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ANOTHER {\k57}IMPORTANT
+Dialogue: 0,0:01:18.64,0:01:19.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}DETAIL {\k20}IS {\k7}THAT {\k9}WE
+Dialogue: 0,0:01:19.31,0:01:19.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}ARE {\k25}ASIAN,
+Dialogue: 0,0:01:19.98,0:01:20.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SO {\k14}THERE {\k10}IS {\k29}DEFINITELY
+Dialogue: 0,0:01:20.70,0:01:21.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}A {\k25}CULTURAL {\k52}EXPECTATION
+Dialogue: 0,0:01:21.62,0:01:22.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}OF {\k24}HELPING {\k31}PARENTS
+Dialogue: 0,0:01:22.37,0:01:23.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}FINANCIALLY {\k21}AS
+Dialogue: 0,0:01:23.06,0:01:23.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THEY {\k29}AGE.
+Dialogue: 0,0:01:24.07,0:01:24.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}HOWEVER,
+Dialogue: 0,0:01:25.12,0:01:25.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}NEITHER {\k15}MY {\k21}FATHER
+Dialogue: 0,0:01:25.73,0:01:26.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}NOR {\k19}ANY {\k6}OF {\k14}MY {\k26}IN-LAWS
+Dialogue: 0,0:01:26.56,0:01:27.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ASK {\k9}FOR {\k14}THIS {\k16}KIND
+Dialogue: 0,0:01:27.26,0:01:27.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}OF {\k20}MONTHLY {\k33}PAYMENT.
+Dialogue: 0,0:01:28.73,0:01:28.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY
+Dialogue: 0,0:01:28.85,0:01:29.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FATHER {\k16}HAS {\k17}HIS {\k15}OWN
+Dialogue: 0,0:01:29.59,0:01:30.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}RETIREMENT {\k32}SAVINGS.
+Dialogue: 0,0:01:30.98,0:01:31.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MY
+Dialogue: 0,0:01:31.18,0:01:31.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MOTHER {\k15}DOES {\k14}NOT.
+Dialogue: 0,0:01:32.51,0:01:32.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WHAT
+Dialogue: 0,0:01:32.76,0:01:33.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WORRIES {\k20}ME {\k14}IS {\k9}THE
+Dialogue: 0,0:01:33.45,0:01:34.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}LONG-TERM {\k48}EXPECTATION.
+Dialogue: 0,0:01:35.21,0:01:36.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IF {\k20}EVERY {\k17}PARENT {\k42}EXPECTED
+Dialogue: 0,0:01:36.15,0:01:36.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}SEVERAL {\k28}HUNDRED {\k25}DOLLARS
+Dialogue: 0,0:01:36.93,0:01:37.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}EVERY {\k17}MONTH {\k16}FROM
+Dialogue: 0,0:01:37.54,0:01:38.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THEIR {\k15}ADULT {\k39}CHILDREN,
+Dialogue: 0,0:01:38.68,0:01:39.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}MANY {\k28}PEOPLE {\k24}WOULD
+Dialogue: 0,0:01:39.34,0:01:40.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}END {\k7}UP {\k34}FINANCIALLY {\k39}SUPPORTING
+Dialogue: 0,0:01:40.29,0:01:41.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}MULTIPLE {\k28}SETS {\k18}OF
+Dialogue: 0,0:01:41.06,0:01:41.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}PARENTS {\k17}WHILE {\k32}ALSO
+Dialogue: 0,0:01:41.78,0:01:42.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TRYING {\k14}TO {\k11}RAISE {\k35}CHILDREN
+Dialogue: 0,0:01:42.59,0:01:43.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}OF {\k7}THEIR {\k20}OWN.
+Dialogue: 0,0:01:43.84,0:01:43.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}AM
+Dialogue: 0,0:01:43.95,0:01:44.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k15}WRONG {\k15}FOR {\k26}REFUSING
+Dialogue: 0,0:01:44.64,0:01:45.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TO {\k8}GIVE {\k17}MY {\k21}MOTHER
+Dialogue: 0,0:01:45.29,0:01:46.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MONTHLY {\k29}PAYMENTS {\k32}EVEN
+Dialogue: 0,0:01:46.14,0:01:46.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THOUGH {\k37}CULTURALLY {\k26}IT
+Dialogue: 0,0:01:46.90,0:01:47.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}IS {\k28}SOMEWHAT {\k48}EXPECTED?

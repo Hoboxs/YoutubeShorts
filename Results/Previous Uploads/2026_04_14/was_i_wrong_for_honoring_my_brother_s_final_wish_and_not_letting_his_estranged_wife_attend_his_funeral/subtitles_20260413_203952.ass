@@ -1,0 +1,112 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.83,0:00:05.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}MY {\k20}OLDER {\k15}BROTHER
+Dialogue: 0,0:00:05.51,0:00:06.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}PASSED {\k16}AWAY {\k31}RECENTLY
+Dialogue: 0,0:00:06.25,0:00:06.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}AFTER {\k14}YEARS {\k12}OF
+Dialogue: 0,0:00:06.86,0:00:07.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}DEALING {\k22}WITH {\k27}SERIOUS
+Dialogue: 0,0:00:07.55,0:00:08.22,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}KIDNEY {\k40}PROBLEMS.
+Dialogue: 0,0:00:08.83,0:00:09.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}IT
+Dialogue: 0,0:00:09.08,0:00:09.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}WASN'T {\k33}COMPLETELY
+Dialogue: 0,0:00:09.69,0:00:10.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}UNEXPECTED,
+Dialogue: 0,0:00:10.46,0:00:11.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}BUT {\k9}IT {\k9}WAS {\k22}STILL {\k48}DEVASTATING.
+Dialogue: 0,0:00:12.30,0:00:12.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ABOUT
+Dialogue: 0,0:00:12.51,0:00:13.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SIX {\k17}MONTHS {\k29}BEFORE
+Dialogue: 0,0:00:13.19,0:00:13.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HE {\k19}DIED, {\k9}HIS
+Dialogue: 0,0:00:13.83,0:00:14.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WIFE {\k10}OF {\k19}FIVE {\k14}YEARS
+Dialogue: 0,0:00:14.48,0:00:15.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TOLD {\k20}HIM {\k11}SHE {\k24}WANTED
+Dialogue: 0,0:00:15.24,0:00:15.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}A {\k22}DIVORCE.
+Dialogue: 0,0:00:16.46,0:00:16.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SHE
+Dialogue: 0,0:00:16.67,0:00:17.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SAID {\k14}SHE {\k21}WASN'T {\k22}HAPPY
+Dialogue: 0,0:00:17.42,0:00:18.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AND {\k22}WANTED {\k12}A {\k13}MORE
+Dialogue: 0,0:00:18.05,0:00:18.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}EXCITING {\k43}LIFE.
+Dialogue: 0,0:00:19.60,0:00:19.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NOT
+Dialogue: 0,0:00:19.78,0:00:20.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}LONG {\k37}AFTER,
+Dialogue: 0,0:00:20.53,0:00:21.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}IT {\k21}BECAME {\k19}CLEAR {\k16}SHE
+Dialogue: 0,0:00:21.17,0:00:22.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WAS {\k17}ALREADY {\k25}SEEING {\k26}SOMEONE
+Dialogue: 0,0:00:22.00,0:00:22.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}ELSE.
+Dialogue: 0,0:00:22.82,0:00:23.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}THIS
+Dialogue: 0,0:00:23.14,0:00:23.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}ALL {\k23}HAPPENED {\k23}WHILE {\k16}MY
+Dialogue: 0,0:00:23.89,0:00:24.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}BROTHER'S {\k10}HEALTH {\k16}WAS
+Dialogue: 0,0:00:24.50,0:00:25.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}GETTING {\k21}WORSE {\k30}AGAIN,
+Dialogue: 0,0:00:25.46,0:00:26.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}AND {\k10}IT {\k9}HIT {\k14}HIM {\k17}REALLY {\k30}HARD.
+Dialogue: 0,0:00:27.05,0:00:27.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}DURING
+Dialogue: 0,0:00:27.30,0:00:28.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}HIS {\k16}LAST {\k35}HOSPITAL
+Dialogue: 0,0:00:28.01,0:00:28.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}STAY, {\k6}HE
+Dialogue: 0,0:00:28.64,0:00:29.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MADE {\k17}SURE {\k30}EVERYTHING
+Dialogue: 0,0:00:29.26,0:00:29.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}WAS {\k12}IN {\k21}ORDER.
+Dialogue: 0,0:00:30.67,0:00:30.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HE
+Dialogue: 0,0:00:30.82,0:00:31.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}UPDATED {\k28}HIS {\k7}WILL {\k6}AND
+Dialogue: 0,0:00:31.46,0:00:32.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WAS {\k16}VERY {\k24}CLEAR {\k19}ABOUT
+Dialogue: 0,0:00:32.17,0:00:32.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TWO {\k21}THINGS
+Dialogue: 0,0:00:32.78,0:00:33.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}HE {\k17}DIDN'T {\k11}WANT {\k15}HIS {\k38}ESTRANGED
+Dialogue: 0,0:00:33.67,0:00:34.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WIFE {\k15}TO {\k22}RECEIVE {\k45}ANYTHING,
+Dialogue: 0,0:00:34.65,0:00:35.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k10}HE {\k14}DID {\k11}NOT {\k16}WANT
+Dialogue: 0,0:00:35.38,0:00:35.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HER {\k11}AT {\k10}HIS {\k21}FUNERAL.
+Dialogue: 0,0:00:36.79,0:00:37.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WHEN {\k10}HE {\k20}PASSED {\k19}ABOUT
+Dialogue: 0,0:00:37.43,0:00:37.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}A {\k7}MONTH {\k35}LATER,
+Dialogue: 0,0:00:38.38,0:00:39.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}WE {\k21}FOLLOWED {\k20}THOSE {\k25}WISHES.
+Dialogue: 0,0:00:40.06,0:00:40.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}ON {\k12}THE {\k14}DAY {\k11}OF {\k6}THE {\k28}SERVICE,
+Dialogue: 0,0:00:41.10,0:00:41.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}SHE {\k20}SHOWED {\k11}UP,
+Dialogue: 0,0:00:41.71,0:00:42.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}BUT {\k10}WE {\k14}DIDN'T {\k16}ALLOW {\k14}HER
+Dialogue: 0,0:00:42.34,0:00:42.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}INSIDE.
+Dialogue: 0,0:00:43.35,0:00:43.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}IT
+Dialogue: 0,0:00:43.52,0:00:44.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WASN'T {\k17}ABOUT {\k35}CREATING
+Dialogue: 0,0:00:44.29,0:00:44.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}DRAMA, {\k7}IT
+Dialogue: 0,0:00:44.96,0:00:45.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k15}ABOUT {\k39}RESPECTING
+Dialogue: 0,0:00:45.61,0:00:46.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}WHAT {\k16}HE {\k7}HAD {\k38}EXPLICITLY
+Dialogue: 0,0:00:46.56,0:00:47.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ASKED {\k17}FOR.
+Dialogue: 0,0:00:47.61,0:00:47.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}SINCE
+Dialogue: 0,0:00:47.97,0:00:48.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}THEN, {\k15}SHE'S
+Dialogue: 0,0:00:48.61,0:00:49.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}BEEN {\k17}CALLING {\k19}ME {\k32}HEARTLESS.
+Dialogue: 0,0:00:50.25,0:00:50.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}SOME
+Dialogue: 0,0:00:50.50,0:00:51.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}OF {\k8}HER {\k25}FAMILY {\k28}MEMBERS
+Dialogue: 0,0:00:51.24,0:00:52.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HAVE {\k23}ALSO {\k16}BEEN {\k28}MESSAGING
+Dialogue: 0,0:00:52.06,0:00:52.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ME, {\k15}SAYING
+Dialogue: 0,0:00:52.75,0:00:53.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}I {\k14}WENT {\k17}TOO {\k20}FAR
+Dialogue: 0,0:00:53.46,0:00:54.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}AND {\k12}HAD {\k15}NO {\k16}RIGHT {\k19}TO
+Dialogue: 0,0:00:54.21,0:00:55.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}KEEP {\k14}HER {\k12}FROM {\k17}SAYING {\k32}GOODBYE.
+Dialogue: 0,0:00:55.75,0:00:56.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}A
+Dialogue: 0,0:00:56.06,0:00:56.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}LOT {\k16}OF {\k7}THE {\k12}ANGER {\k25}ALSO
+Dialogue: 0,0:00:56.78,0:00:57.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SEEMS {\k26}TIED {\k14}TO
+Dialogue: 0,0:00:57.38,0:00:58.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}THE {\k12}FACT {\k14}THAT {\k11}SHE {\k24}WASN'T
+Dialogue: 0,0:00:58.06,0:00:58.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}LEFT {\k34}ANYTHING {\k13}IN {\k12}HIS
+Dialogue: 0,0:00:58.78,0:00:58.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WILL.
+Dialogue: 0,0:00:59.71,0:00:59.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HE
+Dialogue: 0,0:00:59.85,0:01:00.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HAD {\k24}ARRANGED {\k17}FOR {\k7}HIS
+Dialogue: 0,0:01:00.46,0:01:01.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SAVINGS {\k25}TO {\k10}GO
+Dialogue: 0,0:01:01.10,0:01:01.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}TOWARD {\k14}MY {\k38}DAUGHTER'S
+Dialogue: 0,0:01:01.84,0:01:02.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}EDUCATION {\k43}INSTEAD.
+Dialogue: 0,0:01:03.39,0:01:03.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WE
+Dialogue: 0,0:01:03.57,0:01:04.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HAVEN'T {\k14}TRIED {\k11}TO {\k26}STOP
+Dialogue: 0,0:01:04.28,0:01:05.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HER {\k14}FROM {\k23}VISITING {\k21}HIS
+Dialogue: 0,0:01:05.01,0:01:05.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}GRAVE {\k13}OR {\k16}DOING {\k33}ANYTHING
+Dialogue: 0,0:01:05.81,0:01:06.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ELSE {\k35}PRIVATELY.
+Dialogue: 0,0:01:07.20,0:01:07.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE
+Dialogue: 0,0:01:07.34,0:01:08.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ONLY {\k32}BOUNDARY {\k21}WAS
+Dialogue: 0,0:01:08.06,0:01:08.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k23}FUNERAL {\k37}ITSELF,
+Dialogue: 0,0:01:08.79,0:01:09.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}BECAUSE {\k15}THAT {\k8}WAS
+Dialogue: 0,0:01:09.40,0:01:10.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ONE {\k8}OF {\k11}HIS {\k21}FINAL,
+Dialogue: 0,0:01:10.15,0:01:11.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}CLEARLY {\k31}STATED {\k32}WISHES.
+Dialogue: 0,0:01:11.85,0:01:12.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:01:12.07,0:01:12.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}UNDERSTAND {\k18}THAT {\k14}GRIEF
+Dialogue: 0,0:01:12.78,0:01:13.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IS {\k48}COMPLICATED,
+Dialogue: 0,0:01:13.90,0:01:14.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}EVEN {\k14}FOR {\k24}SOMEONE {\k17}HE
+Dialogue: 0,0:01:14.65,0:01:15.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}WAS {\k35}SEPARATING {\k20}FROM.
+Dialogue: 0,0:01:16.01,0:01:16.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BUT
+Dialogue: 0,0:01:16.23,0:01:16.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AT {\k8}THE {\k17}SAME {\k21}TIME,
+Dialogue: 0,0:01:16.93,0:01:17.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THIS {\k14}WAS {\k24}SOMETHING {\k14}HE
+Dialogue: 0,0:01:17.54,0:01:18.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}FELT {\k35}STRONGLY {\k23}ABOUT
+Dialogue: 0,0:01:18.28,0:01:19.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AND {\k12}MADE {\k17}CLEAR {\k26}BEFORE
+Dialogue: 0,0:01:19.00,0:01:19.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HE {\k17}DIED.
+Dialogue: 0,0:01:20.09,0:01:20.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WAS
+Dialogue: 0,0:01:20.37,0:01:21.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k18}WRONG {\k17}FOR {\k32}HONORING
+Dialogue: 0,0:01:21.14,0:01:21.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THAT?

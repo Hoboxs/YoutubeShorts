@@ -1,0 +1,95 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.30,0:00:03.00,Default,,0,0,0,,{\an5}I RECENTLY
+Dialogue: 0,0:00:03.00,0:00:03.56,Default,,0,0,0,,{\an5}STARTED A
+Dialogue: 0,0:00:03.56,0:00:04.08,Default,,0,0,0,,{\an5}JOB WHERE THE
+Dialogue: 0,0:00:04.08,0:00:04.63,Default,,0,0,0,,{\an5}SCHEDULE RUNS
+Dialogue: 0,0:00:04.63,0:00:05.29,Default,,0,0,0,,{\an5}10 DAYS ON
+Dialogue: 0,0:00:05.29,0:00:05.74,Default,,0,0,0,,{\an5}AND 10 DAYS
+Dialogue: 0,0:00:05.74,0:00:06.01,Default,,0,0,0,,{\an5}OFF.
+Dialogue: 0,0:00:06.33,0:00:06.90,Default,,0,0,0,,{\an5}IT WAS
+Dialogue: 0,0:00:06.90,0:00:07.54,Default,,0,0,0,,{\an5}MY FIRST FULL
+Dialogue: 0,0:00:07.54,0:00:07.86,Default,,0,0,0,,{\an5}STRETCH.
+Dialogue: 0,0:00:08.16,0:00:08.69,Default,,0,0,0,,{\an5}AND SINCE
+Dialogue: 0,0:00:08.69,0:00:09.19,Default,,0,0,0,,{\an5}I LIVE ABOUT
+Dialogue: 0,0:00:09.19,0:00:09.77,Default,,0,0,0,,{\an5}AN HOUR AND A
+Dialogue: 0,0:00:09.77,0:00:10.24,Default,,0,0,0,,{\an5}HALF FROM THE
+Dialogue: 0,0:00:10.24,0:00:10.46,Default,,0,0,0,,{\an5}SITE.
+Dialogue: 0,0:00:10.75,0:00:11.40,Default,,0,0,0,,{\an5}I ALWAYS
+Dialogue: 0,0:00:11.40,0:00:11.61,Default,,0,0,0,,{\an5}DRIVE
+Dialogue: 0,0:00:11.61,0:00:11.88,Default,,0,0,0,,{\an5}IN.
+Dialogue: 0,0:00:12.00,0:00:12.56,Default,,0,0,0,,{\an5}A LOT OF
+Dialogue: 0,0:00:12.56,0:00:13.08,Default,,0,0,0,,{\an5}THE OTHERS COME
+Dialogue: 0,0:00:13.08,0:00:13.80,Default,,0,0,0,,{\an5}FROM DIFFERENT PARTS
+Dialogue: 0,0:00:13.80,0:00:14.09,Default,,0,0,0,,{\an5}OF ANOTHER
+Dialogue: 0,0:00:14.09,0:00:14.53,Default,,0,0,0,,{\an5}COUNTRY.
+Dialogue: 0,0:00:15.00,0:00:15.58,Default,,0,0,0,,{\an5}SO MOST
+Dialogue: 0,0:00:15.58,0:00:15.88,Default,,0,0,0,,{\an5}OF THEM
+Dialogue: 0,0:00:15.88,0:00:16.10,Default,,0,0,0,,{\an5}FLY.
+Dialogue: 0,0:00:16.39,0:00:17.19,Default,,0,0,0,,{\an5}ABOUT HALFWAY
+Dialogue: 0,0:00:17.19,0:00:17.57,Default,,0,0,0,,{\an5}THROUGH THE
+Dialogue: 0,0:00:17.57,0:00:17.83,Default,,0,0,0,,{\an5}SHIFT.
+Dialogue: 0,0:00:18.03,0:00:18.55,Default,,0,0,0,,{\an5}A GUY
+Dialogue: 0,0:00:18.55,0:00:19.10,Default,,0,0,0,,{\an5}I'D NEVER MET
+Dialogue: 0,0:00:19.10,0:00:19.64,Default,,0,0,0,,{\an5}BEFORE JOINED
+Dialogue: 0,0:00:19.64,0:00:19.82,Default,,0,0,0,,{\an5}OUR
+Dialogue: 0,0:00:19.82,0:00:19.96,Default,,0,0,0,,{\an5}TEAM.
+Dialogue: 0,0:00:20.23,0:00:20.83,Default,,0,0,0,,{\an5}HE WAS A
+Dialogue: 0,0:00:20.83,0:00:21.12,Default,,0,0,0,,{\an5}CONSTANT
+Dialogue: 0,0:00:21.12,0:00:21.60,Default,,0,0,0,,{\an5}SMOKER.
+Dialogue: 0,0:00:21.92,0:00:22.62,Default,,0,0,0,,{\an5}ALWAYS STEPPING
+Dialogue: 0,0:00:22.62,0:00:23.01,Default,,0,0,0,,{\an5}OUT FOR
+Dialogue: 0,0:00:23.01,0:00:23.32,Default,,0,0,0,,{\an5}CIGARETTES.
+Dialogue: 0,0:00:23.73,0:00:24.23,Default,,0,0,0,,{\an5}WHEN OUR
+Dialogue: 0,0:00:24.23,0:00:24.92,Default,,0,0,0,,{\an5}ROTATION WRAPPED
+Dialogue: 0,0:00:24.92,0:00:25.21,Default,,0,0,0,,{\an5}UP.
+Dialogue: 0,0:00:25.42,0:00:26.12,Default,,0,0,0,,{\an5}SOMEONE ASKED
+Dialogue: 0,0:00:26.12,0:00:26.69,Default,,0,0,0,,{\an5}IF I COULD TAKE
+Dialogue: 0,0:00:26.69,0:00:27.32,Default,,0,0,0,,{\an5}HIM TO THE AIRPORT
+Dialogue: 0,0:00:27.32,0:00:27.82,Default,,0,0,0,,{\an5}BECAUSE HE
+Dialogue: 0,0:00:27.82,0:00:28.35,Default,,0,0,0,,{\an5}KNEW I HAD MY
+Dialogue: 0,0:00:28.35,0:00:28.71,Default,,0,0,0,,{\an5}CAR WITH
+Dialogue: 0,0:00:28.71,0:00:28.87,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:00:28.87,0:00:29.53,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:29.53,0:00:30.05,Default,,0,0,0,,{\an5}TOLD THEM I
+Dialogue: 0,0:00:30.05,0:00:30.67,Default,,0,0,0,,{\an5}COULDN'T AND
+Dialogue: 0,0:00:30.67,0:00:31.33,Default,,0,0,0,,{\an5}THEN I LEFT
+Dialogue: 0,0:00:31.33,0:00:31.94,Default,,0,0,0,,{\an5}WHAT I
+Dialogue: 0,0:00:31.94,0:00:32.46,Default,,0,0,0,,{\an5}DIDN'T SAY WAS
+Dialogue: 0,0:00:32.46,0:00:33.06,Default,,0,0,0,,{\an5}THAT I DIDN'T WANT
+Dialogue: 0,0:00:33.06,0:00:33.64,Default,,0,0,0,,{\an5}MY CAR TO END
+Dialogue: 0,0:00:33.64,0:00:34.25,Default,,0,0,0,,{\an5}UP SMELLING LIKE
+Dialogue: 0,0:00:34.25,0:00:35.24,Default,,0,0,0,,{\an5}SMOKE AND
+Dialogue: 0,0:00:35.24,0:00:35.96,Default,,0,0,0,,{\an5}I ALSO DIDN'T
+Dialogue: 0,0:00:35.96,0:00:36.52,Default,,0,0,0,,{\an5}WANT TO BECOME THE
+Dialogue: 0,0:00:36.52,0:00:37.06,Default,,0,0,0,,{\an5}PERSON EVERYONE
+Dialogue: 0,0:00:37.06,0:00:37.97,Default,,0,0,0,,{\an5}AUTOMATICALLY RELIES
+Dialogue: 0,0:00:37.97,0:00:38.60,Default,,0,0,0,,{\an5}ON FOR AIRPORT
+Dialogue: 0,0:00:38.60,0:00:39.89,Default,,0,0,0,,{\an5}RIDES EVERY
+Dialogue: 0,0:00:39.89,0:00:40.53,Default,,0,0,0,,{\an5}TIME WE FINISH
+Dialogue: 0,0:00:40.53,0:00:41.47,Default,,0,0,0,,{\an5}A SHIFT NOW,
+Dialogue: 0,0:00:41.53,0:00:42.03,Default,,0,0,0,,{\an5}I'VE HEARD PEOPLE
+Dialogue: 0,0:00:42.03,0:00:42.70,Default,,0,0,0,,{\an5}ARE TALKING ABOUT
+Dialogue: 0,0:00:42.70,0:00:43.32,Default,,0,0,0,,{\an5}IT AND
+Dialogue: 0,0:00:43.32,0:00:44.02,Default,,0,0,0,,{\an5}APPARENTLY HE'S
+Dialogue: 0,0:00:44.02,0:00:44.53,Default,,0,0,0,,{\an5}ANNOYED WITH ME
+Dialogue: 0,0:00:44.53,0:00:45.06,Default,,0,0,0,,{\an5}FOR NOT TAKING
+Dialogue: 0,0:00:45.06,0:00:45.79,Default,,0,0,0,,{\an5}HIM I
+Dialogue: 0,0:00:45.79,0:00:46.32,Default,,0,0,0,,{\an5}STILL BELIEVE
+Dialogue: 0,0:00:46.32,0:00:46.84,Default,,0,0,0,,{\an5}I HAD THE RIGHT
+Dialogue: 0,0:00:46.84,0:00:47.34,Default,,0,0,0,,{\an5}TO SAY NO,
+Dialogue: 0,0:00:47.47,0:00:47.97,Default,,0,0,0,,{\an5}BUT DOES
+Dialogue: 0,0:00:47.97,0:00:48.52,Default,,0,0,0,,{\an5}THAT MAKE ME
+Dialogue: 0,0:00:48.52,0:00:48.75,Default,,0,0,0,,{\an5}THE BAD
+Dialogue: 0,0:00:48.75,0:00:48.97,Default,,0,0,0,,{\an5}GUY?

@@ -1,0 +1,84 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.29,0:00:05.04,Default,,0,0,0,,\N{\k29}I {\k12}WAS {\k16}HANGING {\k16}OUT
+Dialogue: 0,0:00:05.04,0:00:05.75,Default,,0,0,0,,\N{\k12}WITH {\k5}A {\k22}FRIEND {\k15}AND {\k16}SOME
+Dialogue: 0,0:00:05.75,0:00:06.48,Default,,0,0,0,,\N{\k14}OF {\k8}HER {\k13}OTHER {\k36}FRIENDS,
+Dialogue: 0,0:00:06.62,0:00:07.44,Default,,0,0,0,,\N{\k8}TILL {\k8}I {\k21}DON'T {\k16}REALLY {\k28}KNOW.
+Dialogue: 0,0:00:08.17,0:00:08.92,Default,,0,0,0,,\N{\k24}DURING {\k11}THE {\k38}CONVERSATION,
+Dialogue: 0,0:00:09.40,0:00:10.35,Default,,0,0,0,,\N{\k11}SHE {\k17}BROUGHT {\k16}UP {\k8}AN {\k41}ACQUAINTANCE
+Dialogue: 0,0:00:10.35,0:00:11.06,Default,,0,0,0,,\N{\k12}OF {\k9}HER {\k14}SON {\k16}THEN {\k17}TURNED
+Dialogue: 0,0:00:11.06,0:00:12.03,Default,,0,0,0,,\N{\k17}TO {\k8}ME {\k9}AND {\k17}SAID, {\k13}SHE'S
+Dialogue: 0,0:00:12.03,0:00:12.93,Default,,0,0,0,,\N{\k6}AN {\k33}ALCOHOLIC, {\k8}SO
+Dialogue: 0,0:00:12.93,0:00:13.59,Default,,0,0,0,,\N{\k9}YOU {\k30}PROBABLY {\k25}KNOW
+Dialogue: 0,0:00:13.59,0:00:13.80,Default,,0,0,0,,\N{\k20}HER.
+Dialogue: 0,0:00:15.16,0:00:15.88,Default,,0,0,0,,\N{\k35}THE {\k35}IMPLICATION
+Dialogue: 0,0:00:15.88,0:00:16.67,Default,,0,0,0,,\N{\k24}WAS {\k30}OBVIOUS {\k25}THAT
+Dialogue: 0,0:00:16.67,0:00:17.32,Default,,0,0,0,,\N{\k21}I'M {\k4}AN {\k37}ALCOHOLIC.
+Dialogue: 0,0:00:18.10,0:00:18.98,Default,,0,0,0,,\N{\k21}THE {\k21}THING {\k16}IS, {\k8}I
+Dialogue: 0,0:00:18.98,0:00:19.48,Default,,0,0,0,,\N{\k25}BARELY {\k24}DRINK.
+Dialogue: 0,0:00:20.26,0:00:20.87,Default,,0,0,0,,\N{\k21}I {\k17}MIGHT {\k21}ACCEPT
+Dialogue: 0,0:00:20.87,0:00:21.53,Default,,0,0,0,,\N{\k17}A {\k16}GLASS {\k17}OF {\k14}WINE
+Dialogue: 0,0:00:21.53,0:00:22.14,Default,,0,0,0,,\N{\k14}OR {\k30}CHAMPAGNE {\k16}AT
+Dialogue: 0,0:00:22.14,0:00:23.28,Default,,0,0,0,,\N{\k5}A {\k22}SOCIAL {\k29}VENT, {\k22}MAYBE
+Dialogue: 0,0:00:23.28,0:00:23.96,Default,,0,0,0,,\N{\k27}ONCE {\k14}A {\k14}MONTH {\k12}AT
+Dialogue: 0,0:00:23.96,0:00:24.17,Default,,0,0,0,,\N{\k21}MOST.
+Dialogue: 0,0:00:25.05,0:00:25.71,Default,,0,0,0,,\N{\k32}I'VE {\k14}NEVER {\k19}BEEN
+Dialogue: 0,0:00:25.71,0:00:26.48,Default,,0,0,0,,\N{\k22}DRUNK {\k19}IN {\k14}MY {\k19}LIFE
+Dialogue: 0,0:00:26.48,0:00:27.16,Default,,0,0,0,,\N{\k9}AND {\k10}I'VE {\k17}NEVER {\k14}HAD {\k16}MORE
+Dialogue: 0,0:00:27.16,0:00:27.82,Default,,0,0,0,,\N{\k12}THAN {\k17}ONE {\k19}GLASS {\k16}AT
+Dialogue: 0,0:00:27.82,0:00:28.07,Default,,0,0,0,,\N{\k14}A {\k11}TIME.
+Dialogue: 0,0:00:28.66,0:00:29.44,Default,,0,0,0,,\N{\k35}I'VE {\k12}NEVER {\k30}EVEN
+Dialogue: 0,0:00:29.44,0:00:30.07,Default,,0,0,0,,\N{\k13}HAD {\k10}A {\k12}DRINK {\k16}IN {\k11}FRONT
+Dialogue: 0,0:00:30.07,0:00:30.64,Default,,0,0,0,,\N{\k18}OF {\k13}THIS {\k24}FRIEND.
+Dialogue: 0,0:00:31.26,0:00:32.03,Default,,0,0,0,,\N{\k25}I {\k14}WAS {\k17}CAUGHT {\k19}OFF
+Dialogue: 0,0:00:32.03,0:00:32.89,Default,,0,0,0,,\N{\k11}GUARD {\k14}AND {\k17}SAID, {\k7}WHY
+Dialogue: 0,0:00:32.89,0:00:33.52,Default,,0,0,0,,\N{\k12}WOULD {\k7}YOU {\k14}THINK {\k14}I {\k14}KNOW
+Dialogue: 0,0:00:33.52,0:00:34.20,Default,,0,0,0,,\N{\k15}HER {\k20}BECAUSE {\k23}SHE'S {\k8}AN
+Dialogue: 0,0:00:34.20,0:00:34.38,Default,,0,0,0,,\N{\k17}ALCOHOLIC?
+Dialogue: 0,0:00:35.47,0:00:36.25,Default,,0,0,0,,\N{\k22}I'M {\k7}NOT {\k11}AN {\k35}ALCOHOLIC.
+Dialogue: 0,0:00:36.96,0:00:37.70,Default,,0,0,0,,\N{\k25}I {\k21}HARDLY {\k26}EVEN
+Dialogue: 0,0:00:37.70,0:00:37.93,Default,,0,0,0,,\N{\k23}DRINK.
+Dialogue: 0,0:00:39.24,0:00:39.89,Default,,0,0,0,,\N{\k28}SHE {\k19}ROLLED {\k17}HER
+Dialogue: 0,0:00:39.89,0:00:40.64,Default,,0,0,0,,\N{\k16}EYES {\k11}AND {\k24}REPLIES {\k21}SO
+Dialogue: 0,0:00:40.64,0:00:41.47,Default,,0,0,0,,\N{\k46}CASTICALLY, {\k5}OF
+Dialogue: 0,0:00:41.47,0:00:42.21,Default,,0,0,0,,\N{\k22}COURSE, {\k14}I'M
+Dialogue: 0,0:00:42.21,0:00:43.25,Default,,0,0,0,,\N{\k16}SURE {\k25}YOU'RE {\k14}NOT {\k47}LIKE
+Dialogue: 0,0:00:43.25,0:00:44.02,Default,,0,0,0,,\N{\k16}I {\k10}WAS {\k11}SOME {\k17}KIND {\k20}OF
+Dialogue: 0,0:00:44.02,0:00:44.60,Default,,0,0,0,,\N{\k17}ADDICT {\k19}AND {\k20}DENIAL.
+Dialogue: 0,0:00:45.53,0:00:46.25,Default,,0,0,0,,\N{\k34}THAT {\k21}REALLY {\k15}UPSET
+Dialogue: 0,0:00:46.25,0:00:46.47,Default,,0,0,0,,\N{\k21}ME.
+Dialogue: 0,0:00:47.24,0:00:47.88,Default,,0,0,0,,\N{\k14}NOT {\k23}ONLY {\k14}WAS {\k12}SHE
+Dialogue: 0,0:00:47.88,0:00:49.03,Default,,0,0,0,,\N{\k19}MAKING {\k12}A {\k23}SERIOUS {\k60}ACCUSATION,
+Dialogue: 0,0:00:49.43,0:00:50.06,Default,,0,0,0,,\N{\k8}BUT {\k11}SHE {\k14}DID {\k10}IT {\k5}IN {\k12}FRONT
+Dialogue: 0,0:00:50.06,0:00:50.74,Default,,0,0,0,,\N{\k14}OF {\k19}PEOPLE {\k12}I {\k9}HAD {\k12}JUST
+Dialogue: 0,0:00:50.74,0:00:51.42,Default,,0,0,0,,\N{\k23}MET, {\k16}MAKING
+Dialogue: 0,0:00:51.42,0:00:52.06,Default,,0,0,0,,\N{\k11}IT {\k14}SEEM {\k16}LIKE {\k13}I {\k8}HAVE
+Dialogue: 0,0:00:52.06,0:00:52.78,Default,,0,0,0,,\N{\k11}SOME {\k21}KIND {\k12}OF {\k25}PROBLEM.
+Dialogue: 0,0:00:53.64,0:00:54.42,Default,,0,0,0,,\N{\k24}I {\k21}FELT {\k32}EMBARRASSED
+Dialogue: 0,0:00:54.42,0:00:54.84,Default,,0,0,0,,\N{\k14}AND {\k28}ANGRY.
+Dialogue: 0,0:00:55.57,0:00:56.21,Default,,0,0,0,,\N{\k21}I {\k22}DIDN'T {\k9}LET {\k10}IT
+Dialogue: 0,0:00:56.21,0:00:56.67,Default,,0,0,0,,\N{\k14}GO. {\k32}I
+Dialogue: 0,0:00:56.67,0:00:57.74,Default,,0,0,0,,\N{\k78}KEPT {\k28}PUSHING
+Dialogue: 0,0:00:57.74,0:00:58.50,Default,,0,0,0,,\N{\k23}BACK {\k24}BECAUSE {\k10}I {\k17}FELT
+Dialogue: 0,0:00:58.50,0:00:59.21,Default,,0,0,0,,\N{\k14}LIKE {\k15}SHE {\k10}WAS {\k32}PARTIALLY
+Dialogue: 0,0:00:59.21,0:00:59.82,Default,,0,0,0,,\N{\k32}DAMAGING {\k28}MY
+Dialogue: 0,0:00:59.82,0:01:00.28,Default,,0,0,0,,\N{\k46}REPUTATION.
+Dialogue: 0,0:01:01.03,0:01:01.88,Default,,0,0,0,,\N{\k24}SHE {\k28}EVENTUALLY {\k32}SAID,
+Dialogue: 0,0:01:02.17,0:01:03.07,Default,,0,0,0,,\N{\k10}OH {\k14}MY {\k17}GOD, {\k17}IT'S
+Dialogue: 0,0:01:03.07,0:01:03.64,Default,,0,0,0,,\N{\k10}NOT {\k16}THAT {\k29}DEEP.
+Dialogue: 0,0:01:04.48,0:01:05.21,Default,,0,0,0,,\N{\k23}MOVE {\k18}ON {\k31}ALREADY
+Dialogue: 0,0:01:05.21,0:01:05.93,Default,,0,0,0,,\N{\k42}AND {\k9}HER {\k20}FRIENDS
+Dialogue: 0,0:01:05.93,0:01:06.62,Default,,0,0,0,,\N{\k28}STARTED {\k40}DEFENDING
+Dialogue: 0,0:01:06.62,0:01:07.26,Default,,0,0,0,,\N{\k21}HER {\k28}ACT {\k14}IN
+Dialogue: 0,0:01:07.26,0:01:08.15,Default,,0,0,0,,\N{\k9}LIKE {\k12}I {\k17}WAS {\k50}OVERREACTING
+Dialogue: 0,0:01:08.15,0:01:08.76,Default,,0,0,0,,\N{\k20}AND {\k15}RUINING {\k24}THE
+Dialogue: 0,0:01:08.76,0:01:08.92,Default,,0,0,0,,\N{\k15}MOOD.

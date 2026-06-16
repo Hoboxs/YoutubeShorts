@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.68,0:00:04.28,Default,,80,80,60,,{\k13}I {\k12}WAS {\k15}RAISED {\k18}TO
+Dialogue: 0,0:00:04.28,0:00:04.92,Default,,80,80,60,,{\k21}ALWAYS {\k24}SMILE {\k17}AND
+Dialogue: 0,0:00:04.92,0:00:05.58,Default,,80,80,60,,{\k9}EAT {\k32}POLITELY {\k24}WHEN
+Dialogue: 0,0:00:05.58,0:00:06.29,Default,,80,80,60,,{\k20}I {\k8}A {\k9}GUEST, {\k33}EVEN
+Dialogue: 0,0:00:06.29,0:00:06.92,Default,,80,80,60,,{\k16}IF {\k5}I {\k16}DON {\k24}ENJOY
+Dialogue: 0,0:00:06.92,0:00:08.14,Default,,80,80,60,,{\k16}THE {\k20}FOOD. {\k24}I
+Dialogue: 0,0:00:08.14,0:00:08.77,Default,,80,80,60,,{\k25}USUALLY {\k25}TRY {\k11}A
+Dialogue: 0,0:00:08.77,0:00:09.41,Default,,80,80,60,,{\k10}LITTLE {\k15}OF {\k18}WHATEVER {\k19}IS
+Dialogue: 0,0:00:09.41,0:00:10.19,Default,,80,80,60,,{\k19}SERVED {\k22}AND, {\k35}IF
+Dialogue: 0,0:00:10.19,0:00:11.08,Default,,80,80,60,,{\k12}I {\k16}STILL {\k25}HUNGRY {\k33}LATER,
+Dialogue: 0,0:00:11.30,0:00:11.93,Default,,80,80,60,,{\k8}GRAB {\k29}SOMETHING {\k14}ELSE {\k11}ON
+Dialogue: 0,0:00:11.93,0:00:12.25,Default,,80,80,60,,{\k12}MY {\k19}OWN.
+Dialogue: 0,0:00:13.01,0:00:13.66,Default,,80,80,60,,{\k9}A {\k16}WHILE {\k20}BACK {\k17}I
+Dialogue: 0,0:00:13.66,0:00:14.35,Default,,80,80,60,,{\k24}FOUND {\k27}TINY {\k17}BOTTLES
+Dialogue: 0,0:00:14.35,0:00:14.98,Default,,80,80,60,,{\k28}OF {\k19}TAJ {\k9}N {\k4}AT
+Dialogue: 0,0:00:14.98,0:00:15.83,Default,,80,80,60,,{\k17}STORE {\k14}FOR {\k27}50 {\k25}CENTS
+Dialogue: 0,0:00:15.83,0:00:16.50,Default,,80,80,60,,{\k23}EACH, {\k24}AND {\k7}I {\k10}BOUGHT
+Dialogue: 0,0:00:16.50,0:00:17.78,Default,,80,80,60,,{\k12}A {\k14}BUNCH. {\k14}I
+Dialogue: 0,0:00:17.78,0:00:18.62,Default,,80,80,60,,{\k16}CALL {\k13}THEM {\k20}MY {\k33}EMERGENCY
+Dialogue: 0,0:00:18.62,0:00:19.55,Default,,80,80,60,,{\k51}SPICES {\k9}LITTLE
+Dialogue: 0,0:00:19.55,0:00:20.21,Default,,80,80,60,,{\k38}FLAVOR {\k27}BOOSTERS
+Dialogue: 0,0:00:20.21,0:00:20.96,Default,,80,80,60,,{\k17}I {\k10}CAN {\k28}SPRINKLE {\k17}ON
+Dialogue: 0,0:00:20.96,0:00:21.66,Default,,80,80,60,,{\k3}A {\k10}MEAL {\k16}I {\k17}DON {\k21}ENJOY
+Dialogue: 0,0:00:21.66,0:00:22.39,Default,,80,80,60,,{\k21}SO {\k17}IT {\k16}S {\k17}TO
+Dialogue: 0,0:00:22.39,0:00:23.30,Default,,80,80,60,,{\k12}EAT {\k14}WITHOUT {\k26}DRAWING {\k37}ATTENTION.
+Dialogue: 0,0:00:24.14,0:00:24.82,Default,,80,80,60,,{\k12}AT {\k5}A {\k21}RECENT {\k28}FAMILY
+Dialogue: 0,0:00:24.82,0:00:25.55,Default,,80,80,60,,{\k33}GATHERING, {\k7}MY
+Dialogue: 0,0:00:25.55,0:00:26.26,Default,,80,80,60,,{\k8}AUNT {\k23}SERVED {\k10}A {\k12}DISH {\k16}OF
+Dialogue: 0,0:00:26.26,0:00:27.26,Default,,80,80,60,,{\k16}CHICKEN {\k33}SAUSAGE, {\k16}PEPPERS,
+Dialogue: 0,0:00:27.26,0:00:27.87,Default,,80,80,60,,{\k39}AND {\k21}ONIONS
+Dialogue: 0,0:00:27.87,0:00:28.48,Default,,80,80,60,,{\k17}IN {\k6}A {\k17}CREAM {\k17}SAUCE
+Dialogue: 0,0:00:28.48,0:00:29.19,Default,,80,80,60,,{\k25}OVER {\k22}PLAIN {\k23}RICE.
+Dialogue: 0,0:00:30.01,0:00:30.37,Default,,80,80,60,,{\k35}HONESTLY,
+Dialogue: 0,0:00:30.57,0:00:31.21,Default,,80,80,60,,{\k6}IT {\k9}WAS {\k20}BLAND {\k16}AND {\k11}KIND
+Dialogue: 0,0:00:31.21,0:00:31.82,Default,,80,80,60,,{\k16}OF {\k10}OFF-PUTTING {\k17}TO
+Dialogue: 0,0:00:31.82,0:00:31.94,Default,,80,80,60,,{\k12}ME.
+Dialogue: 0,0:00:32.71,0:00:33.35,Default,,80,80,60,,{\k17}WHILE {\k17}NO {\k12}ONE {\k15}WAS
+Dialogue: 0,0:00:33.35,0:00:34.21,Default,,80,80,60,,{\k24}LOOKING, {\k1}I {\k37}SPRINKLED
+Dialogue: 0,0:00:34.21,0:00:34.88,Default,,80,80,60,,{\k14}A {\k14}LITTLE {\k28}TAJ {\k10}ON
+Dialogue: 0,0:00:34.88,0:00:36.14,Default,,80,80,60,,{\k14}MY {\k19}PLATE. {\k17}THE
+Dialogue: 0,0:00:36.14,0:00:36.88,Default,,80,80,60,,{\k21}SPICE {\k20}MADE {\k14}THE {\k17}FOOD
+Dialogue: 0,0:00:36.88,0:00:37.60,Default,,80,80,60,,{\k15}TASTE {\k30}BETTER {\k13}FOR {\k12}ME,
+Dialogue: 0,0:00:37.60,0:00:38.29,Default,,80,80,60,,{\k19}BUT {\k8}IT {\k15}ALSO {\k25}LEFT
+Dialogue: 0,0:00:38.29,0:00:38.89,Default,,80,80,60,,{\k20}RED {\k29}FLECKS {\k10}ON
+Dialogue: 0,0:00:38.89,0:00:39.74,Default,,80,80,60,,{\k10}THE {\k25}DISH, {\k14}WHICH
+Dialogue: 0,0:00:39.74,0:00:40.29,Default,,80,80,60,,{\k21}PEOPLE {\k33}NOTICED.
+Dialogue: 0,0:00:41.25,0:00:42.02,Default,,80,80,60,,{\k35}ADMITTED {\k16}WHAT {\k24}I
+Dialogue: 0,0:00:42.02,0:00:42.74,Default,,80,80,60,,{\k9}DONE {\k10}AND {\k32}EXPLAINED {\k20}THAT
+Dialogue: 0,0:00:42.74,0:00:43.38,Default,,80,80,60,,{\k7}IT {\k7}WAS {\k14}JUST {\k17}A {\k16}WAY
+Dialogue: 0,0:00:43.38,0:00:44.07,Default,,80,80,60,,{\k14}TO {\k13}MAKE {\k14}THE {\k10}MEAL {\k17}MORE
+Dialogue: 0,0:00:44.07,0:00:45.56,Default,,80,80,60,,{\k39}PALATABLE. {\k21}MY
+Dialogue: 0,0:00:45.56,0:00:46.35,Default,,80,80,60,,{\k14}AUNT {\k15}WAS {\k29}OFFENDED {\k20}AND
+Dialogue: 0,0:00:46.35,0:00:47.06,Default,,80,80,60,,{\k7}ASKED {\k16}IF {\k29}HATED {\k16}HER
+Dialogue: 0,0:00:47.06,0:00:47.28,Default,,80,80,60,,{\k21}COOKING.
+Dialogue: 0,0:00:48.11,0:00:48.82,Default,,80,80,60,,{\k12}I {\k15}SAID {\k24}NO, {\k10}SHE
+Dialogue: 0,0:00:48.82,0:00:49.52,Default,,80,80,60,,{\k24}NORMALLY {\k23}MAKES {\k22}GREAT
+Dialogue: 0,0:00:49.52,0:00:50.24,Default,,80,80,60,,{\k21}FOOD, {\k6}IT {\k10}WAS {\k14}JUST
+Dialogue: 0,0:00:50.24,0:00:50.97,Default,,80,80,60,,{\k19}THIS {\k32}PARTICULAR {\k21}DISH
+Dialogue: 0,0:00:50.97,0:00:52.50,Default,,80,80,60,,{\k12}I {\k17}DIDN {\k28}ENJOY. {\k21}SHE
+Dialogue: 0,0:00:52.50,0:00:53.11,Default,,80,80,60,,{\k11}ASKED {\k17}WHY {\k10}I {\k21}HADN
+Dialogue: 0,0:00:53.11,0:00:53.96,Default,,80,80,60,,{\k14}SAID {\k39}ANYTHING, {\k30}AND
+Dialogue: 0,0:00:53.96,0:00:54.74,Default,,80,80,60,,{\k10}I {\k23}EXPLAINED {\k17}MY {\k26}UPBRINGING
+Dialogue: 0,0:00:54.74,0:00:55.52,Default,,80,80,60,,{\k25}ABOUT {\k28}ALWAYS {\k24}BEING
+Dialogue: 0,0:00:55.52,0:00:56.28,Default,,80,80,60,,{\k21}POLITE {\k17}AT {\k35}SOMEONE
+Dialogue: 0,0:00:56.28,0:00:57.38,Default,,80,80,60,,{\k21}TABLE. {\k38}THAT
+Dialogue: 0,0:00:57.38,0:00:58.11,Default,,80,80,60,,{\k25}ONLY {\k17}MADE {\k10}HER {\k19}ANGRIER,
+Dialogue: 0,0:00:58.11,0:00:58.75,Default,,80,80,60,,{\k38}AND {\k11}IT {\k14}TURNED
+Dialogue: 0,0:00:58.75,0:00:59.57,Default,,80,80,60,,{\k28}INTO {\k10}AN {\k17}ARGUMENT {\k25}WITH
+Dialogue: 0,0:00:59.57,0:01:00.88,Default,,80,80,60,,{\k12}MY {\k29}PARENTS. {\k22}NOW
+Dialogue: 0,0:01:00.88,0:01:01.64,Default,,80,80,60,,{\k11}THE {\k15}REST {\k14}OF {\k12}THE {\k21}FAMILY
+Dialogue: 0,0:01:01.64,0:01:02.38,Default,,80,80,60,,{\k28}SEEMS {\k25}ANNOYED {\k20}WITH
+Dialogue: 0,0:01:02.38,0:01:03.06,Default,,80,80,60,,{\k15}ME, {\k39}AND {\k12}I
+Dialogue: 0,0:01:03.06,0:01:03.88,Default,,80,80,60,,{\k9}M {\k26}WONDERING, {\k46}WAS
+Dialogue: 0,0:01:03.88,0:01:04.50,Default,,80,80,60,,{\k11}I {\k18}WRONG {\k13}FOR {\k18}USING
+Dialogue: 0,0:01:04.50,0:01:05.15,Default,,80,80,60,,{\k14}A {\k15}LITTLE {\k35}EMERGENCY
+Dialogue: 0,0:01:05.15,0:01:05.81,Default,,80,80,60,,{\k34}SPICE {\k18}TO {\k13}AVOID
+Dialogue: 0,0:01:05.81,0:01:06.56,Default,,80,80,60,,{\k24}HURTING {\k50}ANYONE
+Dialogue: 0,0:01:06.56,0:01:06.76,Default,,80,80,60,,{\k20}FEELINGS?

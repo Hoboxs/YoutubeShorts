@@ -1,0 +1,153 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.86,0:00:05.51,Default,,80,80,60,,{\k29}26 {\k35}AND
+Dialogue: 0,0:00:05.51,0:00:06.28,Default,,80,80,60,,{\k22}SUPPOSED {\k21}TO {\k8}BE {\k5}THE {\k18}BEST
+Dialogue: 0,0:00:06.28,0:00:07.24,Default,,80,80,60,,{\k16}MAN {\k13}FOR {\k12}MY {\k17}OLDER {\k36}BROTHER,
+Dialogue: 0,0:00:07.59,0:00:08.41,Default,,80,80,60,,{\k18}DANIEL, {\k11}WHO
+Dialogue: 0,0:00:08.41,0:00:09.24,Default,,80,80,60,,{\k14}IS {\k41}29 {\k25}AND
+Dialogue: 0,0:00:09.24,0:00:09.88,Default,,80,80,60,,{\k14}GETTING {\k27}MARRIED {\k22}NEXT
+Dialogue: 0,0:00:09.88,0:00:11.03,Default,,80,80,60,,{\k25}MONTH. {\k19}I
+Dialogue: 0,0:00:11.03,0:00:11.67,Default,,80,80,60,,{\k12}LOVE {\k19}HIM, {\k8}BUT
+Dialogue: 0,0:00:11.67,0:00:12.43,Default,,80,80,60,,{\k16}HE {\k16}ALWAYS {\k17}BEEN {\k25}SOMEONE
+Dialogue: 0,0:00:12.43,0:00:13.16,Default,,80,80,60,,{\k14}WHO {\k16}WANTS {\k14}TO {\k15}LOOK {\k12}LIKE
+Dialogue: 0,0:00:13.16,0:00:13.82,Default,,80,80,60,,{\k22}HE {\k11}LIVING {\k9}A {\k22}LUXURY
+Dialogue: 0,0:00:13.82,0:00:14.80,Default,,80,80,60,,{\k41}LIFESTYLE, {\k36}ESPECIALLY
+Dialogue: 0,0:00:14.80,0:00:15.48,Default,,80,80,60,,{\k31}ONLINE, {\k17}EVEN
+Dialogue: 0,0:00:15.48,0:00:16.23,Default,,80,80,60,,{\k13}THOUGH {\k14}HIS {\k24}ACTUAL {\k23}BUDGET
+Dialogue: 0,0:00:16.23,0:00:16.96,Default,,80,80,60,,{\k28}DOESN {\k21}REALLY {\k22}MATCH
+Dialogue: 0,0:00:16.96,0:00:18.17,Default,,80,80,60,,{\k16}THAT {\k21}IMAGE. {\k19}THE
+Dialogue: 0,0:00:18.17,0:00:18.78,Default,,80,80,60,,{\k17}OTHER {\k14}NIGHT {\k17}HE {\k10}CALLED
+Dialogue: 0,0:00:18.78,0:00:19.60,Default,,80,80,60,,{\k19}WHAT {\k35}DESCRIBED {\k26}AS
+Dialogue: 0,0:00:19.60,0:00:20.32,Default,,80,80,60,,{\k9}AN {\k28}IMPORTANT {\k33}PLANNING
+Dialogue: 0,0:00:20.32,0:00:20.98,Default,,80,80,60,,{\k21}MEETING {\k17}WITH {\k14}ALL {\k12}THE
+Dialogue: 0,0:00:20.98,0:00:21.80,Default,,80,80,60,,{\k35}GROOMSMEN {\k21}OVER {\k10}VIDEO
+Dialogue: 0,0:00:21.80,0:00:22.46,Default,,80,80,60,,{\k23}CHAT {\k14}TO {\k12}GO {\k16}OVER
+Dialogue: 0,0:00:22.46,0:00:23.23,Default,,80,80,60,,{\k14}THE {\k25}BACHELOR {\k37}PARTY.
+Dialogue: 0,0:00:23.76,0:00:24.16,Default,,80,80,60,,{\k39}I
+Dialogue: 0,0:00:24.16,0:00:24.89,Default,,80,80,60,,{\k19}ASSUMED {\k21}WE {\k8}BE {\k23}TALKING
+Dialogue: 0,0:00:24.89,0:00:25.69,Default,,80,80,60,,{\k17}ABOUT {\k26}SOMETHING {\k35}SIMPLE,
+Dialogue: 0,0:00:26.12,0:00:26.82,Default,,80,80,60,,{\k23}MAYBE {\k26}RENTING {\k19}A
+Dialogue: 0,0:00:26.82,0:00:27.57,Default,,80,80,60,,{\k16}CABIN {\k21}FOR {\k8}A {\k29}WEEKEND,
+Dialogue: 0,0:00:27.57,0:00:28.17,Default,,80,80,60,,{\k28}GRILLING, {\k16}HANGING
+Dialogue: 0,0:00:28.17,0:00:28.89,Default,,80,80,60,,{\k14}OUT, {\k12}OR {\k14}GOING {\k13}TO
+Dialogue: 0,0:00:28.89,0:00:29.28,Default,,80,80,60,,{\k8}A {\k30}BREWERY.
+Dialogue: 0,0:00:29.98,0:00:30.64,Default,,80,80,60,,{\k32}INSTEAD, {\k8}HE
+Dialogue: 0,0:00:30.64,0:00:31.30,Default,,80,80,60,,{\k19}SHARED {\k16}HIS {\k16}SCREEN {\k14}AND
+Dialogue: 0,0:00:31.30,0:00:31.94,Default,,80,80,60,,{\k25}STARTED {\k38}PRESENTING
+Dialogue: 0,0:00:31.94,0:00:32.67,Default,,80,80,60,,{\k21}A {\k10}FULL {\k42}SLIDESHOW
+Dialogue: 0,0:00:32.67,0:00:33.39,Default,,80,80,60,,{\k34}OUTLINING {\k19}A {\k17}FOUR-DAY
+Dialogue: 0,0:00:33.56,0:00:34.29,Default,,80,80,60,,{\k17}TRIP {\k15}TO {\k12}LAS {\k27}VEGAS.
+Dialogue: 0,0:00:35.11,0:00:35.29,Default,,80,80,60,,{\k17}THE
+Dialogue: 0,0:00:35.29,0:00:36.06,Default,,80,80,60,,{\k17}PLAN {\k30}INCLUDED {\k28}SPLITTING
+Dialogue: 0,0:00:36.06,0:00:36.75,Default,,80,80,60,,{\k15}A {\k32}PENTHOUSE {\k21}SUITE,
+Dialogue: 0,0:00:36.93,0:00:37.61,Default,,80,80,60,,{\k14}BOOKING {\k17}BOTTLE {\k35}SERVICE
+Dialogue: 0,0:00:37.61,0:00:38.52,Default,,80,80,60,,{\k20}AT {\k21}MULTIPLE {\k48}NIGHTCLUBS,
+Dialogue: 0,0:00:39.10,0:00:39.84,Default,,80,80,60,,{\k17}AND {\k28}RENTING {\k28}EXOTIC
+Dialogue: 0,0:00:39.84,0:00:40.53,Default,,80,80,60,,{\k31}SPORTS {\k20}CARS {\k17}FOR
+Dialogue: 0,0:00:40.53,0:00:40.96,Default,,80,80,60,,{\k6}AN {\k35}AFTERNOON.
+Dialogue: 0,0:00:41.78,0:00:42.42,Default,,80,80,60,,{\k21}AFTER {\k15}THE {\k8}CALL {\k17}HE
+Dialogue: 0,0:00:42.42,0:00:43.11,Default,,80,80,60,,{\k23}EMAILED {\k32}EVERYONE {\k14}A
+Dialogue: 0,0:00:43.11,0:00:43.89,Default,,80,80,60,,{\k22}DETAILED {\k23}COST {\k32}BREAKDOWN.
+Dialogue: 0,0:00:44.71,0:00:44.89,Default,,80,80,60,,{\k17}MY
+Dialogue: 0,0:00:44.89,0:00:45.88,Default,,80,80,60,,{\k16}SHARE {\k33}ALONE, {\k16}NOT
+Dialogue: 0,0:00:45.88,0:00:46.60,Default,,80,80,60,,{\k27}INCLUDING {\k18}MY {\k9}OWN {\k16}FLIGHT,
+Dialogue: 0,0:00:46.75,0:00:47.57,Default,,80,80,60,,{\k17}FOOD, {\k24}OR {\k16}ANY {\k23}SPENDING
+Dialogue: 0,0:00:47.57,0:00:48.32,Default,,80,80,60,,{\k39}MONEY, {\k10}WOULD
+Dialogue: 0,0:00:48.32,0:00:49.06,Default,,80,80,60,,{\k11}BE {\k8}A {\k15}LITTLE {\k21}OVER {\k16}3,
+Dialogue: 0,0:00:49.78,0:00:51.21,Default,,80,80,60,,{\k50}500. {\k25}TO
+Dialogue: 0,0:00:51.21,0:00:52.07,Default,,80,80,60,,{\k14}MAKE {\k14}IT {\k17}EVEN {\k39}STRANGER,
+Dialogue: 0,0:00:52.42,0:00:53.07,Default,,80,80,60,,{\k7}HE {\k20}ALSO {\k19}ADDED {\k17}A
+Dialogue: 0,0:00:53.07,0:00:53.75,Default,,80,80,60,,{\k21}GROUP {\k24}OUTFIT {\k21}TO
+Dialogue: 0,0:00:53.75,0:00:54.39,Default,,80,80,60,,{\k8}THE {\k13}LIST {\k12}OF {\k29}REQUIRED
+Dialogue: 0,0:00:54.39,0:00:55.71,Default,,80,80,60,,{\k48}EXPENSES. {\k39}HE
+Dialogue: 0,0:00:55.71,0:00:56.64,Default,,80,80,60,,{\k20}WANTS {\k9}ALL {\k12}THE {\k35}GROOMSMEN
+Dialogue: 0,0:00:56.64,0:00:57.53,Default,,80,80,60,,{\k17}TO {\k11}WEAR {\k28}MATCHING {\k32}MAROON
+Dialogue: 0,0:00:57.53,0:00:58.34,Default,,80,80,60,,{\k25}VELVET {\k24}JACKETS {\k30}AND
+Dialogue: 0,0:00:58.34,0:00:58.97,Default,,80,80,60,,{\k15}THESE {\k24}HUGE {\k23}NOVELTY
+Dialogue: 0,0:00:58.97,0:00:59.82,Default,,80,80,60,,{\k17}WATCHES {\k16}SHAPED {\k17}LIKE
+Dialogue: 0,0:00:59.82,0:01:00.60,Default,,80,80,60,,{\k28}ROULETTE {\k25}WHEELS {\k24}SO
+Dialogue: 0,0:01:00.79,0:01:01.82,Default,,80,80,60,,{\k6}WE {\k14}LOOK {\k35}LEGENDARY {\k46}WALKING
+Dialogue: 0,0:01:01.82,0:01:02.79,Default,,80,80,60,,{\k20}THROUGH {\k35}CASINOS {\k41}TOGETHER.
+Dialogue: 0,0:01:03.28,0:01:03.67,Default,,80,80,60,,{\k39}THE
+Dialogue: 0,0:01:03.67,0:01:04.35,Default,,80,80,60,,{\k17}PART {\k15}THAT {\k14}MAKES {\k20}THIS
+Dialogue: 0,0:01:04.35,0:01:05.07,Default,,80,80,60,,{\k12}HARDER {\k20}TO {\k11}SWALLOW {\k28}IS
+Dialogue: 0,0:01:05.07,0:01:05.93,Default,,80,80,60,,{\k10}THAT {\k25}DANIEL {\k21}IS {\k28}USUALLY
+Dialogue: 0,0:01:05.93,0:01:06.64,Default,,80,80,60,,{\k40}EXTREMELY {\k29}FRUGAL
+Dialogue: 0,0:01:06.64,0:01:07.34,Default,,80,80,60,,{\k15}WHEN {\k10}IT {\k14}COMES {\k17}TO {\k12}HIS
+Dialogue: 0,0:01:07.34,0:01:08.78,Default,,80,80,60,,{\k9}OWN {\k34}SPENDING. {\k26}HIS
+Dialogue: 0,0:01:08.78,0:01:09.62,Default,,80,80,60,,{\k20}FIANC {\k39}HAS {\k24}MENTIONED
+Dialogue: 0,0:01:09.62,0:01:10.28,Default,,80,80,60,,{\k23}BEFORE {\k15}THAT {\k6}HE {\k20}SPENDS
+Dialogue: 0,0:01:10.28,0:01:11.07,Default,,80,80,60,,{\k17}A {\k8}LOT {\k11}OF {\k20}TIME {\k21}HUNTING
+Dialogue: 0,0:01:11.07,0:01:11.68,Default,,80,80,60,,{\k20}DOWN {\k14}THE {\k26}ABSOLUTE
+Dialogue: 0,0:01:11.68,0:01:12.31,Default,,80,80,60,,{\k29}CHEAPEST {\k33}OPTIONS
+Dialogue: 0,0:01:12.31,0:01:12.95,Default,,80,80,60,,{\k40}ONLINE, {\k3}AND
+Dialogue: 0,0:01:12.95,0:01:13.70,Default,,80,80,60,,{\k34}APPARENTLY {\k18}HE {\k21}EVEN
+Dialogue: 0,0:01:13.70,0:01:14.45,Default,,80,80,60,,{\k15}BOUGHT {\k23}BULK {\k35}GROOMSMEN
+Dialogue: 0,0:01:14.45,0:01:15.09,Default,,80,80,60,,{\k16}GIFTS {\k17}FROM {\k12}A {\k17}WHOLESALE
+Dialogue: 0,0:01:15.09,0:01:15.93,Default,,80,80,60,,{\k30}SITE {\k11}TO {\k16}SAVE {\k25}MONEY.
+Dialogue: 0,0:01:16.68,0:01:16.85,Default,,80,80,60,,{\k17}SO
+Dialogue: 0,0:01:16.85,0:01:17.51,Default,,80,80,60,,{\k14}IT {\k15}FEELS {\k21}ODD {\k14}THAT
+Dialogue: 0,0:01:17.51,0:01:18.29,Default,,80,80,60,,{\k14}HE {\k24}COMPLETELY {\k39}COMFORTABLE
+Dialogue: 0,0:01:18.29,0:01:19.04,Default,,80,80,60,,{\k38}ASKING {\k35}EVERYONE
+Dialogue: 0,0:01:19.04,0:01:19.81,Default,,80,80,60,,{\k15}ELSE {\k14}TO {\k15}SPEND {\k31}THOUSANDS
+Dialogue: 0,0:01:19.81,0:01:20.42,Default,,80,80,60,,{\k20}FOR {\k18}ONE {\k21}WEEKEND.
+Dialogue: 0,0:01:21.18,0:01:21.48,Default,,80,80,60,,{\k29}AFTER
+Dialogue: 0,0:01:21.48,0:01:22.15,Default,,80,80,60,,{\k11}THE {\k18}MEETING {\k20}I {\k17}CALLED
+Dialogue: 0,0:01:22.15,0:01:22.85,Default,,80,80,60,,{\k18}HIM {\k37}PRIVATELY {\k14}AND
+Dialogue: 0,0:01:22.85,0:01:23.68,Default,,80,80,60,,{\k26}EXPLAINED {\k19}THAT {\k12}I {\k24}SIMPLY
+Dialogue: 0,0:01:23.68,0:01:24.42,Default,,80,80,60,,{\k27}CAN {\k14}AFFORD {\k32}SOMETHING
+Dialogue: 0,0:01:24.42,0:01:25.18,Default,,80,80,60,,{\k20}LIKE {\k15}THAT {\k17}RIGHT {\k22}NOW.
+Dialogue: 0,0:01:25.81,0:01:26.09,Default,,80,80,60,,{\k28}I
+Dialogue: 0,0:01:26.09,0:01:26.93,Default,,80,80,60,,{\k14}WORK {\k16}IN {\k23}LOGISTICS {\k29}AND
+Dialogue: 0,0:01:26.93,0:01:27.57,Default,,80,80,60,,{\k18}I {\k15}TRYING {\k15}TO {\k14}SAVE
+Dialogue: 0,0:01:27.57,0:01:28.20,Default,,80,80,60,,{\k20}MONEY {\k15}SO {\k12}I {\k14}CAN
+Dialogue: 0,0:01:28.20,0:01:28.90,Default,,80,80,60,,{\k35}EVENTUALLY {\k21}BUY {\k12}A
+Dialogue: 0,0:01:28.90,0:01:30.00,Default,,80,80,60,,{\k19}HOME. {\k23}DROPPING
+Dialogue: 0,0:01:30.00,0:01:30.76,Default,,80,80,60,,{\k26}FOUR {\k50}THOUSAND
+Dialogue: 0,0:01:30.76,0:01:31.64,Default,,80,80,60,,{\k15}ON {\k7}A {\k26}BACHELOR {\k37}PARTY,
+Dialogue: 0,0:01:31.78,0:01:32.50,Default,,80,80,60,,{\k31}ESPECIALLY {\k18}ON {\k21}SHORT
+Dialogue: 0,0:01:32.50,0:01:33.68,Default,,80,80,60,,{\k34}NOTICE, {\k16}JUST
+Dialogue: 0,0:01:33.68,0:01:34.42,Default,,80,80,60,,{\k25}ISN {\k28}REALISTIC {\k20}FOR
+Dialogue: 0,0:01:34.42,0:01:35.35,Default,,80,80,60,,{\k12}ME. {\k12}HE
+Dialogue: 0,0:01:35.35,0:01:36.00,Default,,80,80,60,,{\k15}GOT {\k21}REALLY {\k26}ANGRY
+Dialogue: 0,0:01:36.00,0:01:36.70,Default,,80,80,60,,{\k18}AND {\k21}ACCUSED {\k19}ME {\k10}OF
+Dialogue: 0,0:01:36.70,0:01:37.40,Default,,80,80,60,,{\k11}NOT {\k38}SUPPORTING {\k20}HIM.
+Dialogue: 0,0:01:38.12,0:01:38.23,Default,,80,80,60,,{\k11}HE
+Dialogue: 0,0:01:38.23,0:01:38.92,Default,,80,80,60,,{\k16}SAID {\k14}THIS {\k11}WAS {\k10}A {\k15}ONCE-IN-A-LIFETIME
+Dialogue: 0,0:01:39.40,0:01:40.14,Default,,80,80,60,,{\k57}CELEBRATION {\k15}AND
+Dialogue: 0,0:01:40.14,0:01:40.76,Default,,80,80,60,,{\k9}THAT {\k14}AS {\k4}THE {\k17}BEST {\k16}MAN
+Dialogue: 0,0:01:40.76,0:01:41.45,Default,,80,80,60,,{\k15}IT {\k12}MY {\k14}JOB {\k15}TO {\k11}HELP
+Dialogue: 0,0:01:41.45,0:01:42.18,Default,,80,80,60,,{\k16}MAKE {\k9}THE {\k12}TRIP {\k34}HAPPEN.
+Dialogue: 0,0:01:43.01,0:01:43.64,Default,,80,80,60,,{\k12}NOW {\k12}MY {\k21}PARENTS {\k15}ARE
+Dialogue: 0,0:01:43.64,0:01:44.40,Default,,80,80,60,,{\k20}ALSO {\k17}WEIGHING {\k14}IN {\k7}AND {\k16}TELLING
+Dialogue: 0,0:01:44.40,0:01:45.07,Default,,80,80,60,,{\k15}ME {\k12}TO {\k11}JUST {\k15}PUT {\k12}THE
+Dialogue: 0,0:01:45.07,0:01:45.81,Default,,80,80,60,,{\k26}EXPENSES {\k21}ON {\k6}A {\k19}CREDIT
+Dialogue: 0,0:01:45.81,0:01:46.56,Default,,80,80,60,,{\k26}CARD {\k15}AND {\k16}DEAL {\k15}WITH
+Dialogue: 0,0:01:46.56,0:01:47.28,Default,,80,80,60,,{\k6}IT {\k15}LATER {\k29}BECAUSE {\k20}IT
+Dialogue: 0,0:01:47.28,0:01:47.79,Default,,80,80,60,,{\k7}YOUR {\k28}BROTHER {\k15}WEDDING.
+Dialogue: 0,0:01:49.00,0:01:49.79,Default,,80,80,60,,{\k35}I {\k18}TOLD {\k25}DANIEL
+Dialogue: 0,0:01:49.79,0:01:50.40,Default,,80,80,60,,{\k18}THAT {\k9}IF {\k18}THIS {\k14}TRIP
+Dialogue: 0,0:01:50.40,0:01:51.14,Default,,80,80,60,,{\k17}IS {\k20}TRULY {\k35}MANDATORY
+Dialogue: 0,0:01:51.14,0:01:51.76,Default,,80,80,60,,{\k31}FOR {\k10}THE {\k20}WEDDING
+Dialogue: 0,0:01:51.76,0:01:52.51,Default,,80,80,60,,{\k37}PARTY, {\k7}THEN
+Dialogue: 0,0:01:52.51,0:01:53.23,Default,,80,80,60,,{\k12}I {\k17}MIGHT {\k14}HAVE {\k10}TO {\k17}STEP
+Dialogue: 0,0:01:53.23,0:01:53.98,Default,,80,80,60,,{\k20}DOWN {\k15}AS {\k20}BEST {\k18}MAN
+Dialogue: 0,0:01:53.98,0:01:55.06,Default,,80,80,60,,{\k25}BECAUSE {\k14}I {\k20}CAN {\k48}RESPONSIBLY
+Dialogue: 0,0:01:55.06,0:01:55.68,Default,,80,80,60,,{\k29}SPEND {\k14}THAT {\k18}KIND
+Dialogue: 0,0:01:55.68,0:01:56.93,Default,,80,80,60,,{\k11}OF {\k21}MONEY. {\k23}NOW
+Dialogue: 0,0:01:56.93,0:01:57.65,Default,,80,80,60,,{\k12}THE {\k14}WHOLE {\k45}SITUATION
+Dialogue: 0,0:01:57.65,0:01:58.51,Default,,80,80,60,,{\k28}FEELS {\k28}TENSE {\k29}AND
+Dialogue: 0,0:01:58.51,0:01:59.21,Default,,80,80,60,,{\k7}I {\k30}QUESTIONING {\k31}WHETHER
+Dialogue: 0,0:01:59.21,0:02:00.04,Default,,80,80,60,,{\k21}I {\k14}BEING {\k46}UNREASONABLE.
+Dialogue: 0,0:02:00.85,0:02:01.07,Default,,80,80,60,,{\k21}WAS
+Dialogue: 0,0:02:01.07,0:02:01.76,Default,,80,80,60,,{\k7}I {\k20}WRONG {\k18}FOR {\k21}DRAWING
+Dialogue: 0,0:02:01.76,0:02:02.14,Default,,80,80,60,,{\k15}THAT {\k21}LINE?

@@ -1,0 +1,123 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.94,0:00:04.58,Default,,0,0,0,,\N{\k19}I {\k20}ENJOY {\k24}KNITTING
+Dialogue: 0,0:00:04.58,0:00:05.41,Default,,0,0,0,,\N{\k16}AND {\k20}USUALLY {\k21}MAKE {\k25}THINGS
+Dialogue: 0,0:00:05.41,0:00:06.20,Default,,0,0,0,,\N{\k33}ONLY {\k16}FOR {\k28}MYSELF
+Dialogue: 0,0:00:06.20,0:00:06.92,Default,,0,0,0,,\N{\k13}OR {\k14}MY {\k21}PARTNER {\k21}BECAUSE
+Dialogue: 0,0:00:06.92,0:00:07.87,Default,,0,0,0,,\N{\k13}IT {\k12}TAKES {\k28}TIME, {\k20}SKILL,
+Dialogue: 0,0:00:08.24,0:00:09.03,Default,,0,0,0,,\N{\k1}AND {\k32}EXPENSIVE {\k45}MATERIALS,
+Dialogue: 0,0:00:09.35,0:00:10.01,Default,,0,0,0,,\N{\k17}AND {\k20}I'VE {\k9}LEARNED {\k17}THAT
+Dialogue: 0,0:00:10.01,0:00:10.80,Default,,0,0,0,,\N{\k24}HAND-MADE {\k25}ITEMS {\k28}AREN'T
+Dialogue: 0,0:00:10.80,0:00:11.48,Default,,0,0,0,,\N{\k16}ALWAYS {\k51}APPRECIATED
+Dialogue: 0,0:00:11.48,0:00:12.11,Default,,0,0,0,,\N{\k25}ONCE {\k19}THEY {\k17}LEAVE
+Dialogue: 0,0:00:12.11,0:00:12.58,Default,,0,0,0,,\N{\k12}MY {\k33}HANDS.
+Dialogue: 0,0:00:13.34,0:00:14.08,Default,,0,0,0,,\N{\k39}BECAUSE {\k17}OF {\k16}THAT,
+Dialogue: 0,0:00:14.35,0:00:14.98,Default,,0,0,0,,\N{\k4}I {\k25}GENERALLY {\k19}DON'T, {\k1}AND
+Dialogue: 0,0:00:14.98,0:00:15.74,Default,,0,0,0,,\N{\k8}IT {\k9}GIVES {\k17}FOR {\k16}OTHER {\k24}PEOPLE.
+Dialogue: 0,0:00:16.48,0:00:17.23,Default,,0,0,0,,\N{\k32}ONE {\k43}AFTERNOON,
+Dialogue: 0,0:00:17.37,0:00:18.16,Default,,0,0,0,,\N{\k8}MY {\k46}MOTHER-IN-LAW {\k23}DECIDED
+Dialogue: 0,0:00:18.16,0:00:18.80,Default,,0,0,0,,\N{\k23}TO {\k22}PRESENT {\k17}ME
+Dialogue: 0,0:00:18.80,0:00:19.50,Default,,0,0,0,,\N{\k16}WITH {\k5}WHAT {\k14}SHE {\k33}DRAMATICALLY
+Dialogue: 0,0:00:19.50,0:00:20.28,Default,,0,0,0,,\N{\k30}CALLED {\k17}A {\k30}CHALLENGE.
+Dialogue: 0,0:00:20.96,0:00:21.57,Default,,0,0,0,,\N{\k39}SHE {\k21}SHOWED
+Dialogue: 0,0:00:21.57,0:00:22.19,Default,,0,0,0,,\N{\k14}ME {\k10}A {\k21}PHOTO {\k16}ON
+Dialogue: 0,0:00:22.19,0:00:22.89,Default,,0,0,0,,\N{\k10}HER {\k19}PHONE {\k7}AND {\k32}EXPLAINED
+Dialogue: 0,0:00:22.89,0:00:23.60,Default,,0,0,0,,\N{\k20}THAT {\k7}THE {\k21}CHALLENGE {\k20}WAS
+Dialogue: 0,0:00:23.60,0:00:24.23,Default,,0,0,0,,\N{\k11}FOR {\k12}ME {\k14}TO {\k14}KNIT {\k11}HER
+Dialogue: 0,0:00:24.23,0:00:24.89,Default,,0,0,0,,\N{\k33}SPECIFIC {\k32}DESIGNER
+Dialogue: 0,0:00:24.89,0:00:25.62,Default,,0,0,0,,\N{\k38}STYLE {\k33}SCOFFED
+Dialogue: 0,0:00:25.62,0:00:26.33,Default,,0,0,0,,\N{\k7}TO {\k12}MATCH {\k16}AN {\k14}OUTFIT {\k21}SHE
+Dialogue: 0,0:00:26.33,0:00:27.17,Default,,0,0,0,,\N{\k23}OWNED, {\k23}FRAMING
+Dialogue: 0,0:00:27.17,0:00:27.80,Default,,0,0,0,,\N{\k17}IT {\k16}AS {\k14}IF {\k14}SHE
+Dialogue: 0,0:00:27.80,0:00:28.64,Default,,0,0,0,,\N{\k9}WERE {\k26}TESTING {\k16}MY {\k32}ABILITIES
+Dialogue: 0,0:00:28.64,0:00:29.39,Default,,0,0,0,,\N{\k33}RATHER {\k12}THAN {\k29}SIMPLY
+Dialogue: 0,0:00:29.39,0:00:30.00,Default,,0,0,0,,\N{\k32}ASKING {\k17}FOR {\k10}A
+Dialogue: 0,0:00:30.00,0:00:30.23,Default,,0,0,0,,\N{\k23}FAVOUR.
+Dialogue: 0,0:00:30.96,0:00:31.64,Default,,0,0,0,,\N{\k27}I {\k20}ASKED {\k7}HER {\k12}WHY
+Dialogue: 0,0:00:31.64,0:00:32.28,Default,,0,0,0,,\N{\k12}SHE {\k9}WAS {\k24}CALLING {\k17}AT
+Dialogue: 0,0:00:32.28,0:00:33.06,Default,,0,0,0,,\N{\k6}A {\k23}CHALLENGE {\k17}WHEN {\k10}IT {\k20}SOUNDED
+Dialogue: 0,0:00:33.06,0:00:33.70,Default,,0,0,0,,\N{\k19}LIKE {\k12}A {\k32}STRAIGHTFORWARD
+Dialogue: 0,0:00:33.70,0:00:34.32,Default,,0,0,0,,\N{\k45}REQUEST {\k16}FOR
+Dialogue: 0,0:00:34.32,0:00:35.11,Default,,0,0,0,,\N{\k11}ME {\k12}TO {\k15}MAKE {\k12}HER {\k27}SOMETHING.
+Dialogue: 0,0:00:35.84,0:00:36.47,Default,,0,0,0,,\N{\k19}SHE {\k24}COULDN'T {\k19}REALLY
+Dialogue: 0,0:00:36.47,0:00:37.34,Default,,0,0,0,,\N{\k28}EXPLAIN {\k16}AND {\k14}JUST {\k28}REPEATED
+Dialogue: 0,0:00:37.34,0:00:38.00,Default,,0,0,0,,\N{\k21}THAT {\k9}I {\k12}COULD {\k21}TRY
+Dialogue: 0,0:00:38.00,0:00:38.64,Default,,0,0,0,,\N{\k15}IF {\k10}I {\k14}WAS {\k12}UP {\k11}TO
+Dialogue: 0,0:00:38.64,0:00:38.75,Default,,0,0,0,,\N{\k11}IT.
+Dialogue: 0,0:00:39.38,0:00:40.24,Default,,0,0,0,,\N{\k17}I {\k17}TALKED {\k17}TO {\k5}MY {\k26}PARTNER
+Dialogue: 0,0:00:40.24,0:00:41.20,Default,,0,0,0,,\N{\k21}ABOUT {\k10}IT {\k25}LATER, {\k6}AND
+Dialogue: 0,0:00:41.20,0:00:41.93,Default,,0,0,0,,\N{\k9}HE {\k20}SUGGESTED {\k29}I {\k14}JUST
+Dialogue: 0,0:00:41.93,0:00:42.67,Default,,0,0,0,,\N{\k16}SAY {\k14}NO {\k23}OUTRIGHT, {\k3}BUT
+Dialogue: 0,0:00:42.67,0:00:43.39,Default,,0,0,0,,\N{\k10}I {\k19}FELT {\k20}AWKWARD {\k21}DOING
+Dialogue: 0,0:00:43.39,0:00:44.24,Default,,0,0,0,,\N{\k14}THAT {\k14}AND {\k29}DECIDED {\k26}TO
+Dialogue: 0,0:00:44.24,0:00:44.92,Default,,0,0,0,,\N{\k25}COMPROMISE {\k42}INSTEAD.
+Dialogue: 0,0:00:45.71,0:00:46.35,Default,,0,0,0,,\N{\k35}I {\k17}ASKED {\k10}HER
+Dialogue: 0,0:00:46.35,0:00:47.02,Default,,0,0,0,,\N{\k10}TO {\k15}SEND {\k14}ME {\k10}A {\k16}PHOTO
+Dialogue: 0,0:00:47.02,0:00:47.84,Default,,0,0,0,,\N{\k19}OF {\k12}THE {\k19}OUTFIT, {\k8}WENT
+Dialogue: 0,0:00:47.84,0:00:48.60,Default,,0,0,0,,\N{\k13}TO {\k1}A {\k22}LOCAL {\k17}YARN {\k21}SHOP,
+Dialogue: 0,0:00:48.75,0:00:49.35,Default,,0,0,0,,\N{\k10}PICKED {\k20}OUT {\k17}YARN {\k11}IN
+Dialogue: 0,0:00:49.35,0:00:50.03,Default,,0,0,0,,\N{\k7}A {\k21}SUITABLE {\k38}COLOUR,
+Dialogue: 0,0:00:50.17,0:00:50.78,Default,,0,0,0,,\N{\k6}GRABBED {\k15}THE {\k7}PAIR {\k14}OF {\k16}KNITTING
+Dialogue: 0,0:00:50.78,0:00:51.47,Default,,0,0,0,,\N{\k21}NEEDLES {\k21}FROM {\k14}MY {\k11}OWN
+Dialogue: 0,0:00:51.47,0:00:52.24,Default,,0,0,0,,\N{\k30}SUPPLIES, {\k8}AND
+Dialogue: 0,0:00:52.24,0:00:53.00,Default,,0,0,0,,\N{\k23}ALSO {\k17}BOUGHT {\k14}A {\k20}BEGINNER
+Dialogue: 0,0:00:53.00,0:00:53.57,Default,,0,0,0,,\N{\k32}KNITTING {\k25}GUIDE.
+Dialogue: 0,0:00:54.56,0:00:55.32,Default,,0,0,0,,\N{\k35}THE {\k17}NEXT {\k21}TIME
+Dialogue: 0,0:00:55.32,0:00:55.97,Default,,0,0,0,,\N{\k11}I {\k16}SAW {\k15}HER, {\k7}I
+Dialogue: 0,0:00:55.97,0:00:56.88,Default,,0,0,0,,\N{\k12}GAVE {\k14}HER {\k14}THE {\k11}YARN, {\k14}NEEDLES,
+Dialogue: 0,0:00:57.11,0:00:57.84,Default,,0,0,0,,\N{\k3}AND {\k16}BROKEN {\k25}TOLD {\k12}HER {\k14}THAT
+Dialogue: 0,0:00:57.84,0:00:58.47,Default,,0,0,0,,\N{\k15}THIS {\k11}WAS {\k35}EVERYTHING
+Dialogue: 0,0:00:58.47,0:00:59.11,Default,,0,0,0,,\N{\k17}SHE {\k18}NEEDED {\k15}TO {\k11}MAKE
+Dialogue: 0,0:00:59.11,0:00:59.79,Default,,0,0,0,,\N{\k10}THE {\k17}SCARF {\k39}HERSELF,
+Dialogue: 0,0:01:00.17,0:01:00.78,Default,,0,0,0,,\N{\k24}ASIDE {\k14}FROM {\k21}BUYING
+Dialogue: 0,0:01:00.78,0:01:01.20,Default,,0,0,0,,\N{\k15}THE {\k26}PATTERN.
+Dialogue: 0,0:01:02.20,0:01:02.84,Default,,0,0,0,,\N{\k35}I {\k17}SAID {\k10}I
+Dialogue: 0,0:01:02.84,0:01:03.53,Default,,0,0,0,,\N{\k19}THOUGHT {\k11}IT {\k10}WOULD {\k12}BE {\k15}MORE
+Dialogue: 0,0:01:03.53,0:01:04.14,Default,,0,0,0,,\N{\k21}FITTING {\k20}FOR {\k10}HER {\k7}TO
+Dialogue: 0,0:01:04.14,0:01:05.09,Default,,0,0,0,,\N{\k17}TAKE {\k10}ON {\k6}A {\k20}CHALLENGE {\k41}PERSONALLY
+Dialogue: 0,0:01:05.09,0:01:05.73,Default,,0,0,0,,\N{\k28}AND {\k20}LEARN {\k15}TO
+Dialogue: 0,0:01:05.73,0:01:06.40,Default,,0,0,0,,\N{\k7}KNIT {\k16}SO {\k14}SHE {\k11}COULD {\k16}MAKE
+Dialogue: 0,0:01:06.40,0:01:07.04,Default,,0,0,0,,\N{\k23}EXACTLY {\k28}WHAT {\k12}SHE
+Dialogue: 0,0:01:07.04,0:01:07.34,Default,,0,0,0,,\N{\k29}WANTED.
+Dialogue: 0,0:01:08.15,0:01:08.81,Default,,0,0,0,,\N{\k24}SHE {\k14}LOOKED {\k27}CONFUSED
+Dialogue: 0,0:01:08.81,0:01:09.50,Default,,0,0,0,,\N{\k18}AND {\k50}DISAPPOINTED
+Dialogue: 0,0:01:09.50,0:01:10.14,Default,,0,0,0,,\N{\k20}AND {\k9}MADE {\k12}A {\k21}COMMENT
+Dialogue: 0,0:01:10.14,0:01:10.90,Default,,0,0,0,,\N{\k31}IMPLYING {\k16}THAT {\k11}I {\k16}MUST
+Dialogue: 0,0:01:10.90,0:01:11.51,Default,,0,0,0,,\N{\k14}NOT {\k14}HAVE {\k11}BEEN {\k21}ABLE
+Dialogue: 0,0:01:11.51,0:01:12.26,Default,,0,0,0,,\N{\k16}TO {\k23}FIGURE {\k15}IT {\k18}OUT,
+Dialogue: 0,0:01:12.45,0:01:13.20,Default,,0,0,0,,\N{\k20}EVEN {\k15}THOUGH {\k6}I {\k32}CLARIFIED
+Dialogue: 0,0:01:13.20,0:01:13.93,Default,,0,0,0,,\N{\k17}THAT {\k20}I'D {\k14}ALREADY {\k21}MADE
+Dialogue: 0,0:01:13.93,0:01:14.56,Default,,0,0,0,,\N{\k21}SIMILAR {\k40}SCARVES
+Dialogue: 0,0:01:14.56,0:01:14.81,Default,,0,0,0,,\N{\k25}BEFORE.
+Dialogue: 0,0:01:15.64,0:01:16.43,Default,,0,0,0,,\N{\k28}SHE {\k28}DIDN'T {\k23}ARGUE
+Dialogue: 0,0:01:16.43,0:01:17.14,Default,,0,0,0,,\N{\k18}WITH {\k9}ME {\k42}DIRECTLY,
+Dialogue: 0,0:01:17.40,0:01:18.07,Default,,0,0,0,,\N{\k7}BUT {\k21}LATER {\k15}SHE {\k21}COMPLAINED
+Dialogue: 0,0:01:18.07,0:01:18.93,Default,,0,0,0,,\N{\k20}TO {\k7}MY {\k26}PARTNER, {\k12}SAYING
+Dialogue: 0,0:01:18.93,0:01:19.62,Default,,0,0,0,,\N{\k20}SHE {\k9}HAD {\k18}ONLY {\k20}GIVEN
+Dialogue: 0,0:01:19.62,0:01:20.31,Default,,0,0,0,,\N{\k19}ME {\k12}A {\k12}FUN {\k25}CHALLENGE
+Dialogue: 0,0:01:20.31,0:01:20.98,Default,,0,0,0,,\N{\k18}AND {\k9}THAT {\k12}I {\k26}HADN'T
+Dialogue: 0,0:01:20.98,0:01:21.45,Default,,0,0,0,,\N{\k21}EVEN {\k25}TRIED.
+Dialogue: 0,0:01:22.18,0:01:22.85,Default,,0,0,0,,\N{\k35}HE {\k15}TOLD {\k15}HER
+Dialogue: 0,0:01:22.85,0:01:23.51,Default,,0,0,0,,\N{\k12}THAT {\k9}IT {\k7}WAS {\k35}ULTIMATELY
+Dialogue: 0,0:01:23.51,0:01:24.15,Default,,0,0,0,,\N{\k24}MY {\k39}DECISION.
+Dialogue: 0,0:01:24.95,0:01:25.81,Default,,0,0,0,,\N{\k22}SINCE {\k27}THEN, {\k13}SHE'S
+Dialogue: 0,0:01:25.81,0:01:26.43,Default,,0,0,0,,\N{\k10}BEEN {\k29}POSTING {\k21}VAGUE
+Dialogue: 0,0:01:26.43,0:01:27.21,Default,,0,0,0,,\N{\k28}COMMENTS {\k29}ONLINE {\k20}ABOUT
+Dialogue: 0,0:01:27.21,0:01:28.07,Default,,0,0,0,,\N{\k18}NOT {\k39}UNDERSTANDING {\k28}YOUNGER
+Dialogue: 0,0:01:28.07,0:01:28.73,Default,,0,0,0,,\N{\k29}PEOPLE {\k20}AND {\k15}WHY
+Dialogue: 0,0:01:28.73,0:01:29.35,Default,,0,0,0,,\N{\k34}EVERYTHING {\k14}HAS {\k14}TO
+Dialogue: 0,0:01:29.35,0:01:30.26,Default,,0,0,0,,\N{\k7}BE {\k14}MADE {\k20}SO {\k48}COMPLICATED.
+Dialogue: 0,0:01:31.14,0:01:31.79,Default,,0,0,0,,\N{\k23}I {\k24}DIDN'T {\k17}INTEND
+Dialogue: 0,0:01:31.79,0:01:32.40,Default,,0,0,0,,\N{\k14}TO {\k20}START {\k26}DRAMA,
+Dialogue: 0,0:01:32.64,0:01:33.29,Default,,0,0,0,,\N{\k12}BUT {\k9}I {\k15}ALSO {\k28}DIDN'T
+Dialogue: 0,0:01:33.29,0:01:33.98,Default,,0,0,0,,\N{\k10}WANT {\k15}TO {\k14}COMMIT {\k11}TO {\k16}HOURS
+Dialogue: 0,0:01:33.98,0:01:34.64,Default,,0,0,0,,\N{\k11}OF {\k18}UNPAID {\k35}WORK.

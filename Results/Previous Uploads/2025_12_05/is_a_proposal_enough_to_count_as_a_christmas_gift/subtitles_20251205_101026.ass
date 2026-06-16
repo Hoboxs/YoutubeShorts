@@ -1,0 +1,153 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.20,0:00:02.70,Default,,0,0,0,,{\an5}I HAVE
+Dialogue: 0,0:00:02.70,0:00:03.60,Default,,0,0,0,,{\an5}A FRIEND, LET'S
+Dialogue: 0,0:00:03.60,0:00:04.21,Default,,0,0,0,,{\an5}CALL HIM NATHAN,
+Dialogue: 0,0:00:04.41,0:00:05.01,Default,,0,0,0,,{\an5}WHO I'VE KNOWN
+Dialogue: 0,0:00:05.01,0:00:05.55,Default,,0,0,0,,{\an5}FOR OVER A
+Dialogue: 0,0:00:05.55,0:00:05.79,Default,,0,0,0,,{\an5}DECADE.
+Dialogue: 0,0:00:06.12,0:00:06.74,Default,,0,0,0,,{\an5}NATHAN HAS
+Dialogue: 0,0:00:06.74,0:00:07.28,Default,,0,0,0,,{\an5}ALWAYS BEEN A
+Dialogue: 0,0:00:07.28,0:00:07.82,Default,,0,0,0,,{\an5}SOLID FRIEND,
+Dialogue: 0,0:00:08.00,0:00:08.59,Default,,0,0,0,,{\an5}AND HE WAS
+Dialogue: 0,0:00:08.59,0:00:09.17,Default,,0,0,0,,{\an5}EVEN PART OF
+Dialogue: 0,0:00:09.17,0:00:09.69,Default,,0,0,0,,{\an5}MY OWN WEDDING
+Dialogue: 0,0:00:09.69,0:00:10.01,Default,,0,0,0,,{\an5}CELEBRATION.
+Dialogue: 0,0:00:10.51,0:00:11.01,Default,,0,0,0,,{\an5}HE'S BEEN
+Dialogue: 0,0:00:11.01,0:00:11.74,Default,,0,0,0,,{\an5}DATING HIS GIRLFRIEND,
+Dialogue: 0,0:00:12.09,0:00:12.92,Default,,0,0,0,,{\an5}EMMA, FOR
+Dialogue: 0,0:00:12.92,0:00:13.80,Default,,0,0,0,,{\an5}AROUND SIX YEARS,
+Dialogue: 0,0:00:13.98,0:00:14.69,Default,,0,0,0,,{\an5}AND SHE TRULY
+Dialogue: 0,0:00:14.69,0:00:15.27,Default,,0,0,0,,{\an5}BRINGS OUT THE
+Dialogue: 0,0:00:15.27,0:00:15.61,Default,,0,0,0,,{\an5}BEST IN
+Dialogue: 0,0:00:15.61,0:00:15.80,Default,,0,0,0,,{\an5}HIM.
+Dialogue: 0,0:00:16.01,0:00:16.64,Default,,0,0,0,,{\an5}A FEW WEEKS
+Dialogue: 0,0:00:16.64,0:00:17.46,Default,,0,0,0,,{\an5}AGO, NATHAN
+Dialogue: 0,0:00:17.46,0:00:18.01,Default,,0,0,0,,{\an5}CONFIDED
+Dialogue: 0,0:00:18.01,0:00:18.51,Default,,0,0,0,,{\an5}IN ME THAT HE
+Dialogue: 0,0:00:18.51,0:00:19.07,Default,,0,0,0,,{\an5}WAS PLANNING TO
+Dialogue: 0,0:00:19.07,0:00:19.57,Default,,0,0,0,,{\an5}PROPOSE TO
+Dialogue: 0,0:00:19.57,0:00:20.07,Default,,0,0,0,,{\an5}EMMA OVER THE
+Dialogue: 0,0:00:20.07,0:00:20.48,Default,,0,0,0,,{\an5}HOLIDAYS.
+Dialogue: 0,0:00:21.04,0:00:21.80,Default,,0,0,0,,{\an5}HE'S ARRANGING
+Dialogue: 0,0:00:21.80,0:00:22.42,Default,,0,0,0,,{\an5}FOR HIS PARENTS
+Dialogue: 0,0:00:22.42,0:00:22.96,Default,,0,0,0,,{\an5}TO UNEXPECTEDLY
+Dialogue: 0,0:00:22.96,0:00:23.69,Default,,0,0,0,,{\an5}VISIT
+Dialogue: 0,0:00:23.69,0:00:24.28,Default,,0,0,0,,{\an5}THEM EARLY ONE
+Dialogue: 0,0:00:24.28,0:00:24.80,Default,,0,0,0,,{\an5}MORNING WHILE
+Dialogue: 0,0:00:24.80,0:00:25.78,Default,,0,0,0,,{\an5}THEY'RE SPENDING
+Dialogue: 0,0:00:25.78,0:00:26.51,Default,,0,0,0,,{\an5}CHRISTMAS WITH
+Dialogue: 0,0:00:26.51,0:00:27.48,Default,,0,0,0,,{\an5}HER FAMILY, AND
+Dialogue: 0,0:00:27.48,0:00:27.98,Default,,0,0,0,,{\an5}HE WANTS TO
+Dialogue: 0,0:00:27.98,0:00:28.57,Default,,0,0,0,,{\an5}POP THE QUESTION
+Dialogue: 0,0:00:28.57,0:00:29.16,Default,,0,0,0,,{\an5}DURING THE GIFT
+Dialogue: 0,0:00:29.16,0:00:29.46,Default,,0,0,0,,{\an5}OPENING.
+Dialogue: 0,0:00:30.00,0:00:30.67,Default,,0,0,0,,{\an5}WITH BOTH FAMILIES
+Dialogue: 0,0:00:30.67,0:00:31.51,Default,,0,0,0,,{\an5}PRESENT, WHEN
+Dialogue: 0,0:00:31.51,0:00:32.02,Default,,0,0,0,,{\an5}WE WERE CHATTING
+Dialogue: 0,0:00:32.02,0:00:32.70,Default,,0,0,0,,{\an5}ABOUT THE PLANS,
+Dialogue: 0,0:00:33.00,0:00:33.85,Default,,0,0,0,,{\an5}NATHAN CASUALLY
+Dialogue: 0,0:00:33.85,0:00:34.57,Default,,0,0,0,,{\an5}MENTIONED THAT
+Dialogue: 0,0:00:34.57,0:00:35.07,Default,,0,0,0,,{\an5}HE HADN'T BOUGHT
+Dialogue: 0,0:00:35.07,0:00:35.78,Default,,0,0,0,,{\an5}ANY OTHER CHRISTMAS
+Dialogue: 0,0:00:35.78,0:00:36.43,Default,,0,0,0,,{\an5}PRESENTS FOR
+Dialogue: 0,0:00:36.43,0:00:37.14,Default,,0,0,0,,{\an5}EMMA BECAUSE HE
+Dialogue: 0,0:00:37.14,0:00:37.93,Default,,0,0,0,,{\an5}WAS
+Dialogue: 0,0:00:37.93,0:00:38.78,Default,,0,0,0,,{\an5}COUNTING THE ENGAGEMENT
+Dialogue: 0,0:00:38.78,0:00:39.14,Default,,0,0,0,,{\an5}AS HER
+Dialogue: 0,0:00:39.14,0:00:39.42,Default,,0,0,0,,{\an5}GIFT.
+Dialogue: 0,0:00:39.57,0:00:40.25,Default,,0,0,0,,{\an5}I TOLD HIM
+Dialogue: 0,0:00:40.25,0:00:40.97,Default,,0,0,0,,{\an5}THAT GETTING ENGAGED
+Dialogue: 0,0:00:40.97,0:00:41.61,Default,,0,0,0,,{\an5}AND EXCHANGING
+Dialogue: 0,0:00:41.61,0:00:42.14,Default,,0,0,0,,{\an5}GIFTS DON'T
+Dialogue: 0,0:00:42.14,0:00:42.74,Default,,0,0,0,,{\an5}HAVE TO BE MUTUALLY
+Dialogue: 0,0:00:42.74,0:00:43.24,Default,,0,0,0,,{\an5}EXCLUSIVE.
+Dialogue: 0,0:00:43.85,0:00:44.42,Default,,0,0,0,,{\an5}WHEN I GOT
+Dialogue: 0,0:00:44.42,0:00:45.35,Default,,0,0,0,,{\an5}ENGAGED, EVEN
+Dialogue: 0,0:00:45.35,0:00:45.92,Default,,0,0,0,,{\an5}THOUGH IT WASN'T
+Dialogue: 0,0:00:45.92,0:00:46.52,Default,,0,0,0,,{\an5}DURING A HOLIDAY,
+Dialogue: 0,0:00:46.71,0:00:47.28,Default,,0,0,0,,{\an5}I STILL
+Dialogue: 0,0:00:47.28,0:00:47.85,Default,,0,0,0,,{\an5}RECEIVED OTHER
+Dialogue: 0,0:00:47.85,0:00:48.17,Default,,0,0,0,,{\an5}THOUGHTFUL
+Dialogue: 0,0:00:48.17,0:00:48.53,Default,,0,0,0,,{\an5}GIFTS.
+Dialogue: 0,0:00:48.85,0:00:49.60,Default,,0,0,0,,{\an5}NATHAN ARGUED
+Dialogue: 0,0:00:49.60,0:00:50.10,Default,,0,0,0,,{\an5}THAT THE RING
+Dialogue: 0,0:00:50.10,0:00:50.75,Default,,0,0,0,,{\an5}ALONE WAS MORE
+Dialogue: 0,0:00:50.75,0:00:51.42,Default,,0,0,0,,{\an5}EXPENSIVE THAN
+Dialogue: 0,0:00:51.42,0:00:52.06,Default,,0,0,0,,{\an5}THE USUAL COMBINED
+Dialogue: 0,0:00:52.06,0:00:52.65,Default,,0,0,0,,{\an5}GIFTS HE
+Dialogue: 0,0:00:52.65,0:00:52.96,Default,,0,0,0,,{\an5}MIGHT GET
+Dialogue: 0,0:00:52.96,0:00:53.11,Default,,0,0,0,,{\an5}HER.
+Dialogue: 0,0:00:53.65,0:00:54.28,Default,,0,0,0,,{\an5}WHICH IS TRUE,
+Dialogue: 0,0:00:54.46,0:00:55.15,Default,,0,0,0,,{\an5}BUT HE WASN'T
+Dialogue: 0,0:00:55.15,0:00:55.65,Default,,0,0,0,,{\an5}STRETCHING HIS
+Dialogue: 0,0:00:55.65,0:00:56.20,Default,,0,0,0,,{\an5}BUDGET TO THE
+Dialogue: 0,0:00:56.20,0:00:56.78,Default,,0,0,0,,{\an5}LIMIT AND COULD
+Dialogue: 0,0:00:56.78,0:00:57.42,Default,,0,0,0,,{\an5}REASONABLY GET
+Dialogue: 0,0:00:57.42,0:00:58.02,Default,,0,0,0,,{\an5}A SMALLER GIFT
+Dialogue: 0,0:00:58.02,0:00:58.20,Default,,0,0,0,,{\an5}AS
+Dialogue: 0,0:00:58.20,0:00:58.42,Default,,0,0,0,,{\an5}WELL.
+Dialogue: 0,0:00:58.42,0:00:59.07,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:59.07,0:00:59.67,Default,,0,0,0,,{\an5}ALSO NOTED
+Dialogue: 0,0:00:59.67,0:01:00.35,Default,,0,0,0,,{\an5}THAT SINCE HE WANTED
+Dialogue: 0,0:01:00.35,0:01:01.06,Default,,0,0,0,,{\an5}THE PROPOSAL TO
+Dialogue: 0,0:01:01.06,0:01:02.53,Default,,0,0,0,,{\an5}BE A SURPRISE, NOT
+Dialogue: 0,0:01:02.53,0:01:03.21,Default,,0,0,0,,{\an5}HAVING ANY OTHER
+Dialogue: 0,0:01:03.21,0:01:03.89,Default,,0,0,0,,{\an5}GIFTS WOULD LIKELY
+Dialogue: 0,0:01:03.89,0:01:04.34,Default,,0,0,0,,{\an5}MAKE EMMA
+Dialogue: 0,0:01:04.34,0:01:04.65,Default,,0,0,0,,{\an5}SUSPICIOUS.
+Dialogue: 0,0:01:05.14,0:01:05.87,Default,,0,0,0,,{\an5}WE DEBATED
+Dialogue: 0,0:01:05.87,0:01:06.35,Default,,0,0,0,,{\an5}THIS A BIT
+Dialogue: 0,0:01:06.35,0:01:06.57,Default,,0,0,0,,{\an5}MORE.
+Dialogue: 0,0:01:06.79,0:01:07.62,Default,,0,0,0,,{\an5}NATHAN INSISTED
+Dialogue: 0,0:01:07.62,0:01:08.20,Default,,0,0,0,,{\an5}THAT GETTING
+Dialogue: 0,0:01:08.20,0:01:08.90,Default,,0,0,0,,{\an5}ENGAGED COUNTS
+Dialogue: 0,0:01:08.90,0:01:09.28,Default,,0,0,0,,{\an5}AS A
+Dialogue: 0,0:01:09.28,0:01:09.59,Default,,0,0,0,,{\an5}GIFT.
+Dialogue: 0,0:01:09.65,0:01:10.45,Default,,0,0,0,,{\an5}BUT I EXPLAINED
+Dialogue: 0,0:01:10.45,0:01:11.01,Default,,0,0,0,,{\an5}THAT EMMA WILL
+Dialogue: 0,0:01:11.01,0:01:11.57,Default,,0,0,0,,{\an5}LIKELY STILL
+Dialogue: 0,0:01:11.57,0:01:12.20,Default,,0,0,0,,{\an5}BUY HIM CHRISTMAS
+Dialogue: 0,0:01:12.20,0:01:12.81,Default,,0,0,0,,{\an5}PRESENTS SHE
+Dialogue: 0,0:01:12.81,0:01:13.21,Default,,0,0,0,,{\an5}KNOWS HE'LL
+Dialogue: 0,0:01:13.21,0:01:13.48,Default,,0,0,0,,{\an5}ENJOY.
+Dialogue: 0,0:01:13.76,0:01:14.35,Default,,0,0,0,,{\an5}AND THE
+Dialogue: 0,0:01:14.35,0:01:15.15,Default,,0,0,0,,{\an5}ENGAGEMENT ISN'T
+Dialogue: 0,0:01:15.15,0:01:15.71,Default,,0,0,0,,{\an5}THE SAME TYPE OF
+Dialogue: 0,0:01:15.71,0:01:15.98,Default,,0,0,0,,{\an5}EXCHANGE.
+Dialogue: 0,0:01:16.35,0:01:17.00,Default,,0,0,0,,{\an5}SHE'S NOT
+Dialogue: 0,0:01:17.00,0:01:17.71,Default,,0,0,0,,{\an5}MATERIALISTIC,
+Dialogue: 0,0:01:17.90,0:01:18.45,Default,,0,0,0,,{\an5}BUT SHE DOES
+Dialogue: 0,0:01:18.45,0:01:19.12,Default,,0,0,0,,{\an5}APPRECIATE THE
+Dialogue: 0,0:01:19.12,0:01:19.64,Default,,0,0,0,,{\an5}TRADITION OF
+Dialogue: 0,0:01:19.64,0:01:20.34,Default,,0,0,0,,{\an5}EXCHANGING GIFTS
+Dialogue: 0,0:01:20.34,0:01:20.98,Default,,0,0,0,,{\an5}AND THE THOUGHT BEHIND
+Dialogue: 0,0:01:20.98,0:01:21.28,Default,,0,0,0,,{\an5}THEM.
+Dialogue: 0,0:01:21.70,0:01:22.40,Default,,0,0,0,,{\an5}NATHAN SEEMED
+Dialogue: 0,0:01:22.40,0:01:23.12,Default,,0,0,0,,{\an5}FRUSTRATED BY
+Dialogue: 0,0:01:23.12,0:01:23.68,Default,,0,0,0,,{\an5}MY PERSPECTIVE
+Dialogue: 0,0:01:23.68,0:01:24.26,Default,,0,0,0,,{\an5}AND MENTIONED
+Dialogue: 0,0:01:24.26,0:01:25.04,Default,,0,0,0,,{\an5}HE PROBABLY WON'T
+Dialogue: 0,0:01:25.04,0:01:25.81,Default,,0,0,0,,{\an5}SHARE FURTHER DETAILS
+Dialogue: 0,0:01:26.30,0:01:26.95,Default,,0,0,0,,{\an5}WITH ME
+Dialogue: 0,0:01:26.95,0:01:27.51,Default,,0,0,0,,{\an5}BECAUSE OF OUR
+Dialogue: 0,0:01:27.51,0:01:27.95,Default,,0,0,0,,{\an5}DIFFERING
+Dialogue: 0,0:01:27.95,0:01:28.12,Default,,0,0,0,,{\an5}VIEWS.
+Dialogue: 0,0:01:28.42,0:01:29.04,Default,,0,0,0,,{\an5}I DON'T
+Dialogue: 0,0:01:29.04,0:01:29.65,Default,,0,0,0,,{\an5}WANT TO PUSH THE POINT
+Dialogue: 0,0:01:29.65,0:01:30.56,Default,,0,0,0,,{\an5}TOO HARD, BUT
+Dialogue: 0,0:01:30.56,0:01:31.29,Default,,0,0,0,,{\an5}I'M CURIOUS WHETHER
+Dialogue: 0,0:01:31.29,0:01:32.01,Default,,0,0,0,,{\an5}MY ADVICE REALLY
+Dialogue: 0,0:01:32.01,0:01:32.35,Default,,0,0,0,,{\an5}WAS OFF
+Dialogue: 0,0:01:32.35,0:01:32.57,Default,,0,0,0,,{\an5}BASE.

@@ -1,0 +1,122 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.44,0:00:05.08,Default,,80,80,60,,{\k31}DAUGHTER, {\k13}LENA,
+Dialogue: 0,0:00:05.46,0:00:06.20,Default,,80,80,60,,{\k8}IS {\k25}21 {\k40}AND
+Dialogue: 0,0:00:06.20,0:00:06.86,Default,,80,80,60,,{\k28}RECENTLY {\k27}MOVED {\k10}IN
+Dialogue: 0,0:00:06.86,0:00:07.96,Default,,80,80,60,,{\k13}WITH {\k8}HER {\k36}BOYFRIEND, {\k28}MARCUS.
+Dialogue: 0,0:00:08.90,0:00:09.27,Default,,80,80,60,,{\k37}WE
+Dialogue: 0,0:00:09.27,0:00:09.93,Default,,80,80,60,,{\k20}ALWAYS {\k19}BEEN {\k25}CLOSE,
+Dialogue: 0,0:00:10.11,0:00:10.98,Default,,80,80,60,,{\k8}AND {\k14}WHILE {\k16}IT {\k8}WAS {\k9}AN {\k30}ADJUSTMENT
+Dialogue: 0,0:00:10.98,0:00:11.64,Default,,80,80,60,,{\k21}WHEN {\k16}SHE {\k28}MOVED
+Dialogue: 0,0:00:11.64,0:00:12.41,Default,,80,80,60,,{\k16}OUT, {\k6}I {\k11}HAPPY {\k24}SHE
+Dialogue: 0,0:00:12.41,0:00:13.03,Default,,80,80,60,,{\k25}STARTING {\k22}HER {\k13}OWN
+Dialogue: 0,0:00:13.03,0:00:14.17,Default,,80,80,60,,{\k30}LIFE. {\k17}SHE
+Dialogue: 0,0:00:14.17,0:00:14.98,Default,,80,80,60,,{\k24}DRIVES {\k16}AN {\k11}OLDER {\k28}SEDAN
+Dialogue: 0,0:00:14.98,0:00:15.66,Default,,80,80,60,,{\k19}WITH {\k8}A {\k9}LOT {\k16}OF {\k14}MILES
+Dialogue: 0,0:00:15.66,0:00:16.80,Default,,80,80,60,,{\k17}ON {\k19}IT. {\k17}A
+Dialogue: 0,0:00:16.80,0:00:17.60,Default,,80,80,60,,{\k14}FEW {\k23}WEEKS {\k21}AGO {\k20}SHE
+Dialogue: 0,0:00:17.60,0:00:18.35,Default,,80,80,60,,{\k19}MENTIONED {\k21}THAT {\k12}THE {\k21}STEERING
+Dialogue: 0,0:00:18.35,0:00:19.05,Default,,80,80,60,,{\k21}WHEEL {\k14}HAD {\k33}STARTED
+Dialogue: 0,0:00:19.05,0:00:19.67,Default,,80,80,60,,{\k30}SHAKING {\k17}WHEN {\k14}SHE
+Dialogue: 0,0:00:19.67,0:00:20.42,Default,,80,80,60,,{\k16}REACHED {\k21}HIGHWAY {\k20}SPEEDS
+Dialogue: 0,0:00:20.42,0:00:21.16,Default,,80,80,60,,{\k19}AND {\k9}THAT {\k10}THE {\k16}FRONT {\k17}OF
+Dialogue: 0,0:00:21.16,0:00:21.83,Default,,80,80,60,,{\k12}THE {\k21}CAR {\k33}SOMETIMES
+Dialogue: 0,0:00:21.83,0:00:22.44,Default,,80,80,60,,{\k32}SHUDDERED {\k10}WHEN {\k17}SHE
+Dialogue: 0,0:00:22.44,0:00:23.51,Default,,80,80,60,,{\k19}BRAKED. {\k25}SHE
+Dialogue: 0,0:00:23.51,0:00:24.12,Default,,80,80,60,,{\k17}TOLD {\k16}ME {\k26}MARCUS
+Dialogue: 0,0:00:24.12,0:00:24.73,Default,,80,80,60,,{\k17}SAID {\k16}HE {\k9}TAKE {\k17}CARE
+Dialogue: 0,0:00:24.73,0:00:25.03,Default,,80,80,60,,{\k16}OF {\k14}IT.
+Dialogue: 0,0:00:25.82,0:00:26.57,Default,,80,80,60,,{\k16}ANOTHER {\k23}WEEK {\k17}PASSED {\k17}AND
+Dialogue: 0,0:00:26.57,0:00:27.21,Default,,80,80,60,,{\k24}NOTHING {\k16}HAD {\k12}BEEN {\k11}DONE
+Dialogue: 0,0:00:27.21,0:00:28.53,Default,,80,80,60,,{\k22}ABOUT {\k17}IT. {\k39}THEN
+Dialogue: 0,0:00:28.53,0:00:29.32,Default,,80,80,60,,{\k26}LAST {\k27}WEEKEND {\k10}LENA
+Dialogue: 0,0:00:29.32,0:00:30.03,Default,,80,80,60,,{\k19}CAME {\k16}BY {\k14}TO {\k21}VISIT
+Dialogue: 0,0:00:30.03,0:00:30.82,Default,,80,80,60,,{\k19}AND {\k18}SAID {\k11}THE {\k28}PROBLEM
+Dialogue: 0,0:00:30.82,0:00:31.53,Default,,80,80,60,,{\k19}HAD {\k21}GOTTEN {\k30}WORSE
+Dialogue: 0,0:00:31.53,0:00:32.29,Default,,80,80,60,,{\k14}AND {\k10}THAT {\k11}SHE {\k8}WAS {\k31}STARTING
+Dialogue: 0,0:00:32.29,0:00:32.89,Default,,80,80,60,,{\k16}TO {\k17}FEEL {\k25}NERVOUS
+Dialogue: 0,0:00:32.89,0:00:33.56,Default,,80,80,60,,{\k35}DRIVING {\k30}IT.
+Dialogue: 0,0:00:34.07,0:00:34.35,Default,,80,80,60,,{\k28}I
+Dialogue: 0,0:00:34.35,0:00:34.96,Default,,80,80,60,,{\k14}TOOK {\k20}THE {\k5}CAR {\k10}FOR {\k10}A
+Dialogue: 0,0:00:34.96,0:00:35.75,Default,,80,80,60,,{\k7}QUICK {\k21}DRIVE {\k20}AND {\k29}IMMEDIATELY
+Dialogue: 0,0:00:35.75,0:00:36.61,Default,,80,80,60,,{\k38}NOTICED {\k15}THE {\k32}VIBRATION
+Dialogue: 0,0:00:36.61,0:00:37.21,Default,,80,80,60,,{\k24}AROUND {\k35}60
+Dialogue: 0,0:00:37.21,0:00:37.85,Default,,80,80,60,,{\k52}MPH {\k11}AND
+Dialogue: 0,0:00:37.85,0:00:38.67,Default,,80,80,60,,{\k14}THE {\k21}SHAKING {\k20}WHEN {\k25}BRAKING.
+Dialogue: 0,0:00:39.35,0:00:39.57,Default,,80,80,60,,{\k21}I
+Dialogue: 0,0:00:39.57,0:00:40.17,Default,,80,80,60,,{\k16}PULLED {\k14}THE {\k14}FRONT {\k15}WHEELS
+Dialogue: 0,0:00:40.17,0:00:40.97,Default,,80,80,60,,{\k28}OFF {\k14}IN {\k10}MY {\k27}DRIVEWAY
+Dialogue: 0,0:00:40.97,0:00:41.67,Default,,80,80,60,,{\k28}AND {\k10}SAW {\k14}THE {\k17}BRAKE
+Dialogue: 0,0:00:41.67,0:00:42.50,Default,,80,80,60,,{\k39}ROTORS {\k12}WERE {\k29}CLEARLY
+Dialogue: 0,0:00:42.50,0:00:43.21,Default,,80,80,60,,{\k24}WARPED {\k17}AND {\k10}THE {\k19}PADS
+Dialogue: 0,0:00:43.21,0:00:44.20,Default,,80,80,60,,{\k16}WERE {\k25}WEARING {\k56}UNEVENLY.
+Dialogue: 0,0:00:44.75,0:00:45.02,Default,,80,80,60,,{\k26}I
+Dialogue: 0,0:00:45.02,0:00:45.65,Default,,80,80,60,,{\k9}WENT {\k14}TO {\k8}THE {\k13}AUTO {\k17}PARTS
+Dialogue: 0,0:00:45.65,0:00:46.57,Default,,80,80,60,,{\k34}STORE, {\k5}BOUGHT
+Dialogue: 0,0:00:46.57,0:00:47.21,Default,,80,80,60,,{\k17}NEW {\k34}ROTORS {\k11}AND
+Dialogue: 0,0:00:47.21,0:00:48.06,Default,,80,80,60,,{\k20}BRAKE {\k28}PADS, {\k35}AND
+Dialogue: 0,0:00:48.06,0:00:49.10,Default,,80,80,60,,{\k25}REPLACED {\k21}THEM {\k11}THAT {\k44}AFTERNOON.
+Dialogue: 0,0:00:49.92,0:00:50.61,Default,,80,80,60,,{\k11}IT {\k14}TOOK {\k7}A {\k21}COUPLE {\k14}OF
+Dialogue: 0,0:00:50.61,0:00:51.43,Default,,80,80,60,,{\k16}HOURS, {\k33}AND {\k32}AFTERWARD
+Dialogue: 0,0:00:51.43,0:00:52.14,Default,,80,80,60,,{\k16}THE {\k11}CAR {\k20}DROVE {\k21}SMOOTHLY
+Dialogue: 0,0:00:52.14,0:00:52.47,Default,,80,80,60,,{\k33}AGAIN.
+Dialogue: 0,0:00:53.61,0:00:54.29,Default,,80,80,60,,{\k22}LENA {\k21}WAS {\k23}VERY
+Dialogue: 0,0:00:54.29,0:00:54.92,Default,,80,80,60,,{\k32}GRATEFUL {\k16}AND {\k14}THANKED
+Dialogue: 0,0:00:54.92,0:00:55.67,Default,,80,80,60,,{\k15}ME {\k21}SEVERAL {\k38}TIMES.
+Dialogue: 0,0:00:56.07,0:00:56.43,Default,,80,80,60,,{\k35}TO
+Dialogue: 0,0:00:56.43,0:00:57.10,Default,,80,80,60,,{\k12}ME {\k11}IT {\k10}DIDN {\k15}FEEL {\k16}LIKE
+Dialogue: 0,0:00:57.10,0:00:58.47,Default,,80,80,60,,{\k7}A {\k11}BIG {\k24}DEAL. {\k23}I
+Dialogue: 0,0:00:58.47,0:00:59.10,Default,,80,80,60,,{\k16}WORKED {\k10}ON {\k15}CARS {\k20}MOST
+Dialogue: 0,0:00:59.10,0:00:59.74,Default,,80,80,60,,{\k19}OF {\k12}MY {\k32}LIFE,
+Dialogue: 0,0:00:59.74,0:01:00.57,Default,,80,80,60,,{\k23}AND {\k17}SHE {\k14}MY {\k28}DAUGHTER.
+Dialogue: 0,0:01:01.35,0:01:01.56,Default,,80,80,60,,{\k20}IF
+Dialogue: 0,0:01:01.56,0:01:02.21,Default,,80,80,60,,{\k5}I {\k14}CAN {\k20}FIX {\k25}SOMETHING
+Dialogue: 0,0:01:02.21,0:01:02.84,Default,,80,80,60,,{\k28}THAT {\k21}MAKING {\k12}HER
+Dialogue: 0,0:01:02.84,0:01:03.65,Default,,80,80,60,,{\k15}CAR {\k21}UNSAFE, {\k7}I
+Dialogue: 0,0:01:03.65,0:01:04.76,Default,,80,80,60,,{\k16}WILL. {\k20}A
+Dialogue: 0,0:01:04.76,0:01:05.40,Default,,80,80,60,,{\k17}FEW {\k20}DAYS {\k26}LATER
+Dialogue: 0,0:01:05.40,0:01:06.23,Default,,80,80,60,,{\k21}LENA {\k21}AND {\k14}MARCUS {\k25}CAME
+Dialogue: 0,0:01:06.23,0:01:06.78,Default,,80,80,60,,{\k20}OVER {\k14}FOR {\k20}DINNER.
+Dialogue: 0,0:01:07.64,0:01:08.37,Default,,80,80,60,,{\k7}AT {\k15}ONE {\k26}POINT {\k23}MARCUS
+Dialogue: 0,0:01:08.37,0:01:08.98,Default,,80,80,60,,{\k21}PULLED {\k14}ME {\k24}ASIDE
+Dialogue: 0,0:01:08.98,0:01:09.59,Default,,80,80,60,,{\k17}AND {\k18}TOLD {\k15}ME {\k9}I
+Dialogue: 0,0:01:09.59,0:01:10.31,Default,,80,80,60,,{\k26}SHOULDN {\k9}HAVE {\k22}REPAIRED {\k13}THE
+Dialogue: 0,0:01:10.31,0:01:11.43,Default,,80,80,60,,{\k16}CAR. {\k20}HE
+Dialogue: 0,0:01:11.43,0:01:12.54,Default,,80,80,60,,{\k18}SAID {\k9}IT {\k12}WAS {\k7}HIS {\k62}RESPONSIBILITY
+Dialogue: 0,0:01:12.54,0:01:13.29,Default,,80,80,60,,{\k23}AS {\k6}HER {\k23}BOYFRIEND {\k21}TO
+Dialogue: 0,0:01:13.29,0:01:13.92,Default,,80,80,60,,{\k15}HANDLE {\k30}THINGS {\k15}LIKE
+Dialogue: 0,0:01:13.92,0:01:14.64,Default,,80,80,60,,{\k15}THAT {\k14}AND {\k7}THAT {\k14}BY {\k20}DOING
+Dialogue: 0,0:01:14.64,0:01:15.26,Default,,80,80,60,,{\k14}IT {\k26}MYSELF {\k21}I
+Dialogue: 0,0:01:15.26,0:01:16.00,Default,,80,80,60,,{\k17}STEPPED {\k18}ON {\k15}HIS {\k21}TOES.
+Dialogue: 0,0:01:16.78,0:01:16.90,Default,,80,80,60,,{\k12}I
+Dialogue: 0,0:01:16.90,0:01:17.70,Default,,80,80,60,,{\k17}TOLD {\k21}HIM {\k14}I {\k26}WASN
+Dialogue: 0,0:01:17.70,0:01:18.42,Default,,80,80,60,,{\k17}TRYING {\k12}TO {\k21}COMPETE {\k20}WITH
+Dialogue: 0,0:01:18.42,0:01:19.29,Default,,80,80,60,,{\k9}HIM {\k18}OR {\k20}PROVE {\k39}ANYTHING.
+Dialogue: 0,0:01:20.09,0:01:20.20,Default,,80,80,60,,{\k10}THE
+Dialogue: 0,0:01:20.20,0:01:20.92,Default,,80,80,60,,{\k14}CAR {\k15}WAS {\k18}GETTING {\k23}WORSE,
+Dialogue: 0,0:01:20.92,0:01:21.56,Default,,80,80,60,,{\k28}AND {\k9}I {\k26}SIMPLY
+Dialogue: 0,0:01:21.56,0:01:22.29,Default,,80,80,60,,{\k29}FIXED {\k12}IT {\k14}WHILE {\k17}LENA
+Dialogue: 0,0:01:22.29,0:01:23.73,Default,,80,80,60,,{\k20}WAS {\k28}VISITING. {\k35}SINCE
+Dialogue: 0,0:01:23.73,0:01:24.35,Default,,80,80,60,,{\k21}THEN {\k18}HE {\k12}BEEN {\k9}A
+Dialogue: 0,0:01:24.35,0:01:25.14,Default,,80,80,60,,{\k14}LITTLE {\k29}DISTANT, {\k34}AND
+Dialogue: 0,0:01:25.14,0:01:25.79,Default,,80,80,60,,{\k9}THE {\k34}ATMOSPHERE {\k21}HAS
+Dialogue: 0,0:01:25.79,0:01:26.23,Default,,80,80,60,,{\k18}BEEN {\k25}AWKWARD.
+Dialogue: 0,0:01:27.07,0:01:27.79,Default,,80,80,60,,{\k15}LENA {\k18}SAYS {\k17}HE {\k20}FEELS
+Dialogue: 0,0:01:27.79,0:01:28.70,Default,,80,80,60,,{\k18}LIKE {\k20}I {\k17}UNDERMINED {\k34}HIM.
+Dialogue: 0,0:01:29.37,0:01:29.50,Default,,80,80,60,,{\k12}FROM
+Dialogue: 0,0:01:29.50,0:01:30.31,Default,,80,80,60,,{\k14}MY {\k35}PERSPECTIVE, {\k31}LENA
+Dialogue: 0,0:01:30.31,0:01:31.12,Default,,80,80,60,,{\k20}IS {\k14}STILL {\k14}MY {\k32}CHILD.
+Dialogue: 0,0:01:31.84,0:01:32.06,Default,,80,80,60,,{\k21}IF
+Dialogue: 0,0:01:32.06,0:01:32.71,Default,,80,80,60,,{\k25}SOMETHING {\k10}ON {\k12}HER {\k17}CAR
+Dialogue: 0,0:01:32.71,0:01:33.43,Default,,80,80,60,,{\k15}IS {\k26}UNSAFE {\k15}AND {\k14}I
+Dialogue: 0,0:01:33.43,0:01:34.34,Default,,80,80,60,,{\k15}ABLE {\k14}TO {\k14}FIX {\k14}IT {\k32}QUICKLY,
+Dialogue: 0,0:01:34.59,0:01:35.29,Default,,80,80,60,,{\k12}I {\k12}GOING {\k14}TO {\k11}DO {\k20}IT.

@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.41,0:00:05.13,Default,,0,0,0,,\N{\k6}I {\k29}RECENTLY {\k35}HOSTED
+Dialogue: 0,0:00:05.13,0:00:05.83,Default,,0,0,0,,\N{\k18}MY {\k27}BEST {\k24}FRIEND
+Dialogue: 0,0:00:05.83,0:00:06.44,Default,,0,0,0,,\N{\k10}OF {\k9}OVER {\k17}TEN {\k22}YEARS
+Dialogue: 0,0:00:06.44,0:00:06.92,Default,,0,0,0,,\N{\k19}FOR {\k8}A {\k20}WEEK.
+Dialogue: 0,0:00:07.59,0:00:08.32,Default,,0,0,0,,\N{\k28}I'VE {\k6}LIVED {\k23}ACROSS {\k14}THE
+Dialogue: 0,0:00:08.32,0:00:08.98,Default,,0,0,0,,\N{\k21}COUNTRY {\k22}FOR {\k8}THE {\k14}PAST
+Dialogue: 0,0:00:08.98,0:00:09.90,Default,,0,0,0,,\N{\k24}SIX {\k19}YEARS, {\k17}SO
+Dialogue: 0,0:00:09.90,0:00:10.53,Default,,0,0,0,,\N{\k11}WE {\k16}DON'T {\k16}SEE {\k19}EACH
+Dialogue: 0,0:00:10.53,0:00:11.56,Default,,0,0,0,,\N{\k10}OTHER {\k19}AS {\k27}OFTEN, {\k14}BUT
+Dialogue: 0,0:00:11.56,0:00:12.40,Default,,0,0,0,,\N{\k19}WE'VE {\k14}ALWAYS {\k21}STAYED {\k28}CLOSE.
+Dialogue: 0,0:00:13.32,0:00:14.14,Default,,0,0,0,,\N{\k19}FOR {\k28}CONTEXT, {\k2}I
+Dialogue: 0,0:00:14.14,0:00:14.82,Default,,0,0,0,,\N{\k16}OWN {\k8}A {\k25}BLAZER {\k17}WITH
+Dialogue: 0,0:00:14.82,0:00:15.46,Default,,0,0,0,,\N{\k9}ME {\k9}TO {\k32}TASSELS {\k12}THAT
+Dialogue: 0,0:00:15.46,0:00:15.77,Default,,0,0,0,,\N{\k11}SHE {\k19}LOVES.
+Dialogue: 0,0:00:16.64,0:00:17.32,Default,,0,0,0,,\N{\k19}IT {\k19}COST {\k28}AROUND
+Dialogue: 0,0:00:17.32,0:00:17.76,Default,,0,0,0,,\N{\k44}$300.
+Dialogue: 0,0:00:18.60,0:00:19.32,Default,,0,0,0,,\N{\k33}FOR {\k7}THE {\k12}LAST {\k17}TWO
+Dialogue: 0,0:00:19.32,0:00:20.16,Default,,0,0,0,,\N{\k23}YEARS, {\k23}SHE'S
+Dialogue: 0,0:00:20.16,0:00:20.94,Default,,0,0,0,,\N{\k28}REPEATEDLY {\k27}JOKED {\k22}ABOUT
+Dialogue: 0,0:00:20.94,0:00:21.57,Default,,0,0,0,,\N{\k16}ME {\k17}GIVING {\k14}IT {\k9}TO {\k5}HER,
+Dialogue: 0,0:00:21.71,0:00:22.76,Default,,0,0,0,,\N{\k16}SAYING {\k24}THINGS {\k17}LIKE, {\k18}DON'T
+Dialogue: 0,0:00:22.76,0:00:23.37,Default,,0,0,0,,\N{\k9}YOU {\k17}JUST {\k14}WANT {\k12}TO {\k7}GIVE
+Dialogue: 0,0:00:23.37,0:00:23.96,Default,,0,0,0,,\N{\k12}IT {\k10}TO {\k7}ME {\k28}ALREADY?
+Dialogue: 0,0:00:24.89,0:00:25.53,Default,,0,0,0,,\N{\k38}IT'S {\k14}MORE {\k11}MY
+Dialogue: 0,0:00:25.53,0:00:26.30,Default,,0,0,0,,\N{\k24}STYLE {\k19}AND {\k12}YOU {\k19}NEVER
+Dialogue: 0,0:00:26.30,0:00:26.71,Default,,0,0,0,,\N{\k21}WEAR {\k19}IT.
+Dialogue: 0,0:00:27.35,0:00:28.12,Default,,0,0,0,,\N{\k35}I'VE {\k17}ALWAYS {\k22}LAUGHED
+Dialogue: 0,0:00:28.12,0:00:28.85,Default,,0,0,0,,\N{\k21}AND {\k12}SAID {\k19}NO, {\k3}I
+Dialogue: 0,0:00:28.85,0:00:29.21,Default,,0,0,0,,\N{\k16}LOVE {\k19}IT.
+Dialogue: 0,0:00:29.85,0:00:30.73,Default,,0,0,0,,\N{\k24}WHILE {\k17}SHE {\k14}WAS {\k31}VISITING,
+Dialogue: 0,0:00:31.03,0:00:31.71,Default,,0,0,0,,\N{\k10}SHE {\k12}ASKED {\k21}AGAIN {\k14}IF {\k9}SHE
+Dialogue: 0,0:00:31.71,0:00:32.43,Default,,0,0,0,,\N{\k12}COULD {\k18}JUST {\k19}HAVE {\k21}IT.
+Dialogue: 0,0:00:33.17,0:00:33.88,Default,,0,0,0,,\N{\k21}I {\k16}LAUGHED {\k17}AND {\k14}SAID
+Dialogue: 0,0:00:33.88,0:00:34.60,Default,,0,0,0,,\N{\k21}NO, {\k8}BUT {\k13}SHE {\k12}WAS
+Dialogue: 0,0:00:34.60,0:00:35.20,Default,,0,0,0,,\N{\k25}WELCOME {\k20}TO {\k14}WEAR
+Dialogue: 0,0:00:35.20,0:00:35.74,Default,,0,0,0,,\N{\k11}IT {\k11}OUT {\k12}TO {\k17}DINNER.
+Dialogue: 0,0:00:36.61,0:00:37.34,Default,,0,0,0,,\N{\k12}THE {\k21}MORNING {\k21}SHE {\k16}LEFT,
+Dialogue: 0,0:00:37.47,0:00:38.11,Default,,0,0,0,,\N{\k4}HER {\k13}FLIGHT {\k20}WAS {\k25}EARLY.
+Dialogue: 0,0:00:39.00,0:00:39.64,Default,,0,0,0,,\N{\k15}I {\k10}WAS {\k21}MOST {\k16}THERE
+Dialogue: 0,0:00:39.64,0:00:40.25,Default,,0,0,0,,\N{\k17}SLEEP, {\k6}BUT {\k11}HER {\k11}TO
+Dialogue: 0,0:00:40.25,0:00:41.07,Default,,0,0,0,,\N{\k14}GET {\k16}UP, {\k7}MAKE {\k28}COFFEE
+Dialogue: 0,0:00:41.07,0:00:41.60,Default,,0,0,0,,\N{\k21}AND {\k12}HEAD {\k17}OUT.
+Dialogue: 0,0:00:42.38,0:00:43.25,Default,,0,0,0,,\N{\k35}WE {\k21}HUGGED {\k29}GOODBYE.
+Dialogue: 0,0:00:44.11,0:00:44.74,Default,,0,0,0,,\N{\k16}TWO {\k14}DAYS {\k32}LATER,
+Dialogue: 0,0:00:45.10,0:00:45.78,Default,,0,0,0,,\N{\k17}I {\k11}WENT {\k14}TO {\k10}GET {\k14}DRESSED
+Dialogue: 0,0:00:45.78,0:00:46.38,Default,,0,0,0,,\N{\k15}AND {\k12}HAD {\k15}THIS {\k16}WEIRD
+Dialogue: 0,0:00:46.38,0:00:46.85,Default,,0,0,0,,\N{\k17}GUT {\k29}FEELING.
+Dialogue: 0,0:00:47.75,0:00:48.53,Default,,0,0,0,,\N{\k24}I {\k11}CHECKED {\k17}MY {\k24}CLOSET.
+Dialogue: 0,0:00:49.11,0:00:49.78,Default,,0,0,0,,\N{\k12}THE {\k23}BLAZER {\k30}WASN'T
+Dialogue: 0,0:00:49.78,0:00:49.92,Default,,0,0,0,,\N{\k14}THERE.
+Dialogue: 0,0:00:50.84,0:00:51.60,Default,,0,0,0,,\N{\k11}I {\k24}SEARCHED {\k39}EVERYWHERE,
+Dialogue: 0,0:00:51.74,0:00:52.42,Default,,0,0,0,,\N{\k23}INCLUDING {\k17}MY {\k26}LAUNDRY,
+Dialogue: 0,0:00:52.75,0:00:53.38,Default,,0,0,0,,\N{\k21}BECAUSE {\k14}I {\k26}GENUINELY
+Dialogue: 0,0:00:53.38,0:00:54.06,Default,,0,0,0,,\N{\k32}DIDN'T {\k17}BELIEVE {\k17}SHE
+Dialogue: 0,0:00:54.06,0:00:54.47,Default,,0,0,0,,\N{\k7}WOULD {\k15}TAKE {\k17}IT.
+Dialogue: 0,0:00:55.16,0:00:55.82,Default,,0,0,0,,\N{\k35}I {\k29}TEXTED
+Dialogue: 0,0:00:55.82,0:00:56.42,Default,,0,0,0,,\N{\k15}HER {\k26}ASKING {\k17}IF
+Dialogue: 0,0:00:56.42,0:00:57.07,Default,,0,0,0,,\N{\k15}SHE'D {\k12}SEEN {\k14}IT, {\k21}THINKING
+Dialogue: 0,0:00:57.07,0:00:57.71,Default,,0,0,0,,\N{\k28}MAYBE {\k20}SHE {\k15}WORE
+Dialogue: 0,0:00:57.71,0:00:58.34,Default,,0,0,0,,\N{\k14}IT {\k11}AND {\k14}LEFT {\k12}IT {\k10}IN
+Dialogue: 0,0:00:58.34,0:00:58.61,Default,,0,0,0,,\N{\k9}MY {\k17}CAR.
+Dialogue: 0,0:00:59.46,0:01:00.07,Default,,0,0,0,,\N{\k15}SHE {\k24}ADMITTED {\k21}SHE
+Dialogue: 0,0:01:00.07,0:01:00.46,Default,,0,0,0,,\N{\k16}TOOK {\k21}IT.
+Dialogue: 0,0:01:01.03,0:01:01.79,Default,,0,0,0,,\N{\k14}HER {\k39}EXPLANATION {\k21}WAS
+Dialogue: 0,0:01:01.79,0:01:02.74,Default,,0,0,0,,\N{\k12}THAT {\k15}SHE {\k10}WAS {\k20}CALLED {\k35}AND
+Dialogue: 0,0:01:02.74,0:01:03.39,Default,,0,0,0,,\N{\k19}RUNNING {\k20}LATE {\k15}FOR {\k10}HER
+Dialogue: 0,0:01:03.39,0:01:04.01,Default,,0,0,0,,\N{\k17}UBER {\k14}AND {\k12}THAT {\k9}IT {\k7}WAS
+Dialogue: 0,0:01:04.01,0:01:04.78,Default,,0,0,0,,\N{\k18}THE {\k20}ONLY {\k17}THING {\k20}SHE
+Dialogue: 0,0:01:04.78,0:01:05.35,Default,,0,0,0,,\N{\k7}WAS {\k20}SURE {\k14}WOULD {\k15}FIT.
+Dialogue: 0,0:01:06.76,0:01:07.56,Default,,0,0,0,,\N{\k35}HERE'S {\k6}THE {\k15}THING, {\k7}WE
+Dialogue: 0,0:01:07.56,0:01:08.26,Default,,0,0,0,,\N{\k21}SHARED {\k28}CLOTHES {\k20}FOR
+Dialogue: 0,0:01:08.26,0:01:08.90,Default,,0,0,0,,\N{\k17}OVER {\k14}A {\k32}DECADE.
+Dialogue: 0,0:01:09.73,0:01:10.34,Default,,0,0,0,,\N{\k20}ALMOST {\k40}EVERYTHING
+Dialogue: 0,0:01:10.34,0:01:10.98,Default,,0,0,0,,\N{\k14}I {\k11}OWN {\k18}FITS {\k20}HER,
+Dialogue: 0,0:01:11.34,0:01:11.87,Default,,0,0,0,,\N{\k7}AND {\k9}SHE {\k18}KNOWS {\k17}THAT.
+Dialogue: 0,0:01:12.76,0:01:13.45,Default,,0,0,0,,\N{\k14}THE {\k29}BLAZER {\k15}WAS {\k9}IN
+Dialogue: 0,0:01:13.45,0:01:14.15,Default,,0,0,0,,\N{\k8}THE {\k14}BACK {\k13}OF {\k10}MY {\k23}CLOSET.
+Dialogue: 0,0:01:14.98,0:01:15.64,Default,,0,0,0,,\N{\k20}SHE {\k11}WOULD {\k12}HAVE {\k9}HAD {\k12}TO
+Dialogue: 0,0:01:15.64,0:01:16.26,Default,,0,0,0,,\N{\k14}PASS {\k20}AT {\k9}LEAST {\k18}10
+Dialogue: 0,0:01:16.26,0:01:17.04,Default,,0,0,0,,\N{\k31}OVERSIZED {\k46}SWEATERS
+Dialogue: 0,0:01:17.04,0:01:17.65,Default,,0,0,0,,\N{\k21}AND {\k21}HOODIES {\k17}TO
+Dialogue: 0,0:01:17.65,0:01:18.06,Default,,0,0,0,,\N{\k14}GRAB {\k26}IT.
+Dialogue: 0,0:01:18.70,0:01:19.48,Default,,0,0,0,,\N{\k14}THE {\k35}OVERSIZED {\k28}HOODIE
+Dialogue: 0,0:01:19.48,0:01:20.12,Default,,0,0,0,,\N{\k25}SHE'D {\k10}WORN {\k14}THE {\k14}NIGHT
+Dialogue: 0,0:01:20.12,0:01:20.81,Default,,0,0,0,,\N{\k21}BEFORE {\k17}WAS {\k29}LITERALLY
+Dialogue: 0,0:01:20.81,0:01:21.43,Default,,0,0,0,,\N{\k16}ON {\k9}THE {\k18}COUCH {\k17}BY
+Dialogue: 0,0:01:21.43,0:01:21.68,Default,,0,0,0,,\N{\k10}THE {\k14}DOOR.
+Dialogue: 0,0:01:22.35,0:01:23.14,Default,,0,0,0,,\N{\k40}ALSO, {\k9}I'M
+Dialogue: 0,0:01:23.14,0:01:23.98,Default,,0,0,0,,\N{\k26}GENERALLY {\k23}VERY {\k34}GENEROUS.
+Dialogue: 0,0:01:24.78,0:01:25.70,Default,,0,0,0,,\N{\k23}DURING {\k21}THIS {\k14}VISIT {\k32}ALONE,
+Dialogue: 0,0:01:26.06,0:01:26.70,Default,,0,0,0,,\N{\k1}I {\k14}GAVE {\k17}HER {\k16}A {\k15}FEW
+Dialogue: 0,0:01:26.70,0:01:27.54,Default,,0,0,0,,\N{\k25}PIECES {\k18}FROM {\k40}REFORMATION
+Dialogue: 0,0:01:27.54,0:01:28.26,Default,,0,0,0,,\N{\k33}BECAUSE {\k16}I {\k21}DON'T
+Dialogue: 0,0:01:28.26,0:01:28.98,Default,,0,0,0,,\N{\k11}WEAR {\k14}THEM {\k14}AND {\k15}SHE {\k16}LIKED
+Dialogue: 0,0:01:28.98,0:01:29.21,Default,,0,0,0,,\N{\k23}THEM.
+Dialogue: 0,0:01:29.95,0:01:30.57,Default,,0,0,0,,\N{\k20}IT {\k21}FEELS {\k20}LIKE
+Dialogue: 0,0:01:30.57,0:01:31.29,Default,,0,0,0,,\N{\k21}BECAUSE {\k12}I {\k17}SAID {\k20}NO
+Dialogue: 0,0:01:31.29,0:01:32.20,Default,,0,0,0,,\N{\k14}TO {\k18}GIVING {\k14}HER {\k11}THE {\k32}BLAZER,
+Dialogue: 0,0:01:32.48,0:01:33.15,Default,,0,0,0,,\N{\k7}SHE {\k37}DECIDED {\k21}TO
+Dialogue: 0,0:01:33.15,0:01:33.84,Default,,0,0,0,,\N{\k15}JUST {\k12}STICK {\k10}IT {\k29}ANYWAY.
+Dialogue: 0,0:01:34.76,0:01:35.40,Default,,0,0,0,,\N{\k14}I {\k23}REPLIED {\k26}WITH
+Dialogue: 0,0:01:35.40,0:01:36.14,Default,,0,0,0,,\N{\k15}THE {\k57}WEIRDY-UFF.

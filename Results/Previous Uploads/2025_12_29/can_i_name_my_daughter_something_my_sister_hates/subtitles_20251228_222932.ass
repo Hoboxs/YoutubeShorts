@@ -1,0 +1,82 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.68,0:00:03.37,Default,,0,0,0,,{\an5}I'M 32
+Dialogue: 0,0:00:03.37,0:00:04.20,Default,,0,0,0,,{\an5}AND 7 MONTHS
+Dialogue: 0,0:00:04.20,0:00:04.70,Default,,0,0,0,,{\an5}PREGNANT WITH
+Dialogue: 0,0:00:04.70,0:00:05.25,Default,,0,0,0,,{\an5}A BABY GIRL.
+Dialogue: 0,0:00:05.37,0:00:06.04,Default,,0,0,0,,{\an5}MY HUSBAND,
+Dialogue: 0,0:00:06.29,0:00:07.33,Default,,0,0,0,,{\an5}33, AND
+Dialogue: 0,0:00:07.33,0:00:08.01,Default,,0,0,0,,{\an5}I FINALLY AGREED
+Dialogue: 0,0:00:08.01,0:00:08.58,Default,,0,0,0,,{\an5}ON THE NAME
+Dialogue: 0,0:00:08.58,0:00:09.01,Default,,0,0,0,,{\an5}MARGOT.
+Dialogue: 0,0:00:09.17,0:00:09.72,Default,,0,0,0,,{\an5}IT FELT
+Dialogue: 0,0:00:09.72,0:00:10.80,Default,,0,0,0,,{\an5}CLASSIC, ELEGANT,
+Dialogue: 0,0:00:11.01,0:00:11.61,Default,,0,0,0,,{\an5}AND PERFECT
+Dialogue: 0,0:00:11.61,0:00:12.40,Default,,0,0,0,,{\an5}FOR HER. AT
+Dialogue: 0,0:00:12.40,0:00:13.03,Default,,0,0,0,,{\an5}MY BABY SHOWER,
+Dialogue: 0,0:00:13.35,0:00:14.16,Default,,0,0,0,,{\an5}I EXCITEDLY
+Dialogue: 0,0:00:14.16,0:00:14.66,Default,,0,0,0,,{\an5}SHARED THE NAME
+Dialogue: 0,0:00:14.66,0:00:15.67,Default,,0,0,0,,{\an5}WITH FAMILY. MY
+Dialogue: 0,0:00:15.67,0:00:16.21,Default,,0,0,0,,{\an5}YOUNGER SISTER
+Dialogue: 0,0:00:16.21,0:00:17.05,Default,,0,0,0,,{\an5}IMMEDIATELY STARTED
+Dialogue: 0,0:00:17.05,0:00:17.92,Default,,0,0,0,,{\an5}CRITICIZING IT.
+Dialogue: 0,0:00:18.00,0:00:18.66,Default,,0,0,0,,{\an5}SHE CLAIMED
+Dialogue: 0,0:00:18.66,0:00:19.37,Default,,0,0,0,,{\an5}IT WAS OLD-FASHIONED
+Dialogue: 0,0:00:19.37,0:00:20.19,Default,,0,0,0,,{\an5}AND INSISTED OUR
+Dialogue: 0,0:00:20.19,0:00:20.73,Default,,0,0,0,,{\an5}DAUGHTER WOULD GET
+Dialogue: 0,0:00:20.73,0:00:21.37,Default,,0,0,0,,{\an5}TEASED FOR HAVING
+Dialogue: 0,0:00:21.37,0:00:22.57,Default,,0,0,0,,{\an5}A NAME. LIKE
+Dialogue: 0,0:00:22.57,0:00:23.39,Default,,0,0,0,,{\an5}THAT, IRONICALLY,
+Dialogue: 0,0:00:23.73,0:00:24.32,Default,,0,0,0,,{\an5}SHE ONCE
+Dialogue: 0,0:00:24.32,0:00:24.83,Default,,0,0,0,,{\an5}TRIED TO NAME
+Dialogue: 0,0:00:24.83,0:00:25.37,Default,,0,0,0,,{\an5}HER OWN DAUGHTER
+Dialogue: 0,0:00:25.37,0:00:26.10,Default,,0,0,0,,{\an5}SOMETHING UNUSUAL
+Dialogue: 0,0:00:26.10,0:00:26.80,Default,,0,0,0,,{\an5}AND COMPLICATED.
+Dialogue: 0,0:00:27.19,0:00:27.71,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:27.71,0:00:28.76,Default,,0,0,0,,{\an5}HER HUSBAND OVERRULED
+Dialogue: 0,0:00:28.76,0:00:28.87,Default,,0,0,0,,{\an5}HER.
+Dialogue: 0,0:00:28.87,0:00:29.39,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:00:29.39,0:00:30.10,Default,,0,0,0,,{\an5}COMMENTS DIDN'T
+Dialogue: 0,0:00:30.10,0:00:31.01,Default,,0,0,0,,{\an5}STOP THERE SHE
+Dialogue: 0,0:00:31.01,0:00:31.76,Default,,0,0,0,,{\an5}CONTINUED MAKING
+Dialogue: 0,0:00:31.76,0:00:32.42,Default,,0,0,0,,{\an5}SNIDE REMARKS
+Dialogue: 0,0:00:32.42,0:00:33.15,Default,,0,0,0,,{\an5}DURING THE PARTY
+Dialogue: 0,0:00:33.15,0:00:34.06,Default,,0,0,0,,{\an5}AND LATER BOMBARDED
+Dialogue: 0,0:00:34.06,0:00:34.65,Default,,0,0,0,,{\an5}ME WITH MESSAGES
+Dialogue: 0,0:00:34.65,0:00:35.20,Default,,0,0,0,,{\an5}ON SOCIAL
+Dialogue: 0,0:00:35.20,0:00:36.07,Default,,0,0,0,,{\an5}MEDIA
+Dialogue: 0,0:00:36.07,0:00:36.74,Default,,0,0,0,,{\an5}DEMANDING
+Dialogue: 0,0:00:36.74,0:00:37.39,Default,,0,0,0,,{\an5}THAT WE CHANGE
+Dialogue: 0,0:00:37.39,0:00:38.42,Default,,0,0,0,,{\an5}THE NAME AFTER
+Dialogue: 0,0:00:38.42,0:00:39.25,Default,,0,0,0,,{\an5}A WHILE WE
+Dialogue: 0,0:00:39.25,0:00:39.79,Default,,0,0,0,,{\an5}ASKED HER TO
+Dialogue: 0,0:00:39.79,0:00:40.38,Default,,0,0,0,,{\an5}LEAVE THE SHOWER
+Dialogue: 0,0:00:40.38,0:00:40.89,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:40.89,0:00:41.39,Default,,0,0,0,,{\an5}I BLOCKED HER
+Dialogue: 0,0:00:41.39,0:00:42.11,Default,,0,0,0,,{\an5}ON SOCIAL MEDIA
+Dialogue: 0,0:00:42.11,0:00:42.88,Default,,0,0,0,,{\an5}TO PREVENT FURTHER
+Dialogue: 0,0:00:42.88,0:00:44.17,Default,,0,0,0,,{\an5}HARASSMENT MARGO
+Dialogue: 0,0:00:44.17,0:00:44.79,Default,,0,0,0,,{\an5}FEELS PERFECT
+Dialogue: 0,0:00:44.79,0:00:45.47,Default,,0,0,0,,{\an5}FOR OUR DAUGHTER
+Dialogue: 0,0:00:45.47,0:00:45.97,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:45.97,0:00:46.52,Default,,0,0,0,,{\an5}I DON'T WANT TO
+Dialogue: 0,0:00:46.52,0:00:47.34,Default,,0,0,0,,{\an5}CHANGE IT BUT
+Dialogue: 0,0:00:47.34,0:00:47.97,Default,,0,0,0,,{\an5}MY SISTER KEEPS
+Dialogue: 0,0:00:47.97,0:00:48.53,Default,,0,0,0,,{\an5}INSISTING
+Dialogue: 0,0:00:48.53,0:00:49.03,Default,,0,0,0,,{\an5}IT'S A TERRIBLE
+Dialogue: 0,0:00:49.03,0:00:50.02,Default,,0,0,0,,{\an5}CHOICE AM
+Dialogue: 0,0:00:50.02,0:00:50.53,Default,,0,0,0,,{\an5}I WRONG FOR
+Dialogue: 0,0:00:50.53,0:00:51.34,Default,,0,0,0,,{\an5}IGNORING HER OPINIONS
+Dialogue: 0,0:00:51.34,0:00:51.97,Default,,0,0,0,,{\an5}AND KEEPING THE
+Dialogue: 0,0:00:51.97,0:00:52.50,Default,,0,0,0,,{\an5}NAME WE LOVE

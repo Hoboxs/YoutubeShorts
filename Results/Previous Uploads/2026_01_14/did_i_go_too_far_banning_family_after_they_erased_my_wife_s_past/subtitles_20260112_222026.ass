@@ -1,0 +1,101 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.77,0:00:04.41,Default,,0,0,0,,{\an5}AFTER MY
+Dialogue: 0,0:00:04.41,0:00:04.94,Default,,0,0,0,,{\an5}PARTNER AND
+Dialogue: 0,0:00:04.94,0:00:05.54,Default,,0,0,0,,{\an5}I RETURNED FROM
+Dialogue: 0,0:00:05.54,0:00:06.16,Default,,0,0,0,,{\an5}OUR FIRST SHORT
+Dialogue: 0,0:00:06.16,0:00:06.78,Default,,0,0,0,,{\an5}TRIP SINCE OUR
+Dialogue: 0,0:00:06.78,0:00:07.28,Default,,0,0,0,,{\an5}NEWBORN TWINS
+Dialogue: 0,0:00:07.28,0:00:08.46,Default,,0,0,0,,{\an5}ARRIVED, WE
+Dialogue: 0,0:00:08.46,0:00:09.00,Default,,0,0,0,,{\an5}UNLOCKED OUR
+Dialogue: 0,0:00:09.00,0:00:09.64,Default,,0,0,0,,{\an5}HOME AND IMMEDIATELY
+Dialogue: 0,0:00:09.64,0:00:10.16,Default,,0,0,0,,{\an5}REALIZED
+Dialogue: 0,0:00:10.16,0:00:10.69,Default,,0,0,0,,{\an5}SOMETHING WAS
+Dialogue: 0,0:00:10.69,0:00:10.93,Default,,0,0,0,,{\an5}WRONG.
+Dialogue: 0,0:00:11.16,0:00:11.77,Default,,0,0,0,,{\an5}THE STUDY
+Dialogue: 0,0:00:11.77,0:00:12.46,Default,,0,0,0,,{\an5}WAS STRIPPED BARE,
+Dialogue: 0,0:00:12.61,0:00:13.14,Default,,0,0,0,,{\an5}AND THE
+Dialogue: 0,0:00:13.14,0:00:13.82,Default,,0,0,0,,{\an5}TWO HAND-CARVED
+Dialogue: 0,0:00:13.82,0:00:14.43,Default,,0,0,0,,{\an5}HARDWOOD PIECES
+Dialogue: 0,0:00:14.43,0:00:15.00,Default,,0,0,0,,{\an5}MY PARTNER
+Dialogue: 0,0:00:15.00,0:00:15.50,Default,,0,0,0,,{\an5}HAD INHERITED
+Dialogue: 0,0:00:15.50,0:00:16.14,Default,,0,0,0,,{\an5}FROM HER LATE
+Dialogue: 0,0:00:16.14,0:00:17.55,Default,,0,0,0,,{\an5}GRANDFATHER, OBJECTS
+Dialogue: 0,0:00:17.55,0:00:18.26,Default,,0,0,0,,{\an5}SHE TREASURED
+Dialogue: 0,0:00:18.26,0:00:18.80,Default,,0,0,0,,{\an5}MORE THAN ANYTHING
+Dialogue: 0,0:00:18.80,0:00:19.44,Default,,0,0,0,,{\an5}IN THE HOUSE,
+Dialogue: 0,0:00:19.55,0:00:20.19,Default,,0,0,0,,{\an5}WERE SIMPLY
+Dialogue: 0,0:00:20.19,0:00:20.50,Default,,0,0,0,,{\an5}GONE.
+Dialogue: 0,0:00:20.62,0:00:21.26,Default,,0,0,0,,{\an5}HER AUNT,
+Dialogue: 0,0:00:21.37,0:00:22.17,Default,,0,0,0,,{\an5}WHOM WE'D TRUSTED
+Dialogue: 0,0:00:22.17,0:00:22.83,Default,,0,0,0,,{\an5}WITH A SPARE KEY
+Dialogue: 0,0:00:22.83,0:00:23.62,Default,,0,0,0,,{\an5}ONLY FOR EMERGENCIES,
+Dialogue: 0,0:00:24.03,0:00:24.53,Default,,0,0,0,,{\an5}STOOD
+Dialogue: 0,0:00:24.53,0:00:25.14,Default,,0,0,0,,{\an5}THERE BEAMING
+Dialogue: 0,0:00:25.14,0:00:25.87,Default,,0,0,0,,{\an5}AND ANNOUNCED SHE'D
+Dialogue: 0,0:00:25.87,0:00:26.51,Default,,0,0,0,,{\an5}DONE US A FAVOR
+Dialogue: 0,0:00:26.51,0:00:27.19,Default,,0,0,0,,{\an5}BY DONATING
+Dialogue: 0,0:00:27.19,0:00:28.55,Default,,0,0,0,,{\an5}THE OLD, DUSTY
+Dialogue: 0,0:00:28.55,0:00:29.19,Default,,0,0,0,,{\an5}STUFF AND
+Dialogue: 0,0:00:29.19,0:00:29.71,Default,,0,0,0,,{\an5}REPLACING IT
+Dialogue: 0,0:00:29.71,0:00:30.82,Default,,0,0,0,,{\an5}WITH CHEAP BOXED
+Dialogue: 0,0:00:30.82,0:00:31.35,Default,,0,0,0,,{\an5}FURNITURE TO
+Dialogue: 0,0:00:31.35,0:00:31.94,Default,,0,0,0,,{\an5}GIVE THE ROOM A
+Dialogue: 0,0:00:31.94,0:00:32.47,Default,,0,0,0,,{\an5}FRESH START
+Dialogue: 0,0:00:32.47,0:00:32.97,Default,,0,0,0,,{\an5}AS IF SHE
+Dialogue: 0,0:00:32.97,0:00:33.65,Default,,0,0,0,,{\an5}HADN'T JUST ERASED
+Dialogue: 0,0:00:33.65,0:00:34.25,Default,,0,0,0,,{\an5}A PIECE OF MY
+Dialogue: 0,0:00:34.84,0:00:35.46,Default,,0,0,0,,{\an5}PARTNER'S HISTORY
+Dialogue: 0,0:00:35.46,0:00:36.20,Default,,0,0,0,,{\an5}WITHOUT PERMISSION
+Dialogue: 0,0:00:36.20,0:00:37.00,Default,,0,0,0,,{\an5}MY PARTNER
+Dialogue: 0,0:00:37.00,0:00:37.61,Default,,0,0,0,,{\an5}BROKE DOWN ON
+Dialogue: 0,0:00:37.61,0:00:38.46,Default,,0,0,0,,{\an5}THE SPOT AND
+Dialogue: 0,0:00:38.46,0:00:39.10,Default,,0,0,0,,{\an5}I TOLD HER AND
+Dialogue: 0,0:00:39.10,0:00:40.03,Default,,0,0,0,,{\an5}TO LEAVE DEMANDED
+Dialogue: 0,0:00:40.03,0:00:40.70,Default,,0,0,0,,{\an5}THE KEY BACK
+Dialogue: 0,0:00:40.70,0:00:41.43,Default,,0,0,0,,{\an5}AND CHANGED
+Dialogue: 0,0:00:41.43,0:00:42.00,Default,,0,0,0,,{\an5}THE LOCKS THE
+Dialogue: 0,0:00:42.00,0:00:42.97,Default,,0,0,0,,{\an5}NEXT DAY NOW
+Dialogue: 0,0:00:42.97,0:00:43.85,Default,,0,0,0,,{\an5}THE EXTENDED FAMILY
+Dialogue: 0,0:00:43.85,0:00:44.50,Default,,0,0,0,,{\an5}IS FLOODING US
+Dialogue: 0,0:00:44.50,0:00:45.29,Default,,0,0,0,,{\an5}WITH MESSAGES CALLING
+Dialogue: 0,0:00:45.29,0:00:45.85,Default,,0,0,0,,{\an5}ME CONTROLLING
+Dialogue: 0,0:00:45.85,0:00:47.25,Default,,0,0,0,,{\an5}AND CRUEL ACCUSING
+Dialogue: 0,0:00:47.25,0:00:48.00,Default,,0,0,0,,{\an5}ME OF ISOLATING
+Dialogue: 0,0:00:48.00,0:00:48.60,Default,,0,0,0,,{\an5}MY PARTNER
+Dialogue: 0,0:00:48.60,0:00:49.29,Default,,0,0,0,,{\an5}FROM HER FAMILY
+Dialogue: 0,0:00:49.29,0:00:49.85,Default,,0,0,0,,{\an5}AND PUNISHING
+Dialogue: 0,0:00:49.85,0:00:50.70,Default,,0,0,0,,{\an5}A GRANDMOTHER OVER
+Dialogue: 0,0:00:50.70,0:00:52.06,Default,,0,0,0,,{\an5}JUST FURNITURE
+Dialogue: 0,0:00:52.06,0:00:52.85,Default,,0,0,0,,{\an5}INSISTING
+Dialogue: 0,0:00:52.85,0:00:53.64,Default,,0,0,0,,{\an5}HER INTENTIONS WERE
+Dialogue: 0,0:00:53.64,0:00:54.46,Default,,0,0,0,,{\an5}PURE WHILE
+Dialogue: 0,0:00:54.46,0:00:55.11,Default,,0,0,0,,{\an5}MY PARTNER IS
+Dialogue: 0,0:00:55.11,0:00:55.78,Default,,0,0,0,,{\an5}STILL CRYING OVER
+Dialogue: 0,0:00:55.78,0:00:56.29,Default,,0,0,0,,{\an5}SOMETHING THAT
+Dialogue: 0,0:00:56.29,0:00:57.07,Default,,0,0,0,,{\an5}CAN NEVER BE REPLACED
+Dialogue: 0,0:00:57.07,0:00:57.97,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:57.97,0:00:58.57,Default,,0,0,0,,{\an5}AGREES WITH A
+Dialogue: 0,0:00:58.57,0:00:59.20,Default,,0,0,0,,{\an5}BAN BUT
+Dialogue: 0,0:00:59.20,0:00:59.74,Default,,0,0,0,,{\an5}THE PRESSURE
+Dialogue: 0,0:00:59.74,0:01:00.25,Default,,0,0,0,,{\an5}AND GUILT ARE
+Dialogue: 0,0:01:00.25,0:01:01.32,Default,,0,0,0,,{\an5}RELENTLESS, AND
+Dialogue: 0,0:01:01.32,0:01:02.02,Default,,0,0,0,,{\an5}I'M LEFT WONDERING
+Dialogue: 0,0:01:02.02,0:01:02.78,Default,,0,0,0,,{\an5}IF PROTECTING MY
+Dialogue: 0,0:01:02.78,0:01:03.32,Default,,0,0,0,,{\an5}PARTNER AT
+Dialogue: 0,0:01:03.32,0:01:03.88,Default,,0,0,0,,{\an5}OUR HOME MAKES
+Dialogue: 0,0:01:03.88,0:01:04.42,Default,,0,0,0,,{\an5}ME HEARTLESS,
+Dialogue: 0,0:01:04.56,0:01:05.21,Default,,0,0,0,,{\an5}OR
+Dialogue: 0,0:01:05.21,0:01:05.85,Default,,0,0,0,,{\an5}IF THIS BOUNDARY
+Dialogue: 0,0:01:05.85,0:01:06.78,Default,,0,0,0,,{\an5}WAS LONG OVERDUE.

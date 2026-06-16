@@ -1,0 +1,184 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.66,0:00:04.27,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}I'M {\k30}A
+Dialogue: 0,0:00:04.27,0:00:05.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}35-YEAR-OLD {\k25}MAN, {\k28}AND
+Dialogue: 0,0:00:05.12,0:00:05.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k29}WIFE {\k12}IS {\k29}33
+Dialogue: 0,0:00:05.95,0:00:06.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}WE {\k29}ARE {\k29}EXPECTING
+Dialogue: 0,0:00:06.83,0:00:07.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}OUR {\k22}FIRST {\k21}CHILD
+Dialogue: 0,0:00:07.50,0:00:08.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}THIS {\k26}SEPTEMBER, {\k26}AND
+Dialogue: 0,0:00:08.30,0:00:09.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WHILE {\k14}WE'RE {\k16}BOTH {\k33}EXCITED
+Dialogue: 0,0:00:09.14,0:00:10.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ABOUT {\k25}BECOMING {\k36}PARENTS,
+Dialogue: 0,0:00:10.24,0:00:10.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}A {\k41}DISAGREEMENT {\k25}ABOUT
+Dialogue: 0,0:00:10.93,0:00:11.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k25}HOLIDAYS {\k16}HAS {\k24}TURNED
+Dialogue: 0,0:00:11.72,0:00:12.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}INTO {\k17}ONE {\k8}OF {\k10}THE {\k23}BIGGEST
+Dialogue: 0,0:00:12.53,0:00:13.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}CONFLICTS {\k21}OF {\k6}OUR
+Dialogue: 0,0:00:13.16,0:00:14.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}MARRIAGE.
+Dialogue: 0,0:00:14.01,0:00:14.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WE {\k21}CURRENTLY {\k24}LIVE {\k14}IN
+Dialogue: 0,0:00:14.74,0:00:15.41,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}NEW {\k19}ZEALAND {\k17}NEAR {\k14}MY
+Dialogue: 0,0:00:15.41,0:00:16.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}WIFE'S {\k29}RELATIVES.
+Dialogue: 0,0:00:16.57,0:00:17.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}MY {\k28}FAMILY, {\k28}HOWEVER,
+Dialogue: 0,0:00:17.60,0:00:18.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}LIVES {\k16}IN {\k28}SINGAPORE, {\k35}WHICH
+Dialogue: 0,0:00:18.57,0:00:19.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}REQUIRES {\k17}A {\k12}LONG {\k23}INTERNATIONAL
+Dialogue: 0,0:00:19.39,0:00:20.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}FLIGHT {\k30}FOLLOWED
+Dialogue: 0,0:00:20.17,0:00:20.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}BY {\k21}SEVERAL {\k28}HOURS
+Dialogue: 0,0:00:20.85,0:00:22.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OF {\k24}ADDITIONAL {\k43}TRAVEL.
+Dialogue: 0,0:00:22.10,0:00:22.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}BEFORE {\k22}WE {\k9}GOT
+Dialogue: 0,0:00:22.71,0:00:23.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}MARRIED, {\k5}WE {\k8}HAD {\k19}MANY
+Dialogue: 0,0:00:23.51,0:00:24.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}CONVERSATIONS {\k30}ABOUT
+Dialogue: 0,0:00:24.30,0:00:24.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}MAINTAINING {\k28}STRONG
+Dialogue: 0,0:00:24.98,0:00:25.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}CONNECTIONS {\k27}WITH {\k16}BOTH
+Dialogue: 0,0:00:25.73,0:00:26.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}SIDES {\k17}OF {\k7}THE {\k22}FAMILY
+Dialogue: 0,0:00:26.42,0:00:27.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}DESPITE {\k16}THE {\k26}DISTANCE.
+Dialogue: 0,0:00:27.71,0:00:28.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}THE {\k39}UNDERSTANDING
+Dialogue: 0,0:00:28.33,0:00:29.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WAS {\k10}THAT {\k21}MAJOR {\k36}HOLIDAYS
+Dialogue: 0,0:00:29.26,0:00:30.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WOULD {\k7}BE {\k23}SPLIT {\k28}FAIRLY,
+Dialogue: 0,0:00:30.19,0:00:30.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}WITH {\k17}ONE {\k19}SIDE {\k12}OF {\k7}THE
+Dialogue: 0,0:00:30.85,0:00:31.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}FAMILY {\k26}SEEING {\k14}US
+Dialogue: 0,0:00:31.46,0:00:32.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}FOR {\k14}SOME {\k43}CELEBRATIONS
+Dialogue: 0,0:00:32.15,0:00:32.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}AND {\k10}THE {\k17}OTHER
+Dialogue: 0,0:00:32.75,0:00:33.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SIDE {\k21}SEEING {\k14}US {\k8}FOR
+Dialogue: 0,0:00:33.38,0:00:34.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}OTHERS.
+Dialogue: 0,0:00:34.10,0:00:34.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THE {\k53}COMPLICATION
+Dialogue: 0,0:00:34.79,0:00:35.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IS {\k8}THAT {\k14}MY {\k23}PARENTS
+Dialogue: 0,0:00:35.43,0:00:36.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HAVE {\k17}NEVER {\k29}FULLY
+Dialogue: 0,0:00:36.07,0:00:37.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}EMBRACED {\k25}MY {\k32}WIFE.
+Dialogue: 0,0:00:37.17,0:00:37.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THEY {\k11}WERE {\k42}DISAPPOINTED
+Dialogue: 0,0:00:37.82,0:00:38.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WHEN {\k11}I {\k34}DECIDED
+Dialogue: 0,0:00:38.52,0:00:39.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TO {\k17}BUILD {\k24}MY
+Dialogue: 0,0:00:39.14,0:00:39.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}LIFE {\k25}OVERSEAS {\k28}AND
+Dialogue: 0,0:00:39.93,0:00:40.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HAVE {\k19}OFTEN {\k14}MADE {\k24}COMMENTS
+Dialogue: 0,0:00:40.64,0:00:41.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}SUGGESTING {\k27}I
+Dialogue: 0,0:00:41.29,0:00:42.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHOULD {\k38}EVENTUALLY {\k24}MOVE
+Dialogue: 0,0:00:42.06,0:00:42.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BACK {\k24}HOME.
+Dialogue: 0,0:00:42.97,0:00:43.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHILE {\k16}THEY {\k14}HAVE {\k21}REMAINED
+Dialogue: 0,0:00:43.67,0:00:44.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}CIVIL, {\k3}THERE {\k12}HAS {\k17}ALWAYS
+Dialogue: 0,0:00:44.70,0:00:45.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BEEN {\k23}SOME {\k24}TENSION
+Dialogue: 0,0:00:45.39,0:00:46.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}BENEATH {\k17}THE {\k32}SURFACE,
+Dialogue: 0,0:00:46.43,0:00:47.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AND {\k13}MY {\k26}WIFE {\k11}IS
+Dialogue: 0,0:00:47.03,0:00:48.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}VERY {\k19}AWARE {\k10}OF {\k20}IT.
+Dialogue: 0,0:00:48.20,0:00:49.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}RECENTLY, {\k16}ANOTHER {\k29}FACTOR
+Dialogue: 0,0:00:49.21,0:00:50.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}ENTERED {\k15}THE {\k26}PICTURE.
+Dialogue: 0,0:00:50.17,0:00:50.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}MY {\k21}YOUNGER {\k29}BROTHER
+Dialogue: 0,0:00:50.79,0:00:51.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AND {\k14}HIS {\k19}WIFE {\k10}ARE
+Dialogue: 0,0:00:51.39,0:00:52.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}EXPECTING {\k15}A {\k21}BABY
+Dialogue: 0,0:00:52.15,0:00:53.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}IN {\k33}OCTOBER, {\k6}AND {\k11}BY
+Dialogue: 0,0:00:53.14,0:00:53.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k10}END {\k14}OF {\k7}THE {\k10}YEAR {\k9}THERE
+Dialogue: 0,0:00:53.79,0:00:54.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WILL {\k12}BE {\k7}A {\k5}RARE {\k40}OPPORTUNITY
+Dialogue: 0,0:00:54.56,0:00:55.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FOR {\k14}NEARLY {\k17}MY {\k19}ENTIRE
+Dialogue: 0,0:00:55.29,0:00:56.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}EXTENDED {\k32}FAMILY
+Dialogue: 0,0:00:56.02,0:00:56.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k10}BE {\k28}TOGETHER {\k15}IN
+Dialogue: 0,0:00:56.71,0:00:57.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}ONE {\k38}PLACE.
+Dialogue: 0,0:00:57.65,0:00:58.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k32}GRANDPARENTS {\k22}ARE
+Dialogue: 0,0:00:58.34,0:00:59.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}GETTING {\k32}OLDER, {\k21}SEVERAL
+Dialogue: 0,0:00:59.35,0:00:59.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}COUSINS {\k16}ARE {\k21}PLANNING
+Dialogue: 0,0:00:59.96,0:01:00.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TO {\k15}ATTEND {\k34}HOLIDAY
+Dialogue: 0,0:01:00.64,0:01:01.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}GATHERINGS, {\k15}AND {\k11}THERE {\k12}IS
+Dialogue: 0,0:01:01.74,0:01:02.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}A {\k11}REAL {\k42}POSSIBILITY
+Dialogue: 0,0:01:02.35,0:01:03.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THAT {\k15}THIS {\k7}COULD {\k12}BE {\k11}THE
+Dialogue: 0,0:01:03.03,0:01:03.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ONLY {\k19}TIME {\k14}IN {\k17}YEARS
+Dialogue: 0,0:01:03.71,0:01:04.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THAT {\k28}EVERYONE {\k17}IS {\k36}AVAILABLE
+Dialogue: 0,0:01:04.68,0:01:05.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}AT {\k7}THE {\k16}SAME {\k28}TIME.
+Dialogue: 0,0:01:05.92,0:01:06.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}BECAUSE {\k17}OF {\k21}THAT, {\k3}I
+Dialogue: 0,0:01:06.79,0:01:07.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SUGGESTED {\k28}THAT {\k11}WE
+Dialogue: 0,0:01:07.45,0:01:08.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TRAVEL {\k14}THERE {\k28}DURING
+Dialogue: 0,0:01:08.14,0:01:09.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THE {\k12}HOLIDAY {\k42}SEASON.
+Dialogue: 0,0:01:09.20,0:01:09.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}BY {\k26}THEN, {\k25}OUR {\k12}SON
+Dialogue: 0,0:01:09.92,0:01:10.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WOULD {\k14}BE {\k17}AROUND {\k21}FOUR
+Dialogue: 0,0:01:10.57,0:01:11.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MONTHS {\k21}OLD.
+Dialogue: 0,0:01:11.31,0:01:12.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k14}WAS {\k28}EXCITED {\k21}ABOUT
+Dialogue: 0,0:01:12.09,0:01:12.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k20}IDEA {\k18}OF {\k11}MY
+Dialogue: 0,0:01:12.73,0:01:13.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}GRANDPARENTS {\k29}MEETING
+Dialogue: 0,0:01:13.37,0:01:14.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THEIR {\k18}FIRST {\k70}GREAT-GRANDCHILD,
+Dialogue: 0,0:01:14.71,0:01:15.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}MY {\k32}RELATIVES {\k33}MEETING
+Dialogue: 0,0:01:15.45,0:01:16.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THE {\k24}BABY, {\k7}AND {\k10}OUR
+Dialogue: 0,0:01:16.34,0:01:17.04,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SON {\k28}MEETING {\k14}HIS {\k14}NEW
+Dialogue: 0,0:01:17.04,0:01:17.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}COUSIN.
+Dialogue: 0,0:01:17.78,0:01:18.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k23}WIFE {\k34}IMMEDIATELY
+Dialogue: 0,0:01:18.50,0:01:19.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}REJECTED {\k29}THE
+Dialogue: 0,0:01:19.14,0:01:19.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}IDEA.
+Dialogue: 0,0:01:19.70,0:01:20.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}SHE {\k20}TOLD {\k15}ME {\k18}SHE
+Dialogue: 0,0:01:20.34,0:01:21.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}IS {\k12}NOT {\k27}COMFORTABLE {\k32}TAKING
+Dialogue: 0,0:01:21.14,0:01:21.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SUCH {\k14}A {\k17}YOUNG {\k23}INFANT
+Dialogue: 0,0:01:21.95,0:01:22.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}ON {\k9}A {\k14}LONG {\k32}INTERNATIONAL
+Dialogue: 0,0:01:22.70,0:01:23.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k57}JOURNEY.
+Dialogue: 0,0:01:23.70,0:01:24.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}SHE {\k20}ALSO {\k21}SAID {\k9}THAT
+Dialogue: 0,0:01:24.31,0:01:25.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SHE {\k9}HAS {\k15}NO {\k28}INTEREST
+Dialogue: 0,0:01:25.01,0:01:25.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IN {\k20}SPENDING {\k20}THE
+Dialogue: 0,0:01:25.62,0:01:26.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}HOLIDAYS {\k50}SURROUNDED
+Dialogue: 0,0:01:26.37,0:01:27.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}BY {\k31}RELATIVES {\k21}WHO
+Dialogue: 0,0:01:27.07,0:01:27.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HAVE {\k15}NEVER {\k26}FULLY {\k29}WELCOMED
+Dialogue: 0,0:01:27.92,0:01:28.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HER, {\k31}ESPECIALLY {\k28}WHILE
+Dialogue: 0,0:01:28.87,0:01:29.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}SHE {\k6}IS {\k19}STILL {\k34}ADJUSTING
+Dialogue: 0,0:01:29.65,0:01:30.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}TO {\k15}LIFE {\k23}AS {\k6}A
+Dialogue: 0,0:01:30.29,0:01:31.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}NEW {\k21}MOTHER.
+Dialogue: 0,0:01:31.31,0:01:31.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}SHE {\k23}BELIEVES {\k17}THAT
+Dialogue: 0,0:01:31.95,0:01:32.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TRAVELING {\k18}WITH {\k11}A {\k20}BABY
+Dialogue: 0,0:01:32.71,0:01:33.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THAT {\k15}YOUNG {\k17}WOULD {\k7}BE {\k32}STRESSFUL,
+Dialogue: 0,0:01:33.81,0:01:34.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}EXHAUSTING, {\k6}AND {\k28}POTENTIALLY
+Dialogue: 0,0:01:34.90,0:01:35.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}MISERABLE {\k21}FOR {\k26}EVERYONE
+Dialogue: 0,0:01:35.76,0:01:36.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}INVOLVED.
+Dialogue: 0,0:01:36.62,0:01:37.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k34}UNDERSTAND {\k21}WHERE
+Dialogue: 0,0:01:37.28,0:01:38.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k7}IS {\k20}COMING {\k20}FROM.
+Dialogue: 0,0:01:38.23,0:01:38.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k16}KNOW {\k11}THE {\k20}FIRST {\k15}MONTHS
+Dialogue: 0,0:01:38.95,0:01:39.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}AFTER {\k30}CHILDBIRTH
+Dialogue: 0,0:01:39.56,0:01:40.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}CAN {\k11}BE {\k38}PHYSICALLY
+Dialogue: 0,0:01:40.20,0:01:41.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k35}EMOTIONALLY {\k35}DEMANDING,
+Dialogue: 0,0:01:41.37,0:01:42.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AND {\k8}I {\k31}RECOGNIZE {\k23}THAT
+Dialogue: 0,0:01:42.09,0:01:42.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k29}FAMILY {\k18}HAS
+Dialogue: 0,0:01:42.70,0:01:43.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}NOT {\k22}ALWAYS {\k14}MADE {\k19}THINGS
+Dialogue: 0,0:01:43.37,0:01:44.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}EASY {\k14}FOR {\k14}HER.
+Dialogue: 0,0:01:44.43,0:01:45.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}AT {\k7}THE {\k17}SAME {\k30}TIME,
+Dialogue: 0,0:01:45.26,0:01:45.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k17}FEEL {\k46}DISAPPOINTED
+Dialogue: 0,0:01:45.92,0:01:46.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BECAUSE {\k15}THE {\k43}EXPECTATIONS
+Dialogue: 0,0:01:46.73,0:01:47.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WE {\k20}DISCUSSED {\k32}BEFORE
+Dialogue: 0,0:01:47.48,0:01:48.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MARRIAGE {\k21}SEEM {\k11}TO {\k6}HAVE {\k18}CHANGED
+Dialogue: 0,0:01:48.26,0:01:49.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k59}SIGNIFICANTLY.
+Dialogue: 0,0:01:49.43,0:01:50.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k21}ALWAYS {\k40}IMAGINED
+Dialogue: 0,0:01:50.18,0:01:50.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}OUR {\k21}CHILDREN {\k23}GROWING
+Dialogue: 0,0:01:50.79,0:01:51.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}UP {\k16}WITH {\k19}STRONG {\k48}RELATIONSHIPS
+Dialogue: 0,0:01:51.85,0:01:52.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ON {\k15}BOTH {\k24}SIDES
+Dialogue: 0,0:01:52.48,0:01:53.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k9}THE {\k28}FAMILY, {\k23}AND
+Dialogue: 0,0:01:53.23,0:01:53.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k46}OPPORTUNITIES {\k21}FOR
+Dialogue: 0,0:01:53.92,0:01:54.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k35}RELATIVES {\k21}TO
+Dialogue: 0,0:01:54.64,0:01:55.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}GATHER {\k28}TOGETHER {\k54}INCREDIBLY
+Dialogue: 0,0:01:55.64,0:01:56.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}RARE.
+Dialogue: 0,0:01:56.35,0:01:57.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}IT {\k15}HURTS {\k20}KNOWING {\k20}THAT
+Dialogue: 0,0:01:57.00,0:01:58.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k37}GRANDPARENTS, {\k28}PARENTS,
+Dialogue: 0,0:01:58.34,0:01:59.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}SIBLINGS, {\k18}COUSINS, {\k3}AND {\k14}NEW {\k14}NEPHEW
+Dialogue: 0,0:01:59.51,0:02:00.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MAY {\k12}ALL {\k9}BE {\k24}TOGETHER
+Dialogue: 0,0:02:00.20,0:02:00.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHILE {\k16}MY {\k27}WIFE
+Dialogue: 0,0:02:00.81,0:02:02.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}AND {\k15}SON {\k24}STAY {\k17}HOME.
+Dialogue: 0,0:02:02.07,0:02:02.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}THE {\k14}MORE {\k12}I {\k15}TRY {\k14}TO
+Dialogue: 0,0:02:02.70,0:02:03.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}EXPLAIN {\k20}WHY {\k11}THE
+Dialogue: 0,0:02:03.31,0:02:03.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}TRIP {\k31}MATTERS {\k20}TO
+Dialogue: 0,0:02:03.92,0:02:04.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}ME, {\k9}THE {\k12}MORE {\k31}FRUSTRATED
+Dialogue: 0,0:02:04.93,0:02:06.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}MY {\k24}WIFE {\k28}BECOMES.
+Dialogue: 0,0:02:06.31,0:02:07.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SHE {\k15}SAYS {\k17}I {\k8}AM {\k55}PRIORITIZING
+Dialogue: 0,0:02:07.45,0:02:08.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MY {\k43}FAMILY'S
+Dialogue: 0,0:02:08.06,0:02:08.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WISHES {\k28}OVER {\k12}HER {\k24}COMFORT
+Dialogue: 0,0:02:08.90,0:02:09.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}AND {\k35}RECOVERY.
+Dialogue: 0,0:02:09.97,0:02:10.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k4}I {\k17}FEEL {\k16}LIKE {\k13}I {\k8}AM
+Dialogue: 0,0:02:10.58,0:02:11.19,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}SIMPLY {\k26}TRYING {\k11}TO
+Dialogue: 0,0:02:11.19,0:02:11.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}PRESERVE {\k21}THE {\k24}FAMILY
+Dialogue: 0,0:02:11.90,0:02:12.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}TRADITIONS {\k25}AND
+Dialogue: 0,0:02:12.53,0:02:13.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}COMMITMENTS {\k21}WE {\k19}DISCUSSED
+Dialogue: 0,0:02:13.31,0:02:13.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}LONG {\k21}BEFORE {\k15}A
+Dialogue: 0,0:02:13.96,0:02:15.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}BABY {\k26}ENTERED {\k17}THE {\k28}PICTURE.
+Dialogue: 0,0:02:15.34,0:02:16.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}NOW {\k15}I'M {\k19}WONDERING {\k26}WHETHER
+Dialogue: 0,0:02:16.08,0:02:16.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k9}AM {\k15}BEING {\k47}UNREASONABLE
+Dialogue: 0,0:02:16.97,0:02:17.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}FOR {\k31}CONTINUING {\k20}TO
+Dialogue: 0,0:02:17.74,0:02:18.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}PUSH {\k13}FOR {\k12}THE {\k13}TRIP, {\k21}OR
+Dialogue: 0,0:02:18.47,0:02:19.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}WHETHER {\k12}IT {\k9}IS {\k13}FAIR {\k14}TO
+Dialogue: 0,0:02:19.18,0:02:19.86,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}HOPE {\k15}THAT {\k9}WE {\k12}STICK {\k18}TO
+Dialogue: 0,0:02:19.86,0:02:20.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k14}PLANS {\k17}AND {\k52}EXPECTATIONS
+Dialogue: 0,0:02:20.78,0:02:21.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WE {\k30}ORIGINALLY {\k31}SHARED
+Dialogue: 0,0:02:21.65,0:02:22.13,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AS {\k6}A {\k23}COUPLE.

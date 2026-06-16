@@ -1,0 +1,163 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.52,0:00:04.33,Default,,0,0,0,,{\an5}I'M A 27
+Dialogue: 0,0:00:04.33,0:00:05.04,Default,,0,0,0,,{\an5}-YEAR -OLD WOMAN
+Dialogue: 0,0:00:05.04,0:00:05.54,Default,,0,0,0,,{\an5}WORKING AT
+Dialogue: 0,0:00:05.54,0:00:06.09,Default,,0,0,0,,{\an5}A SMALL DESIGN
+Dialogue: 0,0:00:06.09,0:00:06.63,Default,,0,0,0,,{\an5}FIRM ABOUT
+Dialogue: 0,0:00:06.63,0:00:07.32,Default,,0,0,0,,{\an5}15 MINUTES
+Dialogue: 0,0:00:07.32,0:00:07.67,Default,,0,0,0,,{\an5}FROM MY
+Dialogue: 0,0:00:07.67,0:00:07.94,Default,,0,0,0,,{\an5}PLACE.
+Dialogue: 0,0:00:08.30,0:00:09.06,Default,,0,0,0,,{\an5}I USUALLY
+Dialogue: 0,0:00:09.06,0:00:09.75,Default,,0,0,0,,{\an5}KEEP TO MYSELF,
+Dialogue: 0,0:00:10.08,0:00:10.75,Default,,0,0,0,,{\an5}FINISH MY
+Dialogue: 0,0:00:10.75,0:00:11.48,Default,,0,0,0,,{\an5}WORK, AND
+Dialogue: 0,0:00:11.48,0:00:11.59,Default,,0,0,0,,{\an5}HEAD
+Dialogue: 0,0:00:11.59,0:00:11.92,Default,,0,0,0,,{\an5}HOME.
+Dialogue: 0,0:00:12.06,0:00:12.66,Default,,0,0,0,,{\an5}A FEW MONTHS
+Dialogue: 0,0:00:12.66,0:00:13.38,Default,,0,0,0,,{\an5}AGO, A
+Dialogue: 0,0:00:13.38,0:00:14.03,Default,,0,0,0,,{\an5}NEW COWORKER
+Dialogue: 0,0:00:14.03,0:00:14.53,Default,,0,0,0,,{\an5}NAMED LILA,
+Dialogue: 0,0:00:14.72,0:00:15.30,Default,,0,0,0,,{\an5}WHO'S AROUND
+Dialogue: 0,0:00:15.30,0:00:16.42,Default,,0,0,0,,{\an5}33, JOINED
+Dialogue: 0,0:00:16.42,0:00:16.57,Default,,0,0,0,,{\an5}OUR
+Dialogue: 0,0:00:16.57,0:00:16.89,Default,,0,0,0,,{\an5}TEAM.
+Dialogue: 0,0:00:17.03,0:00:17.76,Default,,0,0,0,,{\an5}WE WERE FRIENDLY
+Dialogue: 0,0:00:17.76,0:00:18.28,Default,,0,0,0,,{\an5}IN A SURFACE
+Dialogue: 0,0:00:18.28,0:00:18.80,Default,,0,0,0,,{\an5}-LEVEL WAY,
+Dialogue: 0,0:00:18.98,0:00:19.64,Default,,0,0,0,,{\an5}JUST NORMAL
+Dialogue: 0,0:00:19.64,0:00:19.98,Default,,0,0,0,,{\an5}OFFICE
+Dialogue: 0,0:00:19.98,0:00:20.30,Default,,0,0,0,,{\an5}CHATTER.
+Dialogue: 0,0:00:20.57,0:00:21.26,Default,,0,0,0,,{\an5}ONE AFTERNOON,
+Dialogue: 0,0:00:21.51,0:00:22.21,Default,,0,0,0,,{\an5}THERE WAS A HEAVY
+Dialogue: 0,0:00:22.21,0:00:23.17,Default,,0,0,0,,{\an5}DOWNPOUR, AND
+Dialogue: 0,0:00:23.17,0:00:23.73,Default,,0,0,0,,{\an5}AS I WAS GETTING
+Dialogue: 0,0:00:23.73,0:00:24.42,Default,,0,0,0,,{\an5}READY TO LEAVE,
+Dialogue: 0,0:00:24.57,0:00:25.19,Default,,0,0,0,,{\an5}SHE ASKED
+Dialogue: 0,0:00:25.19,0:00:25.71,Default,,0,0,0,,{\an5}IF I COULD DROP
+Dialogue: 0,0:00:25.71,0:00:26.28,Default,,0,0,0,,{\an5}HER AT A METRO
+Dialogue: 0,0:00:26.28,0:00:26.83,Default,,0,0,0,,{\an5}STATION A
+Dialogue: 0,0:00:26.83,0:00:27.48,Default,,0,0,0,,{\an5}COUPLE MINUTES OFF
+Dialogue: 0,0:00:27.48,0:00:27.60,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:27.60,0:00:27.82,Default,,0,0,0,,{\an5}ROUTE.
+Dialogue: 0,0:00:27.82,0:00:28.37,Default,,0,0,0,,{\an5}ROUTE
+Dialogue: 0,0:00:28.37,0:00:28.89,Default,,0,0,0,,{\an5}SINCE IT WAS
+Dialogue: 0,0:00:28.89,0:00:29.50,Default,,0,0,0,,{\an5}PRACTICALLY ON
+Dialogue: 0,0:00:29.50,0:00:30.26,Default,,0,0,0,,{\an5}THE WAY I
+Dialogue: 0,0:00:30.26,0:00:30.76,Default,,0,0,0,,{\an5}SAID YES
+Dialogue: 0,0:00:30.76,0:00:31.51,Default,,0,0,0,,{\an5}I FIGURED
+Dialogue: 0,0:00:31.51,0:00:32.07,Default,,0,0,0,,{\an5}IT WAS A ONE
+Dialogue: 0,0:00:32.07,0:00:33.10,Default,,0,0,0,,{\an5}-TIME THING THE
+Dialogue: 0,0:00:33.10,0:00:34.00,Default,,0,0,0,,{\an5}NEXT DAY RIGHT
+Dialogue: 0,0:00:34.00,0:00:34.64,Default,,0,0,0,,{\an5}BEFORE CLOSING
+Dialogue: 0,0:00:34.64,0:00:35.15,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:35.15,0:00:35.67,Default,,0,0,0,,{\an5}SHOWED UP AT
+Dialogue: 0,0:00:35.67,0:00:36.20,Default,,0,0,0,,{\an5}MY DESK WITH
+Dialogue: 0,0:00:36.20,0:00:36.70,Default,,0,0,0,,{\an5}HER BAG AND
+Dialogue: 0,0:00:36.70,0:00:37.47,Default,,0,0,0,,{\an5}SAID READY
+Dialogue: 0,0:00:37.47,0:00:38.17,Default,,0,0,0,,{\an5}TO GO I
+Dialogue: 0,0:00:38.17,0:00:38.67,Default,,0,0,0,,{\an5}TOLD HER I
+Dialogue: 0,0:00:38.67,0:00:39.21,Default,,0,0,0,,{\an5}NEEDED TO STAY
+Dialogue: 0,0:00:39.21,0:00:39.92,Default,,0,0,0,,{\an5}LATE AND
+Dialogue: 0,0:00:39.92,0:00:40.67,Default,,0,0,0,,{\an5}SHE LOOKED PUZZLED
+Dialogue: 0,0:00:40.67,0:00:41.43,Default,,0,0,0,,{\an5}BEFORE HEADING OUT
+Dialogue: 0,0:00:41.43,0:00:42.00,Default,,0,0,0,,{\an5}AFTER
+Dialogue: 0,0:00:42.00,0:00:42.65,Default,,0,0,0,,{\an5}THAT SHE
+Dialogue: 0,0:00:42.65,0:00:43.25,Default,,0,0,0,,{\an5}STARTED ACTING
+Dialogue: 0,0:00:43.25,0:00:43.82,Default,,0,0,0,,{\an5}LIKE I WAS HER
+Dialogue: 0,0:00:43.82,0:00:44.39,Default,,0,0,0,,{\an5}BUILT -IN RIDE
+Dialogue: 0,0:00:44.39,0:00:45.02,Default,,0,0,0,,{\an5}SHE'D
+Dialogue: 0,0:00:45.02,0:00:45.52,Default,,0,0,0,,{\an5}STAND BY THE
+Dialogue: 0,0:00:45.52,0:00:46.11,Default,,0,0,0,,{\an5}DOOR AT CLOSING
+Dialogue: 0,0:00:46.11,0:00:47.00,Default,,0,0,0,,{\an5}TIME OR
+Dialogue: 0,0:00:47.00,0:00:47.57,Default,,0,0,0,,{\an5}MESSAGE ME
+Dialogue: 0,0:00:47.57,0:00:48.10,Default,,0,0,0,,{\an5}ASKING IF
+Dialogue: 0,0:00:48.10,0:00:48.78,Default,,0,0,0,,{\an5}I WAS HANGING OUT
+Dialogue: 0,0:00:48.78,0:00:49.38,Default,,0,0,0,,{\an5}NOW EVEN
+Dialogue: 0,0:00:49.38,0:00:50.07,Default,,0,0,0,,{\an5}THOUGH I NEVER SAID
+Dialogue: 0,0:00:50.07,0:00:50.89,Default,,0,0,0,,{\an5}I'D DRIVE HER REGULARLY
+Dialogue: 0,0:00:50.89,0:00:51.78,Default,,0,0,0,,{\an5}IF
+Dialogue: 0,0:00:51.78,0:00:52.32,Default,,0,0,0,,{\an5}I DIDN'T OFFER
+Dialogue: 0,0:00:52.32,0:00:52.92,Default,,0,0,0,,{\an5}SHE'D
+Dialogue: 0,0:00:52.92,0:00:53.42,Default,,0,0,0,,{\an5}BE CHILLY WITH
+Dialogue: 0,0:00:53.42,0:00:53.88,Default,,0,0,0,,{\an5}ME THE FOLLOWING
+Dialogue: 0,0:00:53.88,0:00:54.29,Default,,0,0,0,,{\an5}MORNING.
+Dialogue: 0,0:00:54.50,0:00:55.29,Default,,0,0,0,,{\an5}LAST WEEK,
+Dialogue: 0,0:00:55.43,0:00:56.03,Default,,0,0,0,,{\an5}SHE TEXTED
+Dialogue: 0,0:00:56.03,0:00:56.65,Default,,0,0,0,,{\an5}ME BEFORE THE
+Dialogue: 0,0:00:56.65,0:00:57.20,Default,,0,0,0,,{\an5}END OF THE DAY
+Dialogue: 0,0:00:57.20,0:00:57.71,Default,,0,0,0,,{\an5}ASKING IF
+Dialogue: 0,0:00:57.71,0:00:58.24,Default,,0,0,0,,{\an5}I COULD TAKE HER
+Dialogue: 0,0:00:58.24,0:00:58.96,Default,,0,0,0,,{\an5}TO A SHOPPING CENTER
+Dialogue: 0,0:00:58.96,0:00:59.20,Default,,0,0,0,,{\an5}AFTER
+Dialogue: 0,0:00:59.20,0:00:59.52,Default,,0,0,0,,{\an5}WORK.
+Dialogue: 0,0:00:59.92,0:01:00.61,Default,,0,0,0,,{\an5}ABOUT 20
+Dialogue: 0,0:01:00.61,0:01:01.11,Default,,0,0,0,,{\an5}MINUTES IN
+Dialogue: 0,0:01:01.11,0:01:01.85,Default,,0,0,0,,{\an5}THE OPPOSITE DIRECTION
+Dialogue: 0,0:01:01.85,0:01:02.35,Default,,0,0,0,,{\an5}OF WHERE I
+Dialogue: 0,0:01:02.35,0:01:03.06,Default,,0,0,0,,{\an5}LIVE, I
+Dialogue: 0,0:01:03.06,0:01:03.64,Default,,0,0,0,,{\an5}TOLD HER IT WAS
+Dialogue: 0,0:01:03.64,0:01:04.18,Default,,0,0,0,,{\an5}TOO FAR OUT
+Dialogue: 0,0:01:04.18,0:01:04.34,Default,,0,0,0,,{\an5}OF MY
+Dialogue: 0,0:01:04.34,0:01:04.62,Default,,0,0,0,,{\an5}WAY.
+Dialogue: 0,0:01:04.79,0:01:05.40,Default,,0,0,0,,{\an5}SHE REPLIED
+Dialogue: 0,0:01:05.40,0:01:05.98,Default,,0,0,0,,{\an5}WITH A CURT,
+Dialogue: 0,0:01:06.07,0:01:06.31,Default,,0,0,0,,{\an5}ALRIGHT
+Dialogue: 0,0:01:06.31,0:01:06.64,Default,,0,0,0,,{\an5}THEN.
+Dialogue: 0,0:01:06.81,0:01:07.35,Default,,0,0,0,,{\an5}THE NEXT
+Dialogue: 0,0:01:07.35,0:01:07.95,Default,,0,0,0,,{\an5}DAY SHE BARELY
+Dialogue: 0,0:01:07.95,0:01:08.50,Default,,0,0,0,,{\an5}SAID A WORD
+Dialogue: 0,0:01:08.50,0:01:09.26,Default,,0,0,0,,{\an5}TO ME, AND
+Dialogue: 0,0:01:09.26,0:01:10.07,Default,,0,0,0,,{\an5}ANOTHER COWORKER
+Dialogue: 0,0:01:10.07,0:01:10.64,Default,,0,0,0,,{\an5}MENTIONED SHE'D
+Dialogue: 0,0:01:10.64,0:01:11.20,Default,,0,0,0,,{\an5}BEEN TELLING PEOPLE
+Dialogue: 0,0:01:11.20,0:01:11.70,Default,,0,0,0,,{\an5}I PROMISED
+Dialogue: 0,0:01:11.70,0:01:12.29,Default,,0,0,0,,{\an5}TO HELP HER AND
+Dialogue: 0,0:01:12.29,0:01:12.62,Default,,0,0,0,,{\an5}THEN BACKED
+Dialogue: 0,0:01:12.62,0:01:12.85,Default,,0,0,0,,{\an5}OUT.
+Dialogue: 0,0:01:13.23,0:01:13.85,Default,,0,0,0,,{\an5}WHICH NEVER
+Dialogue: 0,0:01:13.85,0:01:14.26,Default,,0,0,0,,{\an5}HAPPENED.
+Dialogue: 0,0:01:14.45,0:01:15.00,Default,,0,0,0,,{\an5}ALL I DID
+Dialogue: 0,0:01:15.00,0:01:15.59,Default,,0,0,0,,{\an5}WAS GIVE HER ONE
+Dialogue: 0,0:01:15.59,0:01:16.26,Default,,0,0,0,,{\an5}RIDE DURING BAD
+Dialogue: 0,0:01:16.26,0:01:16.57,Default,,0,0,0,,{\an5}WEATHER.
+Dialogue: 0,0:01:16.78,0:01:17.29,Default,,0,0,0,,{\an5}I DON'T
+Dialogue: 0,0:01:17.29,0:01:18.20,Default,,0,0,0,,{\an5}MIND HELPING OCCASIONALLY,
+Dialogue: 0,0:01:18.48,0:01:19.14,Default,,0,0,0,,{\an5}BUT I DON'T
+Dialogue: 0,0:01:19.14,0:01:19.81,Default,,0,0,0,,{\an5}WANT SOMEONE ASSUMING
+Dialogue: 0,0:01:19.81,0:01:20.48,Default,,0,0,0,,{\an5}I'M RESPONSIBLE
+Dialogue: 0,0:01:20.48,0:01:21.00,Default,,0,0,0,,{\an5}FOR THEIR
+Dialogue: 0,0:01:21.00,0:01:22.34,Default,,0,0,0,,{\an5}TRANSPORTATION, ESPECIALLY
+Dialogue: 0,0:01:22.34,0:01:22.90,Default,,0,0,0,,{\an5}WHEN IT'S
+Dialogue: 0,0:01:22.90,0:01:23.64,Default,,0,0,0,,{\an5}INCONVENIENT AND
+Dialogue: 0,0:01:23.64,0:01:24.26,Default,,0,0,0,,{\an5}SHE NEVER OFFERS
+Dialogue: 0,0:01:24.26,0:01:25.04,Default,,0,0,0,,{\an5}TO CONTRIBUTE FOR
+Dialogue: 0,0:01:25.04,0:01:25.65,Default,,0,0,0,,{\an5}FUEL OR ANYTHING
+Dialogue: 0,0:01:25.65,0:01:26.04,Default,,0,0,0,,{\an5}LIKE
+Dialogue: 0,0:01:26.04,0:01:26.21,Default,,0,0,0,,{\an5}THAT.
+Dialogue: 0,0:01:26.62,0:01:27.34,Default,,0,0,0,,{\an5}A FRIEND
+Dialogue: 0,0:01:27.34,0:01:27.92,Default,,0,0,0,,{\an5}TOLD ME I WAS
+Dialogue: 0,0:01:27.92,0:01:28.68,Default,,0,0,0,,{\an5}TOO ACCOMMODATING
+Dialogue: 0,0:01:28.68,0:01:29.62,Default,,0,0,0,,{\an5}AT THE START, AND
+Dialogue: 0,0:01:29.62,0:01:30.26,Default,,0,0,0,,{\an5}ANOTHER SAID I
+Dialogue: 0,0:01:30.26,0:01:30.87,Default,,0,0,0,,{\an5}SHOULD'VE JUST DRIVEN
+Dialogue: 0,0:01:30.87,0:01:31.35,Default,,0,0,0,,{\an5}HER TO AVOID
+Dialogue: 0,0:01:31.35,0:01:31.65,Default,,0,0,0,,{\an5}TENSION.
+Dialogue: 0,0:01:31.93,0:01:32.62,Default,,0,0,0,,{\an5}I GENUINELY
+Dialogue: 0,0:01:32.62,0:01:33.12,Default,,0,0,0,,{\an5}DON'T THINK
+Dialogue: 0,0:01:33.12,0:01:33.93,Default,,0,0,0,,{\an5}I DID ANYTHING WRONG,
+Dialogue: 0,0:01:34.12,0:01:34.64,Default,,0,0,0,,{\an5}BUT NOW
+Dialogue: 0,0:01:34.64,0:01:35.23,Default,,0,0,0,,{\an5}IT FEELS AWKWARD
+Dialogue: 0,0:01:35.23,0:01:35.50,Default,,0,0,0,,{\an5}AT
+Dialogue: 0,0:01:35.50,0:01:35.70,Default,,0,0,0,,{\an5}WORK.

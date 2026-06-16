@@ -1,0 +1,115 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:03.72,Default,,0,0,0,,{\an5}I'M 21
+Dialogue: 0,0:00:03.72,0:00:04.29,Default,,0,0,0,,{\an5}AND MY YOUNGER
+Dialogue: 0,0:00:04.29,0:00:04.83,Default,,0,0,0,,{\an5}BROTHER IS
+Dialogue: 0,0:00:04.83,0:00:05.01,Default,,0,0,0,,{\an5}19.
+Dialogue: 0,0:00:05.44,0:00:06.04,Default,,0,0,0,,{\an5}HE'S ALWAYS
+Dialogue: 0,0:00:06.04,0:00:06.54,Default,,0,0,0,,{\an5}BEEN A VERY
+Dialogue: 0,0:00:06.54,0:00:06.83,Default,,0,0,0,,{\an5}HEAVY
+Dialogue: 0,0:00:06.83,0:00:07.36,Default,,0,0,0,,{\an5}SLEEPER.
+Dialogue: 0,0:00:07.44,0:00:08.03,Default,,0,0,0,,{\an5}EVEN AS
+Dialogue: 0,0:00:08.03,0:00:08.74,Default,,0,0,0,,{\an5}A KID, OUR
+Dialogue: 0,0:00:08.74,0:00:09.24,Default,,0,0,0,,{\an5}PARENTS HAD
+Dialogue: 0,0:00:09.24,0:00:09.64,Default,,0,0,0,,{\an5}TO PRACTICALLY
+Dialogue: 0,0:00:09.64,0:00:10.14,Default,,0,0,0,,{\an5}DRAG HIM
+Dialogue: 0,0:00:10.14,0:00:10.35,Default,,0,0,0,,{\an5}OUT OF
+Dialogue: 0,0:00:10.35,0:00:10.58,Default,,0,0,0,,{\an5}BED.
+Dialogue: 0,0:00:10.82,0:00:11.22,Default,,0,0,0,,{\an5}LATELY,
+Dialogue: 0,0:00:11.41,0:00:11.92,Default,,0,0,0,,{\an5}HE'S BEEN
+Dialogue: 0,0:00:11.92,0:00:12.35,Default,,0,0,0,,{\an5}WORKING AT
+Dialogue: 0,0:00:12.35,0:00:12.93,Default,,0,0,0,,{\an5}A RETAIL JOB
+Dialogue: 0,0:00:12.93,0:00:13.33,Default,,0,0,0,,{\an5}HE REALLY
+Dialogue: 0,0:00:13.33,0:00:13.72,Default,,0,0,0,,{\an5}LIKES.
+Dialogue: 0,0:00:13.85,0:00:14.32,Default,,0,0,0,,{\an5}BUT HE
+Dialogue: 0,0:00:14.32,0:00:14.85,Default,,0,0,0,,{\an5}STARTED FALLING
+Dialogue: 0,0:00:14.85,0:00:15.40,Default,,0,0,0,,{\an5}BACK ASLEEP
+Dialogue: 0,0:00:15.40,0:00:15.92,Default,,0,0,0,,{\an5}AFTER HIS
+Dialogue: 0,0:00:15.92,0:00:16.19,Default,,0,0,0,,{\an5}ALARM.
+Dialogue: 0,0:00:16.39,0:00:16.80,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:00:16.80,0:00:17.26,Default,,0,0,0,,{\an5}HAS CAUSED
+Dialogue: 0,0:00:17.26,0:00:17.82,Default,,0,0,0,,{\an5}HIM TO BE LATE
+Dialogue: 0,0:00:17.82,0:00:18.05,Default,,0,0,0,,{\an5}A FEW
+Dialogue: 0,0:00:18.05,0:00:18.39,Default,,0,0,0,,{\an5}TIMES.
+Dialogue: 0,0:00:18.69,0:00:19.10,Default,,0,0,0,,{\an5}EVEN
+Dialogue: 0,0:00:19.10,0:00:19.64,Default,,0,0,0,,{\an5}THOUGH WE SLEEP
+Dialogue: 0,0:00:19.64,0:00:20.37,Default,,0,0,0,,{\an5}IN SEPARATE ROOMS,
+Dialogue: 0,0:00:20.64,0:00:21.12,Default,,0,0,0,,{\an5}I CAN
+Dialogue: 0,0:00:21.12,0:00:21.69,Default,,0,0,0,,{\an5}USUALLY HEAR
+Dialogue: 0,0:00:21.69,0:00:21.85,Default,,0,0,0,,{\an5}HIS
+Dialogue: 0,0:00:21.85,0:00:22.17,Default,,0,0,0,,{\an5}ALARM.
+Dialogue: 0,0:00:22.44,0:00:22.89,Default,,0,0,0,,{\an5}AND IN THE
+Dialogue: 0,0:00:22.89,0:00:23.37,Default,,0,0,0,,{\an5}PAST I'VE
+Dialogue: 0,0:00:23.37,0:00:23.87,Default,,0,0,0,,{\an5}HAD TO GO INTO
+Dialogue: 0,0:00:23.87,0:00:24.28,Default,,0,0,0,,{\an5}HIS ROOM
+Dialogue: 0,0:00:24.28,0:00:24.67,Default,,0,0,0,,{\an5}TO GET HIM
+Dialogue: 0,0:00:24.67,0:00:24.92,Default,,0,0,0,,{\an5}MOVING.
+Dialogue: 0,0:00:25.44,0:00:25.98,Default,,0,0,0,,{\an5}A WHILE
+Dialogue: 0,0:00:25.98,0:00:26.69,Default,,0,0,0,,{\an5}BACK, HE
+Dialogue: 0,0:00:26.69,0:00:27.10,Default,,0,0,0,,{\an5}ASKED ME
+Dialogue: 0,0:00:27.10,0:00:27.57,Default,,0,0,0,,{\an5}IF I COULD START
+Dialogue: 0,0:00:27.57,0:00:28.07,Default,,0,0,0,,{\an5}CHECKING ON
+Dialogue: 0,0:00:28.07,0:00:28.64,Default,,0,0,0,,{\an5}HIM TO MAKE SURE
+Dialogue: 0,0:00:28.64,0:00:29.05,Default,,0,0,0,,{\an5}HE ACTUALLY
+Dialogue: 0,0:00:29.05,0:00:29.57,Default,,0,0,0,,{\an5}GETS UP FOR
+Dialogue: 0,0:00:29.57,0:00:29.85,Default,,0,0,0,,{\an5}WORK.
+Dialogue: 0,0:00:30.00,0:00:30.53,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:30.53,0:00:30.94,Default,,0,0,0,,{\an5}TOLD HIM
+Dialogue: 0,0:00:30.94,0:00:31.48,Default,,0,0,0,,{\an5}NO I
+Dialogue: 0,0:00:31.48,0:00:31.89,Default,,0,0,0,,{\an5}FEEL LIKE
+Dialogue: 0,0:00:31.89,0:00:32.50,Default,,0,0,0,,{\an5}ONCE HIS ALARM
+Dialogue: 0,0:00:32.50,0:00:33.02,Default,,0,0,0,,{\an5}GOES OFF
+Dialogue: 0,0:00:33.02,0:00:33.56,Default,,0,0,0,,{\an5}IT'S
+Dialogue: 0,0:00:33.56,0:00:34.20,Default,,0,0,0,,{\an5}HIS RESPONSIBILITY
+Dialogue: 0,0:00:34.20,0:00:34.84,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:34.84,0:00:35.38,Default,,0,0,0,,{\an5}ALSO DON'T
+Dialogue: 0,0:00:35.38,0:00:35.84,Default,,0,0,0,,{\an5}WANT TO TAKE ON
+Dialogue: 0,0:00:35.84,0:00:36.42,Default,,0,0,0,,{\an5}THAT RESPONSIBILITY
+Dialogue: 0,0:00:36.42,0:00:37.24,Default,,0,0,0,,{\an5}IF
+Dialogue: 0,0:00:37.24,0:00:37.82,Default,,0,0,0,,{\an5}I AGREED AND
+Dialogue: 0,0:00:37.82,0:00:38.46,Default,,0,0,0,,{\an5}HE WAS STILL LATE
+Dialogue: 0,0:00:38.46,0:00:38.93,Default,,0,0,0,,{\an5}HE
+Dialogue: 0,0:00:38.93,0:00:39.35,Default,,0,0,0,,{\an5}MIGHT BLAME
+Dialogue: 0,0:00:39.35,0:00:39.92,Default,,0,0,0,,{\an5}ME I
+Dialogue: 0,0:00:39.92,0:00:40.38,Default,,0,0,0,,{\an5}WANT HIM TO
+Dialogue: 0,0:00:40.38,0:00:40.89,Default,,0,0,0,,{\an5}LEARN TO MANAGE
+Dialogue: 0,0:00:40.89,0:00:41.57,Default,,0,0,0,,{\an5}HIS OWN SCHEDULE
+Dialogue: 0,0:00:41.57,0:00:42.17,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:42.17,0:00:42.64,Default,,0,0,0,,{\an5}MENTIONED IT
+Dialogue: 0,0:00:42.64,0:00:43.11,Default,,0,0,0,,{\an5}TO MY MOM
+Dialogue: 0,0:00:43.11,0:00:43.60,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:43.60,0:00:44.11,Default,,0,0,0,,{\an5}SHE SAID IT
+Dialogue: 0,0:00:44.11,0:00:44.60,Default,,0,0,0,,{\an5}WOULD BE A KIND
+Dialogue: 0,0:00:44.60,0:00:45.17,Default,,0,0,0,,{\an5}GESTURE TO
+Dialogue: 0,0:00:45.17,0:00:45.61,Default,,0,0,0,,{\an5}CHECK ON HIM
+Dialogue: 0,0:00:45.61,0:00:46.06,Default,,0,0,0,,{\an5}IF I'M ALREADY
+Dialogue: 0,0:00:46.06,0:00:47.11,Default,,0,0,0,,{\an5}AWAKE I
+Dialogue: 0,0:00:47.11,0:00:47.70,Default,,0,0,0,,{\an5}USUALLY TRY
+Dialogue: 0,0:00:47.70,0:00:48.14,Default,,0,0,0,,{\an5}TO GO BACK
+Dialogue: 0,0:00:48.14,0:00:48.71,Default,,0,0,0,,{\an5}TO SLEEP WHEN
+Dialogue: 0,0:00:48.71,0:00:49.34,Default,,0,0,0,,{\an5}HIS ALARM RINGS
+Dialogue: 0,0:00:49.75,0:00:50.25,Default,,0,0,0,,{\an5}BUT I
+Dialogue: 0,0:00:50.25,0:00:50.70,Default,,0,0,0,,{\an5}CAN SEE HER
+Dialogue: 0,0:00:50.70,0:00:51.64,Default,,0,0,0,,{\an5}POINT STILL
+Dialogue: 0,0:00:51.64,0:00:52.06,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:52.06,0:00:52.47,Default,,0,0,0,,{\an5}FEEL LIKE
+Dialogue: 0,0:00:52.47,0:00:52.96,Default,,0,0,0,,{\an5}I'M SETTING A
+Dialogue: 0,0:00:52.96,0:00:53.67,Default,,0,0,0,,{\an5}REASONABLE BOUNDARY
+Dialogue: 0,0:00:53.67,0:00:54.34,Default,,0,0,0,,{\an5}BECAUSE HE'S
+Dialogue: 0,0:00:54.34,0:00:54.84,Default,,0,0,0,,{\an5}AN ADULT NOW
+Dialogue: 0,0:00:54.84,0:00:55.29,Default,,0,0,0,,{\an5}AND NEEDS TO
+Dialogue: 0,0:00:55.29,0:00:55.75,Default,,0,0,0,,{\an5}TAKE OWNERSHIP
+Dialogue: 0,0:00:55.75,0:00:56.60,Default,,0,0,0,,{\an5}OF
+Dialogue: 0,0:00:56.60,0:00:57.11,Default,,0,0,0,,{\an5}GETTING UP ON
+Dialogue: 0,0:00:57.11,0:00:57.38,Default,,0,0,0,,{\an5}TIME

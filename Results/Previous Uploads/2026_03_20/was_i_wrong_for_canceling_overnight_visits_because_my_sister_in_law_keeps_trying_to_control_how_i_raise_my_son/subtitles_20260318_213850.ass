@@ -1,0 +1,114 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.63,0:00:06.32,Default,,80,80,60,,{\k10}I {\k16}LOST {\k17}MY {\k24}HUSBAND
+Dialogue: 0,0:00:06.32,0:00:06.96,Default,,80,80,60,,{\k25}ALMOST {\k24}TWO {\k13}YEARS
+Dialogue: 0,0:00:06.96,0:00:07.90,Default,,80,80,60,,{\k25}AGO. {\k24}SINCE
+Dialogue: 0,0:00:07.90,0:00:08.83,Default,,80,80,60,,{\k24}SINCE {\k29}THEN, {\k14}I
+Dialogue: 0,0:00:08.83,0:00:09.48,Default,,80,80,60,,{\k14}REALLY {\k21}TRIED {\k14}TO {\k14}MAKE
+Dialogue: 0,0:00:09.48,0:00:10.14,Default,,80,80,60,,{\k19}SURE {\k9}OUR {\k14}SON {\k22}STILL
+Dialogue: 0,0:00:10.14,0:00:10.77,Default,,80,80,60,,{\k17}HAS {\k6}A {\k39}RELATIONSHIP
+Dialogue: 0,0:00:10.77,0:00:11.72,Default,,80,80,60,,{\k25}WITH {\k12}HIS {\k17}DAD {\k38}OF
+Dialogue: 0,0:00:11.72,0:00:12.82,Default,,80,80,60,,{\k9}THE {\k27}FAMILY. {\k19}IT
+Dialogue: 0,0:00:12.82,0:00:13.67,Default,,80,80,60,,{\k19}IT {\k24}HASN {\k9}BEEN {\k32}EASY,
+Dialogue: 0,0:00:13.93,0:00:14.59,Default,,80,80,60,,{\k8}BUT {\k14}I {\k9}DONE {\k16}MY {\k17}BEST
+Dialogue: 0,0:00:14.59,0:00:15.93,Default,,80,80,60,,{\k17}TO {\k25}INCLUDE {\k12}THEM. {\k20}RIGHT
+Dialogue: 0,0:00:15.93,0:00:17.05,Default,,80,80,60,,{\k20}RIGHT {\k19}NOW, {\k17}MY
+Dialogue: 0,0:00:17.05,0:00:17.83,Default,,80,80,60,,{\k22}SON {\k27}SPENDS {\k28}TWO
+Dialogue: 0,0:00:17.83,0:00:18.64,Default,,80,80,60,,{\k23}WEEKENDS {\k20}A {\k9}MONTH {\k26}STAYING
+Dialogue: 0,0:00:18.64,0:00:19.73,Default,,80,80,60,,{\k17}WITH {\k16}THEM. {\k10}BUT
+Dialogue: 0,0:00:19.73,0:00:20.37,Default,,80,80,60,,{\k10}BUT {\k19}OVER {\k17}TIME, {\k3}IT
+Dialogue: 0,0:00:20.37,0:00:21.12,Default,,80,80,60,,{\k17}STARTED {\k24}TO {\k12}FEEL {\k19}LESS
+Dialogue: 0,0:00:21.12,0:00:21.73,Default,,80,80,60,,{\k16}LIKE {\k27}SUPPORT {\k17}AND
+Dialogue: 0,0:00:21.73,0:00:22.35,Default,,80,80,60,,{\k14}MORE {\k14}LIKE {\k16}THEY {\k17}TRYING
+Dialogue: 0,0:00:22.35,0:00:23.19,Default,,80,80,60,,{\k12}TO {\k14}TAKE {\k17}OVER {\k39}PARENTING
+Dialogue: 0,0:00:23.19,0:00:24.26,Default,,80,80,60,,{\k32}DECISIONS. {\k23}HIS
+Dialogue: 0,0:00:24.26,0:00:25.07,Default,,80,80,60,,{\k23}HIS {\k14}AUNT {\k14}IN {\k29}PARTICULAR
+Dialogue: 0,0:00:25.07,0:00:25.80,Default,,80,80,60,,{\k32}ALWAYS {\k22}SEEMS {\k17}TO
+Dialogue: 0,0:00:25.80,0:00:26.64,Default,,80,80,60,,{\k14}THINK {\k17}SHE {\k17}KNOWS {\k33}BETTER.
+Dialogue: 0,0:00:26.64,0:00:27.64,Default,,80,80,60,,{\k41}IT {\k58}CAN
+Dialogue: 0,0:00:27.64,0:00:28.30,Default,,80,80,60,,{\k12}BE {\k19}SMALL {\k33}THINGS,
+Dialogue: 0,0:00:28.50,0:00:29.26,Default,,80,80,60,,{\k10}LIKE {\k35}CRITICIZING {\k30}HIS
+Dialogue: 0,0:00:29.26,0:00:29.96,Default,,80,80,60,,{\k21}HAIRSTYLE, {\k6}BUT
+Dialogue: 0,0:00:29.96,0:00:30.71,Default,,80,80,60,,{\k7}IT {\k22}ALSO {\k19}GOES {\k25}DEEPER
+Dialogue: 0,0:00:30.71,0:00:31.76,Default,,80,80,60,,{\k17}THAN {\k26}THAT. {\k19}ONE
+Dialogue: 0,0:00:31.76,0:00:32.38,Default,,80,80,60,,{\k19}ONE {\k10}OF {\k11}THE {\k20}BIGGEST
+Dialogue: 0,0:00:32.38,0:00:33.07,Default,,80,80,60,,{\k27}ISSUES {\k18}IS {\k11}THAT {\k11}I
+Dialogue: 0,0:00:33.07,0:00:33.71,Default,,80,80,60,,{\k20}NEVER {\k15}GET {\k14}MY {\k14}SON
+Dialogue: 0,0:00:33.71,0:00:34.46,Default,,80,80,60,,{\k20}BACK {\k15}THE {\k20}SAME {\k17}WAY
+Dialogue: 0,0:00:34.46,0:00:35.17,Default,,80,80,60,,{\k7}I {\k20}DROPPED {\k19}HIM {\k24}OFF.
+Dialogue: 0,0:00:35.70,0:00:35.70,Default,,80,80,60,,{\k17}THERE
+Dialogue: 0,0:00:35.70,0:00:36.57,Default,,80,80,60,,{\k17}THERE {\k9}ARE {\k22}ALWAYS {\k37}CHANGES,
+Dialogue: 0,0:00:36.75,0:00:37.35,Default,,80,80,60,,{\k21}COMMENTS, {\k6}OR
+Dialogue: 0,0:00:37.35,0:00:38.15,Default,,80,80,60,,{\k17}NEW {\k35}SUGGESTIONS {\k25}THAT
+Dialogue: 0,0:00:38.15,0:00:39.00,Default,,80,80,60,,{\k16}FEEL {\k20}MORE {\k17}LIKE {\k29}PRESSURE
+Dialogue: 0,0:00:39.00,0:00:39.29,Default,,80,80,60,,{\k11}THAN {\k17}HELP.
+Dialogue: 0,0:00:40.06,0:00:40.71,Default,,80,80,60,,{\k19}I {\k16}TRIED {\k29}TALKING
+Dialogue: 0,0:00:40.71,0:00:41.38,Default,,80,80,60,,{\k12}TO {\k11}THEM {\k15}ABOUT {\k10}IT {\k16}MULTIPLE
+Dialogue: 0,0:00:41.38,0:00:42.14,Default,,80,80,60,,{\k50}TIMES, {\k7}BUT
+Dialogue: 0,0:00:42.14,0:00:42.97,Default,,80,80,60,,{\k24}NOTHING {\k27}REALLY {\k32}CHANGES.
+Dialogue: 0,0:00:43.61,0:00:43.61,Default,,80,80,60,,{\k24}WHAT
+Dialogue: 0,0:00:43.61,0:00:44.25,Default,,80,80,60,,{\k24}WHAT {\k25}BOTHERED {\k14}ME
+Dialogue: 0,0:00:44.25,0:00:44.89,Default,,80,80,60,,{\k17}MOST {\k26}RECENTLY {\k19}WAS
+Dialogue: 0,0:00:44.89,0:00:45.53,Default,,80,80,60,,{\k21}PICKING {\k16}HIM {\k11}UP {\k14}LAST
+Dialogue: 0,0:00:45.53,0:00:46.14,Default,,80,80,60,,{\k39}WEEKEND {\k20}AND
+Dialogue: 0,0:00:46.14,0:00:46.75,Default,,80,80,60,,{\k17}HAVING {\k14}HIM {\k15}TELL {\k14}ME
+Dialogue: 0,0:00:46.75,0:00:47.46,Default,,80,80,60,,{\k12}THAT {\k14}HIS {\k11}AUNT {\k17}TOLD {\k14}HIM
+Dialogue: 0,0:00:47.46,0:00:48.17,Default,,80,80,60,,{\k11}TO {\k16}SAY {\k11}HE {\k14}WANTS {\k17}TO
+Dialogue: 0,0:00:48.17,0:00:49.38,Default,,80,80,60,,{\k20}CHANGE {\k35}SCHOOLS, {\k26}EVEN
+Dialogue: 0,0:00:49.38,0:00:50.15,Default,,80,80,60,,{\k15}THOUGH {\k14}HE {\k29}ADMITTED {\k17}TO
+Dialogue: 0,0:00:50.15,0:00:50.78,Default,,80,80,60,,{\k10}HER {\k10}THAT {\k14}HE {\k28}ACTUALLY
+Dialogue: 0,0:00:50.78,0:00:51.57,Default,,80,80,60,,{\k17}LIKES {\k21}HIS {\k16}CURRENT {\k23}SCHOOL.
+Dialogue: 0,0:00:52.28,0:00:52.28,Default,,80,80,60,,{\k21}SHE
+Dialogue: 0,0:00:52.28,0:00:53.07,Default,,80,80,60,,{\k21}SHE {\k11}HAD {\k24}ALREADY {\k21}BROUGHT
+Dialogue: 0,0:00:53.07,0:00:53.84,Default,,80,80,60,,{\k16}UP {\k23}SWITCHING {\k36}SCHOOLS
+Dialogue: 0,0:00:53.84,0:00:54.46,Default,,80,80,60,,{\k17}WITH {\k13}ME {\k30}BEFORE,
+Dialogue: 0,0:00:54.67,0:00:55.43,Default,,80,80,60,,{\k10}AND {\k6}I {\k9}HAD {\k24}CLEARLY {\k25}SAID
+Dialogue: 0,0:00:55.43,0:00:56.56,Default,,80,80,60,,{\k21}NO. {\k32}THAT
+Dialogue: 0,0:00:56.56,0:00:57.24,Default,,80,80,60,,{\k19}CROSSED {\k16}A {\k11}LINE {\k20}FOR
+Dialogue: 0,0:00:57.24,0:00:58.06,Default,,80,80,60,,{\k15}ME. {\k15}IT
+Dialogue: 0,0:00:58.06,0:00:58.74,Default,,80,80,60,,{\k15}IT {\k17}FELT {\k17}LIKE {\k16}SHE
+Dialogue: 0,0:00:58.74,0:00:59.35,Default,,80,80,60,,{\k10}WAS {\k21}USING {\k15}MY {\k14}SON
+Dialogue: 0,0:00:59.35,0:00:59.96,Default,,80,80,60,,{\k16}TO {\k15}PUSH {\k14}HER {\k14}OWN
+Dialogue: 0,0:00:59.96,0:01:01.02,Default,,80,80,60,,{\k29}AGENDA. {\k23}SO
+Dialogue: 0,0:01:01.02,0:01:01.92,Default,,80,80,60,,{\k23}SO {\k24}TODAY, {\k3}I
+Dialogue: 0,0:01:01.92,0:01:02.53,Default,,80,80,60,,{\k11}CALLED {\k16}HER {\k21}SAID {\k11}THAT
+Dialogue: 0,0:01:02.53,0:01:03.25,Default,,80,80,60,,{\k25}OVERNIGHT {\k30}VISITS {\k15}ARE
+Dialogue: 0,0:01:03.25,0:01:03.92,Default,,80,80,60,,{\k12}NO {\k14}LONGER {\k39}HAPPENING.
+Dialogue: 0,0:01:04.84,0:01:05.76,Default,,80,80,60,,{\k31}INSTEAD, {\k18}THEY
+Dialogue: 0,0:01:05.76,0:01:06.50,Default,,80,80,60,,{\k5}RE {\k24}WELCOME {\k15}TO {\k9}COME {\k18}SEE
+Dialogue: 0,0:01:06.50,0:01:07.15,Default,,80,80,60,,{\k12}HIM {\k9}AT {\k7}MY {\k15}HOME {\k14}FOR {\k6}A
+Dialogue: 0,0:01:07.15,0:01:07.98,Default,,80,80,60,,{\k15}FEW {\k26}HOURS, {\k7}BUT
+Dialogue: 0,0:01:07.98,0:01:09.06,Default,,80,80,60,,{\k25}THAT {\k7}IT. {\k20}NOW
+Dialogue: 0,0:01:09.06,0:01:09.71,Default,,80,80,60,,{\k20}NOW {\k19}SHE {\k26}ACCUSING
+Dialogue: 0,0:01:09.71,0:01:10.35,Default,,80,80,60,,{\k21}ME {\k12}OF {\k15}TRYING {\k14}TO
+Dialogue: 0,0:01:10.35,0:01:10.98,Default,,80,80,60,,{\k18}PUSH {\k14}HER {\k11}AND {\k6}THE {\k12}REST
+Dialogue: 0,0:01:10.98,0:01:11.65,Default,,80,80,60,,{\k14}OF {\k11}THE {\k21}FAMILY {\k20}OUT
+Dialogue: 0,0:01:11.65,0:01:12.35,Default,,80,80,60,,{\k4}OF {\k11}MY {\k28}SON {\k14}LIFE {\k12}AND
+Dialogue: 0,0:01:12.35,0:01:13.06,Default,,80,80,60,,{\k18}SAYS {\k21}THIS {\k7}IS {\k21}SOMETHING
+Dialogue: 0,0:01:13.06,0:01:13.76,Default,,80,80,60,,{\k21}I {\k14}ALWAYS {\k34}WANTED,
+Dialogue: 0,0:01:13.95,0:01:14.54,Default,,80,80,60,,{\k14}WHICH {\k28}ISN {\k16}TRUE.
+Dialogue: 0,0:01:15.26,0:01:15.95,Default,,80,80,60,,{\k7}I {\k11}KNOW {\k18}SHE {\k14}WAS {\k17}VERY
+Dialogue: 0,0:01:15.95,0:01:16.70,Default,,80,80,60,,{\k22}CLOSE {\k15}TO {\k9}MY {\k26}HUSBAND,
+Dialogue: 0,0:01:16.95,0:01:17.68,Default,,80,80,60,,{\k10}AND {\k7}I {\k29}UNDERSTAND {\k24}SHE
+Dialogue: 0,0:01:17.68,0:01:18.64,Default,,80,80,60,,{\k9}LOVES {\k21}MY {\k23}SON, {\k9}BUT
+Dialogue: 0,0:01:18.64,0:01:19.31,Default,,80,80,60,,{\k9}I {\k18}DON {\k14}THINK {\k14}THAT {\k11}GIVES
+Dialogue: 0,0:01:19.31,0:01:19.93,Default,,80,80,60,,{\k16}HER {\k11}THE {\k16}RIGHT {\k17}TO
+Dialogue: 0,0:01:19.93,0:01:20.54,Default,,80,80,60,,{\k24}INTERFERE {\k13}IN {\k8}HOW {\k14}I
+Dialogue: 0,0:01:20.54,0:01:21.54,Default,,80,80,60,,{\k19}RAISE {\k14}HIM. {\k23}I
+Dialogue: 0,0:01:21.54,0:01:22.26,Default,,80,80,60,,{\k23}I {\k31}STARTING {\k16}TO
+Dialogue: 0,0:01:22.26,0:01:22.90,Default,,80,80,60,,{\k21}QUESTION {\k25}WHETHER {\k16}I
+Dialogue: 0,0:01:22.90,0:01:23.71,Default,,80,80,60,,{\k11}WAS {\k12}TOO {\k15}HARSH {\k20}BY {\k21}CUTTING
+Dialogue: 0,0:01:23.71,0:01:24.65,Default,,80,80,60,,{\k21}OFF {\k15}THE {\k16}VISITS {\k39}INSTEAD
+Dialogue: 0,0:01:24.65,0:01:25.34,Default,,80,80,60,,{\k10}OF {\k19}TRYING {\k12}TO {\k14}WORK {\k12}IT
+Dialogue: 0,0:01:25.34,0:01:26.45,Default,,80,80,60,,{\k7}OUT {\k28}AGAIN. {\k20}WAS
+Dialogue: 0,0:01:26.45,0:01:27.21,Default,,80,80,60,,{\k20}WAS {\k10}I {\k14}WRONG {\k14}FOR {\k17}SETTING
+Dialogue: 0,0:01:27.21,0:01:27.68,Default,,80,80,60,,{\k18}THAT {\k28}BOUNDARY?

@@ -1,0 +1,138 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.83,0:00:04.58,Default,,0,0,0,,\N{\k25}I'M {\k1}A {\k26}19 {\k21}YEAR
+Dialogue: 0,0:00:04.58,0:00:05.29,Default,,0,0,0,,\N{\k17}OLD {\k18}GUY {\k19}WHO'S {\k16}FLUENT
+Dialogue: 0,0:00:05.29,0:00:06.08,Default,,0,0,0,,\N{\k20}IN {\k20}ANOTHER {\k37}LANGUAGE
+Dialogue: 0,0:00:06.08,0:00:06.71,Default,,0,0,0,,\N{\k28}BECAUSE {\k17}IT'S {\k17}SPOKEN
+Dialogue: 0,0:00:06.71,0:00:07.33,Default,,0,0,0,,\N{\k18}IN {\k11}MY {\k32}FAMILY.
+Dialogue: 0,0:00:08.03,0:00:08.80,Default,,0,0,0,,\N{\k18}A {\k16}FRIEND {\k15}OF {\k26}MINE,
+Dialogue: 0,0:00:09.01,0:00:09.77,Default,,0,0,0,,\N{\k17}LEO, {\k6}IS {\k11}THE {\k17}SAME
+Dialogue: 0,0:00:09.77,0:00:10.43,Default,,0,0,0,,\N{\k24}AGE {\k9}AND {\k16}HAS {\k16}BEEN
+Dialogue: 0,0:00:10.43,0:00:11.16,Default,,0,0,0,,\N{\k24}LEARNING {\k22}THIS {\k25}LANGUAGE
+Dialogue: 0,0:00:11.16,0:00:11.83,Default,,0,0,0,,\N{\k19}FOR {\k20}YEARS, {\k6}BUT {\k9}IN
+Dialogue: 0,0:00:11.83,0:00:12.58,Default,,0,0,0,,\N{\k38}REALITY {\k21}HE {\k14}ONLY
+Dialogue: 0,0:00:12.58,0:00:13.27,Default,,0,0,0,,\N{\k22}KNOWS {\k11}A {\k22}HANDFUL {\k13}OF
+Dialogue: 0,0:00:13.27,0:00:14.00,Default,,0,0,0,,\N{\k25}PHRASES {\k26}AND {\k19}CAN'T
+Dialogue: 0,0:00:14.00,0:00:14.77,Default,,0,0,0,,\N{\k8}HOLD {\k11}A {\k18}REAL {\k39}CONVERSATION.
+Dialogue: 0,0:00:15.69,0:00:16.30,Default,,0,0,0,,\N{\k32}THE {\k28}PROBLEM
+Dialogue: 0,0:00:16.30,0:00:16.98,Default,,0,0,0,,\N{\k17}IS {\k12}THAT {\k7}HE {\k30}CONSTANTLY
+Dialogue: 0,0:00:16.98,0:00:17.64,Default,,0,0,0,,\N{\k25}TELLS {\k26}PEOPLE {\k14}HE
+Dialogue: 0,0:00:17.64,0:00:18.33,Default,,0,0,0,,\N{\k21}SPEAKS {\k19}IT, {\k7}AND
+Dialogue: 0,0:00:18.33,0:00:19.14,Default,,0,0,0,,\N{\k10}THE {\k17}MOMENT {\k21}SOMEONE {\k30}ACTUALLY
+Dialogue: 0,0:00:19.14,0:00:19.94,Default,,0,0,0,,\N{\k32}STARTS {\k27}TALKING {\k20}TO
+Dialogue: 0,0:00:19.94,0:00:20.57,Default,,0,0,0,,\N{\k13}HIM, {\k3}HE {\k16}TURNS {\k17}TO
+Dialogue: 0,0:00:20.57,0:00:21.23,Default,,0,0,0,,\N{\k8}ME {\k12}AND {\k23}EXPECTS {\k21}ME
+Dialogue: 0,0:00:21.23,0:00:22.16,Default,,0,0,0,,\N{\k12}TO {\k17}JUMP {\k17}IN {\k10}AND {\k33}TRANSLATE
+Dialogue: 0,0:00:22.16,0:00:22.76,Default,,0,0,0,,\N{\k23}SO {\k12}HE {\k24}DOESN'T
+Dialogue: 0,0:00:22.76,0:00:23.12,Default,,0,0,0,,\N{\k9}LOOK {\k26}BAD.
+Dialogue: 0,0:00:24.10,0:00:24.71,Default,,0,0,0,,\N{\k13}AT {\k14}FIRST {\k17}IT {\k16}FELT
+Dialogue: 0,0:00:24.71,0:00:25.00,Default,,0,0,0,,\N{\k28}HARMLESS.
+Dialogue: 0,0:00:25.71,0:00:26.50,Default,,0,0,0,,\N{\k28}WE'D {\k7}BE {\k12}OUT {\k30}SOMEWHERE,
+Dialogue: 0,0:00:26.85,0:00:27.48,Default,,0,0,0,,\N{\k17}HE'D {\k22}OVERHEAR {\k21}SOMEONE
+Dialogue: 0,0:00:27.48,0:00:28.26,Default,,0,0,0,,\N{\k33}SPEAKING {\k16}THE {\k28}LANGUAGE,
+Dialogue: 0,0:00:28.37,0:00:29.28,Default,,0,0,0,,\N{\k14}SAY, {\k37}CONFIDENT {\k38}SENTENCE,
+Dialogue: 0,0:00:29.66,0:00:30.48,Default,,0,0,0,,\N{\k5}AND {\k20}THEY'D {\k19}RESPOND {\k35}NATURALLY.
+Dialogue: 0,0:00:31.57,0:00:32.32,Default,,0,0,0,,\N{\k22}THEN {\k22}HE'D {\k9}JUST {\k20}STARE
+Dialogue: 0,0:00:32.32,0:00:33.03,Default,,0,0,0,,\N{\k15}AT {\k6}ME {\k21}LIKE {\k14}I {\k14}WAS
+Dialogue: 0,0:00:33.03,0:00:33.71,Default,,0,0,0,,\N{\k21}SUPPOSED {\k24}TO {\k21}RESCUE
+Dialogue: 0,0:00:33.71,0:00:33.96,Default,,0,0,0,,\N{\k24}HIM.
+Dialogue: 0,0:00:34.64,0:00:35.29,Default,,0,0,0,,\N{\k21}I'D {\k28}TRANSLATE {\k15}A
+Dialogue: 0,0:00:35.29,0:00:35.89,Default,,0,0,0,,\N{\k8}BIT {\k14}TO {\k11}SMOOTH {\k25}THINGS
+Dialogue: 0,0:00:35.89,0:00:36.57,Default,,0,0,0,,\N{\k28}OVER {\k24}BECAUSE {\k15}I
+Dialogue: 0,0:00:36.57,0:00:37.25,Default,,0,0,0,,\N{\k17}DIDN'T {\k14}WANT {\k35}STRANGERS
+Dialogue: 0,0:00:37.25,0:00:37.84,Default,,0,0,0,,\N{\k16}TO {\k15}FEEL {\k26}AWKWARD.
+Dialogue: 0,0:00:38.70,0:00:39.35,Default,,0,0,0,,\N{\k21}AFTER {\k15}THIS {\k28}HAPPENED
+Dialogue: 0,0:00:39.35,0:00:40.06,Default,,0,0,0,,\N{\k20}SEVERAL {\k32}TIMES, {\k2}I
+Dialogue: 0,0:00:40.06,0:00:40.67,Default,,0,0,0,,\N{\k32}FINALLY {\k17}ASKED {\k11}HIM
+Dialogue: 0,0:00:40.67,0:00:41.00,Default,,0,0,0,,\N{\k10}TO {\k21}STOP.
+Dialogue: 0,0:00:41.78,0:00:42.42,Default,,0,0,0,,\N{\k24}I {\k17}TOLD {\k21}HIM
+Dialogue: 0,0:00:42.42,0:00:43.10,Default,,0,0,0,,\N{\k11}THAT {\k14}IF {\k6}HE {\k21}WANTED {\k14}TO
+Dialogue: 0,0:00:43.10,0:00:43.71,Default,,0,0,0,,\N{\k25}PRACTICE, {\k7}HE
+Dialogue: 0,0:00:43.71,0:00:44.34,Default,,0,0,0,,\N{\k12}SHOULD {\k13}JUST {\k17}SAY {\k18}HE'S
+Dialogue: 0,0:00:44.34,0:00:45.02,Default,,0,0,0,,\N{\k17}LEARNING {\k33}INSTEAD {\k16}OF
+Dialogue: 0,0:00:45.02,0:00:45.65,Default,,0,0,0,,\N{\k21}CLAIMING {\k41}FLUENCY
+Dialogue: 0,0:00:45.65,0:00:46.25,Default,,0,0,0,,\N{\k22}AND {\k21}TELLING {\k15}ME
+Dialogue: 0,0:00:46.25,0:00:46.92,Default,,0,0,0,,\N{\k21}INTO {\k8}HIS {\k35}PERSONAL
+Dialogue: 0,0:00:46.92,0:00:47.35,Default,,0,0,0,,\N{\k43}INTERPRETER.
+Dialogue: 0,0:00:48.21,0:00:48.82,Default,,0,0,0,,\N{\k21}HE {\k24}BRUSHED {\k14}IT
+Dialogue: 0,0:00:48.82,0:00:49.43,Default,,0,0,0,,\N{\k14}OFF {\k17}LAUGHED {\k29}AND
+Dialogue: 0,0:00:49.43,0:00:50.07,Default,,0,0,0,,\N{\k16}SAID {\k15}I {\k14}WAS {\k17}BEING
+Dialogue: 0,0:00:50.07,0:00:50.93,Default,,0,0,0,,\N{\k39}DRAMATIC, {\k15}ADDING
+Dialogue: 0,0:00:50.93,0:00:51.79,Default,,0,0,0,,\N{\k16}THAT {\k14}IT {\k10}WAS {\k9}A {\k6}GOOD {\k29}PRACTICE
+Dialogue: 0,0:00:51.79,0:00:52.53,Default,,0,0,0,,\N{\k20}FOR {\k11}HIM {\k14}AND {\k12}A {\k15}COOL
+Dialogue: 0,0:00:52.53,0:00:53.14,Default,,0,0,0,,\N{\k21}SKILL {\k20}FOR {\k17}ME.
+Dialogue: 0,0:00:54.21,0:00:55.06,Default,,0,0,0,,\N{\k24}LAST {\k25}WEEKEND {\k34}THINGS
+Dialogue: 0,0:00:55.06,0:00:55.75,Default,,0,0,0,,\N{\k11}HIT {\k7}A {\k20}BREAKING {\k29}POINT.
+Dialogue: 0,0:00:56.29,0:00:56.92,Default,,0,0,0,,\N{\k35}WE {\k14}WERE {\k12}A
+Dialogue: 0,0:00:56.92,0:00:57.56,Default,,0,0,0,,\N{\k23}BIRTHDAY {\k40}GATHERING
+Dialogue: 0,0:00:57.56,0:00:58.56,Default,,0,0,0,,\N{\k11}AT {\k2}A {\k23}BAR, {\k12}AND
+Dialogue: 0,0:00:58.56,0:00:59.42,Default,,0,0,0,,\N{\k7}HE {\k28}STARTED {\k23}CHATTING {\k26}WITH
+Dialogue: 0,0:00:59.42,0:01:00.11,Default,,0,0,0,,\N{\k5}A {\k20}COUPLE {\k14}AT {\k10}THE {\k19}NEXT
+Dialogue: 0,0:01:00.11,0:01:00.42,Default,,0,0,0,,\N{\k30}TABLE.
+Dialogue: 0,0:01:01.20,0:01:01.92,Default,,0,0,0,,\N{\k25}WHEN {\k11}HE {\k20}FOUND {\k14}OUT
+Dialogue: 0,0:01:01.92,0:01:02.61,Default,,0,0,0,,\N{\k11}THEY {\k16}SPOKE {\k17}THE {\k23}LANGUAGE,
+Dialogue: 0,0:01:02.79,0:01:03.52,Default,,0,0,0,,\N{\k6}HE {\k21}IMMEDIATELY {\k26}TOLD {\k17}THEM
+Dialogue: 0,0:01:03.52,0:01:04.26,Default,,0,0,0,,\N{\k11}THAT {\k7}HE {\k10}DID {\k17}TOO, {\k7}THEN
+Dialogue: 0,0:01:04.26,0:01:04.95,Default,,0,0,0,,\N{\k21}POINTED {\k15}AT {\k7}ME {\k7}AND {\k15}SAID
+Dialogue: 0,0:01:04.95,0:01:05.90,Default,,0,0,0,,\N{\k16}WE {\k11}COULD {\k12}ALL {\k18}TALK {\k35}TOGETHER.
+Dialogue: 0,0:01:06.76,0:01:07.70,Default,,0,0,0,,\N{\k21}THE {\k21}COUPLE {\k15}GOT {\k34}EXCITED
+Dialogue: 0,0:01:07.70,0:01:08.51,Default,,0,0,0,,\N{\k21}AND {\k26}STARTED {\k33}SPEAKING
+Dialogue: 0,0:01:08.51,0:01:09.37,Default,,0,0,0,,\N{\k38}QUICKLY, {\k7}AND
+Dialogue: 0,0:01:09.37,0:01:09.98,Default,,0,0,0,,\N{\k30}ALMOST {\k29}IMMEDIATELY
+Dialogue: 0,0:01:09.98,0:01:10.65,Default,,0,0,0,,\N{\k45}BEGAN {\k21}DOING
+Dialogue: 0,0:01:10.65,0:01:11.31,Default,,0,0,0,,\N{\k15}HIS {\k22}USUAL {\k27}THING,
+Dialogue: 0,0:01:11.64,0:01:12.59,Default,,0,0,0,,\N{\k12}TELLING {\k17}TO {\k10}ME {\k15}MID {\k39}CONVERSATION
+Dialogue: 0,0:01:12.59,0:01:13.34,Default,,0,0,0,,\N{\k35}AND {\k22}TELLING {\k15}ME
+Dialogue: 0,0:01:13.34,0:01:13.95,Default,,0,0,0,,\N{\k11}WHAT {\k10}TO {\k14}SAY {\k14}FOR {\k11}HIM.
+Dialogue: 0,0:01:14.68,0:01:15.34,Default,,0,0,0,,\N{\k29}I {\k17}TRIED {\k18}TO
+Dialogue: 0,0:01:15.34,0:01:16.01,Default,,0,0,0,,\N{\k14}KEEP {\k11}IT {\k12}LIGHT {\k15}AT {\k14}FIRST
+Dialogue: 0,0:01:16.01,0:01:16.62,Default,,0,0,0,,\N{\k20}AND {\k15}TOLD {\k14}HIM {\k10}IN
+Dialogue: 0,0:01:16.62,0:01:17.40,Default,,0,0,0,,\N{\k19}ENGLISH {\k20}THAT {\k12}I {\k26}WASN'T
+Dialogue: 0,0:01:17.40,0:01:18.12,Default,,0,0,0,,\N{\k33}TRANSLATING {\k20}THE {\k18}NIGHT,
+Dialogue: 0,0:01:18.35,0:01:19.07,Default,,0,0,0,,\N{\k6}BUT {\k12}HE {\k25}IGNORED {\k15}IT {\k12}AND
+Dialogue: 0,0:01:19.07,0:01:19.73,Default,,0,0,0,,\N{\k14}KEPT {\k32}PUSHING {\k19}LINES
+Dialogue: 0,0:01:19.73,0:01:20.51,Default,,0,0,0,,\N{\k18}AT {\k9}ME {\k18}WHILE {\k11}THE {\k20}COUPLE
+Dialogue: 0,0:01:20.51,0:01:21.20,Default,,0,0,0,,\N{\k43}AWKWARDLY {\k24}WAITED.
+Dialogue: 0,0:01:22.12,0:01:22.76,Default,,0,0,0,,\N{\k23}AT {\k12}THAT {\k28}POINT
+Dialogue: 0,0:01:22.76,0:01:23.37,Default,,0,0,0,,\N{\k29}I'D {\k12}HAD {\k19}ENOUGH.
+Dialogue: 0,0:01:24.00,0:01:24.73,Default,,0,0,0,,\N{\k40}I {\k17}TOLD {\k15}THE
+Dialogue: 0,0:01:24.73,0:01:25.42,Default,,0,0,0,,\N{\k24}COUPLE {\k31}AND {\k12}THEIR
+Dialogue: 0,0:01:25.42,0:01:26.14,Default,,0,0,0,,\N{\k23}LANGUAGE {\k35}THAT {\k12}I
+Dialogue: 0,0:01:26.14,0:01:27.01,Default,,0,0,0,,\N{\k26}WASN'T {\k33}TRANSLATING {\k28}RIGHT
+Dialogue: 0,0:01:27.01,0:01:27.79,Default,,0,0,0,,\N{\k18}NOW, {\k28}SMILED {\k20}AND
+Dialogue: 0,0:01:27.79,0:01:28.43,Default,,0,0,0,,\N{\k18}WALKED {\k20}AWAY {\k15}TO {\k9}GET
+Dialogue: 0,0:01:28.43,0:01:28.73,Default,,0,0,0,,\N{\k10}A {\k19}DRINK.
+Dialogue: 0,0:01:29.68,0:01:30.42,Default,,0,0,0,,\N{\k29}HE {\k28}FOLLOWED {\k15}ME
+Dialogue: 0,0:01:30.42,0:01:31.18,Default,,0,0,0,,\N{\k31}ANGRY, {\k14}SAYING
+Dialogue: 0,0:01:31.18,0:01:31.79,Default,,0,0,0,,\N{\k17}I {\k26}EMBARRASSED {\k17}HIM
+Dialogue: 0,0:01:31.79,0:01:32.40,Default,,0,0,0,,\N{\k14}AND {\k15}MADE {\k14}HIM {\k16}LOOK
+Dialogue: 0,0:01:32.40,0:01:32.85,Default,,0,0,0,,\N{\k14}LIKE {\k14}A {\k17}LIAR.
+Dialogue: 0,0:01:33.71,0:01:34.40,Default,,0,0,0,,\N{\k21}HE {\k26}INSISTED {\k20}I
+Dialogue: 0,0:01:34.40,0:01:35.09,Default,,0,0,0,,\N{\k11}COULD {\k10}HAVE {\k11}JUST {\k20}HELPED {\k15}FOR
+Dialogue: 0,0:01:35.09,0:01:35.85,Default,,0,0,0,,\N{\k8}A {\k19}COUPLE {\k12}OF {\k18}MINUTES {\k17}AND
+Dialogue: 0,0:01:35.85,0:01:36.57,Default,,0,0,0,,\N{\k26}CORRECTED {\k17}HIM {\k28}LATER.
+Dialogue: 0,0:01:37.29,0:01:38.04,Default,,0,0,0,,\N{\k18}I {\k31}REMINDED {\k24}HIM
+Dialogue: 0,0:01:38.04,0:01:38.84,Default,,0,0,0,,\N{\k11}THAT {\k20}I'VE {\k26}CORRECTED {\k21}HIM
+Dialogue: 0,0:01:38.84,0:01:39.50,Default,,0,0,0,,\N{\k20}LATER {\k19}MANY {\k26}TIMES
+Dialogue: 0,0:01:39.50,0:01:40.23,Default,,0,0,0,,\N{\k40}BEFORE, {\k5}AND
+Dialogue: 0,0:01:40.23,0:01:41.15,Default,,0,0,0,,\N{\k7}HE {\k18}KEEPS {\k18}DOING {\k13}THIS {\k34}ANYWAY.
+Dialogue: 0,0:01:42.00,0:01:42.73,Default,,0,0,0,,\N{\k23}NOW {\k26}HE'S {\k23}CALLING
+Dialogue: 0,0:01:42.73,0:01:43.37,Default,,0,0,0,,\N{\k26}ME {\k18}PETTY {\k19}AND
+Dialogue: 0,0:01:43.37,0:01:44.15,Default,,0,0,0,,\N{\k20}SAYING {\k28}REAL {\k29}FRIENDS
+Dialogue: 0,0:01:44.15,0:01:44.98,Default,,0,0,0,,\N{\k28}WOULDN'T {\k15}DO {\k12}THE {\k26}TEACHER,
+Dialogue: 0,0:01:45.35,0:01:46.06,Default,,0,0,0,,\N{\k26}AND {\k21}I'M {\k21}STUCK
+Dialogue: 0,0:01:46.06,0:01:46.71,Default,,0,0,0,,\N{\k34}WONDERING {\k21}IF {\k9}I
+Dialogue: 0,0:01:46.71,0:01:47.40,Default,,0,0,0,,\N{\k23}ACTUALLY {\k24}HANDLED {\k20}THIS
+Dialogue: 0,0:01:47.40,0:01:48.04,Default,,0,0,0,,\N{\k15}WRONG, {\k4}OR {\k11}IF {\k8}I {\k14}JUST
+Dialogue: 0,0:01:48.04,0:01:48.65,Default,,0,0,0,,\N{\k31}FINALLY {\k18}SAID {\k11}A
+Dialogue: 0,0:01:48.65,0:01:49.35,Default,,0,0,0,,\N{\k29}BOUNDARY {\k16}HE {\k23}DIDN'T
+Dialogue: 0,0:01:49.35,0:01:49.54,Default,,0,0,0,,\N{\k18}LIKE.

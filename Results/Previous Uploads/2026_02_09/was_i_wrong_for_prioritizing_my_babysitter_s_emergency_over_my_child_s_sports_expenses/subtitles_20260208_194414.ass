@@ -1,0 +1,176 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.16,0:00:05.92,Default,,0,0,0,,\N{\k28}I'M {\k4}A {\k19}SINGLE {\k24}MOTHER
+Dialogue: 0,0:00:05.92,0:00:06.66,Default,,0,0,0,,\N{\k24}RAISING {\k21}THREE {\k28}CHILDREN
+Dialogue: 0,0:00:06.66,0:00:07.44,Default,,0,0,0,,\N{\k20}ON {\k13}MY {\k17}OWN, {\k6}A
+Dialogue: 0,0:00:07.44,0:00:08.17,Default,,0,0,0,,\N{\k50}NINE-YEAR-OLD {\k23}SON,
+Dialogue: 0,0:00:08.48,0:00:09.32,Default,,0,0,0,,\N{\k5}A {\k52}FIVE-YEAR-OLD {\k25}DAUGHTER
+Dialogue: 0,0:00:09.32,0:00:10.16,Default,,0,0,0,,\N{\k19}AND {\k8}A {\k56}THREE-YEAR-OLD
+Dialogue: 0,0:00:10.16,0:00:10.40,Default,,0,0,0,,\N{\k24}TODDLER.
+Dialogue: 0,0:00:11.20,0:00:11.90,Default,,0,0,0,,\N{\k39}DURING {\k17}THE {\k12}WORK
+Dialogue: 0,0:00:11.90,0:00:12.61,Default,,0,0,0,,\N{\k19}WEEK, {\k4}I {\k23}RELY
+Dialogue: 0,0:00:12.61,0:00:13.38,Default,,0,0,0,,\N{\k24}ON {\k6}A {\k46}BABYSITTER
+Dialogue: 0,0:00:13.38,0:00:14.06,Default,,0,0,0,,\N{\k21}NAMED {\k24}RILEY {\k22}WHO
+Dialogue: 0,0:00:14.06,0:00:14.69,Default,,0,0,0,,\N{\k17}PICKS {\k14}THE {\k15}KIDS {\k16}UP
+Dialogue: 0,0:00:14.69,0:00:15.41,Default,,0,0,0,,\N{\k16}FROM {\k22}SCHOOL {\k19}AND {\k14}TAKE
+Dialogue: 0,0:00:15.41,0:00:16.16,Default,,0,0,0,,\N{\k11}OUT {\k10}AND {\k19}STAYS {\k17}WITH {\k14}THEM
+Dialogue: 0,0:00:16.16,0:00:16.80,Default,,0,0,0,,\N{\k19}UNTIL {\k12}I {\k12}GET {\k19}HOME.
+Dialogue: 0,0:00:17.60,0:00:18.44,Default,,0,0,0,,\N{\k29}SHE {\k26}USUALLY {\k28}WORKS
+Dialogue: 0,0:00:18.44,0:00:19.16,Default,,0,0,0,,\N{\k21}SOMEWHERE {\k26}BETWEEN {\k23}12
+Dialogue: 0,0:00:19.16,0:00:19.87,Default,,0,0,0,,\N{\k19}AND {\k32}15 {\k19}HOURS
+Dialogue: 0,0:00:19.87,0:00:20.60,Default,,0,0,0,,\N{\k12}A {\k14}WEEK {\k16}AND {\k12}HAS {\k17}BEEN
+Dialogue: 0,0:00:20.60,0:00:21.32,Default,,0,0,0,,\N{\k32}RELIABLE {\k23}AND {\k16}GREAT
+Dialogue: 0,0:00:21.32,0:00:21.78,Default,,0,0,0,,\N{\k16}WITH {\k7}THE {\k22}KIDS.
+Dialogue: 0,0:00:22.48,0:00:23.37,Default,,0,0,0,,\N{\k21}ONE {\k37}IMPORTANT {\k30}DETAIL
+Dialogue: 0,0:00:23.37,0:00:24.16,Default,,0,0,0,,\N{\k19}IS {\k10}THAT {\k19}RILEY {\k28}HAS
+Dialogue: 0,0:00:24.16,0:00:24.78,Default,,0,0,0,,\N{\k10}A {\k21}SEVERE {\k30}ALLERGY
+Dialogue: 0,0:00:24.78,0:00:25.28,Default,,0,0,0,,\N{\k17}TO {\k16}TREE {\k16}NUTS.
+Dialogue: 0,0:00:26.00,0:00:26.73,Default,,0,0,0,,\N{\k28}WE'VE {\k17}ALWAYS {\k27}TAKEN
+Dialogue: 0,0:00:26.73,0:00:27.46,Default,,0,0,0,,\N{\k16}THAT {\k24}SERIOUSLY {\k32}IN
+Dialogue: 0,0:00:27.46,0:00:27.76,Default,,0,0,0,,\N{\k11}MY {\k18}HOME.
+Dialogue: 0,0:00:28.26,0:00:29.00,Default,,0,0,0,,\N{\k39}WE {\k17}KEEP {\k16}AN
+Dialogue: 0,0:00:29.00,0:00:29.60,Default,,0,0,0,,\N{\k12}HAPPY {\k17}PEN {\k30}AVAILABLE
+Dialogue: 0,0:00:29.60,0:00:30.28,Default,,0,0,0,,\N{\k21}FOR {\k17}HER {\k28}AND
+Dialogue: 0,0:00:30.28,0:00:31.26,Default,,0,0,0,,\N{\k11}THE {\k17}ONLY {\k28}PRODUCT {\k40}CONTAINING
+Dialogue: 0,0:00:31.26,0:00:31.96,Default,,0,0,0,,\N{\k21}TREE {\k14}NUTS {\k19}WE {\k14}EVER
+Dialogue: 0,0:00:31.96,0:00:32.57,Default,,0,0,0,,\N{\k17}HAVE {\k11}IS {\k8}A {\k23}CHOCOLATE
+Dialogue: 0,0:00:32.57,0:00:33.24,Default,,0,0,0,,\N{\k24}SPREAD {\k21}THAT'S {\k20}STRICTLY
+Dialogue: 0,0:00:33.24,0:00:34.06,Default,,0,0,0,,\N{\k33}RESERVED {\k21}FOR {\k26}WEEKENDS
+Dialogue: 0,0:00:34.06,0:00:34.92,Default,,0,0,0,,\N{\k23}WHEN {\k17}SHE {\k17}ISN'T {\k26}WORKING.
+Dialogue: 0,0:00:35.72,0:00:36.52,Default,,0,0,0,,\N{\k39}EVERYONE {\k39}INVOLVED
+Dialogue: 0,0:00:36.52,0:00:37.14,Default,,0,0,0,,\N{\k11}IS {\k17}AWARE {\k15}OF {\k16}THIS,
+Dialogue: 0,0:00:37.32,0:00:38.06,Default,,0,0,0,,\N{\k25}INCLUDING {\k24}MY {\k24}EX.
+Dialogue: 0,0:00:38.88,0:00:39.56,Default,,0,0,0,,\N{\k14}ONE {\k32}WEEKEND {\k21}THE
+Dialogue: 0,0:00:39.56,0:00:40.32,Default,,0,0,0,,\N{\k17}KIDS {\k11}WERE {\k10}AT {\k7}THE {\k28}FROTHERS
+Dialogue: 0,0:00:40.32,0:00:40.52,Default,,0,0,0,,\N{\k20}PLACE.
+Dialogue: 0,0:00:41.47,0:00:42.25,Default,,0,0,0,,\N{\k20}WHEN {\k11}THEY {\k17}CAME {\k28}BACK,
+Dialogue: 0,0:00:42.47,0:00:43.29,Default,,0,0,0,,\N{\k6}HE {\k7}HAD {\k16}PACKED {\k21}THEIR {\k29}LUNCHES
+Dialogue: 0,0:00:43.29,0:00:43.89,Default,,0,0,0,,\N{\k12}WITH {\k11}A {\k16}TRAIL {\k19}MIX
+Dialogue: 0,0:00:43.89,0:00:44.65,Default,,0,0,0,,\N{\k16}THAT {\k33}APPARENTLY {\k25}CONTAINED
+Dialogue: 0,0:00:44.65,0:00:45.06,Default,,0,0,0,,\N{\k40}NUTS.
+Dialogue: 0,0:00:45.82,0:00:46.47,Default,,0,0,0,,\N{\k28}DURING {\k15}THE {\k21}WEEK,
+Dialogue: 0,0:00:46.71,0:00:47.32,Default,,0,0,0,,\N{\k14}WHILE {\k28}RILEY {\k17}WAS
+Dialogue: 0,0:00:47.32,0:00:48.02,Default,,0,0,0,,\N{\k39}UNPACKING {\k10}THEIR {\k20}LUNCH
+Dialogue: 0,0:00:48.02,0:00:48.88,Default,,0,0,0,,\N{\k23}BOXES, {\k16}SHE
+Dialogue: 0,0:00:48.88,0:00:49.75,Default,,0,0,0,,\N{\k9}HAD {\k10}AN {\k24}ALLERGIC {\k43}REACTION.
+Dialogue: 0,0:00:50.74,0:00:51.38,Default,,0,0,0,,\N{\k17}SHE {\k21}TRIED {\k24}CALLING
+Dialogue: 0,0:00:51.38,0:00:52.00,Default,,0,0,0,,\N{\k19}ME, {\k5}BUT {\k16}I'M {\k7}NOT
+Dialogue: 0,0:00:52.00,0:00:52.74,Default,,0,0,0,,\N{\k15}ALLOWED {\k14}TO {\k8}HAVE {\k14}MY {\k21}PHONE
+Dialogue: 0,0:00:52.74,0:00:53.20,Default,,0,0,0,,\N{\k10}ON {\k11}ME {\k10}AT {\k14}WORK.
+Dialogue: 0,0:00:53.88,0:00:54.61,Default,,0,0,0,,\N{\k39}SHE {\k17}THEN {\k15}CALLED
+Dialogue: 0,0:00:54.61,0:00:55.64,Default,,0,0,0,,\N{\k17}OUR {\k38}EMERGENCY {\k46}CONTACTS,
+Dialogue: 0,0:00:55.97,0:00:56.64,Default,,0,0,0,,\N{\k24}INCLUDING {\k21}MY {\k20}NEIGHBOUR
+Dialogue: 0,0:00:56.64,0:00:57.28,Default,,0,0,0,,\N{\k17}AND {\k14}MY {\k32}PARTNER,
+Dialogue: 0,0:00:57.56,0:00:58.28,Default,,0,0,0,,\N{\k7}BUT {\k17}NO {\k11}ONE {\k34}ANSWERED.
+Dialogue: 0,0:00:59.17,0:00:59.96,Default,,0,0,0,,\N{\k20}AT {\k11}THAT {\k21}POINT, {\k10}RILEY
+Dialogue: 0,0:00:59.96,0:01:00.75,Default,,0,0,0,,\N{\k19}STAYED {\k60}COMPACTED
+Dialogue: 0,0:01:00.75,0:01:01.39,Default,,0,0,0,,\N{\k3}UP {\k12}A {\k11}BAG {\k21}WITH {\k14}SNACKS
+Dialogue: 0,0:01:01.39,0:01:02.06,Default,,0,0,0,,\N{\k30}TWICE {\k35}AND
+Dialogue: 0,0:01:02.06,0:01:03.14,Default,,0,0,0,,\N{\k14}HER {\k41}MEDICATION {\k52}LOADED
+Dialogue: 0,0:01:03.14,0:01:03.75,Default,,0,0,0,,\N{\k25}ALL {\k17}THREE {\k17}KIDS
+Dialogue: 0,0:01:03.75,0:01:04.71,Default,,0,0,0,,\N{\k21}INTO {\k11}HER {\k20}CAR {\k42}AND
+Dialogue: 0,0:01:04.71,0:01:05.35,Default,,0,0,0,,\N{\k15}DROVE {\k28}HERSELF {\k20}AND
+Dialogue: 0,0:01:05.35,0:01:06.34,Default,,0,0,0,,\N{\k12}THEN {\k9}TO {\k7}THE {\k28}EMERGENCY {\k40}ROOM.
+Dialogue: 0,0:01:07.47,0:01:08.40,Default,,0,0,0,,\N{\k40}THANKFULLY, {\k30}EVERYTHING
+Dialogue: 0,0:01:08.40,0:01:09.01,Default,,0,0,0,,\N{\k17}TURNED {\k20}OUT {\k23}OKAY.
+Dialogue: 0,0:01:09.95,0:01:10.92,Default,,0,0,0,,\N{\k12}BY {\k12}THE {\k15}TIME {\k18}I {\k37}ARRIVED,
+Dialogue: 0,0:01:11.20,0:01:11.90,Default,,0,0,0,,\N{\k15}SHE'D {\k7}BEEN {\k24}TREATED {\k21}THE
+Dialogue: 0,0:01:11.90,0:01:12.87,Default,,0,0,0,,\N{\k19}KIDS {\k18}WERE {\k17}FED, {\k23}DISTRACTED
+Dialogue: 0,0:01:12.87,0:01:13.64,Default,,0,0,0,,\N{\k52}AND {\k23}SAFE
+Dialogue: 0,0:01:13.64,0:01:14.31,Default,,0,0,0,,\N{\k23}AND {\k10}THE {\k33}SITUATION
+Dialogue: 0,0:01:14.31,0:01:15.18,Default,,0,0,0,,\N{\k26}WAS {\k26}UNDER {\k34}CONTROL,
+Dialogue: 0,0:01:15.62,0:01:16.51,Default,,0,0,0,,\N{\k9}THOUGH {\k48}UNDERSTANDABLY {\k31}STRESSFUL
+Dialogue: 0,0:01:16.51,0:01:17.09,Default,,0,0,0,,\N{\k24}FOR {\k33}EVERYONE.
+Dialogue: 0,0:01:18.26,0:01:19.01,Default,,0,0,0,,\N{\k29}I {\k23}TOLD {\k21}RILEY
+Dialogue: 0,0:01:19.01,0:01:19.65,Default,,0,0,0,,\N{\k16}TO {\k15}TAKE {\k15}THE {\k15}REST
+Dialogue: 0,0:01:19.65,0:01:20.35,Default,,0,0,0,,\N{\k15}OF {\k10}THE {\k12}WEEK {\k15}OFF {\k15}WITH
+Dialogue: 0,0:01:20.35,0:01:21.00,Default,,0,0,0,,\N{\k26}PAYTON, {\k14}SENT {\k14}HER
+Dialogue: 0,0:01:21.00,0:01:22.01,Default,,0,0,0,,\N{\k9}AN {\k20}EXTRA {\k71}$250
+Dialogue: 0,0:01:22.01,0:01:22.78,Default,,0,0,0,,\N{\k64}AS {\k12}A
+Dialogue: 0,0:01:22.78,0:01:23.51,Default,,0,0,0,,\N{\k28}BONUS {\k21}FOR {\k23}HANDLING
+Dialogue: 0,0:01:23.51,0:01:24.15,Default,,0,0,0,,\N{\k28}SUCH {\k10}A {\k25}FRIGHTENING
+Dialogue: 0,0:01:24.15,0:01:25.23,Default,,0,0,0,,\N{\k50}SITUATION {\k57}RESPONSIBLY
+Dialogue: 0,0:01:25.23,0:01:25.90,Default,,0,0,0,,\N{\k26}WHILE {\k21}CARING {\k18}FOR
+Dialogue: 0,0:01:25.90,0:01:26.23,Default,,0,0,0,,\N{\k14}MY {\k19}KIDS.
+Dialogue: 0,0:01:26.90,0:01:27.64,Default,,0,0,0,,\N{\k19}I {\k18}ALSO {\k17}TOLD {\k18}HER
+Dialogue: 0,0:01:27.64,0:01:28.28,Default,,0,0,0,,\N{\k7}I {\k9}WOULD {\k20}COVER {\k16}THE {\k9}COST
+Dialogue: 0,0:01:28.28,0:01:29.00,Default,,0,0,0,,\N{\k15}OF {\k28}REPLACING {\k28}HER
+Dialogue: 0,0:01:29.00,0:01:29.76,Default,,0,0,0,,\N{\k37}EPIPENT {\k14}AND {\k24}ANY
+Dialogue: 0,0:01:29.76,0:01:30.65,Default,,0,0,0,,\N{\k31}HOSPITAL {\k20}BILLS {\k37}RELATED
+Dialogue: 0,0:01:30.65,0:01:31.15,Default,,0,0,0,,\N{\k14}TO {\k10}THE {\k25}INCIDENT.
+Dialogue: 0,0:01:31.78,0:01:32.50,Default,,0,0,0,,\N{\k20}THE {\k20}ISSUE {\k17}IS {\k14}THAT
+Dialogue: 0,0:01:32.50,0:01:33.26,Default,,0,0,0,,\N{\k9}I {\k12}HAD {\k21}ORIGINALLY {\k32}SET
+Dialogue: 0,0:01:33.26,0:01:34.01,Default,,0,0,0,,\N{\k14}THAT {\k17}MONEY {\k26}ASIDE {\k17}FOR
+Dialogue: 0,0:01:34.01,0:01:34.65,Default,,0,0,0,,\N{\k14}MY {\k20}OLDEST {\k29}CHILD.
+Dialogue: 0,0:01:35.37,0:01:36.09,Default,,0,0,0,,\N{\k20}HE {\k7}HAD {\k15}JUST {\k28}STARTED
+Dialogue: 0,0:01:36.09,0:01:37.07,Default,,0,0,0,,\N{\k12}A {\k12}YOUTH {\k25}FOOTBALL {\k48}PROGRAMME
+Dialogue: 0,0:01:37.07,0:01:37.68,Default,,0,0,0,,\N{\k29}AND {\k12}THAT {\k18}FUND
+Dialogue: 0,0:01:37.68,0:01:38.31,Default,,0,0,0,,\N{\k15}WAS {\k14}MEANT {\k14}TO {\k19}COVER
+Dialogue: 0,0:01:38.31,0:01:39.31,Default,,0,0,0,,\N{\k16}HIS {\k29}UNIFORM, {\k25}PLEATS
+Dialogue: 0,0:01:39.31,0:01:40.01,Default,,0,0,0,,\N{\k24}AND {\k17}OTHER {\k28}RELATED
+Dialogue: 0,0:01:40.01,0:01:40.37,Default,,0,0,0,,\N{\k35}COSTS.
+Dialogue: 0,0:01:41.26,0:01:41.87,Default,,0,0,0,,\N{\k25}SINCE {\k18}THE {\k17}MONEY
+Dialogue: 0,0:01:41.87,0:01:42.59,Default,,0,0,0,,\N{\k14}WAS {\k18}GONE, {\k5}I
+Dialogue: 0,0:01:42.59,0:01:43.23,Default,,0,0,0,,\N{\k21}REACHED {\k18}OUT {\k12}TO {\k11}MY
+Dialogue: 0,0:01:43.23,0:01:43.85,Default,,0,0,0,,\N{\k18}EX {\k14}AND {\k15}ASKED {\k14}IF
+Dialogue: 0,0:01:43.85,0:01:44.73,Default,,0,0,0,,\N{\k7}HE {\k10}COULD {\k21}COVER {\k19}THOSE {\k28}EXPENSES
+Dialogue: 0,0:01:44.73,0:01:45.23,Default,,0,0,0,,\N{\k50}INSTEAD.
+Dialogue: 0,0:01:46.09,0:01:47.14,Default,,0,0,0,,\N{\k24}HE {\k23}REFUSED, {\k12}SAYING
+Dialogue: 0,0:01:47.14,0:01:47.84,Default,,0,0,0,,\N{\k14}THAT {\k15}THIS {\k10}WAS {\k29}EXACTLY
+Dialogue: 0,0:01:47.84,0:01:48.62,Default,,0,0,0,,\N{\k23}WHAT {\k12}HIS {\k15}CHILD {\k26}SUPPORT
+Dialogue: 0,0:01:48.62,0:01:49.28,Default,,0,0,0,,\N{\k31}PAYMENTS {\k15}WERE {\k18}MEANT
+Dialogue: 0,0:01:49.28,0:01:49.45,Default,,0,0,0,,\N{\k17}FOR.
+Dialogue: 0,0:01:50.07,0:01:50.76,Default,,0,0,0,,\N{\k40}I {\k28}EXPLAINED
+Dialogue: 0,0:01:50.76,0:01:51.40,Default,,0,0,0,,\N{\k21}THAT {\k6}THE {\k19}MONEY {\k16}HAD
+Dialogue: 0,0:01:51.40,0:01:52.14,Default,,0,0,0,,\N{\k11}GONE {\k24}TOWARD {\k14}A {\k23}MEDICAL
+Dialogue: 0,0:01:52.14,0:01:53.00,Default,,0,0,0,,\N{\k43}EMERGENCY {\k15}THAT {\k26}HAPPENED
+Dialogue: 0,0:01:53.00,0:01:53.78,Default,,0,0,0,,\N{\k20}WHILE {\k14}HIS {\k25}CHILDREN {\k18}WERE
+Dialogue: 0,0:01:53.78,0:01:54.50,Default,,0,0,0,,\N{\k12}IN {\k11}MY {\k21}CARE {\k26}AND
+Dialogue: 0,0:01:54.50,0:01:55.31,Default,,0,0,0,,\N{\k7}THAT {\k12}THE {\k29}EMERGENCY {\k31}WAS
+Dialogue: 0,0:01:55.31,0:01:56.00,Default,,0,0,0,,\N{\k20}CAUSED {\k18}BY {\k11}HIM {\k18}PACKING
+Dialogue: 0,0:01:56.00,0:01:56.84,Default,,0,0,0,,\N{\k23}FOOD {\k34}CONTAINING {\k26}NUTS
+Dialogue: 0,0:01:56.84,0:01:57.50,Default,,0,0,0,,\N{\k29}AFTER {\k15}BEING {\k20}TOLD
+Dialogue: 0,0:01:57.50,0:01:58.20,Default,,0,0,0,,\N{\k23}ABOUT {\k12}THE {\k34}ALLERGY.
+Dialogue: 0,0:01:58.81,0:01:59.42,Default,,0,0,0,,\N{\k38}HE {\k21}BECAME
+Dialogue: 0,0:01:59.42,0:02:00.09,Default,,0,0,0,,\N{\k34}ANGRY {\k14}AND {\k19}ACCUSED
+Dialogue: 0,0:02:00.09,0:02:00.76,Default,,0,0,0,,\N{\k26}ME {\k12}OF {\k28}MISUSING
+Dialogue: 0,0:02:00.76,0:02:01.65,Default,,0,0,0,,\N{\k28}CHILD {\k27}SUPPORT {\k34}FUNDS,
+Dialogue: 0,0:02:02.06,0:02:02.85,Default,,0,0,0,,\N{\k21}EVEN {\k29}THREATENING {\k28}LEGAL
+Dialogue: 0,0:02:02.85,0:02:03.15,Default,,0,0,0,,\N{\k29}ACTION.
+Dialogue: 0,0:02:03.81,0:02:04.54,Default,,0,0,0,,\N{\k34}I {\k18}TOLD {\k20}HIM
+Dialogue: 0,0:02:04.54,0:02:05.20,Default,,0,0,0,,\N{\k11}HE {\k12}WAS {\k15}FREE {\k12}TO {\k14}PURSUE
+Dialogue: 0,0:02:05.20,0:02:06.04,Default,,0,0,0,,\N{\k15}THAT {\k9}IF {\k6}HE {\k20}WANTED, {\k6}BUT
+Dialogue: 0,0:02:06.04,0:02:06.70,Default,,0,0,0,,\N{\k9}IN {\k7}THE {\k23}MEANTIME {\k24}HE
+Dialogue: 0,0:02:06.70,0:02:07.37,Default,,0,0,0,,\N{\k14}COULD {\k17}EITHER {\k21}HELP {\k14}PAY
+Dialogue: 0,0:02:07.37,0:02:08.18,Default,,0,0,0,,\N{\k12}FOR {\k9}THE {\k21}FOOTBALL {\k36}EXPENSES
+Dialogue: 0,0:02:08.18,0:02:08.81,Default,,0,0,0,,\N{\k19}OR {\k24}ACCEPT {\k19}THAT
+Dialogue: 0,0:02:08.81,0:02:09.46,Default,,0,0,0,,\N{\k12}OUR {\k14}SON {\k25}WOULDN'T {\k12}BE
+Dialogue: 0,0:02:09.46,0:02:10.12,Default,,0,0,0,,\N{\k17}ABLE {\k14}TO {\k34}PARTICIPATE
+Dialogue: 0,0:02:10.12,0:02:10.63,Default,,0,0,0,,\N{\k19}THIS {\k31}SEASON.
+Dialogue: 0,0:02:11.56,0:02:12.21,Default,,0,0,0,,\N{\k21}NOW {\k24}HE'S {\k19}TELLING
+Dialogue: 0,0:02:12.21,0:02:12.84,Default,,0,0,0,,\N{\k30}ANYONE {\k19}WHO {\k12}WILL
+Dialogue: 0,0:02:12.84,0:02:13.87,Default,,0,0,0,,\N{\k19}LISTEN {\k15}THAT {\k20}I'M {\k47}IRRESPONSIBLE
+Dialogue: 0,0:02:13.87,0:02:14.53,Default,,0,0,0,,\N{\k14}AND {\k7}A {\k15}BAD {\k28}MOTHER
+Dialogue: 0,0:02:14.53,0:02:15.28,Default,,0,0,0,,\N{\k12}FOR {\k12}GIVING {\k34}MONEY {\k15}TO
+Dialogue: 0,0:02:15.28,0:02:15.96,Default,,0,0,0,,\N{\k43}BABYSITTER {\k24}INSTEAD
+Dialogue: 0,0:02:15.96,0:02:16.58,Default,,0,0,0,,\N{\k12}OF {\k28}SPENDING {\k21}IT
+Dialogue: 0,0:02:16.58,0:02:17.19,Default,,0,0,0,,\N{\k15}ON {\k13}OUR {\k31}CHILD.
+Dialogue: 0,0:02:17.69,0:02:18.56,Default,,0,0,0,,\N{\k40}I'M {\k12}LEFT {\k34}WONDERING
+Dialogue: 0,0:02:18.56,0:02:19.36,Default,,0,0,0,,\N{\k25}WHETHER {\k9}I {\k18}TRULY {\k26}HANDLED
+Dialogue: 0,0:02:19.36,0:02:20.03,Default,,0,0,0,,\N{\k19}THIS {\k15}WRONG {\k31}OR
+Dialogue: 0,0:02:20.03,0:02:20.69,Default,,0,0,0,,\N{\k28}WHETHER {\k12}I {\k25}SIMPLY
+Dialogue: 0,0:02:20.69,0:02:21.30,Default,,0,0,0,,\N{\k42}RESPONDED {\k18}THE
+Dialogue: 0,0:02:21.30,0:02:22.13,Default,,0,0,0,,\N{\k23}BEST {\k15}ECHO {\k8}TO {\k9}AN {\k25}EMERGENCY
+Dialogue: 0,0:02:22.13,0:02:22.91,Default,,0,0,0,,\N{\k60}SITUATION {\k17}THAT
+Dialogue: 0,0:02:22.91,0:02:23.90,Default,,0,0,0,,\N{\k14}PUT {\k21}BOTH {\k18}MY {\k43}BABYSITTER
+Dialogue: 0,0:02:23.90,0:02:24.52,Default,,0,0,0,,\N{\k18}AND {\k13}MY {\k19}KIDS {\k10}AT
+Dialogue: 0,0:02:24.52,0:02:24.80,Default,,0,0,0,,\N{\k28}RISK.

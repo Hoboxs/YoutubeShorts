@@ -1,0 +1,112 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.35,0:00:04.00,Default,,0,0,0,,\N{\k10}A {\k20}COUPLE {\k15}OF {\k18}NIGHTS
+Dialogue: 0,0:00:04.00,0:00:04.67,Default,,0,0,0,,\N{\k25}AGO {\k29}WHILE {\k12}I
+Dialogue: 0,0:00:04.67,0:00:05.46,Default,,0,0,0,,\N{\k16}WAS {\k14}OUT {\k15}IN {\k10}THIS {\k21}CITY
+Dialogue: 0,0:00:05.46,0:00:06.41,Default,,0,0,0,,\N{\k12}WITH {\k9}MY {\k33}PARTNER, {\k5}I
+Dialogue: 0,0:00:06.41,0:00:07.05,Default,,0,0,0,,\N{\k12}GOT {\k16}A {\k9}CALL {\k18}FROM {\k7}MY
+Dialogue: 0,0:00:07.05,0:00:07.87,Default,,0,0,0,,\N{\k20}NEARBY {\k36}RESIDENT {\k25}LETTING
+Dialogue: 0,0:00:07.87,0:00:08.48,Default,,0,0,0,,\N{\k28}ME {\k17}KNOW {\k14}THERE
+Dialogue: 0,0:00:08.48,0:00:09.30,Default,,0,0,0,,\N{\k9}WERE {\k22}SEVERAL {\k50}UNFAMILIAR
+Dialogue: 0,0:00:09.30,0:00:10.11,Default,,0,0,0,,\N{\k59}COS-PARTNERS {\k21}I'D
+Dialogue: 0,0:00:10.11,0:00:10.96,Default,,0,0,0,,\N{\k6}MY {\k25}PLACE {\k12}AND {\k13}LIVE {\k26}MUSIC
+Dialogue: 0,0:00:10.96,0:00:11.77,Default,,0,0,0,,\N{\k23}COMING {\k20}FROM {\k37}INSIDE.
+Dialogue: 0,0:00:12.74,0:00:13.58,Default,,0,0,0,,\N{\k35}CONFUSED {\k16}AND {\k32}IMMEDIATELY
+Dialogue: 0,0:00:13.58,0:00:14.66,Default,,0,0,0,,\N{\k58}IRRITATED, {\k16}ASKED
+Dialogue: 0,0:00:14.66,0:00:15.40,Default,,0,0,0,,\N{\k17}THEM {\k9}TO {\k17}KNOCK {\k10}AND {\k17}SEE
+Dialogue: 0,0:00:15.40,0:00:16.01,Default,,0,0,0,,\N{\k13}WHAT {\k10}WAS {\k17}GOING {\k19}ON.
+Dialogue: 0,0:00:16.80,0:00:17.44,Default,,0,0,0,,\N{\k21}THEY {\k8}WERE {\k17}TOLD {\k16}IT
+Dialogue: 0,0:00:17.44,0:00:18.37,Default,,0,0,0,,\N{\k9}WAS {\k12}A {\k28}PARTY, {\k14}WHICH
+Dialogue: 0,0:00:18.37,0:00:19.16,Default,,0,0,0,,\N{\k16}MADE {\k16}MY {\k16}BLOOD {\k30}BOIL,
+Dialogue: 0,0:00:19.48,0:00:20.19,Default,,0,0,0,,\N{\k23}BECAUSE {\k14}I {\k12}HAD {\k21}ALREADY
+Dialogue: 0,0:00:20.19,0:00:20.85,Default,,0,0,0,,\N{\k24}BEEN {\k19}VERY {\k21}CLEAR
+Dialogue: 0,0:00:20.85,0:00:21.53,Default,,0,0,0,,\N{\k16}THAT {\k19}NO {\k32}GATHERINGS
+Dialogue: 0,0:00:21.53,0:00:22.16,Default,,0,0,0,,\N{\k19}WERE {\k18}ALLOWED {\k23}WITHOUT
+Dialogue: 0,0:00:22.16,0:00:22.92,Default,,0,0,0,,\N{\k16}MY {\k32}EXPLICIT {\k28}APPROVAL.
+Dialogue: 0,0:00:23.69,0:00:24.64,Default,,0,0,0,,\N{\k35}FOR {\k16}SOME {\k42}CONTEXT,
+Dialogue: 0,0:00:24.82,0:00:25.62,Default,,0,0,0,,\N{\k10}MY {\k23}SIBLING {\k17}HAD {\k28}RECENTLY
+Dialogue: 0,0:00:25.62,0:00:26.32,Default,,0,0,0,,\N{\k35}SPLIT {\k17}FROM {\k16}HIS
+Dialogue: 0,0:00:26.32,0:00:27.01,Default,,0,0,0,,\N{\k37}LONG-TERM {\k32}PARTNER
+Dialogue: 0,0:00:27.01,0:00:27.73,Default,,0,0,0,,\N{\k12}AND {\k21}NEEDED {\k16}A {\k21}TEMPORARY
+Dialogue: 0,0:00:27.73,0:00:28.35,Default,,0,0,0,,\N{\k28}PLACE {\k12}TO {\k21}STAY.
+Dialogue: 0,0:00:29.06,0:00:29.83,Default,,0,0,0,,\N{\k35}I {\k21}AGREED {\k19}TO
+Dialogue: 0,0:00:29.83,0:00:30.44,Default,,0,0,0,,\N{\k8}LET {\k11}HIM {\k17}MOVE {\k22}INTO
+Dialogue: 0,0:00:30.44,0:00:31.10,Default,,0,0,0,,\N{\k11}A {\k12}SPARE {\k19}ROOM {\k22}WHILE
+Dialogue: 0,0:00:31.10,0:00:31.80,Default,,0,0,0,,\N{\k13}HE {\k24}SAVED {\k16}UP {\k16}FROM
+Dialogue: 0,0:00:31.80,0:00:32.53,Default,,0,0,0,,\N{\k12}HIS {\k17}JOB {\k15}TO {\k10}GET {\k17}BACK
+Dialogue: 0,0:00:32.53,0:00:33.15,Default,,0,0,0,,\N{\k24}ON {\k14}HIS {\k23}FEET.
+Dialogue: 0,0:00:33.67,0:00:34.74,Default,,0,0,0,,\N{\k21}IN {\k25}EXCHANGE, {\k10}WE
+Dialogue: 0,0:00:34.74,0:00:35.34,Default,,0,0,0,,\N{\k14}SET {\k11}A {\k14}FEW {\k20}BASIC
+Dialogue: 0,0:00:35.34,0:00:36.20,Default,,0,0,0,,\N{\k53}EXPECTATIONS, {\k8}HELPED
+Dialogue: 0,0:00:36.20,0:00:36.96,Default,,0,0,0,,\N{\k19}KEEP {\k16}THE {\k11}HOUSE {\k28}CLEAN,
+Dialogue: 0,0:00:37.15,0:00:38.03,Default,,0,0,0,,\N{\k14}PITCHING {\k16}WHERE {\k21}NEEDED, {\k6}AND
+Dialogue: 0,0:00:38.03,0:00:38.65,Default,,0,0,0,,\N{\k28}RESPECT {\k20}THE {\k13}RULES
+Dialogue: 0,0:00:38.65,0:00:39.11,Default,,0,0,0,,\N{\k16}OF {\k11}THE {\k17}HOME.
+Dialogue: 0,0:00:40.20,0:00:40.92,Default,,0,0,0,,\N{\k14}ONE {\k7}OF {\k14}THOSE {\k17}RULES {\k17}WAS
+Dialogue: 0,0:00:40.92,0:00:41.64,Default,,0,0,0,,\N{\k39}ABSOLUTELY {\k32}NO
+Dialogue: 0,0:00:41.64,0:00:42.47,Default,,0,0,0,,\N{\k24}PRACTICE {\k32}UNLESS {\k27}I
+Dialogue: 0,0:00:42.47,0:00:42.97,Default,,0,0,0,,\N{\k20}SAID {\k29}YES.
+Dialogue: 0,0:00:43.67,0:00:44.32,Default,,0,0,0,,\N{\k7}AS {\k16}SOON {\k14}AS {\k9}I {\k16}HEARD
+Dialogue: 0,0:00:44.32,0:00:45.15,Default,,0,0,0,,\N{\k14}WHAT {\k11}WAS {\k30}HAPPENING, {\k5}A
+Dialogue: 0,0:00:45.15,0:00:45.92,Default,,0,0,0,,\N{\k14}HEAD {\k10}WAS {\k20}STRAIGHT {\k32}HOME.
+Dialogue: 0,0:00:46.65,0:00:47.46,Default,,0,0,0,,\N{\k24}WHEN {\k7}I {\k24}WALKED {\k24}IN,
+Dialogue: 0,0:00:47.67,0:00:48.34,Default,,0,0,0,,\N{\k7}THE {\k21}MUSIC {\k17}WAS {\k18}STILL
+Dialogue: 0,0:00:48.34,0:00:49.28,Default,,0,0,0,,\N{\k31}BLASTING, {\k10}THE
+Dialogue: 0,0:00:49.28,0:00:50.39,Default,,0,0,0,,\N{\k15}HOUSE {\k20}WAS {\k6}A {\k15}MESS, {\k17}AND
+Dialogue: 0,0:00:50.39,0:00:51.14,Default,,0,0,0,,\N{\k14}THERE {\k7}WERE {\k16}DRUNK {\k35}STRANGERS
+Dialogue: 0,0:00:51.14,0:00:51.53,Default,,0,0,0,,\N{\k39}EVERYWHERE.
+Dialogue: 0,0:00:52.52,0:00:53.15,Default,,0,0,0,,\N{\k32}CUPS {\k9}WERE {\k21}SCATTERED
+Dialogue: 0,0:00:53.15,0:00:54.14,Default,,0,0,0,,\N{\k24}ACROSS {\k14}THE {\k16}FLOOR, {\k17}ALCOHOL
+Dialogue: 0,0:00:54.14,0:00:54.75,Default,,0,0,0,,\N{\k24}HAD {\k15}BEEN {\k21}SPILLED,
+Dialogue: 0,0:00:55.06,0:00:55.85,Default,,0,0,0,,\N{\k5}AND {\k8}IT {\k11}WAS {\k17}CLEAR {\k14}THE {\k21}PLACE
+Dialogue: 0,0:00:55.85,0:00:56.50,Default,,0,0,0,,\N{\k11}HAD {\k12}BEEN {\k39}COMPLETELY
+Dialogue: 0,0:00:56.50,0:00:57.07,Default,,0,0,0,,\N{\k57}DISRESPECTED.
+Dialogue: 0,0:00:57.85,0:00:58.60,Default,,0,0,0,,\N{\k39}I {\k16}SHUT {\k17}THE
+Dialogue: 0,0:00:58.60,0:00:59.32,Default,,0,0,0,,\N{\k11}PARTY {\k30}DOWN {\k29}IMMEDIATELY
+Dialogue: 0,0:00:59.32,0:01:00.15,Default,,0,0,0,,\N{\k38}AND {\k14}TOLD {\k31}EVERYONE
+Dialogue: 0,0:01:00.15,0:01:00.52,Default,,0,0,0,,\N{\k20}TO {\k16}LEAVE.
+Dialogue: 0,0:01:01.17,0:01:01.92,Default,,0,0,0,,\N{\k35}AFTER {\k14}THEY {\k24}CLEARED
+Dialogue: 0,0:01:01.92,0:01:02.71,Default,,0,0,0,,\N{\k17}OUT, {\k7}MY {\k24}SIBLING
+Dialogue: 0,0:01:02.71,0:01:03.34,Default,,0,0,0,,\N{\k16}AND {\k9}I {\k12}GOT {\k24}INTO
+Dialogue: 0,0:01:03.34,0:01:04.00,Default,,0,0,0,,\N{\k11}A {\k15}HEATED {\k38}ARGUMENT
+Dialogue: 0,0:01:04.00,0:01:04.90,Default,,0,0,0,,\N{\k18}THAT {\k41}ESCALATED {\k30}FAST.
+Dialogue: 0,0:01:05.84,0:01:06.45,Default,,0,0,0,,\N{\k20}IN {\k11}THE {\k15}END, {\k1}I
+Dialogue: 0,0:01:06.45,0:01:07.20,Default,,0,0,0,,\N{\k14}TOLD {\k16}THEM {\k9}TO {\k15}PACK {\k18}UP
+Dialogue: 0,0:01:07.20,0:01:07.90,Default,,0,0,0,,\N{\k20}AND {\k15}LEAVE {\k14}THAT {\k20}NIGHT.
+Dialogue: 0,0:01:08.71,0:01:09.34,Default,,0,0,0,,\N{\k15}THE {\k30}DAMAGE {\k15}WAS
+Dialogue: 0,0:01:09.34,0:01:09.98,Default,,0,0,0,,\N{\k21}OBVIOUS {\k21}ONCE {\k20}THINGS
+Dialogue: 0,0:01:09.98,0:01:10.40,Default,,0,0,0,,\N{\k15}WERE {\k26}QUIET.
+Dialogue: 0,0:01:11.12,0:01:11.78,Default,,0,0,0,,\N{\k17}THE {\k21}LIVING {\k26}AREA
+Dialogue: 0,0:01:11.78,0:01:12.43,Default,,0,0,0,,\N{\k15}WAS {\k18}TRASH, {\k6}THERE {\k9}WAS
+Dialogue: 0,0:01:12.43,0:01:13.07,Default,,0,0,0,,\N{\k28}BROKEN {\k20}GLASS {\k15}ON
+Dialogue: 0,0:01:13.07,0:01:13.68,Default,,0,0,0,,\N{\k12}THE {\k20}FLOOR, {\k4}AND
+Dialogue: 0,0:01:13.68,0:01:14.48,Default,,0,0,0,,\N{\k25}STICKY {\k21}ALCOHOL {\k32}STAINS
+Dialogue: 0,0:01:14.48,0:01:14.93,Default,,0,0,0,,\N{\k45}EVERYWHERE.
+Dialogue: 0,0:01:15.84,0:01:16.62,Default,,0,0,0,,\N{\k25}THE {\k24}FOLLOWING {\k28}DAY,
+Dialogue: 0,0:01:16.90,0:01:17.68,Default,,0,0,0,,\N{\k7}HE {\k17}CALLED {\k18}ME {\k9}AND {\k24}STARTED
+Dialogue: 0,0:01:17.68,0:01:18.62,Default,,0,0,0,,\N{\k27}ANOTHER {\k32}FIGHT {\k34}CALLING
+Dialogue: 0,0:01:18.62,0:01:19.23,Default,,0,0,0,,\N{\k19}ME {\k26}NAMED {\k15}AND
+Dialogue: 0,0:01:19.23,0:01:19.95,Default,,0,0,0,,\N{\k24}ACCUSING {\k23}ME {\k7}OF {\k15}BEING
+Dialogue: 0,0:01:19.95,0:01:20.85,Default,,0,0,0,,\N{\k34}HEARTLESS {\k15}AND {\k40}UNREASONABLE
+Dialogue: 0,0:01:20.85,0:01:21.51,Default,,0,0,0,,\N{\k28}FOR {\k21}THROWING {\k15}HIM
+Dialogue: 0,0:01:21.51,0:01:21.98,Default,,0,0,0,,\N{\k14}OUT {\k15}SO {\k16}LATE.
+Dialogue: 0,0:01:22.92,0:01:23.76,Default,,0,0,0,,\N{\k23}NOW {\k15}I'M {\k14}STUCK {\k30}WONDERING
+Dialogue: 0,0:01:23.76,0:01:24.37,Default,,0,0,0,,\N{\k28}WHETHER {\k14}I {\k19}CROSSED
+Dialogue: 0,0:01:24.37,0:01:24.98,Default,,0,0,0,,\N{\k10}A {\k7}LINE {\k20}BY {\k21}KICKING
+Dialogue: 0,0:01:24.98,0:01:25.62,Default,,0,0,0,,\N{\k15}HIM {\k12}OUT {\k35}IMMEDIATELY,
+Dialogue: 0,0:01:25.93,0:01:26.57,Default,,0,0,0,,\N{\k14}EVEN {\k14}THOUGH {\k12}HE {\k23}IGNORED
+Dialogue: 0,0:01:26.57,0:01:27.21,Default,,0,0,0,,\N{\k23}MY {\k18}RULES {\k21}AND
+Dialogue: 0,0:01:27.21,0:01:28.09,Default,,0,0,0,,\N{\k14}LEFT {\k18}MY {\k17}HOME {\k9}IN {\k28}RUINS.
+Dialogue: 0,0:01:28.95,0:01:29.68,Default,,0,0,0,,\N{\k24}WAS {\k7}I {\k14}JUST {\k12}A {\k14}FIGHT
+Dialogue: 0,0:01:29.68,0:01:30.68,Default,,0,0,0,,\N{\k13}IN {\k18}DRAWING {\k18}THAT {\k50}HIGH-BOUNDARY,
+Dialogue: 0,0:01:30.93,0:01:31.57,Default,,0,0,0,,\N{\k6}OR {\k14}DID {\k12}I {\k19}TAKE {\k12}IT
+Dialogue: 0,0:01:31.57,0:01:31.95,Default,,0,0,0,,\N{\k15}TOO {\k21}FAR?

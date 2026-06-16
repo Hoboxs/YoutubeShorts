@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.66,0:00:04.33,Default,,0,0,0,,\N{\k8}I {\k7}AM {\k31}19 {\k20}AND
+Dialogue: 0,0:00:04.33,0:00:05.01,Default,,0,0,0,,\N{\k12}THE {\k24}YOUNGEST {\k31}PERSON
+Dialogue: 0,0:00:05.01,0:00:05.70,Default,,0,0,0,,\N{\k10}IN {\k12}MY {\k27}FAMILY {\k18}BY
+Dialogue: 0,0:00:05.70,0:00:06.66,Default,,0,0,0,,\N{\k21}SEVERAL {\k28}YEARS, {\k10}WITH
+Dialogue: 0,0:00:06.66,0:00:07.32,Default,,0,0,0,,\N{\k16}THE {\k9}NEXT {\k40}CLOSEST
+Dialogue: 0,0:00:07.32,0:00:07.94,Default,,0,0,0,,\N{\k25}SIBLING {\k36}ALREADY
+Dialogue: 0,0:00:07.94,0:00:08.56,Default,,0,0,0,,\N{\k28}WELL {\k21}INTO {\k12}THEIR
+Dialogue: 0,0:00:08.56,0:00:09.17,Default,,0,0,0,,\N{\k61}MID-TWENTIES.
+Dialogue: 0,0:00:09.93,0:00:10.88,Default,,0,0,0,,\N{\k24}GROWING {\k25}UP, {\k18}MY
+Dialogue: 0,0:00:10.88,0:00:11.51,Default,,0,0,0,,\N{\k15}OLDER {\k26}SIBLINGS {\k21}WERE
+Dialogue: 0,0:00:11.51,0:00:12.22,Default,,0,0,0,,\N{\k20}ALWAYS {\k19}LOUD {\k17}ABOUT {\k12}WHAT
+Dialogue: 0,0:00:12.22,0:00:12.90,Default,,0,0,0,,\N{\k9}THEY {\k24}WANTED {\k13}AND {\k8}WHAT {\k12}THEY
+Dialogue: 0,0:00:12.90,0:00:13.61,Default,,0,0,0,,\N{\k21}REFUSED {\k18}TO {\k31}ACCEPT.
+Dialogue: 0,0:00:14.38,0:00:15.22,Default,,0,0,0,,\N{\k27}FAMILY {\k27}DINNERS {\k28}REGULARLY
+Dialogue: 0,0:00:15.22,0:00:16.12,Default,,0,0,0,,\N{\k29}TURNED {\k30}INTO {\k30}ARGUMENTS,
+Dialogue: 0,0:00:16.73,0:00:17.50,Default,,0,0,0,,\N{\k10}AND {\k16}LAUNCHED {\k50}EMOTIONAL
+Dialogue: 0,0:00:17.50,0:00:18.33,Default,,0,0,0,,\N{\k44}CONVERSATIONS {\k39}WITH
+Dialogue: 0,0:00:18.33,0:00:18.96,Default,,0,0,0,,\N{\k10}OUR {\k21}PARENTS {\k21}WITH {\k8}A
+Dialogue: 0,0:00:18.96,0:00:19.12,Default,,0,0,0,,\N{\k16}NORM.
+Dialogue: 0,0:00:20.00,0:00:20.66,Default,,0,0,0,,\N{\k14}THOSE {\k32}ALWAYS {\k19}TENSION
+Dialogue: 0,0:00:20.66,0:00:21.46,Default,,0,0,0,,\N{\k26}IN {\k11}THE {\k12}AIR, {\k14}ALWAYS
+Dialogue: 0,0:00:21.46,0:00:22.30,Default,,0,0,0,,\N{\k27}SOMETHING {\k22}BEING {\k33}NEGOTIATED
+Dialogue: 0,0:00:22.30,0:00:22.98,Default,,0,0,0,,\N{\k25}OR {\k12}FOUGHT {\k30}OVER.
+Dialogue: 0,0:00:23.71,0:00:24.32,Default,,0,0,0,,\N{\k24}I {\k14}LEARNED {\k21}VERY
+Dialogue: 0,0:00:24.32,0:00:24.94,Default,,0,0,0,,\N{\k28}EARLY {\k11}THAT {\k10}I {\k12}WAS
+Dialogue: 0,0:00:24.94,0:00:25.12,Default,,0,0,0,,\N{\k17}DIFFERENT.
+Dialogue: 0,0:00:25.83,0:00:26.51,Default,,0,0,0,,\N{\k30}I {\k14}DID {\k14}WELL {\k9}IN
+Dialogue: 0,0:00:26.51,0:00:27.16,Default,,0,0,0,,\N{\k17}SCHOOL, {\k10}STAYED {\k16}OUT
+Dialogue: 0,0:00:27.16,0:00:27.82,Default,,0,0,0,,\N{\k10}OF {\k19}TROUBLE, {\k8}AND
+Dialogue: 0,0:00:27.82,0:00:28.48,Default,,0,0,0,,\N{\k17}TRIED {\k17}AS {\k16}HARD {\k14}AS
+Dialogue: 0,0:00:28.48,0:00:29.33,Default,,0,0,0,,\N{\k5}I {\k10}COULD {\k12}TO {\k11}MAKE {\k17}THINGS {\k28}EASIER
+Dialogue: 0,0:00:29.33,0:00:29.94,Default,,0,0,0,,\N{\k23}FOR {\k36}EVERYONE.
+Dialogue: 0,0:00:30.89,0:00:31.57,Default,,0,0,0,,\N{\k16}I {\k14}DID {\k12}NOT {\k25}ASK
+Dialogue: 0,0:00:31.57,0:00:32.17,Default,,0,0,0,,\N{\k16}FOR {\k20}MUCH {\k23}AND
+Dialogue: 0,0:00:32.17,0:00:33.03,Default,,0,0,0,,\N{\k6}I {\k21}RARELY {\k19}PUSHED {\k38}BACK.
+Dialogue: 0,0:00:33.85,0:00:34.57,Default,,0,0,0,,\N{\k10}OVER {\k19}TIME {\k22}MY {\k19}PARENTS
+Dialogue: 0,0:00:34.57,0:00:35.29,Default,,0,0,0,,\N{\k30}STARTED {\k21}CALLING {\k19}ME
+Dialogue: 0,0:00:35.29,0:00:35.82,Default,,0,0,0,,\N{\k12}THE {\k21}EASY {\k17}ONE.
+Dialogue: 0,0:00:36.65,0:00:37.25,Default,,0,0,0,,\N{\k14}THEY {\k20}MEANT {\k14}IT {\k11}AS
+Dialogue: 0,0:00:37.25,0:00:38.25,Default,,0,0,0,,\N{\k8}A {\k37}COMPLIMENT, {\k21}SOMETHING
+Dialogue: 0,0:00:38.25,0:00:38.97,Default,,0,0,0,,\N{\k17}TO {\k8}BE {\k19}PROUD {\k25}OF.
+Dialogue: 0,0:00:39.75,0:00:40.35,Default,,0,0,0,,\N{\k26}COMPARED {\k21}TO {\k11}MY
+Dialogue: 0,0:00:40.35,0:00:41.07,Default,,0,0,0,,\N{\k25}SIBLINGS, {\k3}I {\k14}WAS
+Dialogue: 0,0:00:41.07,0:00:42.07,Default,,0,0,0,,\N{\k57}LOW-MAINTENANCE {\k42}ADAPTABLE
+Dialogue: 0,0:00:42.07,0:00:42.47,Default,,0,0,0,,\N{\k20}AND {\k19}CALM.
+Dialogue: 0,0:00:43.50,0:00:44.10,Default,,0,0,0,,\N{\k17}BUT {\k16}BEING {\k25}EASY
+Dialogue: 0,0:00:44.10,0:00:44.84,Default,,0,0,0,,\N{\k24}SLOWLY {\k29}BECAME {\k20}MY
+Dialogue: 0,0:00:44.84,0:00:45.67,Default,,0,0,0,,\N{\k13}ROLE {\k26}INSTEAD {\k15}OF {\k3}A {\k24}CHOICE.
+Dialogue: 0,0:00:46.56,0:00:47.34,Default,,0,0,0,,\N{\k19}IF {\k17}PLANS {\k40}CHANGED
+Dialogue: 0,0:00:47.34,0:00:48.50,Default,,0,0,0,,\N{\k9}AT {\k10}THE {\k16}LAST {\k21}MINUTE, {\k6}I
+Dialogue: 0,0:00:48.50,0:00:49.14,Default,,0,0,0,,\N{\k14}WAS {\k25}EXPECTED {\k24}TO
+Dialogue: 0,0:00:49.14,0:00:49.35,Default,,0,0,0,,\N{\k21}ADJUST.
+Dialogue: 0,0:00:50.34,0:00:51.21,Default,,0,0,0,,\N{\k15}IF {\k17}SOMEONE {\k25}NEEDED {\k28}HELP,
+Dialogue: 0,0:00:51.35,0:00:52.17,Default,,0,0,0,,\N{\k3}I {\k14}WAS {\k10}THE {\k20}FIRST {\k33}PERSON
+Dialogue: 0,0:00:52.17,0:00:52.82,Default,,0,0,0,,\N{\k11}ASKED {\k26}BECAUSE {\k15}THEY {\k10}WOULD
+Dialogue: 0,0:00:52.82,0:00:53.28,Default,,0,0,0,,\N{\k14}NOT {\k32}COMPLAIN.
+Dialogue: 0,0:00:54.14,0:00:54.93,Default,,0,0,0,,\N{\k24}IF {\k23}EMOTIONS {\k32}RAN
+Dialogue: 0,0:00:54.93,0:00:55.60,Default,,0,0,0,,\N{\k20}HIGH, {\k3}I {\k11}WAS {\k16}TOLD
+Dialogue: 0,0:00:55.60,0:00:56.24,Default,,0,0,0,,\N{\k19}TO {\k4}LET {\k19}THINGS {\k20}GO
+Dialogue: 0,0:00:56.24,0:00:56.92,Default,,0,0,0,,\N{\k23}BECAUSE {\k10}I {\k12}WAS {\k21}MATURE
+Dialogue: 0,0:00:56.92,0:00:57.71,Default,,0,0,0,,\N{\k17}ENOUGH {\k14}TO {\k25}HANDLE {\k21}IT.
+Dialogue: 0,0:00:58.16,0:00:58.93,Default,,0,0,0,,\N{\k39}MY {\k37}FLEXIBILITY
+Dialogue: 0,0:00:58.93,0:00:59.65,Default,,0,0,0,,\N{\k48}STOPPED {\k23}BEING
+Dialogue: 0,0:00:59.65,0:01:00.35,Default,,0,0,0,,\N{\k44}APPRECIATED {\k25}AND
+Dialogue: 0,0:01:00.35,0:01:01.17,Default,,0,0,0,,\N{\k24}STARTED {\k24}BEING {\k33}ASSUMED.
+Dialogue: 0,0:01:01.88,0:01:02.74,Default,,0,0,0,,\N{\k39}RECENTLY, {\k10}MY
+Dialogue: 0,0:01:02.74,0:01:03.34,Default,,0,0,0,,\N{\k23}PARENTS {\k22}PLANNED {\k14}A
+Dialogue: 0,0:01:03.34,0:01:04.01,Default,,0,0,0,,\N{\k23}FAMILY {\k21}TRIP {\k21}DURING
+Dialogue: 0,0:01:04.01,0:01:04.76,Default,,0,0,0,,\N{\k10}A {\k19}WEEK {\k12}I {\k14}HAD {\k18}ALREADY
+Dialogue: 0,0:01:04.76,0:01:05.54,Default,,0,0,0,,\N{\k23}SAID {\k7}I {\k14}COULD {\k12}NOT {\k20}TAKE
+Dialogue: 0,0:01:05.54,0:01:06.34,Default,,0,0,0,,\N{\k15}OFF {\k17}FROM {\k10}A {\k35}PART-TIME
+Dialogue: 0,0:01:06.34,0:01:06.57,Default,,0,0,0,,\N{\k23}JOB.
+Dialogue: 0,0:01:07.37,0:01:08.12,Default,,0,0,0,,\N{\k20}I {\k34}REMINDED {\k20}THEM
+Dialogue: 0,0:01:08.12,0:01:08.90,Default,,0,0,0,,\N{\k14}THAT {\k9}I {\k9}HAD {\k22}MENTIONED {\k21}THIS
+Dialogue: 0,0:01:08.90,0:01:09.23,Default,,0,0,0,,\N{\k33}BEFORE.
+Dialogue: 0,0:01:10.00,0:01:10.81,Default,,0,0,0,,\N{\k12}THE {\k21}BRUSH {\k14}TO {\k11}DIFFERENT {\k21}SAID
+Dialogue: 0,0:01:10.81,0:01:11.48,Default,,0,0,0,,\N{\k16}THEY {\k21}THOUGHT {\k15}I {\k12}WOULD
+Dialogue: 0,0:01:11.48,0:01:12.12,Default,,0,0,0,,\N{\k17}FIGURE {\k21}SOMETHING {\k24}OUT
+Dialogue: 0,0:01:12.12,0:01:12.79,Default,,0,0,0,,\N{\k15}LIKE {\k15}I {\k21}ALWAYS {\k14}DO.
+Dialogue: 0,0:01:13.57,0:01:14.34,Default,,0,0,0,,\N{\k14}THAT {\k23}COMMENT {\k20}HIT {\k18}HARDER
+Dialogue: 0,0:01:14.34,0:01:14.90,Default,,0,0,0,,\N{\k15}THAN {\k14}THEY {\k26}REALISED.
+Dialogue: 0,0:01:15.79,0:01:16.48,Default,,0,0,0,,\N{\k12}IT {\k14}MADE {\k12}IT {\k15}CLEAR {\k14}THAT
+Dialogue: 0,0:01:16.48,0:01:17.29,Default,,0,0,0,,\N{\k11}MY {\k35}AVAILABILITY {\k34}HAD
+Dialogue: 0,0:01:17.29,0:01:17.95,Default,,0,0,0,,\N{\k14}NEVER {\k35}ACTUALLY {\k15}BEEN
+Dialogue: 0,0:01:17.95,0:01:18.35,Default,,0,0,0,,\N{\k40}CONSIDERED.
+Dialogue: 0,0:01:19.06,0:01:19.71,Default,,0,0,0,,\N{\k12}FOR {\k5}THE {\k20}FIRST {\k28}TIME,
+Dialogue: 0,0:01:19.87,0:01:20.57,Default,,0,0,0,,\N{\k4}I {\k14}SAID {\k9}I {\k10}COULD {\k14}NOT {\k17}MAKE
+Dialogue: 0,0:01:20.57,0:01:21.20,Default,,0,0,0,,\N{\k14}IT {\k9}AND {\k10}THAT {\k9}I {\k7}WOULD {\k10}NOT
+Dialogue: 0,0:01:21.20,0:01:21.56,Default,,0,0,0,,\N{\k15}BE {\k20}GOING.
+Dialogue: 0,0:01:22.29,0:01:23.09,Default,,0,0,0,,\N{\k24}THE {\k31}REACTION {\k23}WAS
+Dialogue: 0,0:01:23.09,0:01:23.85,Default,,0,0,0,,\N{\k24}IMMEDIATE {\k51}DISAPPOINTMENT.
+Dialogue: 0,0:01:24.40,0:01:25.01,Default,,0,0,0,,\N{\k39}THEY {\k21}TOLD
+Dialogue: 0,0:01:25.01,0:01:25.64,Default,,0,0,0,,\N{\k18}ME {\k9}IT {\k7}WAS {\k26}SUPPOSED
+Dialogue: 0,0:01:25.64,0:01:26.34,Default,,0,0,0,,\N{\k17}TO {\k8}BE {\k23}SPECIAL {\k20}TIME
+Dialogue: 0,0:01:26.34,0:01:26.98,Default,,0,0,0,,\N{\k28}TOGETHER {\k17}AND {\k18}ASKED
+Dialogue: 0,0:01:26.98,0:01:27.70,Default,,0,0,0,,\N{\k15}WHY {\k14}I {\k6}COULD {\k14}NOT {\k21}JUST
+Dialogue: 0,0:01:27.70,0:01:28.34,Default,,0,0,0,,\N{\k9}ADJUST {\k28}THIS {\k26}ONCE.
+Dialogue: 0,0:01:29.29,0:01:29.92,Default,,0,0,0,,\N{\k21}NO {\k12}ONE {\k28}STOPPED
+Dialogue: 0,0:01:29.92,0:01:30.56,Default,,0,0,0,,\N{\k20}TO {\k11}ASK {\k18}WHY {\k14}MY
+Dialogue: 0,0:01:30.56,0:01:31.31,Default,,0,0,0,,\N{\k28}SCHEDULE {\k28}WAS {\k19}IGNORED
+Dialogue: 0,0:01:31.31,0:01:31.98,Default,,0,0,0,,\N{\k22}IN {\k3}THE {\k14}FIRST {\k26}PLACE.
+Dialogue: 0,0:01:32.76,0:01:33.54,Default,,0,0,0,,\N{\k37}INSTEAD, {\k4}I
+Dialogue: 0,0:01:33.54,0:01:34.21,Default,,0,0,0,,\N{\k11}WAS {\k18}TREATED {\k20}LIKE {\k17}I
+Dialogue: 0,0:01:34.21,0:01:34.95,Default,,0,0,0,,\N{\k12}HAD {\k29}SUDDENLY {\k31}CHANGED
+Dialogue: 0,0:01:34.95,0:01:36.14,Default,,0,0,0,,\N{\k28}INTO {\k26}SOMEONE {\k64}UNRECOGNIZABLE.
+Dialogue: 0,0:01:36.98,0:01:37.68,Default,,0,0,0,,\N{\k20}BUT {\k9}IT {\k12}DOES {\k11}NOT {\k16}FEEL
+Dialogue: 0,0:01:37.68,0:01:38.42,Default,,0,0,0,,\N{\k15}LIKE {\k14}I {\k28}CHANGED {\k15}AT
+Dialogue: 0,0:01:38.42,0:01:38.57,Default,,0,0,0,,\N{\k15}ALL.
+Dialogue: 0,0:01:39.35,0:01:39.98,Default,,0,0,0,,\N{\k12}IT {\k17}FEELS {\k20}LIKE {\k12}I
+Dialogue: 0,0:01:39.98,0:01:40.79,Default,,0,0,0,,\N{\k28}FINALLY {\k23}STOPPED {\k29}BENDING
+Dialogue: 0,0:01:40.79,0:01:41.35,Default,,0,0,0,,\N{\k56}AUTOMATICALLY.
+Dialogue: 0,0:01:42.23,0:01:42.92,Default,,0,0,0,,\N{\k20}I'M {\k32}REALISING {\k15}HOW
+Dialogue: 0,0:01:42.92,0:01:43.65,Default,,0,0,0,,\N{\k14}MUCH {\k14}I {\k14}HAVE {\k11}BEEN {\k20}SHRINKING
+Dialogue: 0,0:01:43.65,0:01:44.37,Default,,0,0,0,,\N{\k35}MYSELF {\k21}TO {\k14}KEEP
+Dialogue: 0,0:01:44.37,0:01:45.04,Default,,0,0,0,,\N{\k21}THINGS {\k44}PEACEFUL
+Dialogue: 0,0:01:45.04,0:01:45.84,Default,,0,0,0,,\N{\k27}AND {\k12}HOW {\k40}UNCOMFORTABLE
+Dialogue: 0,0:01:45.84,0:01:46.57,Default,,0,0,0,,\N{\k37}EVERYONE {\k35}BECOMES
+Dialogue: 0,0:01:46.57,0:01:47.20,Default,,0,0,0,,\N{\k26}WHEN {\k11}I {\k10}DO {\k14}NOT
+Dialogue: 0,0:01:47.20,0:01:47.73,Default,,0,0,0,,\N{\k15}DO {\k12}THAT {\k25}ANYMORE.
+Dialogue: 0,0:01:48.50,0:01:49.29,Default,,0,0,0,,\N{\k26}I {\k5}AM {\k20}STILL {\k28}KIND.
+Dialogue: 0,0:01:50.06,0:01:51.07,Default,,0,0,0,,\N{\k28}I {\k11}AM {\k18}STILL {\k43}RESPONSIBLE.
+Dialogue: 0,0:01:51.71,0:01:52.42,Default,,0,0,0,,\N{\k35}I {\k18}JUST {\k15}WANT
+Dialogue: 0,0:01:52.42,0:01:53.15,Default,,0,0,0,,\N{\k12}TO {\k5}BE {\k26}CONSIDERED {\k29}TOO.
+Dialogue: 0,0:01:53.87,0:01:54.48,Default,,0,0,0,,\N{\k26}NOW {\k14}I {\k6}AM {\k14}LEFT
+Dialogue: 0,0:01:54.48,0:01:55.21,Default,,0,0,0,,\N{\k39}WONDERING {\k20}IF {\k14}WANTING
+Dialogue: 0,0:01:55.21,0:01:55.92,Default,,0,0,0,,\N{\k20}TO {\k17}STOP {\k18}BEING {\k14}ME
+Dialogue: 0,0:01:55.92,0:01:56.65,Default,,0,0,0,,\N{\k21}EASY {\k14}ONE {\k17}MAKES {\k20}ME
+Dialogue: 0,0:01:56.65,0:01:57.45,Default,,0,0,0,,\N{\k29}SELFISH. {\k7}OR
+Dialogue: 0,0:01:57.45,0:01:58.15,Default,,0,0,0,,\N{\k14}IF {\k8}IT {\k11}JUST {\k18}MEANS {\k17}I
+Dialogue: 0,0:01:58.15,0:01:58.78,Default,,0,0,0,,\N{\k7}AM {\k21}FINALLY {\k32}STANDING
+Dialogue: 0,0:01:58.78,0:01:59.37,Default,,0,0,0,,\N{\k20}UP {\k14}FOR {\k25}MYSELF.

@@ -1,0 +1,170 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.64,0:00:04.16,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:00:04.16,0:00:05.04,Default,,0,0,0,,{\an5}A 27-YEAR-OLD
+Dialogue: 0,0:00:05.04,0:00:05.75,Default,,0,0,0,,{\an5}GUY, AND
+Dialogue: 0,0:00:05.75,0:00:06.48,Default,,0,0,0,,{\an5}MY YOUNGER BROTHER,
+Dialogue: 0,0:00:06.66,0:00:07.36,Default,,0,0,0,,{\an5}WHO'S 24,
+Dialogue: 0,0:00:07.70,0:00:08.22,Default,,0,0,0,,{\an5}RUNS A
+Dialogue: 0,0:00:08.22,0:00:08.75,Default,,0,0,0,,{\an5}SMALL CAFE
+Dialogue: 0,0:00:08.75,0:00:09.67,Default,,0,0,0,,{\an5}THAT SPECIALIZES
+Dialogue: 0,0:00:09.67,0:00:10.41,Default,,0,0,0,,{\an5}IN CUSTOM DESSERTS
+Dialogue: 0,0:00:10.41,0:00:10.98,Default,,0,0,0,,{\an5}FOR EVENTS.
+Dialogue: 0,0:00:11.32,0:00:11.83,Default,,0,0,0,,{\an5}LATELY,
+Dialogue: 0,0:00:12.00,0:00:12.85,Default,,0,0,0,,{\an5}HE'S BEEN OVERWHELMED
+Dialogue: 0,0:00:12.85,0:00:13.48,Default,,0,0,0,,{\an5}BECAUSE TWO
+Dialogue: 0,0:00:13.48,0:00:14.03,Default,,0,0,0,,{\an5}STAFF MEMBERS
+Dialogue: 0,0:00:14.03,0:00:14.74,Default,,0,0,0,,{\an5}QUIT RIGHT BEFORE
+Dialogue: 0,0:00:14.74,0:00:15.25,Default,,0,0,0,,{\an5}PEAK WEDDING
+Dialogue: 0,0:00:15.25,0:00:15.58,Default,,0,0,0,,{\an5}SEASON.
+Dialogue: 0,0:00:15.96,0:00:16.60,Default,,0,0,0,,{\an5}TO HELP
+Dialogue: 0,0:00:16.60,0:00:17.39,Default,,0,0,0,,{\an5}HIM STAY AFLOAT,
+Dialogue: 0,0:00:17.44,0:00:18.01,Default,,0,0,0,,{\an5}I OFFERED
+Dialogue: 0,0:00:18.01,0:00:18.51,Default,,0,0,0,,{\an5}TO PREP SOME
+Dialogue: 0,0:00:18.51,0:00:19.01,Default,,0,0,0,,{\an5}FILLINGS AT
+Dialogue: 0,0:00:19.01,0:00:19.83,Default,,0,0,0,,{\an5}HOME, THINGS
+Dialogue: 0,0:00:19.83,0:00:20.35,Default,,0,0,0,,{\an5}LIKE PASTRY
+Dialogue: 0,0:00:20.35,0:00:20.85,Default,,0,0,0,,{\an5}CREAM AND
+Dialogue: 0,0:00:20.85,0:00:21.57,Default,,0,0,0,,{\an5}FRUIT PRESERVES,
+Dialogue: 0,0:00:21.69,0:00:22.28,Default,,0,0,0,,{\an5}AND BRING
+Dialogue: 0,0:00:22.28,0:00:22.83,Default,,0,0,0,,{\an5}THEM OVER SO
+Dialogue: 0,0:00:22.83,0:00:23.37,Default,,0,0,0,,{\an5}HE COULD FOCUS
+Dialogue: 0,0:00:23.37,0:00:23.94,Default,,0,0,0,,{\an5}ON ASSEMBLING
+Dialogue: 0,0:00:23.94,0:00:24.48,Default,,0,0,0,,{\an5}AND DECORATING
+Dialogue: 0,0:00:24.48,0:00:25.07,Default,,0,0,0,,{\an5}CAKES FOR
+Dialogue: 0,0:00:25.07,0:00:25.64,Default,,0,0,0,,{\an5}PAYING CLIENTS.
+Dialogue: 0,0:00:26.10,0:00:26.62,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:00:26.62,0:00:27.21,Default,,0,0,0,,{\an5}PROBLEM IS MY
+Dialogue: 0,0:00:27.21,0:00:28.21,Default,,0,0,0,,{\an5}PARTNER, WHO'S
+Dialogue: 0,0:00:28.21,0:00:29.17,Default,,0,0,0,,{\an5}25, EVERY
+Dialogue: 0,0:00:29.17,0:00:29.92,Default,,0,0,0,,{\an5}SINGLE TIME I'VE
+Dialogue: 0,0:00:29.92,0:00:30.66,Default,,0,0,0,,{\an5}MADE THESE FILLINGS.
+Dialogue: 0,0:00:30.87,0:00:31.53,Default,,0,0,0,,{\an5}SHE'S DIPPED
+Dialogue: 0,0:00:31.53,0:00:32.11,Default,,0,0,0,,{\an5}HER BARE FINGERS
+Dialogue: 0,0:00:32.11,0:00:32.71,Default,,0,0,0,,{\an5}STRAIGHT INTO
+Dialogue: 0,0:00:32.71,0:00:33.43,Default,,0,0,0,,{\an5}THE CONTAINERS TO
+Dialogue: 0,0:00:33.43,0:00:33.96,Default,,0,0,0,,{\an5}TASTE THEM.
+Dialogue: 0,0:00:34.35,0:00:35.07,Default,,0,0,0,,{\an5}NOT ONCE
+Dialogue: 0,0:00:35.07,0:00:36.00,Default,,0,0,0,,{\an5}OR TWICE, BUT
+Dialogue: 0,0:00:36.00,0:00:36.38,Default,,0,0,0,,{\an5}REPEATEDLY.
+Dialogue: 0,0:00:36.65,0:00:37.21,Default,,0,0,0,,{\an5}EACH TIME
+Dialogue: 0,0:00:37.21,0:00:38.14,Default,,0,0,0,,{\an5}IT HAPPENS, THE
+Dialogue: 0,0:00:38.14,0:00:38.78,Default,,0,0,0,,{\an5}ENTIRE BATCH
+Dialogue: 0,0:00:38.78,0:00:39.67,Default,,0,0,0,,{\an5}BECOMES UNUSABLE,
+Dialogue: 0,0:00:39.82,0:00:40.50,Default,,0,0,0,,{\an5}WHICH MEANS
+Dialogue: 0,0:00:40.50,0:00:41.07,Default,,0,0,0,,{\an5}I HAVE TO THROW
+Dialogue: 0,0:00:41.07,0:00:41.71,Default,,0,0,0,,{\an5}IT OUT AND START
+Dialogue: 0,0:00:41.71,0:00:41.97,Default,,0,0,0,,{\an5}OVER.
+Dialogue: 0,0:00:42.21,0:00:42.93,Default,,0,0,0,,{\an5}I'VE EXPLAINED
+Dialogue: 0,0:00:42.93,0:00:43.53,Default,,0,0,0,,{\an5}CALMLY THAT
+Dialogue: 0,0:00:43.53,0:00:44.03,Default,,0,0,0,,{\an5}THIS FOOD IS
+Dialogue: 0,0:00:44.03,0:00:44.53,Default,,0,0,0,,{\an5}FOR CUSTOMERS,
+Dialogue: 0,0:00:44.79,0:00:45.46,Default,,0,0,0,,{\an5}NOT OUR
+Dialogue: 0,0:00:45.46,0:00:46.06,Default,,0,0,0,,{\an5}KITCHEN TABLE,
+Dialogue: 0,0:00:46.20,0:00:46.82,Default,,0,0,0,,{\an5}AND THAT IF SHE
+Dialogue: 0,0:00:46.82,0:00:47.35,Default,,0,0,0,,{\an5}REALLY WANTS A
+Dialogue: 0,0:00:47.35,0:00:48.20,Default,,0,0,0,,{\an5}TASTE, SHE
+Dialogue: 0,0:00:48.20,0:00:48.84,Default,,0,0,0,,{\an5}CAN USE A CLEAN
+Dialogue: 0,0:00:48.84,0:00:49.39,Default,,0,0,0,,{\an5}SPOON AND
+Dialogue: 0,0:00:49.39,0:00:49.96,Default,,0,0,0,,{\an5}TAKE SOME FROM THE
+Dialogue: 0,0:00:49.96,0:00:50.25,Default,,0,0,0,,{\an5}SIDE.
+Dialogue: 0,0:00:50.52,0:00:51.28,Default,,0,0,0,,{\an5}SHE BRUSHES
+Dialogue: 0,0:00:51.28,0:00:52.20,Default,,0,0,0,,{\an5}IT OFF, SAYS
+Dialogue: 0,0:00:52.20,0:00:52.71,Default,,0,0,0,,{\an5}USING HER
+Dialogue: 0,0:00:52.71,0:00:53.28,Default,,0,0,0,,{\an5}FINGERS FEELS
+Dialogue: 0,0:00:53.28,0:00:54.42,Default,,0,0,0,,{\an5}NOSTALGIC, AND
+Dialogue: 0,0:00:54.42,0:00:55.07,Default,,0,0,0,,{\an5}SULKS LIKE I'M
+Dialogue: 0,0:00:55.07,0:00:55.57,Default,,0,0,0,,{\an5}RUINING SOMETHING
+Dialogue: 0,0:00:55.57,0:00:56.38,Default,,0,0,0,,{\an5}SENTIMENTAL FOR
+Dialogue: 0,0:00:56.38,0:00:56.56,Default,,0,0,0,,{\an5}HER.
+Dialogue: 0,0:00:56.71,0:00:57.50,Default,,0,0,0,,{\an5}EARLIER TODAY,
+Dialogue: 0,0:00:57.75,0:00:58.29,Default,,0,0,0,,{\an5}THINGS CAME
+Dialogue: 0,0:00:58.29,0:00:58.79,Default,,0,0,0,,{\an5}TO A HEAD.
+Dialogue: 0,0:00:58.79,0:00:59.35,Default,,0,0,0,,{\an5}I WAS
+Dialogue: 0,0:00:59.35,0:01:00.02,Default,,0,0,0,,{\an5}RUSHING TO FINISH
+Dialogue: 0,0:01:00.02,0:01:00.78,Default,,0,0,0,,{\an5}A CHOCOLATE CUSTARD
+Dialogue: 0,0:01:00.78,0:01:01.28,Default,,0,0,0,,{\an5}BECAUSE MY
+Dialogue: 0,0:01:01.28,0:01:01.93,Default,,0,0,0,,{\an5}BROTHER WAS LATE
+Dialogue: 0,0:01:01.93,0:01:02.56,Default,,0,0,0,,{\an5}ON A LARGE WEDDING
+Dialogue: 0,0:01:02.56,0:01:03.60,Default,,0,0,0,,{\an5}ORDER AND
+Dialogue: 0,0:01:03.60,0:01:04.15,Default,,0,0,0,,{\an5}STRESSED OUT
+Dialogue: 0,0:01:04.15,0:01:04.65,Default,,0,0,0,,{\an5}OF HIS MIND
+Dialogue: 0,0:01:04.65,0:01:05.20,Default,,0,0,0,,{\an5}BEFORE
+Dialogue: 0,0:01:05.20,0:01:05.87,Default,,0,0,0,,{\an5}I JUMPED IN
+Dialogue: 0,0:01:05.87,0:01:06.78,Default,,0,0,0,,{\an5}THE SHOWER. I
+Dialogue: 0,0:01:06.78,0:01:07.50,Default,,0,0,0,,{\an5}EXPLICITLY TOLD
+Dialogue: 0,0:01:07.50,0:01:08.00,Default,,0,0,0,,{\an5}MY PARTNER
+Dialogue: 0,0:01:08.00,0:01:08.51,Default,,0,0,0,,{\an5}NOT TO TOUCH
+Dialogue: 0,0:01:08.51,0:01:09.07,Default,,0,0,0,,{\an5}IT AND
+Dialogue: 0,0:01:09.07,0:01:09.68,Default,,0,0,0,,{\an5}IF SHE ABSOLUTELY
+Dialogue: 0,0:01:09.68,0:01:10.42,Default,,0,0,0,,{\an5}COULDN'T RESIST
+Dialogue: 0,0:01:10.42,0:01:11.04,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:01:11.04,0:01:11.62,Default,,0,0,0,,{\an5}PLEASE USE A
+Dialogue: 0,0:01:11.62,0:01:12.21,Default,,0,0,0,,{\an5}UTENSIL.
+Dialogue: 0,0:01:12.21,0:01:12.73,Default,,0,0,0,,{\an5}WHEN I
+Dialogue: 0,0:01:12.73,0:01:13.23,Default,,0,0,0,,{\an5}CAME BACK,
+Dialogue: 0,0:01:13.29,0:01:13.87,Default,,0,0,0,,{\an5}I SAW HER
+Dialogue: 0,0:01:13.87,0:01:14.37,Default,,0,0,0,,{\an5}STANDING AT
+Dialogue: 0,0:01:14.37,0:01:14.90,Default,,0,0,0,,{\an5}THE COUNTER WITH
+Dialogue: 0,0:01:14.90,0:01:15.51,Default,,0,0,0,,{\an5}HER FINGERS IN
+Dialogue: 0,0:01:15.51,0:01:16.85,Default,,0,0,0,,{\an5}THE BOWL AGAIN. LICKING
+Dialogue: 0,0:01:16.85,0:01:17.50,Default,,0,0,0,,{\an5}THEM LIKE NOTHING
+Dialogue: 0,0:01:17.50,0:01:18.12,Default,,0,0,0,,{\an5}I'D SAID MATTERED.
+Dialogue: 0,0:01:18.31,0:01:19.01,Default,,0,0,0,,{\an5}I SNAPPED.
+Dialogue: 0,0:01:19.23,0:01:19.78,Default,,0,0,0,,{\an5}AFTER THE
+Dialogue: 0,0:01:19.78,0:01:20.50,Default,,0,0,0,,{\an5}FIFTH RUINED BASH,
+Dialogue: 0,0:01:20.71,0:01:21.34,Default,,0,0,0,,{\an5}I LOST
+Dialogue: 0,0:01:21.34,0:01:21.84,Default,,0,0,0,,{\an5}MY TEMPER
+Dialogue: 0,0:01:21.84,0:01:22.37,Default,,0,0,0,,{\an5}AND YELLED FOR
+Dialogue: 0,0:01:22.37,0:01:23.00,Default,,0,0,0,,{\an5}HER TO STOP EATING
+Dialogue: 0,0:01:23.00,0:01:23.59,Default,,0,0,0,,{\an5}THE FOOD I WAS
+Dialogue: 0,0:01:23.59,0:01:24.68,Default,,0,0,0,,{\an5}MAKING BECAUSE
+Dialogue: 0,0:01:24.68,0:01:25.21,Default,,0,0,0,,{\an5}IT WASN'T
+Dialogue: 0,0:01:25.21,0:01:25.79,Default,,0,0,0,,{\an5}FOR HER AND SHE
+Dialogue: 0,0:01:25.79,0:01:26.48,Default,,0,0,0,,{\an5}WAS RUINING SOMETHING
+Dialogue: 0,0:01:26.48,0:01:27.12,Default,,0,0,0,,{\an5}MEANT FOR OTHER
+Dialogue: 0,0:01:27.12,0:01:27.42,Default,,0,0,0,,{\an5}PEOPLE.
+Dialogue: 0,0:01:27.42,0:01:27.92,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:27.92,0:01:28.51,Default,,0,0,0,,{\an5}IMMEDIATELY
+Dialogue: 0,0:01:28.51,0:01:29.15,Default,,0,0,0,,{\an5}BURST INTO
+Dialogue: 0,0:01:29.15,0:01:29.71,Default,,0,0,0,,{\an5}TEARS AND
+Dialogue: 0,0:01:29.71,0:01:30.28,Default,,0,0,0,,{\an5}ACCUSED ME OF
+Dialogue: 0,0:01:30.28,0:01:30.84,Default,,0,0,0,,{\an5}SHAMING HER AND
+Dialogue: 0,0:01:30.84,0:01:31.37,Default,,0,0,0,,{\an5}ATTACKING HER
+Dialogue: 0,0:01:31.37,0:01:32.12,Default,,0,0,0,,{\an5}EVEN
+Dialogue: 0,0:01:32.12,0:01:32.98,Default,,0,0,0,,{\an5}THOUGH I NEVER MENTIONED
+Dialogue: 0,0:01:32.98,0:01:33.56,Default,,0,0,0,,{\an5}HER BODY OR
+Dialogue: 0,0:01:33.56,0:01:34.76,Default,,0,0,0,,{\an5}EATING HABITS ONLY
+Dialogue: 0,0:01:34.76,0:01:35.35,Default,,0,0,0,,{\an5}THE FACT THAT
+Dialogue: 0,0:01:35.35,0:01:36.28,Default,,0,0,0,,{\an5}SHE WAS CONTAMINATING
+Dialogue: 0,0:01:36.28,0:01:37.04,Default,,0,0,0,,{\an5}FOOD THAT WASN'T
+Dialogue: 0,0:01:37.04,0:01:37.59,Default,,0,0,0,,{\an5}HERS TO TOUCH
+Dialogue: 0,0:01:37.59,0:01:38.48,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:38.48,0:01:39.01,Default,,0,0,0,,{\an5}KNOW I RAISED
+Dialogue: 0,0:01:39.01,0:01:40.12,Default,,0,0,0,,{\an5}MY VOICE AND
+Dialogue: 0,0:01:40.12,0:01:40.68,Default,,0,0,0,,{\an5}I HATE THAT IT
+Dialogue: 0,0:01:40.68,0:01:41.29,Default,,0,0,0,,{\an5}ESCALATED LIKE
+Dialogue: 0,0:01:41.29,0:01:41.93,Default,,0,0,0,,{\an5}THAT BUT
+Dialogue: 0,0:01:41.93,0:01:42.51,Default,,0,0,0,,{\an5}I ALSO FEEL
+Dialogue: 0,0:01:42.51,0:01:43.20,Default,,0,0,0,,{\an5}LIKE MY BOUNDARIES
+Dialogue: 0,0:01:43.20,0:01:43.76,Default,,0,0,0,,{\an5}AND THE PRESSURE
+Dialogue: 0,0:01:43.76,0:01:44.28,Default,,0,0,0,,{\an5}I WAS UNDER
+Dialogue: 0,0:01:44.28,0:01:45.12,Default,,0,0,0,,{\an5}WERE COMPLETELY IGNORED
+Dialogue: 0,0:01:45.55,0:01:46.09,Default,,0,0,0,,{\an5}WAS I
+Dialogue: 0,0:01:46.09,0:01:46.78,Default,,0,0,0,,{\an5}WRONG FOR REACTING
+Dialogue: 0,0:01:46.78,0:01:47.37,Default,,0,0,0,,{\an5}THE WAY I DID
+Dialogue: 0,0:01:47.37,0:01:48.04,Default,,0,0,0,,{\an5}AFTER BEING PUSHED
+Dialogue: 0,0:01:48.04,0:01:48.62,Default,,0,0,0,,{\an5}OVER THE SAME
+Dialogue: 0,0:01:48.62,0:01:49.23,Default,,0,0,0,,{\an5}LINE AGAIN AND
+Dialogue: 0,0:01:49.23,0:01:49.40,Default,,0,0,0,,{\an5}AGAIN

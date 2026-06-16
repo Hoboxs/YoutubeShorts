@@ -1,0 +1,175 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.37,0:00:05.08,Default,,0,0,0,,{\an5}MY SON EVAN
+Dialogue: 0,0:00:05.08,0:00:05.62,Default,,0,0,0,,{\an5}WORKS LONG
+Dialogue: 0,0:00:05.62,0:00:06.13,Default,,0,0,0,,{\an5}ROTATIONS
+Dialogue: 0,0:00:06.13,0:00:06.63,Default,,0,0,0,,{\an5}ON INTERNATIONAL
+Dialogue: 0,0:00:06.63,0:00:07.17,Default,,0,0,0,,{\an5}CARGO
+Dialogue: 0,0:00:07.17,0:00:08.24,Default,,0,0,0,,{\an5}VESSELS, WHICH
+Dialogue: 0,0:00:08.24,0:00:08.88,Default,,0,0,0,,{\an5}MEANS HE'S GONE
+Dialogue: 0,0:00:08.88,0:00:09.46,Default,,0,0,0,,{\an5}FOR WEEKS AT
+Dialogue: 0,0:00:09.46,0:00:10.11,Default,,0,0,0,,{\an5}A TIME AND OFTEN
+Dialogue: 0,0:00:10.11,0:00:10.67,Default,,0,0,0,,{\an5}UNREACHABLE.
+Dialogue: 0,0:00:11.03,0:00:11.77,Default,,0,0,0,,{\an5}HE'S MARRIED
+Dialogue: 0,0:00:11.77,0:00:12.56,Default,,0,0,0,,{\an5}TO LENA, AND
+Dialogue: 0,0:00:12.56,0:00:13.09,Default,,0,0,0,,{\an5}TOGETHER THEY
+Dialogue: 0,0:00:13.09,0:00:13.93,Default,,0,0,0,,{\an5}HAVE TWO YOUNG CHILDREN.
+Dialogue: 0,0:00:14.17,0:00:14.72,Default,,0,0,0,,{\an5}THE LAST
+Dialogue: 0,0:00:14.72,0:00:15.35,Default,,0,0,0,,{\an5}COUPLE OF YEARS
+Dialogue: 0,0:00:15.35,0:00:15.98,Default,,0,0,0,,{\an5}HAVE BEEN BRUTAL
+Dialogue: 0,0:00:15.98,0:00:16.94,Default,,0,0,0,,{\an5}FOR THEM. LENA
+Dialogue: 0,0:00:16.94,0:00:17.64,Default,,0,0,0,,{\an5}LOST HER JOB
+Dialogue: 0,0:00:17.64,0:00:18.17,Default,,0,0,0,,{\an5}AND HASN'T BEEN
+Dialogue: 0,0:00:18.17,0:00:18.69,Default,,0,0,0,,{\an5}ABLE TO FIND
+Dialogue: 0,0:00:18.69,0:00:19.23,Default,,0,0,0,,{\an5}ANYTHING THAT
+Dialogue: 0,0:00:19.23,0:00:20.00,Default,,0,0,0,,{\an5}FITS AROUND CHILDCARE
+Dialogue: 0,0:00:20.00,0:00:20.57,Default,,0,0,0,,{\an5}WHILE EVAN
+Dialogue: 0,0:00:20.57,0:00:21.69,Default,,0,0,0,,{\an5}IS AWAY,
+Dialogue: 0,0:00:21.94,0:00:22.60,Default,,0,0,0,,{\an5}AND THE FINANCIAL
+Dialogue: 0,0:00:22.60,0:00:23.32,Default,,0,0,0,,{\an5}PRESSURE HAS
+Dialogue: 0,0:00:23.32,0:00:23.89,Default,,0,0,0,,{\an5}CLEARLY TAKEN
+Dialogue: 0,0:00:23.89,0:00:24.42,Default,,0,0,0,,{\an5}A TOLL ON
+Dialogue: 0,0:00:24.42,0:00:25.80,Default,,0,0,0,,{\an5}THE HOUSEHOLD. OVER
+Dialogue: 0,0:00:25.80,0:00:26.57,Default,,0,0,0,,{\an5}TIME, I
+Dialogue: 0,0:00:26.57,0:00:27.19,Default,,0,0,0,,{\an5}STARTED NOTICING
+Dialogue: 0,0:00:27.19,0:00:27.85,Default,,0,0,0,,{\an5}A PATTERN THAT
+Dialogue: 0,0:00:27.85,0:00:28.39,Default,,0,0,0,,{\an5}MADE MY STOMACH
+Dialogue: 0,0:00:28.39,0:00:28.67,Default,,0,0,0,,{\an5}DROP.
+Dialogue: 0,0:00:28.67,0:00:28.82,Default,,0,0,0,,{\an5}UP.
+Dialogue: 0,0:00:28.83,0:00:29.57,Default,,0,0,0,,{\an5}WHENEVER MONEY
+Dialogue: 0,0:00:29.57,0:00:30.10,Default,,0,0,0,,{\an5}GOT TIGHT,
+Dialogue: 0,0:00:30.21,0:00:30.98,Default,,0,0,0,,{\an5}THE KIDS' BELONGINGS
+Dialogue: 0,0:00:30.98,0:00:31.62,Default,,0,0,0,,{\an5}WOULD QUIETLY
+Dialogue: 0,0:00:31.62,0:00:32.06,Default,,0,0,0,,{\an5}DISAPPEAR.
+Dialogue: 0,0:00:32.39,0:00:33.07,Default,,0,0,0,,{\an5}NOT TOYS
+Dialogue: 0,0:00:33.07,0:00:33.64,Default,,0,0,0,,{\an5}THEY'D OUTGROWN
+Dialogue: 0,0:00:33.64,0:00:34.38,Default,,0,0,0,,{\an5}OR BROKEN THINGS.
+Dialogue: 0,0:00:34.71,0:00:35.24,Default,,0,0,0,,{\an5}BUT NEWER,
+Dialogue: 0,0:00:35.42,0:00:36.42,Default,,0,0,0,,{\an5}EXPENSIVE GIFTS.
+Dialogue: 0,0:00:36.64,0:00:37.21,Default,,0,0,0,,{\an5}A CONSOLE
+Dialogue: 0,0:00:37.21,0:00:37.79,Default,,0,0,0,,{\an5}GAME I BOUGHT
+Dialogue: 0,0:00:37.79,0:00:38.46,Default,,0,0,0,,{\an5}FOR MY GRANDDAUGHTER
+Dialogue: 0,0:00:38.46,0:00:38.97,Default,,0,0,0,,{\an5}WAS SOLD
+Dialogue: 0,0:00:38.97,0:00:39.64,Default,,0,0,0,,{\an5}ONLINE LESS
+Dialogue: 0,0:00:39.64,0:00:40.15,Default,,0,0,0,,{\an5}THAN TWO WEEKS
+Dialogue: 0,0:00:40.15,0:00:40.84,Default,,0,0,0,,{\an5}AFTER SHE OPENED
+Dialogue: 0,0:00:40.84,0:00:41.02,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:00:41.74,0:00:42.34,Default,,0,0,0,,{\an5}SUPPOSEDLY BECAUSE
+Dialogue: 0,0:00:42.34,0:00:42.97,Default,,0,0,0,,{\an5}SHE WAS PLAYING
+Dialogue: 0,0:00:42.97,0:00:43.65,Default,,0,0,0,,{\an5}TOO INTENSELY,
+Dialogue: 0,0:00:43.85,0:00:44.52,Default,,0,0,0,,{\an5}THE LENA COULDN'T
+Dialogue: 0,0:00:44.52,0:00:45.02,Default,,0,0,0,,{\an5}EXPLAIN WHAT
+Dialogue: 0,0:00:45.02,0:00:46.14,Default,,0,0,0,,{\an5}THAT MEANT. WHAT
+Dialogue: 0,0:00:46.14,0:00:46.65,Default,,0,0,0,,{\an5}MADE IT WORSE
+Dialogue: 0,0:00:46.65,0:00:47.29,Default,,0,0,0,,{\an5}WAS SEEING THAT,
+Dialogue: 0,0:00:47.39,0:00:47.89,Default,,0,0,0,,{\an5}DESPITE
+Dialogue: 0,0:00:47.89,0:00:48.61,Default,,0,0,0,,{\an5}THESE SACRIFICES,
+Dialogue: 0,0:00:49.14,0:00:49.67,Default,,0,0,0,,{\an5}LENA STILL
+Dialogue: 0,0:00:49.67,0:00:50.21,Default,,0,0,0,,{\an5}FOUND MONEY
+Dialogue: 0,0:00:50.21,0:00:51.11,Default,,0,0,0,,{\an5}FOR REGULAR PERSONAL
+Dialogue: 0,0:00:51.11,0:00:51.61,Default,,0,0,0,,{\an5}SPLURGES.
+Dialogue: 0,0:00:51.84,0:00:52.52,Default,,0,0,0,,{\an5}WHICH MADE
+Dialogue: 0,0:00:52.52,0:00:53.06,Default,,0,0,0,,{\an5}THE EXPLANATIONS
+Dialogue: 0,0:00:53.06,0:00:53.75,Default,,0,0,0,,{\an5}FEEL HOLLOW.
+Dialogue: 0,0:00:54.07,0:00:54.75,Default,,0,0,0,,{\an5}AS CHRISTMAS
+Dialogue: 0,0:00:54.75,0:00:55.78,Default,,0,0,0,,{\an5}APPROACHED, LENA
+Dialogue: 0,0:00:55.78,0:00:56.28,Default,,0,0,0,,{\an5}ASKED IF
+Dialogue: 0,0:00:56.28,0:00:56.96,Default,,0,0,0,,{\an5}I COULD BUY THE KIDS
+Dialogue: 0,0:00:56.96,0:00:57.46,Default,,0,0,0,,{\an5}TWO TABLETS.
+Dialogue: 0,0:00:57.74,0:00:58.43,Default,,0,0,0,,{\an5}THEY WEREN'T
+Dialogue: 0,0:00:58.43,0:00:59.00,Default,,0,0,0,,{\an5}CHEAP, AND
+Dialogue: 0,0:00:59.00,0:00:59.57,Default,,0,0,0,,{\an5}THE MOMENT SHE
+Dialogue: 0,0:00:59.57,0:01:00.35,Default,,0,0,0,,{\an5}ASKED, I
+Dialogue: 0,0:01:00.35,0:01:01.00,Default,,0,0,0,,{\an5}FELT A KNOT IN
+Dialogue: 0,0:01:01.00,0:01:01.61,Default,,0,0,0,,{\an5}MY CHEST I
+Dialogue: 0,0:01:01.61,0:01:02.14,Default,,0,0,0,,{\an5}IMAGINED THE
+Dialogue: 0,0:01:02.14,0:01:02.85,Default,,0,0,0,,{\an5}KIDS TEARING OPEN
+Dialogue: 0,0:01:02.85,0:01:03.57,Default,,0,0,0,,{\an5}THE WRAPPING PAPER,
+Dialogue: 0,0:01:03.78,0:01:04.37,Default,,0,0,0,,{\an5}THEIR
+Dialogue: 0,0:01:04.37,0:01:05.06,Default,,0,0,0,,{\an5}EXCITEMENT LIGHTING
+Dialogue: 0,0:01:05.06,0:01:05.56,Default,,0,0,0,,{\an5}UP THE ROOM,
+Dialogue: 0,0:01:05.76,0:01:06.34,Default,,0,0,0,,{\an5}ONLY FOR
+Dialogue: 0,0:01:06.34,0:01:06.95,Default,,0,0,0,,{\an5}THOSE TABLETS
+Dialogue: 0,0:01:06.95,0:01:07.79,Default,,0,0,0,,{\an5}TO QUIETLY VANISH
+Dialogue: 0,0:01:07.79,0:01:08.35,Default,,0,0,0,,{\an5}A MONTH LATER
+Dialogue: 0,0:01:08.35,0:01:09.00,Default,,0,0,0,,{\an5}UNDER THE EXCUSE
+Dialogue: 0,0:01:09.00,0:01:09.57,Default,,0,0,0,,{\an5}OF DISCIPLINE,
+Dialogue: 0,0:01:09.81,0:01:11.00,Default,,0,0,0,,{\an5}OR NECESSITY,
+Dialogue: 0,0:01:11.37,0:01:12.00,Default,,0,0,0,,{\an5}I DIDN'T WANT
+Dialogue: 0,0:01:12.00,0:01:12.65,Default,,0,0,0,,{\an5}TO DISAPPOINT THE
+Dialogue: 0,0:01:12.65,0:01:13.50,Default,,0,0,0,,{\an5}KIDS, BUT
+Dialogue: 0,0:01:13.50,0:01:14.15,Default,,0,0,0,,{\an5}I ALSO COULDN'T
+Dialogue: 0,0:01:14.15,0:01:14.81,Default,,0,0,0,,{\an5}STOMACH THE IDEA
+Dialogue: 0,0:01:14.81,0:01:15.42,Default,,0,0,0,,{\an5}OF POURING THAT
+Dialogue: 0,0:01:15.42,0:01:16.06,Default,,0,0,0,,{\an5}MUCH MONEY INTO
+Dialogue: 0,0:01:16.06,0:01:16.71,Default,,0,0,0,,{\an5}SOMETHING I BELIEVED
+Dialogue: 0,0:01:16.71,0:01:17.23,Default,,0,0,0,,{\an5}WOULDN'T
+Dialogue: 0,0:01:17.23,0:01:17.92,Default,,0,0,0,,{\an5}STAY
+Dialogue: 0,0:01:17.92,0:01:18.76,Default,,0,0,0,,{\an5}WITH THEM, SO
+Dialogue: 0,0:01:18.76,0:01:19.43,Default,,0,0,0,,{\an5}I MADE A DECISION
+Dialogue: 0,0:01:19.43,0:01:20.07,Default,,0,0,0,,{\an5}THAT I KNEW MIGHT
+Dialogue: 0,0:01:20.07,0:01:20.76,Default,,0,0,0,,{\an5}CAUSE CONFLICT,
+Dialogue: 0,0:01:21.00,0:01:21.62,Default,,0,0,0,,{\an5}I BOUGHT THE
+Dialogue: 0,0:01:21.62,0:01:22.56,Default,,0,0,0,,{\an5}TABLETS, SET
+Dialogue: 0,0:01:22.56,0:01:23.18,Default,,0,0,0,,{\an5}THEM UP MYSELF,
+Dialogue: 0,0:01:23.50,0:01:24.15,Default,,0,0,0,,{\an5}AND LOCKED THE
+Dialogue: 0,0:01:24.15,0:01:24.70,Default,,0,0,0,,{\an5}SYSTEM SETTINGS
+Dialogue: 0,0:01:24.70,0:01:25.45,Default,,0,0,0,,{\an5}WITH A PASSCODE
+Dialogue: 0,0:01:25.45,0:01:26.00,Default,,0,0,0,,{\an5}ONLY I KNOW,
+Dialogue: 0,0:01:26.00,0:01:26.70,Default,,0,0,0,,{\an5}THE KIDS
+Dialogue: 0,0:01:26.70,0:01:27.21,Default,,0,0,0,,{\an5}CAN USE THEM
+Dialogue: 0,0:01:27.21,0:01:28.09,Default,,0,0,0,,{\an5}FREELY BUT
+Dialogue: 0,0:01:28.09,0:01:28.90,Default,,0,0,0,,{\an5}THEY CAN'T BE WIPED
+Dialogue: 0,0:01:28.90,0:01:29.51,Default,,0,0,0,,{\an5}RESET
+Dialogue: 0,0:01:29.51,0:01:30.04,Default,,0,0,0,,{\an5}OR
+Dialogue: 0,0:01:30.04,0:01:30.81,Default,,0,0,0,,{\an5}SOLD WHEN
+Dialogue: 0,0:01:30.81,0:01:31.43,Default,,0,0,0,,{\an5}I CALLED LENA
+Dialogue: 0,0:01:31.43,0:01:32.04,Default,,0,0,0,,{\an5}TO TELL HER THE
+Dialogue: 0,0:01:32.04,0:01:32.59,Default,,0,0,0,,{\an5}GIFTS WERE BOUGHT
+Dialogue: 0,0:01:32.59,0:01:33.23,Default,,0,0,0,,{\an5}AND EXPLAIN THE
+Dialogue: 0,0:01:33.23,0:01:34.35,Default,,0,0,0,,{\an5}PASSCODE THE
+Dialogue: 0,0:01:34.35,0:01:35.40,Default,,0,0,0,,{\an5}CONVERSATION EXPLODED
+Dialogue: 0,0:01:35.40,0:01:36.20,Default,,0,0,0,,{\an5}ALMOST INSTANTLY
+Dialogue: 0,0:01:36.20,0:01:36.87,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:36.87,0:01:37.37,Default,,0,0,0,,{\an5}ACCUSED ME
+Dialogue: 0,0:01:37.37,0:01:37.98,Default,,0,0,0,,{\an5}OF SPYING ON
+Dialogue: 0,0:01:37.98,0:01:38.62,Default,,0,0,0,,{\an5}HER OF
+Dialogue: 0,0:01:38.62,0:01:39.23,Default,,0,0,0,,{\an5}TREATING HER LIKE
+Dialogue: 0,0:01:39.23,0:01:40.09,Default,,0,0,0,,{\an5}A THIEF OF
+Dialogue: 0,0:01:40.09,0:01:41.23,Default,,0,0,0,,{\an5}DELIBERATELY HUMILIATING
+Dialogue: 0,0:01:41.23,0:01:41.78,Default,,0,0,0,,{\an5}HER RIGHT BEFORE
+Dialogue: 0,0:01:41.78,0:01:42.34,Default,,0,0,0,,{\an5}CHRISTMAS
+Dialogue: 0,0:01:42.34,0:01:43.00,Default,,0,0,0,,{\an5}WITHIN
+Dialogue: 0,0:01:43.00,0:01:43.87,Default,,0,0,0,,{\an5}HOURS MY
+Dialogue: 0,0:01:43.87,0:01:44.50,Default,,0,0,0,,{\an5}PHONE WAS BLOWING
+Dialogue: 0,0:01:44.50,0:01:45.18,Default,,0,0,0,,{\an5}UP WITH MESSAGES
+Dialogue: 0,0:01:45.18,0:01:45.71,Default,,0,0,0,,{\an5}SAYING I'D
+Dialogue: 0,0:01:45.71,0:01:46.29,Default,,0,0,0,,{\an5}CROSSED A LINE
+Dialogue: 0,0:01:46.88,0:01:47.40,Default,,0,0,0,,{\an5}UNDERMINED
+Dialogue: 0,0:01:47.40,0:01:47.90,Default,,0,0,0,,{\an5}HER AUTHORITY
+Dialogue: 0,0:01:47.90,0:01:48.40,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:48.40,0:01:48.98,Default,,0,0,0,,{\an5}POISONED THE
+Dialogue: 0,0:01:48.98,0:01:49.54,Default,,0,0,0,,{\an5}HOLIDAY SPIRIT
+Dialogue: 0,0:01:49.54,0:01:50.23,Default,,0,0,0,,{\an5}NOW
+Dialogue: 0,0:01:50.23,0:01:50.90,Default,,0,0,0,,{\an5}CHRISTMAS IS
+Dialogue: 0,0:01:50.90,0:01:51.95,Default,,0,0,0,,{\an5}DAYS AWAY TENSIONS
+Dialogue: 0,0:01:51.95,0:01:52.59,Default,,0,0,0,,{\an5}ARE SKY HIGH,
+Dialogue: 0,0:01:52.73,0:01:53.29,Default,,0,0,0,,{\an5}AND I'M
+Dialogue: 0,0:01:53.29,0:01:53.79,Default,,0,0,0,,{\an5}LEFT WONDERING
+Dialogue: 0,0:01:53.79,0:01:54.35,Default,,0,0,0,,{\an5}IF PROTECTING
+Dialogue: 0,0:01:54.35,0:01:55.09,Default,,0,0,0,,{\an5}THE KIDS' GIFTS
+Dialogue: 0,0:01:55.09,0:01:55.68,Default,,0,0,0,,{\an5}WAS WORTH TURNING
+Dialogue: 0,0:01:55.68,0:01:56.37,Default,,0,0,0,,{\an5}A FRAGILE FAMILY
+Dialogue: 0,0:01:56.37,0:01:57.84,Default,,0,0,0,,{\an5}SITUATION INTO
+Dialogue: 0,0:01:57.84,0:01:58.56,Default,,0,0,0,,{\an5}AN OUTRIGHT WAR.

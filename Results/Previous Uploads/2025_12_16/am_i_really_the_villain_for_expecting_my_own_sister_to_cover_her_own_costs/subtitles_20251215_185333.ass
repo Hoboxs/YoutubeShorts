@@ -1,0 +1,133 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.06,0:00:04.54,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:04.54,0:00:04.94,Default,,0,0,0,,{\an5}WORK FULL
+Dialogue: 0,0:00:04.94,0:00:05.40,Default,,0,0,0,,{\an5}-TIME IN AN
+Dialogue: 0,0:00:05.40,0:00:05.90,Default,,0,0,0,,{\an5}OFFICE JOB
+Dialogue: 0,0:00:05.90,0:00:06.32,Default,,0,0,0,,{\an5}AND RECENTLY
+Dialogue: 0,0:00:06.32,0:00:06.92,Default,,0,0,0,,{\an5}FOUND MYSELF
+Dialogue: 0,0:00:06.92,0:00:07.33,Default,,0,0,0,,{\an5}DRIVING
+Dialogue: 0,0:00:07.33,0:00:08.00,Default,,0,0,0,,{\an5}MY YOUNGER COUSIN
+Dialogue: 0,0:00:08.00,0:00:09.06,Default,,0,0,0,,{\an5}MAYA, HER
+Dialogue: 0,0:00:09.06,0:00:09.66,Default,,0,0,0,,{\an5}TEENAGE SON,
+Dialogue: 0,0:00:09.90,0:00:10.50,Default,,0,0,0,,{\an5}AND A COUPLE
+Dialogue: 0,0:00:10.50,0:00:11.03,Default,,0,0,0,,{\an5}OF HIS TEAMMATES
+Dialogue: 0,0:00:11.03,0:00:11.67,Default,,0,0,0,,{\an5}ACROSS STATE
+Dialogue: 0,0:00:11.67,0:00:12.14,Default,,0,0,0,,{\an5}LINES TO
+Dialogue: 0,0:00:12.14,0:00:12.69,Default,,0,0,0,,{\an5}ATTEND A WEEKEND
+Dialogue: 0,0:00:12.69,0:00:12.98,Default,,0,0,0,,{\an5}SOCCER
+Dialogue: 0,0:00:12.98,0:00:13.41,Default,,0,0,0,,{\an5}TOURNAMENT.
+Dialogue: 0,0:00:13.69,0:00:14.17,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:14.17,0:00:14.92,Default,,0,0,0,,{\an5}WHILE SHE GENEROUSLY
+Dialogue: 0,0:00:14.92,0:00:15.46,Default,,0,0,0,,{\an5}PAID FOR
+Dialogue: 0,0:00:15.46,0:00:15.88,Default,,0,0,0,,{\an5}MEALS FOR
+Dialogue: 0,0:00:15.88,0:00:16.35,Default,,0,0,0,,{\an5}THE OTHER KIDS
+Dialogue: 0,0:00:16.35,0:00:16.85,Default,,0,0,0,,{\an5}EVEN AFTER
+Dialogue: 0,0:00:16.85,0:00:17.35,Default,,0,0,0,,{\an5}THEIR PARENTS
+Dialogue: 0,0:00:17.35,0:00:17.89,Default,,0,0,0,,{\an5}OFFERED TO
+Dialogue: 0,0:00:17.89,0:00:18.71,Default,,0,0,0,,{\an5}REIMBURSE
+Dialogue: 0,0:00:18.71,0:00:19.16,Default,,0,0,0,,{\an5}HER,
+Dialogue: 0,0:00:19.37,0:00:19.89,Default,,0,0,0,,{\an5}SHE ACTED
+Dialogue: 0,0:00:19.89,0:00:20.48,Default,,0,0,0,,{\an5}OFFENDED WHEN
+Dialogue: 0,0:00:20.48,0:00:20.92,Default,,0,0,0,,{\an5}I ASKED HER
+Dialogue: 0,0:00:20.92,0:00:21.37,Default,,0,0,0,,{\an5}TO CHIP IN
+Dialogue: 0,0:00:21.37,0:00:21.78,Default,,0,0,0,,{\an5}FOR FUEL
+Dialogue: 0,0:00:21.78,0:00:22.35,Default,,0,0,0,,{\an5}DESPITE THE
+Dialogue: 0,0:00:22.35,0:00:22.83,Default,,0,0,0,,{\an5}FACT THAT HER
+Dialogue: 0,0:00:22.83,0:00:23.35,Default,,0,0,0,,{\an5}OWN CAR IS
+Dialogue: 0,0:00:23.35,0:00:24.50,Default,,0,0,0,,{\an5}BARELY FUNCTIONAL
+Dialogue: 0,0:00:24.50,0:00:25.17,Default,,0,0,0,,{\an5}AND CAN'T
+Dialogue: 0,0:00:25.17,0:00:25.85,Default,,0,0,0,,{\an5}HANDLE LONG TRIPS,
+Dialogue: 0,0:00:26.07,0:00:26.66,Default,,0,0,0,,{\an5}SOMETHING
+Dialogue: 0,0:00:26.66,0:00:27.28,Default,,0,0,0,,{\an5}I BRUSHED OFF
+Dialogue: 0,0:00:27.28,0:00:27.89,Default,,0,0,0,,{\an5}UNTIL A SECOND
+Dialogue: 0,0:00:27.89,0:00:28.42,Default,,0,0,0,,{\an5}INCIDENT A
+Dialogue: 0,0:00:28.42,0:00:29.00,Default,,0,0,0,,{\an5}FEW WEEKS LATER
+Dialogue: 0,0:00:29.00,0:00:29.55,Default,,0,0,0,,{\an5}WHEN I DROVE
+Dialogue: 0,0:00:29.55,0:00:30.10,Default,,0,0,0,,{\an5}HER AND HER SON
+Dialogue: 0,0:00:30.10,0:00:31.21,Default,,0,0,0,,{\an5}TO A SPECIALIST
+Dialogue: 0,0:00:31.21,0:00:31.73,Default,,0,0,0,,{\an5}APPOINTMENT
+Dialogue: 0,0:00:31.73,0:00:32.15,Default,,0,0,0,,{\an5}SEVERAL
+Dialogue: 0,0:00:32.15,0:00:32.75,Default,,0,0,0,,{\an5}HOURS AWAY
+Dialogue: 0,0:00:32.75,0:00:33.39,Default,,0,0,0,,{\an5}KNOWING
+Dialogue: 0,0:00:33.39,0:00:34.03,Default,,0,0,0,,{\an5}AHEAD OF TIME
+Dialogue: 0,0:00:34.03,0:00:34.47,Default,,0,0,0,,{\an5}THAT PARKING
+Dialogue: 0,0:00:34.47,0:00:34.96,Default,,0,0,0,,{\an5}AT THE CLINIC
+Dialogue: 0,0:00:34.96,0:00:35.53,Default,,0,0,0,,{\an5}WASN'T FREE
+Dialogue: 0,0:00:35.53,0:00:36.10,Default,,0,0,0,,{\an5}ONLY
+Dialogue: 0,0:00:36.10,0:00:36.57,Default,,0,0,0,,{\an5}FOR HER TO
+Dialogue: 0,0:00:36.57,0:00:37.28,Default,,0,0,0,,{\an5}CASUALLY ANNOUNCE
+Dialogue: 0,0:00:37.28,0:00:37.79,Default,,0,0,0,,{\an5}AS I PULLED
+Dialogue: 0,0:00:37.79,0:00:38.39,Default,,0,0,0,,{\an5}INTO THE GARAGE
+Dialogue: 0,0:00:38.39,0:00:38.84,Default,,0,0,0,,{\an5}THAT SHE
+Dialogue: 0,0:00:38.84,0:00:39.39,Default,,0,0,0,,{\an5}HADN'T BROUGHT ANY
+Dialogue: 0,0:00:39.39,0:00:39.84,Default,,0,0,0,,{\an5}MONEY YET
+Dialogue: 0,0:00:39.84,0:00:40.46,Default,,0,0,0,,{\an5}ALL
+Dialogue: 0,0:00:40.46,0:00:40.89,Default,,0,0,0,,{\an5}AND EXPECTED
+Dialogue: 0,0:00:40.89,0:00:41.46,Default,,0,0,0,,{\an5}ME TO COVER
+Dialogue: 0,0:00:41.46,0:00:42.11,Default,,0,0,0,,{\an5}IT WHICH
+Dialogue: 0,0:00:42.11,0:00:42.64,Default,,0,0,0,,{\an5}TURNED INTO
+Dialogue: 0,0:00:42.64,0:00:43.21,Default,,0,0,0,,{\an5}A TENSE EXCHANGE
+Dialogue: 0,0:00:43.21,0:00:43.65,Default,,0,0,0,,{\an5}WHERE
+Dialogue: 0,0:00:43.65,0:00:44.20,Default,,0,0,0,,{\an5}I POINTED OUT
+Dialogue: 0,0:00:44.20,0:00:44.61,Default,,0,0,0,,{\an5}HOW UNREASONABLE
+Dialogue: 0,0:00:44.61,0:00:45.03,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:00:45.03,0:00:45.56,Default,,0,0,0,,{\an5}WAS TO SHOW UP
+Dialogue: 0,0:00:45.56,0:00:46.71,Default,,0,0,0,,{\an5}TO AN APPOINTMENT
+Dialogue: 0,0:00:46.71,0:00:47.17,Default,,0,0,0,,{\an5}COMPLETELY
+Dialogue: 0,0:00:47.17,0:00:47.88,Default,,0,0,0,,{\an5}UNPREPARED
+Dialogue: 0,0:00:47.88,0:00:48.34,Default,,0,0,0,,{\an5}AND INSISTED
+Dialogue: 0,0:00:48.34,0:00:48.88,Default,,0,0,0,,{\an5}SHE FIGURE
+Dialogue: 0,0:00:48.88,0:00:49.39,Default,,0,0,0,,{\an5}IT OUT HERSELF
+Dialogue: 0,0:00:49.39,0:00:50.21,Default,,0,0,0,,{\an5}SOMETHING
+Dialogue: 0,0:00:50.21,0:00:50.74,Default,,0,0,0,,{\an5}SHE EVENTUALLY
+Dialogue: 0,0:00:50.74,0:00:51.17,Default,,0,0,0,,{\an5}DID
+Dialogue: 0,0:00:51.17,0:00:51.71,Default,,0,0,0,,{\an5}WHILE MAKING IT
+Dialogue: 0,0:00:51.71,0:00:52.21,Default,,0,0,0,,{\an5}VERY CLEAR
+Dialogue: 0,0:00:52.21,0:00:52.74,Default,,0,0,0,,{\an5}HOW STRESSFUL
+Dialogue: 0,0:00:52.74,0:00:53.24,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:53.24,0:00:54.39,Default,,0,0,0,,{\an5}WAS BEING AND
+Dialogue: 0,0:00:54.39,0:00:54.84,Default,,0,0,0,,{\an5}THIS PATTERN
+Dialogue: 0,0:00:54.84,0:00:55.32,Default,,0,0,0,,{\an5}HAS STARTED
+Dialogue: 0,0:00:55.32,0:00:56.00,Default,,0,0,0,,{\an5}TO FEEL DELIBERATE
+Dialogue: 0,0:00:56.00,0:00:56.47,Default,,0,0,0,,{\an5}GIVEN THAT
+Dialogue: 0,0:00:56.47,0:00:56.89,Default,,0,0,0,,{\an5}SHE DOESN'T
+Dialogue: 0,0:00:56.89,0:00:57.52,Default,,0,0,0,,{\an5}WORK BY CHOICE
+Dialogue: 0,0:00:57.52,0:00:58.11,Default,,0,0,0,,{\an5}DESPITE BEING
+Dialogue: 0,0:00:58.11,0:00:58.92,Default,,0,0,0,,{\an5}FULLY
+Dialogue: 0,0:00:58.92,0:00:59.56,Default,,0,0,0,,{\an5}CAPABLE OF
+Dialogue: 0,0:00:59.56,0:01:00.11,Default,,0,0,0,,{\an5}TAKING A PART
+Dialogue: 0,0:01:00.11,0:01:00.57,Default,,0,0,0,,{\an5}-TIME RETAIL
+Dialogue: 0,0:01:00.57,0:01:01.06,Default,,0,0,0,,{\an5}JOB THAT
+Dialogue: 0,0:01:01.06,0:01:01.52,Default,,0,0,0,,{\an5}WOULDN'T AFFECT
+Dialogue: 0,0:01:01.52,0:01:01.96,Default,,0,0,0,,{\an5}HER GOVERNMENT
+Dialogue: 0,0:01:01.96,0:01:03.42,Default,,0,0,0,,{\an5}ASSISTANCE LEADING
+Dialogue: 0,0:01:03.42,0:01:04.00,Default,,0,0,0,,{\an5}ME TO WONDER
+Dialogue: 0,0:01:04.00,0:01:04.59,Default,,0,0,0,,{\an5}IF MY STABLE
+Dialogue: 0,0:01:04.59,0:01:05.23,Default,,0,0,0,,{\an5}INCOME AND
+Dialogue: 0,0:01:05.23,0:01:05.81,Default,,0,0,0,,{\an5}LACK OF CHILDREN
+Dialogue: 0,0:01:05.81,0:01:06.37,Default,,0,0,0,,{\an5}HAS QUIETLY
+Dialogue: 0,0:01:06.37,0:01:06.84,Default,,0,0,0,,{\an5}TURNED ME
+Dialogue: 0,0:01:06.84,0:01:07.98,Default,,0,0,0,,{\an5}INTO HER DEFAULT
+Dialogue: 0,0:01:07.98,0:01:08.40,Default,,0,0,0,,{\an5}FINANCIAL
+Dialogue: 0,0:01:08.40,0:01:08.92,Default,,0,0,0,,{\an5}SAFETY
+Dialogue: 0,0:01:08.92,0:01:09.70,Default,,0,0,0,,{\an5}NET ESPECIALLY
+Dialogue: 0,0:01:09.70,0:01:10.12,Default,,0,0,0,,{\an5}AFTER
+Dialogue: 0,0:01:10.12,0:01:10.57,Default,,0,0,0,,{\an5}YEARS OF
+Dialogue: 0,0:01:10.57,0:01:11.23,Default,,0,0,0,,{\an5}COVERING EMERGENCIES
+Dialogue: 0,0:01:11.23,0:01:12.14,Default,,0,0,0,,{\an5}REPAIRS
+Dialogue: 0,0:01:12.14,0:01:12.85,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:12.85,0:01:13.48,Default,,0,0,0,,{\an5}TRAVEL COSTS
+Dialogue: 0,0:01:13.48,0:01:14.12,Default,,0,0,0,,{\an5}THAT NEVER SEEM
+Dialogue: 0,0:01:14.12,0:01:14.45,Default,,0,0,0,,{\an5}TO END

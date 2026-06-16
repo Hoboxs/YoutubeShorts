@@ -1,0 +1,182 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.92,0:00:04.62,Default,,0,0,0,,{\an5}I LIVE
+Dialogue: 0,0:00:04.62,0:00:05.24,Default,,0,0,0,,{\an5}WITH MY PARTNER
+Dialogue: 0,0:00:05.24,0:00:05.98,Default,,0,0,0,,{\an5}AND OUR TWO KIDS,
+Dialogue: 0,0:00:06.20,0:00:07.36,Default,,0,0,0,,{\an5}AN ELEMENTARY-AGED
+Dialogue: 0,0:00:07.36,0:00:07.86,Default,,0,0,0,,{\an5}CHILD AND
+Dialogue: 0,0:00:07.86,0:00:08.83,Default,,0,0,0,,{\an5}A TODDLER, AND
+Dialogue: 0,0:00:08.83,0:00:09.35,Default,,0,0,0,,{\an5}LATELY EVERY
+Dialogue: 0,0:00:09.35,0:00:09.93,Default,,0,0,0,,{\an5}EVENING FEELS
+Dialogue: 0,0:00:09.93,0:00:10.53,Default,,0,0,0,,{\an5}LIKE AN ENDURANCE
+Dialogue: 0,0:00:10.53,0:00:11.08,Default,,0,0,0,,{\an5}TEST I'M
+Dialogue: 0,0:00:11.08,0:00:11.66,Default,,0,0,0,,{\an5}FAILING IN SLOW
+Dialogue: 0,0:00:11.66,0:00:11.96,Default,,0,0,0,,{\an5}MOTION.
+Dialogue: 0,0:00:12.30,0:00:12.98,Default,,0,0,0,,{\an5}I WORK
+Dialogue: 0,0:00:12.98,0:00:13.61,Default,,0,0,0,,{\an5}FULL-TIME WITH
+Dialogue: 0,0:00:13.61,0:00:14.14,Default,,0,0,0,,{\an5}BRUTALLY EARLY
+Dialogue: 0,0:00:14.14,0:00:15.24,Default,,0,0,0,,{\an5}MORNINGS, WHILE
+Dialogue: 0,0:00:15.24,0:00:15.74,Default,,0,0,0,,{\an5}MY PARTNER
+Dialogue: 0,0:00:15.74,0:00:16.37,Default,,0,0,0,,{\an5}IS ENROLLED IN
+Dialogue: 0,0:00:16.37,0:00:17.03,Default,,0,0,0,,{\an5}AN INTENSE ACADEMIC
+Dialogue: 0,0:00:17.03,0:00:17.55,Default,,0,0,0,,{\an5}PROGRAM
+Dialogue: 0,0:00:17.55,0:00:18.12,Default,,0,0,0,,{\an5}THAT CONSUMES
+Dialogue: 0,0:00:18.12,0:00:18.62,Default,,0,0,0,,{\an5}MOST OF
+Dialogue: 0,0:00:18.62,0:00:19.98,Default,,0,0,0,,{\an5}HER TIME AND ENERGY.
+Dialogue: 0,0:00:20.10,0:00:20.78,Default,,0,0,0,,{\an5}THE MOMENT
+Dialogue: 0,0:00:20.78,0:00:21.35,Default,,0,0,0,,{\an5}MY WORKDAY
+Dialogue: 0,0:00:21.35,0:00:22.19,Default,,0,0,0,,{\an5}ENDS, I
+Dialogue: 0,0:00:22.19,0:00:22.82,Default,,0,0,0,,{\an5}BECOME THE DEFAULT
+Dialogue: 0,0:00:22.82,0:00:23.46,Default,,0,0,0,,{\an5}PARENT ON
+Dialogue: 0,0:00:23.46,0:00:24.35,Default,,0,0,0,,{\an5}DUTY, RUSHING
+Dialogue: 0,0:00:24.35,0:00:24.87,Default,,0,0,0,,{\an5}TO PICK UP
+Dialogue: 0,0:00:24.87,0:00:26.00,Default,,0,0,0,,{\an5}THE KIDS, JUGGLING
+Dialogue: 0,0:00:26.00,0:00:26.96,Default,,0,0,0,,{\an5}DINNER, HOMEWORK,
+Dialogue: 0,0:00:26.96,0:00:28.03,Default,,0,0,0,,{\an5}HOMEWORK TANTRUMS
+Dialogue: 0,0:00:28.03,0:00:28.78,Default,,0,0,0,,{\an5}BATHS
+Dialogue: 0,0:00:28.78,0:00:29.92,Default,,0,0,0,,{\an5}PAJAMAS AND
+Dialogue: 0,0:00:29.92,0:00:30.82,Default,,0,0,0,,{\an5}BEDTIME ALL
+Dialogue: 0,0:00:30.82,0:00:31.71,Default,,0,0,0,,{\an5}WHILE SHE RETREATS
+Dialogue: 0,0:00:31.71,0:00:32.29,Default,,0,0,0,,{\an5}UPSTAIRS TO
+Dialogue: 0,0:00:32.29,0:00:32.82,Default,,0,0,0,,{\an5}STUDY BEHIND
+Dialogue: 0,0:00:32.82,0:00:33.42,Default,,0,0,0,,{\an5}A CLOSED DOOR
+Dialogue: 0,0:00:33.42,0:00:33.93,Default,,0,0,0,,{\an5}ON
+Dialogue: 0,0:00:33.93,0:00:34.57,Default,,0,0,0,,{\an5}PAPER IT SOUNDS
+Dialogue: 0,0:00:34.57,0:00:35.61,Default,,0,0,0,,{\an5}MANAGEABLE BUT
+Dialogue: 0,0:00:35.61,0:00:36.32,Default,,0,0,0,,{\an5}THE REALITY IS
+Dialogue: 0,0:00:36.32,0:00:36.84,Default,,0,0,0,,{\an5}PURE CHAOS
+Dialogue: 0,0:00:36.84,0:00:37.34,Default,,0,0,0,,{\an5}BECAUSE OF
+Dialogue: 0,0:00:37.34,0:00:37.88,Default,,0,0,0,,{\an5}OUR YOUNGEST THE
+Dialogue: 0,0:00:37.88,0:00:38.50,Default,,0,0,0,,{\an5}SECOND OUR TODDLER
+Dialogue: 0,0:00:38.50,0:00:39.02,Default,,0,0,0,,{\an5}REALIZES
+Dialogue: 0,0:00:39.02,0:00:40.34,Default,,0,0,0,,{\an5}HER OTHER PARENT
+Dialogue: 0,0:00:40.34,0:00:40.92,Default,,0,0,0,,{\an5}IS HOME BUT
+Dialogue: 0,0:00:40.92,0:00:41.53,Default,,0,0,0,,{\an5}INACCESSIBLE
+Dialogue: 0,0:00:41.53,0:00:42.07,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:42.07,0:00:43.24,Default,,0,0,0,,{\an5}COMPLETELY UNRAVELS
+Dialogue: 0,0:00:43.24,0:00:43.93,Default,,0,0,0,,{\an5}SHE SCREAMS
+Dialogue: 0,0:00:43.93,0:00:44.84,Default,,0,0,0,,{\an5}FOR HER CRIES
+Dialogue: 0,0:00:44.84,0:00:45.42,Default,,0,0,0,,{\an5}UNTIL SHE'S
+Dialogue: 0,0:00:45.42,0:00:46.43,Default,,0,0,0,,{\an5}HOARSE INVENTS
+Dialogue: 0,0:00:46.43,0:00:47.14,Default,,0,0,0,,{\an5}EXCUSES LIKE
+Dialogue: 0,0:00:47.14,0:00:47.74,Default,,0,0,0,,{\an5}SUDDENLY NEEDING
+Dialogue: 0,0:00:47.74,0:00:48.60,Default,,0,0,0,,{\an5}THE BATHROOM UPSTAIRS
+Dialogue: 0,0:00:48.60,0:00:49.15,Default,,0,0,0,,{\an5}OR A TOY
+Dialogue: 0,0:00:49.15,0:00:50.00,Default,,0,0,0,,{\an5}THAT ONLY EXISTS
+Dialogue: 0,0:00:50.00,0:00:51.15,Default,,0,0,0,,{\an5}IN THE BEDROOM
+Dialogue: 0,0:00:51.15,0:00:51.67,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:51.67,0:00:52.28,Default,,0,0,0,,{\an5}ONCE SHE GETS
+Dialogue: 0,0:00:52.28,0:00:52.88,Default,,0,0,0,,{\an5}NEAR THAT DOOR
+Dialogue: 0,0:00:52.88,0:00:53.38,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:53.38,0:00:53.92,Default,,0,0,0,,{\an5}POUNCE ON
+Dialogue: 0,0:00:53.92,0:00:54.52,Default,,0,0,0,,{\an5}IT LIKE THE WORLD
+Dialogue: 0,0:00:54.52,0:00:55.46,Default,,0,0,0,,{\an5}IS ENDING. I'M
+Dialogue: 0,0:00:55.46,0:00:56.17,Default,,0,0,0,,{\an5}CONSTANTLY DRAGGING
+Dialogue: 0,0:00:56.17,0:00:57.24,Default,,0,0,0,,{\an5}HER AWAY, TRYING
+Dialogue: 0,0:00:57.24,0:00:57.84,Default,,0,0,0,,{\an5}TO SOOTHE HER,
+Dialogue: 0,0:00:57.96,0:00:58.46,Default,,0,0,0,,{\an5}TRYING TO
+Dialogue: 0,0:00:58.46,0:00:58.96,Default,,0,0,0,,{\an5}STAY CALM,
+Dialogue: 0,0:00:59.10,0:00:59.61,Default,,0,0,0,,{\an5}AND FAILING
+Dialogue: 0,0:00:59.61,0:01:00.14,Default,,0,0,0,,{\an5}MORE OFTEN
+Dialogue: 0,0:01:00.14,0:01:00.64,Default,,0,0,0,,{\an5}THAN I WANT TO
+Dialogue: 0,0:01:00.64,0:01:00.79,Default,,0,0,0,,{\an5}ADMIT.
+Dialogue: 0,0:01:01.02,0:01:01.57,Default,,0,0,0,,{\an5}WHAT BREAKS
+Dialogue: 0,0:01:01.57,0:01:02.15,Default,,0,0,0,,{\an5}ME IS THAT WHEN
+Dialogue: 0,0:01:02.15,0:01:02.93,Default,,0,0,0,,{\an5}MY PARTNER ISN'T
+Dialogue: 0,0:01:02.93,0:01:03.46,Default,,0,0,0,,{\an5}HOME AT ALL,
+Dialogue: 0,0:01:03.56,0:01:04.09,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:01:04.09,0:01:04.78,Default,,0,0,0,,{\an5}TODDLER ACCEPTS
+Dialogue: 0,0:01:04.78,0:01:05.37,Default,,0,0,0,,{\an5}IT, SHE
+Dialogue: 0,0:01:05.37,0:01:05.87,Default,,0,0,0,,{\an5}STILL MISSES
+Dialogue: 0,0:01:05.87,0:01:06.54,Default,,0,0,0,,{\an5}HER, BUT
+Dialogue: 0,0:01:06.54,0:01:07.18,Default,,0,0,0,,{\an5}SHE COPES.
+Dialogue: 0,0:01:07.23,0:01:07.84,Default,,0,0,0,,{\an5}THE SCREAMING
+Dialogue: 0,0:01:07.84,0:01:08.15,Default,,0,0,0,,{\an5}STOPS.
+Dialogue: 0,0:01:08.48,0:01:09.09,Default,,0,0,0,,{\an5}THE EVENINGS
+Dialogue: 0,0:01:09.09,0:01:09.68,Default,,0,0,0,,{\an5}ARE HARD BUT
+Dialogue: 0,0:01:09.68,0:01:10.28,Default,,0,0,0,,{\an5}SURVIVABLE.
+Dialogue: 0,0:01:10.40,0:01:10.92,Default,,0,0,0,,{\an5}WHEN MY
+Dialogue: 0,0:01:10.92,0:01:11.42,Default,,0,0,0,,{\an5}PARTNER IS
+Dialogue: 0,0:01:11.42,0:01:12.09,Default,,0,0,0,,{\an5}PHYSICALLY PRESENT
+Dialogue: 0,0:01:12.09,0:01:12.70,Default,,0,0,0,,{\an5}YET EMOTIONALLY
+Dialogue: 0,0:01:12.70,0:01:13.37,Default,,0,0,0,,{\an5}UNAVAILABLE,
+Dialogue: 0,0:01:13.56,0:01:14.56,Default,,0,0,0,,{\an5}EVERYTHING EXPLODES.
+Dialogue: 0,0:01:14.84,0:01:15.45,Default,,0,0,0,,{\an5}THE STRESS
+Dialogue: 0,0:01:15.45,0:01:16.07,Default,,0,0,0,,{\an5}BUILDS UNTIL I
+Dialogue: 0,0:01:16.07,0:01:16.57,Default,,0,0,0,,{\an5}FEEL LIKE I'M
+Dialogue: 0,0:01:16.57,0:01:17.15,Default,,0,0,0,,{\an5}VIBRATING WITH
+Dialogue: 0,0:01:17.15,0:01:17.29,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:01:17.42,0:01:17.98,Default,,0,0,0,,{\an5}WHAT MAKES
+Dialogue: 0,0:01:17.98,0:01:18.64,Default,,0,0,0,,{\an5}THIS FEEL EVEN
+Dialogue: 0,0:01:18.64,0:01:19.14,Default,,0,0,0,,{\an5}MORE UNFAIR
+Dialogue: 0,0:01:19.14,0:01:19.92,Default,,0,0,0,,{\an5}IS THAT MY PARTNER
+Dialogue: 0,0:01:19.92,0:01:21.18,Default,,0,0,0,,{\an5}HAS OPTIONS. SHE
+Dialogue: 0,0:01:21.18,0:01:21.76,Default,,0,0,0,,{\an5}COULD STUDY
+Dialogue: 0,0:01:21.76,0:01:22.37,Default,,0,0,0,,{\an5}NEARBY WITH
+Dialogue: 0,0:01:22.37,0:01:23.21,Default,,0,0,0,,{\an5}FAMILY OR
+Dialogue: 0,0:01:23.21,0:01:24.00,Default,,0,0,0,,{\an5}STAY ON CAMPUS
+Dialogue: 0,0:01:24.00,0:01:24.73,Default,,0,0,0,,{\an5}OR ANYWHERE
+Dialogue: 0,0:01:24.73,0:01:25.23,Default,,0,0,0,,{\an5}ELSE WHERE
+Dialogue: 0,0:01:25.23,0:01:25.81,Default,,0,0,0,,{\an5}THE KIDS WOULDN'T
+Dialogue: 0,0:01:25.81,0:01:26.43,Default,,0,0,0,,{\an5}BE TORTURED BY
+Dialogue: 0,0:01:26.43,0:01:26.98,Default,,0,0,0,,{\an5}THE KNOWLEDGE THAT
+Dialogue: 0,0:01:26.98,0:01:27.70,Default,,0,0,0,,{\an5}SHE'S JUST UPSTAIRS
+Dialogue: 0,0:01:27.70,0:01:28.79,Default,,0,0,0,,{\an5}REFUSING
+Dialogue: 0,0:01:28.79,0:01:29.29,Default,,0,0,0,,{\an5}TO OPEN
+Dialogue: 0,0:01:29.29,0:01:30.18,Default,,0,0,0,,{\an5}THE DOOR BUT
+Dialogue: 0,0:01:30.18,0:01:30.85,Default,,0,0,0,,{\an5}SHE INSISTS ON
+Dialogue: 0,0:01:30.85,0:01:31.37,Default,,0,0,0,,{\an5}STUDYING AT
+Dialogue: 0,0:01:31.37,0:01:32.06,Default,,0,0,0,,{\an5}HOME EVERY NIGHT
+Dialogue: 0,0:01:32.06,0:01:32.62,Default,,0,0,0,,{\an5}LEAVING
+Dialogue: 0,0:01:32.62,0:01:33.23,Default,,0,0,0,,{\an5}ME TO MANAGE
+Dialogue: 0,0:01:33.23,0:01:34.15,Default,,0,0,0,,{\an5}THE EMOTIONAL FALLOUT
+Dialogue: 0,0:01:34.15,0:01:35.20,Default,,0,0,0,,{\an5}ALONE EVENTUALLY
+Dialogue: 0,0:01:35.20,0:01:36.07,Default,,0,0,0,,{\an5}EXHAUSTED
+Dialogue: 0,0:01:36.07,0:01:36.78,Default,,0,0,0,,{\an5}AND FRAYING
+Dialogue: 0,0:01:36.78,0:01:37.37,Default,,0,0,0,,{\an5}I TOLD
+Dialogue: 0,0:01:37.37,0:01:37.93,Default,,0,0,0,,{\an5}HER THAT IF SHE
+Dialogue: 0,0:01:37.93,0:01:38.45,Default,,0,0,0,,{\an5}PLANS TO SHUT
+Dialogue: 0,0:01:38.45,0:01:38.95,Default,,0,0,0,,{\an5}HERSELF AWAY
+Dialogue: 0,0:01:38.95,0:01:39.45,Default,,0,0,0,,{\an5}FOR HOURS
+Dialogue: 0,0:01:39.45,0:01:40.34,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:40.34,0:01:40.98,Default,,0,0,0,,{\an5}WOULD HONESTLY BE
+Dialogue: 0,0:01:40.98,0:01:41.70,Default,,0,0,0,,{\an5}BETTER FOR EVERYONE
+Dialogue: 0,0:01:41.70,0:01:42.28,Default,,0,0,0,,{\an5}IF SHE STUDIED
+Dialogue: 0,0:01:42.28,0:01:42.92,Default,,0,0,0,,{\an5}SOMEWHERE ELSE
+Dialogue: 0,0:01:42.92,0:01:43.81,Default,,0,0,0,,{\an5}BECAUSE
+Dialogue: 0,0:01:43.81,0:01:44.65,Default,,0,0,0,,{\an5}I CANNOT PHYSICALLY
+Dialogue: 0,0:01:44.65,0:01:45.31,Default,,0,0,0,,{\an5}OR PSYCHOLOGICALLY
+Dialogue: 0,0:01:45.31,0:01:45.90,Default,,0,0,0,,{\an5}KEEP A
+Dialogue: 0,0:01:45.90,0:01:46.43,Default,,0,0,0,,{\an5}TODDLER FROM
+Dialogue: 0,0:01:46.43,0:01:47.14,Default,,0,0,0,,{\an5}WANTING HER PARENT
+Dialogue: 0,0:01:47.14,0:01:47.84,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:47.84,0:01:48.35,Default,,0,0,0,,{\an5}WAS HURT AND
+Dialogue: 0,0:01:48.35,0:01:49.26,Default,,0,0,0,,{\an5}ANGRY SAID
+Dialogue: 0,0:01:49.26,0:01:50.37,Default,,0,0,0,,{\an5}I WAS BEING UNSUPPORTIVE
+Dialogue: 0,0:01:50.37,0:01:51.04,Default,,0,0,0,,{\an5}AND NOW
+Dialogue: 0,0:01:51.04,0:01:51.64,Default,,0,0,0,,{\an5}I'M SITTING HERE
+Dialogue: 0,0:01:51.64,0:01:52.35,Default,,0,0,0,,{\an5}WRACKED WITH GUILT
+Dialogue: 0,0:01:52.35,0:01:53.00,Default,,0,0,0,,{\an5}RESENTMENT
+Dialogue: 0,0:01:53.00,0:01:53.64,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:53.64,0:01:54.43,Default,,0,0,0,,{\an5}BONE DEEP EXHAUSTION
+Dialogue: 0,0:01:54.43,0:01:55.20,Default,,0,0,0,,{\an5}WONDERING
+Dialogue: 0,0:01:55.20,0:01:55.76,Default,,0,0,0,,{\an5}IF I'M TRULY
+Dialogue: 0,0:01:55.76,0:01:56.35,Default,,0,0,0,,{\an5}ASKING FOR
+Dialogue: 0,0:01:56.35,0:01:56.93,Default,,0,0,0,,{\an5}TOO MUCH OR
+Dialogue: 0,0:01:56.93,0:01:57.64,Default,,0,0,0,,{\an5}IF I'VE JUST BECOME
+Dialogue: 0,0:01:57.64,0:01:58.28,Default,,0,0,0,,{\an5}THE PERSON EXPECTED
+Dialogue: 0,0:01:58.28,0:01:59.04,Default,,0,0,0,,{\an5}TO ABSORB ALL
+Dialogue: 0,0:01:59.04,0:01:59.71,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:01:59.71,0:02:00.45,Default,,0,0,0,,{\an5}STRESS SO EVERYONE
+Dialogue: 0,0:02:00.45,0:02:01.21,Default,,0,0,0,,{\an5}ELSE CAN FUNCTION

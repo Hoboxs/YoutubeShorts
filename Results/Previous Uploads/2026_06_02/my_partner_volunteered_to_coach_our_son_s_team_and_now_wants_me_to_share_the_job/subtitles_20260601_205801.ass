@@ -1,0 +1,154 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.83,0:00:04.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k23}HUSBAND {\k24}AND
+Dialogue: 0,0:00:04.46,0:00:05.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k24}ENROLLED {\k38}OUR
+Dialogue: 0,0:00:05.16,0:00:06.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}NINE-YEAR-OLD {\k20}SON {\k25}IN
+Dialogue: 0,0:00:06.01,0:00:06.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}A {\k37}COMMUNITY {\k32}SOCCER
+Dialogue: 0,0:00:06.92,0:00:08.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}LEAGUE {\k16}THIS {\k33}SEASON.
+Dialogue: 0,0:00:08.03,0:00:09.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}BEFORE {\k13}THE {\k17}SEASON {\k36}STARTED,
+Dialogue: 0,0:00:09.11,0:00:09.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WE {\k24}AGREED {\k11}ON {\k8}A {\k22}SIMPLE
+Dialogue: 0,0:00:09.88,0:00:10.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}ARRANGEMENT {\k8}WE {\k16}WOULD
+Dialogue: 0,0:00:10.80,0:00:11.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}ALTERNATE {\k26}WHO {\k23}TOOK
+Dialogue: 0,0:00:11.53,0:00:12.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HIM {\k9}TO {\k32}PRACTICES, {\k45}AND
+Dialogue: 0,0:00:12.51,0:00:13.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WE {\k11}WOULD {\k16}BOTH {\k19}ATTEND {\k20}HIS
+Dialogue: 0,0:00:13.32,0:00:14.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}GAMES {\k22}WHENEVER {\k50}POSSIBLE.
+Dialogue: 0,0:00:14.69,0:00:15.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}DURING {\k13}THE {\k16}PARENTS {\k54}ORIENTATION
+Dialogue: 0,0:00:15.72,0:00:16.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}MEETING, {\k4}THE {\k9}HEAD {\k24}COACH
+Dialogue: 0,0:00:16.62,0:00:17.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}MENTIONED {\k17}THAT {\k9}THE
+Dialogue: 0,0:00:17.23,0:00:18.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TEAM {\k17}STILL {\k26}NEEDED {\k17}AN
+Dialogue: 0,0:00:18.00,0:00:18.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ASSISTANT {\k30}COACH {\k17}AND
+Dialogue: 0,0:00:18.66,0:00:20.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ASKED {\k16}FOR {\k37}VOLUNTEERS.
+Dialogue: 0,0:00:20.05,0:00:20.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}WE {\k9}WERE {\k14}TOLD
+Dialogue: 0,0:00:20.69,0:00:21.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}ANYONE {\k42}INTERESTED
+Dialogue: 0,0:00:21.48,0:00:22.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}COULD {\k19}SIGN {\k14}UP {\k22}BEFORE
+Dialogue: 0,0:00:22.26,0:00:23.44,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k17}FIRST {\k42}PRACTICE.
+Dialogue: 0,0:00:23.44,0:00:24.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}LATER {\k17}THAT {\k33}EVENING,
+Dialogue: 0,0:00:24.51,0:00:25.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MY {\k24}HUSBAND {\k33}SUGGESTED
+Dialogue: 0,0:00:25.28,0:00:25.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THAT {\k8}I {\k29}VOLUNTEER
+Dialogue: 0,0:00:25.89,0:00:26.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}BECAUSE {\k16}I {\k10}HAD {\k19}PLAYED
+Dialogue: 0,0:00:26.67,0:00:27.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SOCCER {\k21}WHEN {\k12}I
+Dialogue: 0,0:00:27.28,0:00:28.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WAS {\k24}YOUNGER.
+Dialogue: 0,0:00:28.08,0:00:28.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}I {\k27}IMMEDIATELY {\k32}TOLD
+Dialogue: 0,0:00:28.87,0:00:29.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HIM {\k6}I {\k14}HAD {\k9}NO {\k32}INTEREST
+Dialogue: 0,0:00:29.67,0:00:30.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IN {\k16}COACHING.
+Dialogue: 0,0:00:30.53,0:00:31.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k17}ENJOY {\k37}WATCHING
+Dialogue: 0,0:00:31.16,0:00:32.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MY {\k17}SON {\k21}PLAY, {\k33}BUT
+Dialogue: 0,0:00:32.03,0:00:32.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k11}DID {\k12}NOT {\k15}WANT {\k10}THE
+Dialogue: 0,0:00:32.67,0:00:33.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}COMMITMENT {\k15}THAT {\k17}COMES
+Dialogue: 0,0:00:33.29,0:00:34.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}WITH {\k17}RUNNING {\k21}DRILLS,
+Dialogue: 0,0:00:34.15,0:00:35.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}HELPING {\k35}ORGANIZE {\k41}PRACTICES,
+Dialogue: 0,0:00:35.11,0:00:35.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}AND {\k32}ATTENDING
+Dialogue: 0,0:00:35.92,0:00:37.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}EVERY {\k20}TEAM {\k28}EVENT.
+Dialogue: 0,0:00:37.21,0:00:37.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HE {\k12}THEN {\k15}SAID {\k14}HE
+Dialogue: 0,0:00:37.82,0:00:39.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}MIGHT {\k35}VOLUNTEER {\k42}INSTEAD.
+Dialogue: 0,0:00:39.02,0:00:39.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k15}TOLD {\k17}HIM {\k20}VERY
+Dialogue: 0,0:00:39.64,0:00:40.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}CLEARLY {\k13}THAT {\k24}BECOMING
+Dialogue: 0,0:00:40.39,0:00:41.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AN {\k25}ASSISTANT {\k34}COACH
+Dialogue: 0,0:00:41.20,0:00:42.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WOULD {\k17}MEAN {\k21}SHOWING {\k24}UP
+Dialogue: 0,0:00:42.02,0:00:42.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}TO {\k22}EVERY {\k37}PRACTICE
+Dialogue: 0,0:00:42.75,0:00:43.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k28}EVERY {\k19}GAME.
+Dialogue: 0,0:00:43.97,0:00:44.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k19}EVEN {\k20}ASKED {\k15}IF
+Dialogue: 0,0:00:44.61,0:00:45.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HE {\k7}WAS {\k14}SURE {\k12}HE {\k19}WANTED
+Dialogue: 0,0:00:45.25,0:00:46.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THAT {\k20}LEVEL {\k14}OF {\k21}COMMITMENT.
+Dialogue: 0,0:00:46.38,0:00:47.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}HE {\k22}SAID {\k11}IT {\k7}WAS {\k30}COMPLETELY
+Dialogue: 0,0:00:47.20,0:00:47.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}FINE {\k17}AND {\k10}THAT
+Dialogue: 0,0:00:47.82,0:00:48.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HE {\k32}UNDERSTOOD {\k19}WHAT
+Dialogue: 0,0:00:48.43,0:00:49.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}HE {\k7}WAS {\k20}SIGNING {\k24}UP
+Dialogue: 0,0:00:49.06,0:00:49.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FOR.
+Dialogue: 0,0:00:49.64,0:00:50.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}AT {\k7}THE {\k17}FIRST {\k42}PRACTICE,
+Dialogue: 0,0:00:50.71,0:00:51.47,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HE {\k30}OFFICIALLY {\k37}VOLUNTEERED
+Dialogue: 0,0:00:51.47,0:00:52.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k14}WAS {\k35}ACCEPTED
+Dialogue: 0,0:00:52.15,0:00:53.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AS {\k6}THE {\k25}ASSISTANT {\k28}COACH.
+Dialogue: 0,0:00:53.39,0:00:54.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k20}ISSUE {\k33}STARTED
+Dialogue: 0,0:00:54.03,0:00:54.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}A {\k14}WEEK {\k33}LATER.
+Dialogue: 0,0:00:54.71,0:00:55.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}WHEN {\k12}IT {\k11}WAS
+Dialogue: 0,0:00:55.35,0:00:55.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TIME {\k15}FOR {\k10}THE {\k20}SECOND
+Dialogue: 0,0:00:55.96,0:00:56.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}PRACTICE, {\k45}I
+Dialogue: 0,0:00:56.79,0:00:57.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}NOTICED {\k17}HE {\k8}WAS {\k17}STILL
+Dialogue: 0,0:00:57.52,0:00:58.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SITTING {\k17}ON {\k10}THE {\k11}COUCH
+Dialogue: 0,0:00:58.17,0:00:58.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}AND {\k17}MAKING {\k28}NO {\k20}EFFORT
+Dialogue: 0,0:00:58.96,0:01:00.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k12}GET {\k32}READY.
+Dialogue: 0,0:01:00.06,0:01:00.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WHEN {\k12}I {\k17}ASKED {\k9}WHAT {\k12}WAS
+Dialogue: 0,0:01:00.74,0:01:01.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}GOING {\k17}ON, {\k3}HE {\k14}SAID {\k11}IT
+Dialogue: 0,0:01:01.53,0:01:02.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k14}MY {\k21}TURN {\k14}TO
+Dialogue: 0,0:01:02.14,0:01:02.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TAKE {\k8}OUR {\k14}SON {\k9}TO {\k30}PRACTICE
+Dialogue: 0,0:01:02.92,0:01:03.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ACCORDING {\k24}TO {\k7}OUR {\k32}ORIGINAL
+Dialogue: 0,0:01:03.82,0:01:04.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}SCHEDULE.
+Dialogue: 0,0:01:04.57,0:01:05.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}I {\k34}REMINDED {\k17}HIM
+Dialogue: 0,0:01:05.29,0:01:05.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THAT {\k9}HE {\k12}WAS {\k15}NOW {\k12}THE
+Dialogue: 0,0:01:05.90,0:01:06.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ASSISTANT {\k21}COACH {\k17}AND
+Dialogue: 0,0:01:06.59,0:01:07.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NEEDED {\k14}TO {\k6}BE {\k9}THERE {\k34}REGARDLESS
+Dialogue: 0,0:01:07.43,0:01:08.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}OF {\k17}WHOSE {\k18}TURN {\k14}IT
+Dialogue: 0,0:01:08.14,0:01:08.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WOULD {\k9}HAVE {\k14}BEEN {\k23}UNDER {\k12}OUR
+Dialogue: 0,0:01:08.85,0:01:10.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}ORIGINAL {\k51}ARRANGEMENT.
+Dialogue: 0,0:01:10.28,0:01:11.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}THAT {\k11}IS {\k20}WHEN {\k14}HE
+Dialogue: 0,0:01:11.00,0:01:11.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ARGUED {\k15}THAT {\k18}SINCE {\k15}WE
+Dialogue: 0,0:01:11.71,0:01:12.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}HAD {\k29}ORIGINALLY {\k29}AGREED
+Dialogue: 0,0:01:12.37,0:01:13.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k16}SPLIT {\k39}PRACTICE
+Dialogue: 0,0:01:13.07,0:01:14.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k56}TRANSPORTATION, {\k15}WE
+Dialogue: 0,0:01:14.31,0:01:15.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SHOULD {\k21}ALSO {\k17}BE {\k32}SPLITTING
+Dialogue: 0,0:01:15.20,0:01:16.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THE {\k28}ASSISTANT {\k34}COACHING
+Dialogue: 0,0:01:16.00,0:01:17.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k56}RESPONSIBILITIES.
+Dialogue: 0,0:01:17.26,0:01:18.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}ACCORDING {\k23}TO {\k14}HIM,
+Dialogue: 0,0:01:18.09,0:01:18.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}IF {\k7}HE {\k9}WAS {\k14}DOING {\k28}EXTRA
+Dialogue: 0,0:01:18.78,0:01:20.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WORK {\k18}AS {\k7}A {\k28}COACH,
+Dialogue: 0,0:01:20.06,0:01:20.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k12}SHOULD {\k9}BE {\k20}HELPING {\k28}BALANCE
+Dialogue: 0,0:01:20.84,0:01:21.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}THINGS {\k26}OUT {\k14}BY
+Dialogue: 0,0:01:21.48,0:01:22.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}ATTENDING {\k46}PRACTICES
+Dialogue: 0,0:01:22.18,0:01:22.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}AND {\k23}SHARING {\k18}SOME
+Dialogue: 0,0:01:22.84,0:01:23.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OF {\k7}THAT {\k28}COMMITMENT.
+Dialogue: 0,0:01:23.87,0:01:24.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}I {\k17}TOLD {\k21}HIM {\k12}THAT
+Dialogue: 0,0:01:24.57,0:01:25.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WAS {\k15}NEVER {\k26}PART {\k12}OF
+Dialogue: 0,0:01:25.26,0:01:25.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}OUR {\k29}AGREEMENT.
+Dialogue: 0,0:01:25.65,0:01:26.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k57}I {\k7}HAD
+Dialogue: 0,0:01:26.31,0:01:27.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k50}SPECIFICALLY {\k34}DECLINED
+Dialogue: 0,0:01:27.15,0:01:27.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THE {\k21}COACHING {\k28}ROLE,
+Dialogue: 0,0:01:27.84,0:01:28.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}AND {\k24}BEFORE {\k11}HE
+Dialogue: 0,0:01:28.45,0:01:29.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}VOLUNTEERED, {\k7}I {\k17}WARNED {\k12}HIM
+Dialogue: 0,0:01:29.50,0:01:30.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}EXACTLY {\k28}WHAT {\k7}THE {\k26}POSITION
+Dialogue: 0,0:01:30.34,0:01:31.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WOULD {\k28}REQUIRE.
+Dialogue: 0,0:01:31.28,0:01:31.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}HE {\k16}CHOSE {\k15}TO {\k15}TAKE {\k12}ON
+Dialogue: 0,0:01:31.98,0:01:32.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THOSE {\k58}RESPONSIBILITIES
+Dialogue: 0,0:01:32.68,0:01:33.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k55}ANYWAY.
+Dialogue: 0,0:01:33.57,0:01:34.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k20}NEVER {\k23}AGREED {\k18}TO
+Dialogue: 0,0:01:34.26,0:01:35.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}COACH, {\k9}ASSIST, {\k24}OR {\k21}ATTEND
+Dialogue: 0,0:01:35.28,0:01:36.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}EVERY {\k34}PRACTICE {\k25}ALONGSIDE
+Dialogue: 0,0:01:36.09,0:01:36.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}HIM.
+Dialogue: 0,0:01:36.84,0:01:37.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}NOW {\k15}HE {\k7}IS {\k35}FRUSTRATED
+Dialogue: 0,0:01:37.57,0:01:38.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}AND {\k18}SAYS {\k21}I
+Dialogue: 0,0:01:38.21,0:01:38.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}AM {\k20}REFUSING {\k26}TO {\k14}SHARE
+Dialogue: 0,0:01:38.92,0:01:40.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k17}WORKLOAD {\k42}FAIRLY.
+Dialogue: 0,0:01:40.14,0:01:40.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}HE {\k21}THINKS {\k18}I {\k11}SHOULD {\k20}ATTEND
+Dialogue: 0,0:01:40.93,0:01:41.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k43}PRACTICES {\k21}WITH
+Dialogue: 0,0:01:41.59,0:01:42.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}HIM {\k13}SO {\k36}EVERYTHING {\k25}FEELS
+Dialogue: 0,0:01:42.43,0:01:43.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MORE {\k21}EQUAL.
+Dialogue: 0,0:01:43.28,0:01:44.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k20}FEEL {\k14}THAT {\k12}THE {\k21}COACHING
+Dialogue: 0,0:01:44.06,0:01:44.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DUTIES {\k32}BELONG {\k17}TO
+Dialogue: 0,0:01:44.81,0:01:45.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THE {\k25}PERSON {\k15}WHO {\k32}VOLUNTEERED
+Dialogue: 0,0:01:45.64,0:01:46.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}FOR {\k14}THEM, {\k9}WHILE {\k14}MY
+Dialogue: 0,0:01:46.43,0:01:47.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k57}RESPONSIBILITIES {\k40}REMAIN
+Dialogue: 0,0:01:47.42,0:01:48.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WHAT {\k12}WE {\k29}ORIGINALLY {\k28}AGREED
+Dialogue: 0,0:01:48.29,0:01:48.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}UPON {\k35}HELPING
+Dialogue: 0,0:01:48.90,0:01:49.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WITH {\k12}OUR {\k26}SON'S {\k35}ACTIVITIES
+Dialogue: 0,0:01:49.84,0:01:51.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}AND {\k29}ATTENDING {\k29}GAMES.
+Dialogue: 0,0:01:51.40,0:01:52.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NOW {\k13}HE {\k12}IS {\k17}ACTING
+Dialogue: 0,0:01:52.01,0:01:52.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AS {\k6}THOUGH {\k9}I {\k21}CHANGED {\k14}THE
+Dialogue: 0,0:01:52.71,0:01:53.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}DEAL, {\k28}WHILE {\k18}I
+Dialogue: 0,0:01:53.42,0:01:54.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FEEL {\k18}LIKE {\k17}HE {\k7}IS {\k16}TRYING
+Dialogue: 0,0:01:54.18,0:01:54.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}TO {\k18}REWRITE {\k21}THE {\k23}AGREEMENT
+Dialogue: 0,0:01:54.95,0:01:56.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AFTER {\k15}THE {\k28}FACT.
+Dialogue: 0,0:01:56.09,0:01:56.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k9}I {\k21}WRONG {\k14}FOR {\k28}REFUSING
+Dialogue: 0,0:01:56.93,0:01:57.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TO {\k17}SPLIT {\k12}THE {\k26}ASSISTANT
+Dialogue: 0,0:01:57.76,0:01:58.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}COACHING {\k60}RESPONSIBILITIES
+Dialogue: 0,0:01:58.62,0:01:59.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k50}AFTER {\k11}HE
+Dialogue: 0,0:01:59.23,0:01:59.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}VOLUNTEERED {\k19}FOR {\k10}THE
+Dialogue: 0,0:01:59.84,0:02:00.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}POSITION {\k32}HIMSELF?

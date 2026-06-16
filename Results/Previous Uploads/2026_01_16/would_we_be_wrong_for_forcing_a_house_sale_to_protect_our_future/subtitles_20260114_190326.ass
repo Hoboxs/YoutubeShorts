@@ -1,0 +1,203 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.50,0:00:04.01,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:04.01,0:00:04.59,Default,,0,0,0,,{\an5}SPOUSE AND I
+Dialogue: 0,0:00:04.59,0:00:05.13,Default,,0,0,0,,{\an5}RECENTLY GOT
+Dialogue: 0,0:00:05.13,0:00:05.66,Default,,0,0,0,,{\an5}MARRIED AND
+Dialogue: 0,0:00:05.66,0:00:06.25,Default,,0,0,0,,{\an5}ARE BOTH CAREFUL
+Dialogue: 0,0:00:06.25,0:00:06.87,Default,,0,0,0,,{\an5}PLANNERS WHEN
+Dialogue: 0,0:00:06.87,0:00:07.51,Default,,0,0,0,,{\an5}IT COMES TO MONEY.
+Dialogue: 0,0:00:07.75,0:00:08.27,Default,,0,0,0,,{\an5}WE
+Dialogue: 0,0:00:08.27,0:00:09.09,Default,,0,0,0,,{\an5}WORK STABLE JOBS,
+Dialogue: 0,0:00:09.48,0:00:10.08,Default,,0,0,0,,{\an5}LIVE BELOW
+Dialogue: 0,0:00:10.08,0:00:10.61,Default,,0,0,0,,{\an5}OUR MEANS,
+Dialogue: 0,0:00:10.83,0:00:11.38,Default,,0,0,0,,{\an5}AND SAVE
+Dialogue: 0,0:00:11.38,0:00:12.16,Default,,0,0,0,,{\an5}AGGRESSIVELY BECAUSE
+Dialogue: 0,0:00:12.16,0:00:12.88,Default,,0,0,0,,{\an5}WE WANT LONG-TERM
+Dialogue: 0,0:00:12.88,0:00:14.06,Default,,0,0,0,,{\an5}SECURITY, ESPECIALLY
+Dialogue: 0,0:00:14.06,0:00:14.90,Default,,0,0,0,,{\an5}BEFORE STARTING
+Dialogue: 0,0:00:14.90,0:00:15.96,Default,,0,0,0,,{\an5}A FAMILY. ONE
+Dialogue: 0,0:00:15.96,0:00:16.64,Default,,0,0,0,,{\an5}MAJOR CHALLENGE
+Dialogue: 0,0:00:16.64,0:00:17.33,Default,,0,0,0,,{\an5}WE'RE FACING IS
+Dialogue: 0,0:00:17.33,0:00:17.87,Default,,0,0,0,,{\an5}MY SPOUSE'S
+Dialogue: 0,0:00:17.87,0:00:18.64,Default,,0,0,0,,{\an5}SIGNIFICANT EDUCATION
+Dialogue: 0,0:00:18.64,0:00:19.64,Default,,0,0,0,,{\an5}DEBT, WELL
+Dialogue: 0,0:00:19.64,0:00:20.51,Default,,0,0,0,,{\an5}OVER SIX FIGURES,
+Dialogue: 0,0:00:20.80,0:00:21.32,Default,,0,0,0,,{\an5}WHICH HAS
+Dialogue: 0,0:00:21.32,0:00:21.87,Default,,0,0,0,,{\an5}BECOME URGENT
+Dialogue: 0,0:00:21.87,0:00:22.55,Default,,0,0,0,,{\an5}NOW THAT SHE'S
+Dialogue: 0,0:00:22.55,0:00:23.30,Default,,0,0,0,,{\an5}BEGINNING AN INTENSIVE
+Dialogue: 0,0:00:23.30,0:00:24.01,Default,,0,0,0,,{\an5}TRAINING PROGRAM
+Dialogue: 0,0:00:24.01,0:00:24.82,Default,,0,0,0,,{\an5}IN LARGE PRIVATE.
+Dialogue: 0,0:00:25.19,0:00:25.71,Default,,0,0,0,,{\an5}LOAN
+Dialogue: 0,0:00:25.71,0:00:26.23,Default,,0,0,0,,{\an5}PAYMENTS HAVE
+Dialogue: 0,0:00:26.23,0:00:26.83,Default,,0,0,0,,{\an5}OFFICIALLY STARTED
+Dialogue: 0,0:00:26.83,0:00:27.23,Default,,0,0,0,,{\an5}ARRIVING.
+Dialogue: 0,0:00:27.23,0:00:27.83,Default,,0,0,0,,{\an5}SEVERAL
+Dialogue: 0,0:00:27.83,0:00:28.33,Default,,0,0,0,,{\an5}YEARS
+Dialogue: 0,0:00:28.33,0:00:29.10,Default,,0,0,0,,{\an5}AGO WHEN
+Dialogue: 0,0:00:29.10,0:00:29.94,Default,,0,0,0,,{\an5}HER GRANDFATHER PASSED
+Dialogue: 0,0:00:29.94,0:00:30.78,Default,,0,0,0,,{\an5}AWAY HE
+Dialogue: 0,0:00:30.78,0:00:31.33,Default,,0,0,0,,{\an5}LEFT A HOME
+Dialogue: 0,0:00:31.33,0:00:31.92,Default,,0,0,0,,{\an5}SPLIT EVENLY
+Dialogue: 0,0:00:31.92,0:00:32.50,Default,,0,0,0,,{\an5}BETWEEN MY
+Dialogue: 0,0:00:32.50,0:00:33.00,Default,,0,0,0,,{\an5}SPOUSE AND
+Dialogue: 0,0:00:33.00,0:00:33.61,Default,,0,0,0,,{\an5}HER OLDER SIBLING
+Dialogue: 0,0:00:33.61,0:00:34.38,Default,,0,0,0,,{\an5}AT
+Dialogue: 0,0:00:34.38,0:00:35.25,Default,,0,0,0,,{\an5}THE TIME MY
+Dialogue: 0,0:00:35.25,0:00:35.75,Default,,0,0,0,,{\an5}SPOUSE WAS
+Dialogue: 0,0:00:35.75,0:00:36.46,Default,,0,0,0,,{\an5}LIVING HOURS AWAY
+Dialogue: 0,0:00:36.46,0:00:37.52,Default,,0,0,0,,{\an5}FOR SCHOOL DURING
+Dialogue: 0,0:00:37.52,0:00:38.10,Default,,0,0,0,,{\an5}THAT PERIOD
+Dialogue: 0,0:00:38.10,0:00:38.79,Default,,0,0,0,,{\an5}HER SIBLING
+Dialogue: 0,0:00:38.79,0:00:39.39,Default,,0,0,0,,{\an5}AND THEIR PARTNER
+Dialogue: 0,0:00:39.39,0:00:40.14,Default,,0,0,0,,{\an5}EFFECTIVELY TOOK
+Dialogue: 0,0:00:40.14,0:00:40.70,Default,,0,0,0,,{\an5}CONTROL OF
+Dialogue: 0,0:00:40.70,0:00:41.61,Default,,0,0,0,,{\an5}THE HOUSE THEY
+Dialogue: 0,0:00:41.61,0:00:42.25,Default,,0,0,0,,{\an5}REMODELED SHARED
+Dialogue: 0,0:00:42.25,0:00:43.39,Default,,0,0,0,,{\an5}SPACES UPGRADED
+Dialogue: 0,0:00:43.39,0:00:43.93,Default,,0,0,0,,{\an5}APPLIANCES
+Dialogue: 0,0:00:43.93,0:00:44.78,Default,,0,0,0,,{\an5}CONVERTED
+Dialogue: 0,0:00:44.78,0:00:45.43,Default,,0,0,0,,{\an5}ROOMS FOR
+Dialogue: 0,0:00:45.43,0:00:46.02,Default,,0,0,0,,{\an5}PERSONAL USE
+Dialogue: 0,0:00:46.02,0:00:46.78,Default,,0,0,0,,{\an5}CLAIMED
+Dialogue: 0,0:00:46.78,0:00:47.56,Default,,0,0,0,,{\an5}THE LARGEST BEDROOM
+Dialogue: 0,0:00:47.56,0:00:48.07,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:48.07,0:00:48.64,Default,,0,0,0,,{\an5}USED ADDITIONAL
+Dialogue: 0,0:00:48.64,0:00:49.28,Default,,0,0,0,,{\an5}AREAS FOR
+Dialogue: 0,0:00:49.28,0:00:50.20,Default,,0,0,0,,{\an5}STORAGE ALL
+Dialogue: 0,0:00:50.20,0:00:50.75,Default,,0,0,0,,{\an5}WITHOUT MEANINGFUL
+Dialogue: 0,0:00:50.75,0:00:51.84,Default,,0,0,0,,{\an5}DISCUSSION WHEN
+Dialogue: 0,0:00:51.84,0:00:52.60,Default,,0,0,0,,{\an5}MY SPOUSE EVENTUALLY
+Dialogue: 0,0:00:52.60,0:00:53.29,Default,,0,0,0,,{\an5}MOVED IN
+Dialogue: 0,0:00:53.29,0:00:53.96,Default,,0,0,0,,{\an5}SHE WAS
+Dialogue: 0,0:00:53.96,0:00:54.56,Default,,0,0,0,,{\an5}GIVEN A SMALL
+Dialogue: 0,0:00:54.56,0:00:55.17,Default,,0,0,0,,{\an5}BEDROOM AND
+Dialogue: 0,0:00:55.17,0:00:55.93,Default,,0,0,0,,{\an5}SHARED ACCESS TO
+Dialogue: 0,0:00:55.93,0:00:56.61,Default,,0,0,0,,{\an5}A SINGLE BATHROOM.
+Dialogue: 0,0:00:57.10,0:00:57.60,Default,,0,0,0,,{\an5}DESPITE
+Dialogue: 0,0:00:57.60,0:00:58.17,Default,,0,0,0,,{\an5}OWNING HALF
+Dialogue: 0,0:00:58.17,0:00:59.38,Default,,0,0,0,,{\an5}THE PROPERTY, ONCE
+Dialogue: 0,0:00:59.38,0:01:00.15,Default,,0,0,0,,{\an5}WE BECAME SERIOUS,
+Dialogue: 0,0:01:00.47,0:01:00.97,Default,,0,0,0,,{\an5}WE TALKED
+Dialogue: 0,0:01:00.97,0:01:01.61,Default,,0,0,0,,{\an5}OPENLY ABOUT
+Dialogue: 0,0:01:01.61,0:01:02.11,Default,,0,0,0,,{\an5}FINANCES
+Dialogue: 0,0:01:02.11,0:01:02.79,Default,,0,0,0,,{\an5}AND AGREED THAT
+Dialogue: 0,0:01:02.79,0:01:03.38,Default,,0,0,0,,{\an5}SINCE MY SPOUSE
+Dialogue: 0,0:01:03.38,0:01:03.88,Default,,0,0,0,,{\an5}WOULD BE MOVING
+Dialogue: 0,0:01:03.88,0:01:04.45,Default,,0,0,0,,{\an5}OUT TO LIVE WITH
+Dialogue: 0,0:01:04.45,0:01:05.29,Default,,0,0,0,,{\an5}ME, THE
+Dialogue: 0,0:01:05.29,0:01:05.85,Default,,0,0,0,,{\an5}MOST REASONABLE
+Dialogue: 0,0:01:05.85,0:01:06.64,Default,,0,0,0,,{\an5}SOLUTION WAS
+Dialogue: 0,0:01:06.64,0:01:07.15,Default,,0,0,0,,{\an5}FOR HER SIBLING
+Dialogue: 0,0:01:07.15,0:01:07.65,Default,,0,0,0,,{\an5}TO BUY OUT
+Dialogue: 0,0:01:07.65,0:01:08.45,Default,,0,0,0,,{\an5}HER SHARE OF THE HOUSE.
+Dialogue: 0,0:01:08.73,0:01:09.23,Default,,0,0,0,,{\an5}WE
+Dialogue: 0,0:01:09.23,0:01:10.01,Default,,0,0,0,,{\an5}COMMUNICATED THIS
+Dialogue: 0,0:01:10.01,0:01:10.57,Default,,0,0,0,,{\an5}CLEARLY LAST
+Dialogue: 0,0:01:10.57,0:01:11.12,Default,,0,0,0,,{\an5}SUMMER AND
+Dialogue: 0,0:01:11.12,0:01:11.65,Default,,0,0,0,,{\an5}GAVE THEM SEVERAL
+Dialogue: 0,0:01:11.65,0:01:12.29,Default,,0,0,0,,{\an5}MONTHS TO PREPARE
+Dialogue: 0,0:01:12.29,0:01:12.81,Default,,0,0,0,,{\an5}FINANCIALLY.
+Dialogue: 0,0:01:13.18,0:01:13.68,Default,,0,0,0,,{\an5}THEY
+Dialogue: 0,0:01:13.68,0:01:14.29,Default,,0,0,0,,{\an5}ACKNOWLEDGED THE
+Dialogue: 0,0:01:14.29,0:01:14.90,Default,,0,0,0,,{\an5}REQUEST AND
+Dialogue: 0,0:01:14.90,0:01:15.65,Default,,0,0,0,,{\an5}SAID THEY NEEDED TIME.
+Dialogue: 0,0:01:15.92,0:01:16.71,Default,,0,0,0,,{\an5}SHORTLY AFTER,
+Dialogue: 0,0:01:16.87,0:01:17.40,Default,,0,0,0,,{\an5}THEY CHOSE
+Dialogue: 0,0:01:17.40,0:01:18.01,Default,,0,0,0,,{\an5}TO PURCHASE A
+Dialogue: 0,0:01:18.01,0:01:18.54,Default,,0,0,0,,{\an5}NEWER VEHICLE
+Dialogue: 0,0:01:18.54,0:01:19.04,Default,,0,0,0,,{\an5}THEY DIDN'T
+Dialogue: 0,0:01:19.04,0:01:19.56,Default,,0,0,0,,{\an5}STRICTLY NEED,
+Dialogue: 0,0:01:19.73,0:01:20.34,Default,,0,0,0,,{\an5}WHICH MADE
+Dialogue: 0,0:01:20.34,0:01:20.85,Default,,0,0,0,,{\an5}US QUESTION
+Dialogue: 0,0:01:20.85,0:01:21.42,Default,,0,0,0,,{\an5}HOW SERIOUSLY
+Dialogue: 0,0:01:21.42,0:01:22.06,Default,,0,0,0,,{\an5}THEY WERE TAKING
+Dialogue: 0,0:01:22.06,0:01:22.56,Default,,0,0,0,,{\an5}THE SITUATION.
+Dialogue: 0,0:01:23.29,0:01:23.93,Default,,0,0,0,,{\an5}SIX MONTHS HAVE
+Dialogue: 0,0:01:23.93,0:01:24.70,Default,,0,0,0,,{\an5}PASSED, AND
+Dialogue: 0,0:01:24.70,0:01:25.31,Default,,0,0,0,,{\an5}WITH LOAN BILLS
+Dialogue: 0,0:01:25.31,0:01:26.31,Default,,0,0,0,,{\an5}NOW DUE, WE
+Dialogue: 0,0:01:26.31,0:01:26.93,Default,,0,0,0,,{\an5}REACHED OUT AGAIN
+Dialogue: 0,0:01:26.93,0:01:27.50,Default,,0,0,0,,{\an5}TO PUSH THE
+Dialogue: 0,0:01:27.50,0:01:28.14,Default,,0,0,0,,{\an5}PROCESS FORWARD.
+Dialogue: 0,0:01:28.40,0:01:29.04,Default,,0,0,0,,{\an5}INSTEAD OF
+Dialogue: 0,0:01:29.04,0:01:29.93,Default,,0,0,0,,{\an5}PROGRESS, HER
+Dialogue: 0,0:01:29.93,0:01:30.62,Default,,0,0,0,,{\an5}SIBLINGS SUGGESTED
+Dialogue: 0,0:01:30.62,0:01:31.20,Default,,0,0,0,,{\an5}THIS SHOULD
+Dialogue: 0,0:01:31.20,0:01:32.01,Default,,0,0,0,,{\an5}BE HANDLED PRIVATELY
+Dialogue: 0,0:01:32.01,0:01:32.92,Default,,0,0,0,,{\an5}BETWEEN SISTERS,
+Dialogue: 0,0:01:33.09,0:01:33.84,Default,,0,0,0,,{\an5}EXCLUDING SPOUSES
+Dialogue: 0,0:01:33.84,0:01:34.23,Default,,0,0,0,,{\an5}ENTIRELY.
+Dialogue: 0,0:01:34.76,0:01:35.51,Default,,0,0,0,,{\an5}THAT DIDN'T
+Dialogue: 0,0:01:35.51,0:01:36.18,Default,,0,0,0,,{\an5}SIT RIGHT WITH EITHER
+Dialogue: 0,0:01:36.18,0:01:37.15,Default,,0,0,0,,{\an5}OF US. SINCE
+Dialogue: 0,0:01:37.15,0:01:38.26,Default,,0,0,0,,{\an5}THE FINANCIAL CONSEQUENCES
+Dialogue: 0,0:01:38.26,0:01:39.09,Default,,0,0,0,,{\an5}DIRECTLY AFFECT
+Dialogue: 0,0:01:39.09,0:01:39.64,Default,,0,0,0,,{\an5}OUR HOUSEHOLD,
+Dialogue: 0,0:01:39.90,0:01:40.56,Default,,0,0,0,,{\an5}WE'RE COMPLETELY
+Dialogue: 0,0:01:40.56,0:01:41.18,Default,,0,0,0,,{\an5}ALIGNED ON
+Dialogue: 0,0:01:41.18,0:01:41.71,Default,,0,0,0,,{\an5}THIS AND FEEL
+Dialogue: 0,0:01:41.71,0:01:42.56,Default,,0,0,0,,{\an5}IT'S UNREASONABLE TO
+Dialogue: 0,0:01:42.56,0:01:43.09,Default,,0,0,0,,{\an5}SHUT ONE OF US
+Dialogue: 0,0:01:43.09,0:01:43.34,Default,,0,0,0,,{\an5}OUT.
+Dialogue: 0,0:01:43.76,0:01:44.37,Default,,0,0,0,,{\an5}GIVEN THE
+Dialogue: 0,0:01:44.37,0:01:45.01,Default,,0,0,0,,{\an5}LACK OF MOVEMENT
+Dialogue: 0,0:01:45.01,0:01:45.79,Default,,0,0,0,,{\an5}AND THE DISMISSIVE
+Dialogue: 0,0:01:45.79,0:01:46.37,Default,,0,0,0,,{\an5}TONE OF RECENT
+Dialogue: 0,0:01:46.37,0:01:47.78,Default,,0,0,0,,{\an5}MESSAGES, WE'RE
+Dialogue: 0,0:01:47.78,0:01:48.31,Default,,0,0,0,,{\an5}NOW CONSIDERING
+Dialogue: 0,0:01:48.31,0:01:49.00,Default,,0,0,0,,{\an5}TAKING FORMAL
+Dialogue: 0,0:01:49.00,0:01:49.31,Default,,0,0,0,,{\an5}STEPS.
+Dialogue: 0,0:01:49.64,0:01:50.18,Default,,0,0,0,,{\an5}THAT COULD
+Dialogue: 0,0:01:50.18,0:01:50.98,Default,,0,0,0,,{\an5}INCLUDE GIVING PROPER
+Dialogue: 0,0:01:50.98,0:01:51.62,Default,,0,0,0,,{\an5}PROPER NOTICE UNDER
+Dialogue: 0,0:01:51.62,0:01:52.12,Default,,0,0,0,,{\an5}LOCAL LAW
+Dialogue: 0,0:01:52.12,0:01:52.85,Default,,0,0,0,,{\an5}AND, IF
+Dialogue: 0,0:01:52.85,0:01:53.95,Default,,0,0,0,,{\an5}NECESSARY, FORCING
+Dialogue: 0,0:01:53.95,0:01:54.57,Default,,0,0,0,,{\an5}A SALE THROUGH
+Dialogue: 0,0:01:54.57,0:01:55.20,Default,,0,0,0,,{\an5}LEGAL CHANNELS.
+Dialogue: 0,0:01:55.45,0:01:55.95,Default,,0,0,0,,{\an5}IF IT
+Dialogue: 0,0:01:55.95,0:01:56.50,Default,,0,0,0,,{\an5}COMES TO THAT,
+Dialogue: 0,0:01:56.64,0:01:57.35,Default,,0,0,0,,{\an5}WE WOULD ALSO
+Dialogue: 0,0:01:57.35,0:01:58.01,Default,,0,0,0,,{\an5}PURSUE COMPENSATION
+Dialogue: 0,0:01:58.01,0:01:58.62,Default,,0,0,0,,{\an5}TIED
+Dialogue: 0,0:01:58.62,0:01:59.45,Default,,0,0,0,,{\an5}TO EXCLUSIVE USE
+Dialogue: 0,0:01:59.45,0:02:00.23,Default,,0,0,0,,{\an5}OF THE SHARED PROPERTY,
+Dialogue: 0,0:02:00.50,0:02:01.15,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:02:01.15,0:02:01.79,Default,,0,0,0,,{\an5}COULD SIGNIFICANTLY
+Dialogue: 0,0:02:01.79,0:02:02.48,Default,,0,0,0,,{\an5}REDUCE OR
+Dialogue: 0,0:02:02.48,0:02:03.06,Default,,0,0,0,,{\an5}EVEN ELIMINATE
+Dialogue: 0,0:02:03.06,0:02:03.71,Default,,0,0,0,,{\an5}THE MOST PRESSING
+Dialogue: 0,0:02:03.71,0:02:04.48,Default,,0,0,0,,{\an5}DEBTS WE'RE FACING.
+Dialogue: 0,0:02:05.01,0:02:05.62,Default,,0,0,0,,{\an5}WE DON'T
+Dialogue: 0,0:02:05.62,0:02:06.57,Default,,0,0,0,,{\an5}WANT TO DISRUPT ANYONE'S
+Dialogue: 0,0:02:06.57,0:02:07.51,Default,,0,0,0,,{\an5}LIFE UNNECESSARILY,
+Dialogue: 0,0:02:07.68,0:02:08.36,Default,,0,0,0,,{\an5}BUT WE ALSO
+Dialogue: 0,0:02:08.36,0:02:08.97,Default,,0,0,0,,{\an5}FEEL WE'VE BEEN
+Dialogue: 0,0:02:08.97,0:02:09.96,Default,,0,0,0,,{\an5}PATIENT, CLEAR,
+Dialogue: 0,0:02:10.18,0:02:10.71,Default,,0,0,0,,{\an5}AND FAIR.
+Dialogue: 0,0:02:10.91,0:02:11.74,Default,,0,0,0,,{\an5}AT THIS POINT,
+Dialogue: 0,0:02:11.80,0:02:12.30,Default,,0,0,0,,{\an5}PROTECTING
+Dialogue: 0,0:02:12.30,0:02:12.84,Default,,0,0,0,,{\an5}OUR FINANCIAL
+Dialogue: 0,0:02:12.84,0:02:13.75,Default,,0,0,0,,{\an5}STABILITY FEELS
+Dialogue: 0,0:02:13.75,0:02:14.37,Default,,0,0,0,,{\an5}UNAVOIDABLE
+Dialogue: 0,0:02:14.37,0:02:15.18,Default,,0,0,0,,{\an5}IF NOTHING CHANGES.
+Dialogue: 0,0:02:15.46,0:02:16.02,Default,,0,0,0,,{\an5}WOULD WE BE
+Dialogue: 0,0:02:16.02,0:02:16.62,Default,,0,0,0,,{\an5}WRONG FOR MOVING
+Dialogue: 0,0:02:16.62,0:02:17.21,Default,,0,0,0,,{\an5}FORWARD WITH
+Dialogue: 0,0:02:17.21,0:02:18.02,Default,,0,0,0,,{\an5}THIS, EVEN
+Dialogue: 0,0:02:18.02,0:02:18.58,Default,,0,0,0,,{\an5}IF IT FORCES
+Dialogue: 0,0:02:18.58,0:02:19.24,Default,,0,0,0,,{\an5}A MAJOR CHANGE
+Dialogue: 0,0:02:19.24,0:02:19.59,Default,,0,0,0,,{\an5}FOR THEM?

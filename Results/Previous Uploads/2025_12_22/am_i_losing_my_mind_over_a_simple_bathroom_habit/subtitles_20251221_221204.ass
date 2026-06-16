@@ -1,0 +1,138 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.83,0:00:03.48,Default,,0,0,0,,{\an5}I'M HONESTLY
+Dialogue: 0,0:00:03.48,0:00:04.09,Default,,0,0,0,,{\an5}STILL STUNNED
+Dialogue: 0,0:00:04.09,0:00:04.70,Default,,0,0,0,,{\an5}WRITING THIS.
+Dialogue: 0,0:00:04.87,0:00:05.66,Default,,0,0,0,,{\an5}EARLIER TODAY,
+Dialogue: 0,0:00:05.90,0:00:06.51,Default,,0,0,0,,{\an5}THE WATER IN
+Dialogue: 0,0:00:06.51,0:00:07.20,Default,,0,0,0,,{\an5}OUR APARTMENT WAS
+Dialogue: 0,0:00:07.20,0:00:07.70,Default,,0,0,0,,{\an5}SHUT OFF FOR
+Dialogue: 0,0:00:07.70,0:00:09.19,Default,,0,0,0,,{\an5}A SHORT REPAIR. NOTHING
+Dialogue: 0,0:00:09.19,0:00:10.09,Default,,0,0,0,,{\an5}DRAMATIC, OUR
+Dialogue: 0,0:00:10.09,0:00:10.74,Default,,0,0,0,,{\an5}LANDLORD SAID
+Dialogue: 0,0:00:10.74,0:00:11.25,Default,,0,0,0,,{\an5}IT WOULD BE BACK
+Dialogue: 0,0:00:11.25,0:00:11.85,Default,,0,0,0,,{\an5}WITHIN THE HOUR.
+Dialogue: 0,0:00:12.08,0:00:12.80,Default,,0,0,0,,{\an5}IN THE MEANTIME,
+Dialogue: 0,0:00:13.09,0:00:13.59,Default,,0,0,0,,{\an5}WE STILL
+Dialogue: 0,0:00:13.59,0:00:14.61,Default,,0,0,0,,{\an5}HAD A SMALL COUNTERTOP
+Dialogue: 0,0:00:14.61,0:00:15.14,Default,,0,0,0,,{\an5}FILTER FOR
+Dialogue: 0,0:00:15.14,0:00:15.67,Default,,0,0,0,,{\an5}DRINKING WATER
+Dialogue: 0,0:00:15.67,0:00:16.28,Default,,0,0,0,,{\an5}AND PLENTY OF
+Dialogue: 0,0:00:16.28,0:00:16.85,Default,,0,0,0,,{\an5}HAND SANITIZER.
+Dialogue: 0,0:00:17.48,0:00:18.17,Default,,0,0,0,,{\an5}I USED
+Dialogue: 0,0:00:18.17,0:00:18.92,Default,,0,0,0,,{\an5}THE BATHROOM FIRST
+Dialogue: 0,0:00:18.92,0:00:19.69,Default,,0,0,0,,{\an5}AND, LIKE
+Dialogue: 0,0:00:19.69,0:00:20.39,Default,,0,0,0,,{\an5}A NORMAL PERSON,
+Dialogue: 0,0:00:20.60,0:00:21.14,Default,,0,0,0,,{\an5}WASHED MY
+Dialogue: 0,0:00:21.14,0:00:21.67,Default,,0,0,0,,{\an5}HANDS USING
+Dialogue: 0,0:00:21.67,0:00:22.37,Default,,0,0,0,,{\an5}A BIT OF THE FILTERED
+Dialogue: 0,0:00:22.37,0:00:22.69,Default,,0,0,0,,{\an5}WATER.
+Dialogue: 0,0:00:22.96,0:00:23.46,Default,,0,0,0,,{\an5}WHEN MY
+Dialogue: 0,0:00:23.46,0:00:24.01,Default,,0,0,0,,{\an5}PARTNER FINISHED
+Dialogue: 0,0:00:24.01,0:00:24.53,Default,,0,0,0,,{\an5}USING THE
+Dialogue: 0,0:00:24.53,0:00:25.50,Default,,0,0,0,,{\an5}BATHROOM, SHE
+Dialogue: 0,0:00:25.50,0:00:26.21,Default,,0,0,0,,{\an5}WALKED STRAIGHT OUT
+Dialogue: 0,0:00:26.21,0:00:26.71,Default,,0,0,0,,{\an5}AND DROPPED ONTO
+Dialogue: 0,0:00:26.71,0:00:27.42,Default,,0,0,0,,{\an5}THE COUCH BESIDE
+Dialogue: 0,0:00:27.42,0:00:27.96,Default,,0,0,0,,{\an5}ME LIKE NOTHING
+Dialogue: 0,0:00:27.96,0:00:28.30,Default,,0,0,0,,{\an5}HAPPENED.
+Dialogue: 0,0:00:28.30,0:00:28.44,Default,,0,0,0,,{\an5}HAPPENED.
+Dialogue: 0,0:00:28.64,0:00:29.48,Default,,0,0,0,,{\an5}I ASKED,
+Dialogue: 0,0:00:29.60,0:00:30.17,Default,,0,0,0,,{\an5}CALMLY AT
+Dialogue: 0,0:00:30.17,0:00:30.96,Default,,0,0,0,,{\an5}FIRST, IF
+Dialogue: 0,0:00:30.96,0:00:31.55,Default,,0,0,0,,{\an5}SHE WAS GOING TO
+Dialogue: 0,0:00:31.55,0:00:32.20,Default,,0,0,0,,{\an5}WASH HER HANDS.
+Dialogue: 0,0:00:32.46,0:00:33.10,Default,,0,0,0,,{\an5}SHE LEFT
+Dialogue: 0,0:00:33.10,0:00:33.74,Default,,0,0,0,,{\an5}IT OFF AND SAID
+Dialogue: 0,0:00:33.74,0:00:34.43,Default,,0,0,0,,{\an5}SHE WASN'T WASTING
+Dialogue: 0,0:00:34.43,0:00:35.11,Default,,0,0,0,,{\an5}DRINKING WATER
+Dialogue: 0,0:00:35.11,0:00:36.38,Default,,0,0,0,,{\an5}ON THAT. I
+Dialogue: 0,0:00:36.38,0:00:37.14,Default,,0,0,0,,{\an5}SUGGESTED HAND
+Dialogue: 0,0:00:37.14,0:00:38.07,Default,,0,0,0,,{\an5}SANITIZER INSTEAD.
+Dialogue: 0,0:00:38.38,0:00:38.88,Default,,0,0,0,,{\an5}THAT'S WHEN
+Dialogue: 0,0:00:38.88,0:00:39.42,Default,,0,0,0,,{\an5}SHE CASUALLY
+Dialogue: 0,0:00:39.42,0:00:39.93,Default,,0,0,0,,{\an5}TOLD ME
+Dialogue: 0,0:00:39.93,0:00:40.47,Default,,0,0,0,,{\an5}SHE DIDN'T NEED
+Dialogue: 0,0:00:40.47,0:00:40.64,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:00:40.79,0:00:41.93,Default,,0,0,0,,{\an5}BECAUSE, ACCORDING
+Dialogue: 0,0:00:41.93,0:00:42.79,Default,,0,0,0,,{\an5}TO HER, SHE
+Dialogue: 0,0:00:42.79,0:00:43.46,Default,,0,0,0,,{\an5}DOESN'T WASH HER
+Dialogue: 0,0:00:43.46,0:00:43.96,Default,,0,0,0,,{\an5}HANDS EVERY
+Dialogue: 0,0:00:43.96,0:00:44.60,Default,,0,0,0,,{\an5}TIME SHE USES
+Dialogue: 0,0:00:44.60,0:00:45.60,Default,,0,0,0,,{\an5}THE TOILET. SHE
+Dialogue: 0,0:00:45.60,0:00:46.15,Default,,0,0,0,,{\an5}SAID AS LONG
+Dialogue: 0,0:00:46.15,0:00:46.71,Default,,0,0,0,,{\an5}AS SHE DOESN'T
+Dialogue: 0,0:00:46.71,0:00:47.47,Default,,0,0,0,,{\an5}SEE ANYTHING ON
+Dialogue: 0,0:00:47.47,0:00:48.74,Default,,0,0,0,,{\an5}HER HANDS. SHE
+Dialogue: 0,0:00:48.74,0:00:49.39,Default,,0,0,0,,{\an5}CONSIDERS THEM
+Dialogue: 0,0:00:49.39,0:00:49.64,Default,,0,0,0,,{\an5}CLEAN.
+Dialogue: 0,0:00:49.89,0:00:50.50,Default,,0,0,0,,{\an5}SOMETHING IN
+Dialogue: 0,0:00:50.50,0:00:51.35,Default,,0,0,0,,{\an5}ME SNAPPED. I
+Dialogue: 0,0:00:51.35,0:00:52.00,Default,,0,0,0,,{\an5}TOLD HER THAT WAS
+Dialogue: 0,0:00:52.00,0:00:52.53,Default,,0,0,0,,{\an5}GROSS AND AN
+Dialogue: 0,0:00:52.53,0:00:53.07,Default,,0,0,0,,{\an5}AWFUL HYGIENE
+Dialogue: 0,0:00:53.07,0:00:53.42,Default,,0,0,0,,{\an5}HABIT.
+Dialogue: 0,0:00:53.65,0:00:54.42,Default,,0,0,0,,{\an5}NOT SCREAMED
+Dialogue: 0,0:00:54.42,0:00:55.20,Default,,0,0,0,,{\an5}JUST BLUNT
+Dialogue: 0,0:00:55.20,0:00:55.89,Default,,0,0,0,,{\an5}I POINTED
+Dialogue: 0,0:00:55.89,0:00:56.43,Default,,0,0,0,,{\an5}OUT THAT EVEN
+Dialogue: 0,0:00:56.43,0:00:56.97,Default,,0,0,0,,{\an5}IF YOU'RE CAREFUL
+Dialogue: 0,0:00:56.97,0:00:57.52,Default,,0,0,0,,{\an5}YOU'RE
+Dialogue: 0,0:00:57.52,0:00:58.03,Default,,0,0,0,,{\an5}STILL TOUCHING
+Dialogue: 0,0:00:58.03,0:00:59.02,Default,,0,0,0,,{\an5}THE TOILET A
+Dialogue: 0,0:00:59.02,0:00:59.70,Default,,0,0,0,,{\an5}HANDLE THE
+Dialogue: 0,0:00:59.70,0:01:00.42,Default,,0,0,0,,{\an5}DOOR SHE
+Dialogue: 0,0:01:00.42,0:01:01.02,Default,,0,0,0,,{\an5}ROLLED HER EYES
+Dialogue: 0,0:01:01.02,0:01:01.56,Default,,0,0,0,,{\an5}AND SAID I WAS
+Dialogue: 0,0:01:01.56,0:01:02.14,Default,,0,0,0,,{\an5}BEING DRAMATIC
+Dialogue: 0,0:01:02.14,0:01:03.47,Default,,0,0,0,,{\an5}AND DIGITAL FOR
+Dialogue: 0,0:01:03.47,0:01:04.45,Default,,0,0,0,,{\an5}CONTEXT WE
+Dialogue: 0,0:01:04.45,0:01:05.14,Default,,0,0,0,,{\an5}DO HAVE A BIDET
+Dialogue: 0,0:01:05.14,0:01:05.76,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:01:05.76,0:01:06.50,Default,,0,0,0,,{\an5}SHE INSISTS MAKES
+Dialogue: 0,0:01:06.50,0:01:07.14,Default,,0,0,0,,{\an5}THIS WHOLE THING
+Dialogue: 0,0:01:07.14,0:01:07.68,Default,,0,0,0,,{\an5}A NON-ISSUE
+Dialogue: 0,0:01:07.68,0:01:08.18,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:01:08.18,0:01:08.79,Default,,0,0,0,,{\an5}ME IT
+Dialogue: 0,0:01:08.79,0:01:09.42,Default,,0,0,0,,{\an5}REALLY DOESN'T
+Dialogue: 0,0:01:09.42,0:01:10.01,Default,,0,0,0,,{\an5}NOW SHE'S
+Dialogue: 0,0:01:10.01,0:01:10.64,Default,,0,0,0,,{\an5}COMPLETELY SHUT
+Dialogue: 0,0:01:10.64,0:01:11.59,Default,,0,0,0,,{\an5}DOWN WON'T
+Dialogue: 0,0:01:11.59,0:01:12.09,Default,,0,0,0,,{\an5}SPEAK TO ME
+Dialogue: 0,0:01:12.09,0:01:12.65,Default,,0,0,0,,{\an5}AND SAYS
+Dialogue: 0,0:01:12.65,0:01:13.21,Default,,0,0,0,,{\an5}I OWE HER AN
+Dialogue: 0,0:01:13.21,0:01:13.85,Default,,0,0,0,,{\an5}APOLOGY FOR
+Dialogue: 0,0:01:13.85,0:01:14.57,Default,,0,0,0,,{\an5}SHAMING HER
+Dialogue: 0,0:01:15.31,0:01:16.20,Default,,0,0,0,,{\an5}MEANWHILE I'M
+Dialogue: 0,0:01:16.20,0:01:16.90,Default,,0,0,0,,{\an5}SITTING THERE WONDERING
+Dialogue: 0,0:01:16.90,0:01:17.50,Default,,0,0,0,,{\an5}HOW LONG THIS
+Dialogue: 0,0:01:17.50,0:01:18.00,Default,,0,0,0,,{\an5}HAS BEEN GOING
+Dialogue: 0,0:01:18.00,0:01:18.50,Default,,0,0,0,,{\an5}ON AND HOW
+Dialogue: 0,0:01:18.50,0:01:19.29,Default,,0,0,0,,{\an5}MANY SHARED SURFACES
+Dialogue: 0,0:01:19.29,0:01:20.31,Default,,0,0,0,,{\an5}OF TOUCH
+Dialogue: 0,0:01:20.31,0:01:20.98,Default,,0,0,0,,{\an5}WITHOUT KNOWING.
+Dialogue: 0,0:01:21.07,0:01:21.57,Default,,0,0,0,,{\an5}I'M NOT
+Dialogue: 0,0:01:21.57,0:01:22.21,Default,,0,0,0,,{\an5}TRYING TO CONTROL
+Dialogue: 0,0:01:22.21,0:01:22.43,Default,,0,0,0,,{\an5}HER.
+Dialogue: 0,0:01:22.54,0:01:23.09,Default,,0,0,0,,{\an5}I'M NOT
+Dialogue: 0,0:01:23.09,0:01:23.78,Default,,0,0,0,,{\an5}DEMANDING PERFECTION.
+Dialogue: 0,0:01:24.12,0:01:24.62,Default,,0,0,0,,{\an5}I JUST
+Dialogue: 0,0:01:24.62,0:01:25.14,Default,,0,0,0,,{\an5}CAN'T WRAP MY
+Dialogue: 0,0:01:25.14,0:01:25.73,Default,,0,0,0,,{\an5}HEAD AROUND BEING
+Dialogue: 0,0:01:25.73,0:01:26.50,Default,,0,0,0,,{\an5}TOLD THAT BASIC
+Dialogue: 0,0:01:26.50,0:01:27.04,Default,,0,0,0,,{\an5}HANDWASHING
+Dialogue: 0,0:01:27.04,0:01:28.23,Default,,0,0,0,,{\an5}IS OPTIONAL AND
+Dialogue: 0,0:01:28.23,0:01:28.79,Default,,0,0,0,,{\an5}BEING EXPECTED
+Dialogue: 0,0:01:28.79,0:01:29.34,Default,,0,0,0,,{\an5}TO PRETEND
+Dialogue: 0,0:01:29.34,0:01:29.87,Default,,0,0,0,,{\an5}THAT'S NORMAL.

@@ -1,0 +1,244 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.54,0:00:03.98,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:00:03.98,0:00:04.92,Default,,0,0,0,,{\an5}24, AND
+Dialogue: 0,0:00:04.92,0:00:05.44,Default,,0,0,0,,{\an5}EVERY WINTER
+Dialogue: 0,0:00:05.44,0:00:05.92,Default,,0,0,0,,{\an5}MY FAMILY
+Dialogue: 0,0:00:05.92,0:00:06.46,Default,,0,0,0,,{\an5}IN DORSET
+Dialogue: 0,0:00:06.46,0:00:07.04,Default,,0,0,0,,{\an5}HAS A TRADITION
+Dialogue: 0,0:00:07.04,0:00:07.44,Default,,0,0,0,,{\an5}WHERE WE
+Dialogue: 0,0:00:07.44,0:00:07.98,Default,,0,0,0,,{\an5}ALL SEND OUT
+Dialogue: 0,0:00:07.98,0:00:08.51,Default,,0,0,0,,{\an5}HOLIDAY LISTS
+Dialogue: 0,0:00:08.51,0:00:09.56,Default,,0,0,0,,{\an5}FILLED WITH
+Dialogue: 0,0:00:09.56,0:00:10.03,Default,,0,0,0,,{\an5}LINKS AND
+Dialogue: 0,0:00:10.03,0:00:10.46,Default,,0,0,0,,{\an5}NOTES AND
+Dialogue: 0,0:00:10.46,0:00:10.92,Default,,0,0,0,,{\an5}NO ONE BUYS
+Dialogue: 0,0:00:10.92,0:00:11.53,Default,,0,0,0,,{\an5}DUPLICATES.
+Dialogue: 0,0:00:11.66,0:00:12.06,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:12.06,0:00:12.72,Default,,0,0,0,,{\an5}MOTHER MANAGES
+Dialogue: 0,0:00:12.72,0:00:13.14,Default,,0,0,0,,{\an5}THE LIST
+Dialogue: 0,0:00:13.14,0:00:13.61,Default,,0,0,0,,{\an5}AND UPDATES
+Dialogue: 0,0:00:13.61,0:00:14.30,Default,,0,0,0,,{\an5}EVERYONE WHENEVER
+Dialogue: 0,0:00:14.30,0:00:14.90,Default,,0,0,0,,{\an5}SOMETHING GETS
+Dialogue: 0,0:00:14.90,0:00:15.24,Default,,0,0,0,,{\an5}PURCHASED.
+Dialogue: 0,0:00:15.64,0:00:16.07,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:16.07,0:00:16.48,Default,,0,0,0,,{\an5}HAVE FINISHED
+Dialogue: 0,0:00:16.48,0:00:17.17,Default,,0,0,0,,{\an5}ALL MY SHOPPING
+Dialogue: 0,0:00:17.17,0:00:17.64,Default,,0,0,0,,{\an5}WEEKS BEFORE
+Dialogue: 0,0:00:17.64,0:00:18.07,Default,,0,0,0,,{\an5}THE LISTS
+Dialogue: 0,0:00:18.07,0:00:18.21,Default,,0,0,0,,{\an5}WENT
+Dialogue: 0,0:00:18.21,0:00:18.50,Default,,0,0,0,,{\an5}OUT.
+Dialogue: 0,0:00:18.67,0:00:19.12,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:19.12,0:00:19.76,Default,,0,0,0,,{\an5}ONE OF THE THINGS
+Dialogue: 0,0:00:19.76,0:00:20.21,Default,,0,0,0,,{\an5}I BOUGHT FOR
+Dialogue: 0,0:00:20.21,0:00:20.67,Default,,0,0,0,,{\an5}MY FATHER
+Dialogue: 0,0:00:20.67,0:00:21.17,Default,,0,0,0,,{\an5}WAS A CAST
+Dialogue: 0,0:00:21.17,0:00:21.76,Default,,0,0,0,,{\an5}IRON BRITTLE
+Dialogue: 0,0:00:21.76,0:00:22.19,Default,,0,0,0,,{\an5}SET HE'S
+Dialogue: 0,0:00:22.19,0:00:22.62,Default,,0,0,0,,{\an5}BEEN HINTING
+Dialogue: 0,0:00:22.62,0:00:22.85,Default,,0,0,0,,{\an5}IT FOR
+Dialogue: 0,0:00:22.85,0:00:23.71,Default,,0,0,0,,{\an5}AGES.
+Dialogue: 0,0:00:23.98,0:00:24.42,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:24.42,0:00:24.85,Default,,0,0,0,,{\an5}GRANDMOTHER,
+Dialogue: 0,0:00:25.07,0:00:25.62,Default,,0,0,0,,{\an5}WHO I'LL
+Dialogue: 0,0:00:25.62,0:00:26.32,Default,,0,0,0,,{\an5}CALL MARJORIE,
+Dialogue: 0,0:00:26.33,0:00:26.87,Default,,0,0,0,,{\an5}HAS ALWAYS
+Dialogue: 0,0:00:26.87,0:00:27.10,Default,,0,0,0,,{\an5}BEEN
+Dialogue: 0,0:00:27.10,0:00:27.37,Default,,0,0,0,,{\an5}INTENSE.
+Dialogue: 0,0:00:27.37,0:00:28.10,Default,,0,0,0,,{\an5}SHE'S
+Dialogue: 0,0:00:28.10,0:00:29.16,Default,,0,0,0,,{\an5}IN HER LATE 70S
+Dialogue: 0,0:00:29.16,0:00:29.71,Default,,0,0,0,,{\an5}SHARP
+Dialogue: 0,0:00:29.71,0:00:30.26,Default,,0,0,0,,{\an5}AS A BLADE
+Dialogue: 0,0:00:30.26,0:00:30.98,Default,,0,0,0,,{\an5}BUT EXTREMELY
+Dialogue: 0,0:00:30.98,0:00:31.51,Default,,0,0,0,,{\an5}CONTROLLING
+Dialogue: 0,0:00:31.51,0:00:32.07,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:32.07,0:00:32.64,Default,,0,0,0,,{\an5}WAS RAISED IN
+Dialogue: 0,0:00:32.64,0:00:33.15,Default,,0,0,0,,{\an5}AN ERA WHERE
+Dialogue: 0,0:00:33.15,0:00:33.70,Default,,0,0,0,,{\an5}CHAOS WAS
+Dialogue: 0,0:00:33.70,0:00:34.50,Default,,0,0,0,,{\an5}NORMAL AND
+Dialogue: 0,0:00:34.50,0:00:35.02,Default,,0,0,0,,{\an5}IT SHOWS IN
+Dialogue: 0,0:00:35.02,0:00:35.96,Default,,0,0,0,,{\an5}HOW SHE MICROMANAGES
+Dialogue: 0,0:00:35.96,0:00:36.64,Default,,0,0,0,,{\an5}EVERYTHING FROM
+Dialogue: 0,0:00:36.64,0:00:37.06,Default,,0,0,0,,{\an5}WHO CARVES
+Dialogue: 0,0:00:37.06,0:00:37.53,Default,,0,0,0,,{\an5}THE ROAST TO
+Dialogue: 0,0:00:37.53,0:00:38.14,Default,,0,0,0,,{\an5}WHICH CHAIRS PEOPLE
+Dialogue: 0,0:00:38.14,0:00:39.07,Default,,0,0,0,,{\an5}SIT
+Dialogue: 0,0:00:39.07,0:00:39.67,Default,,0,0,0,,{\an5}IN MY
+Dialogue: 0,0:00:39.67,0:00:40.21,Default,,0,0,0,,{\an5}FATHER STILL
+Dialogue: 0,0:00:40.21,0:00:40.78,Default,,0,0,0,,{\an5}FREEZES UP
+Dialogue: 0,0:00:40.78,0:00:41.34,Default,,0,0,0,,{\an5}WHEN SHE RAISES
+Dialogue: 0,0:00:41.34,0:00:41.84,Default,,0,0,0,,{\an5}HER VOICE
+Dialogue: 0,0:00:41.84,0:00:42.46,Default,,0,0,0,,{\an5}WHEN
+Dialogue: 0,0:00:42.46,0:00:42.97,Default,,0,0,0,,{\an5}SHE'S CHEERFUL
+Dialogue: 0,0:00:42.97,0:00:43.61,Default,,0,0,0,,{\an5}SHE'S GENUINELY
+Dialogue: 0,0:00:43.61,0:00:44.53,Default,,0,0,0,,{\an5}FUNNY BUT
+Dialogue: 0,0:00:44.53,0:00:45.03,Default,,0,0,0,,{\an5}THOSE MOMENTS
+Dialogue: 0,0:00:45.03,0:00:46.15,Default,,0,0,0,,{\an5}ARE RARE AFTER
+Dialogue: 0,0:00:46.15,0:00:46.60,Default,,0,0,0,,{\an5}THE LISTS
+Dialogue: 0,0:00:46.60,0:00:47.43,Default,,0,0,0,,{\an5}WENT OUT MY
+Dialogue: 0,0:00:47.43,0:00:47.93,Default,,0,0,0,,{\an5}MOTHER MARK
+Dialogue: 0,0:00:47.93,0:00:48.34,Default,,0,0,0,,{\an5}THE GRIDDLE
+Dialogue: 0,0:00:48.34,0:00:48.92,Default,,0,0,0,,{\an5}SET IS ALREADY
+Dialogue: 0,0:00:48.92,0:00:49.38,Default,,0,0,0,,{\an5}PURCHASED
+Dialogue: 0,0:00:49.38,0:00:49.85,Default,,0,0,0,,{\an5}SO NO
+Dialogue: 0,0:00:49.85,0:00:50.29,Default,,0,0,0,,{\an5}ONE ELSE WOULD
+Dialogue: 0,0:00:50.29,0:00:51.32,Default,,0,0,0,,{\an5}BUY IT SHE
+Dialogue: 0,0:00:51.32,0:00:51.92,Default,,0,0,0,,{\an5}SENT THE USUAL
+Dialogue: 0,0:00:51.92,0:00:52.52,Default,,0,0,0,,{\an5}UPDATE TO
+Dialogue: 0,0:00:52.52,0:00:52.79,Default,,0,0,0,,{\an5}OUR GROUP
+Dialogue: 0,0:00:52.79,0:00:53.02,Default,,0,0,0,,{\an5}CHAT.
+Dialogue: 0,0:00:53.20,0:00:53.65,Default,,0,0,0,,{\an5}A FEW
+Dialogue: 0,0:00:53.65,0:00:54.15,Default,,0,0,0,,{\an5}DAYS LATER,
+Dialogue: 0,0:00:54.38,0:00:54.92,Default,,0,0,0,,{\an5}MARJORIE
+Dialogue: 0,0:00:54.92,0:00:55.61,Default,,0,0,0,,{\an5}CALLED MY FATHER
+Dialogue: 0,0:00:55.61,0:00:56.11,Default,,0,0,0,,{\an5}AND DEMANDED
+Dialogue: 0,0:00:56.11,0:00:56.64,Default,,0,0,0,,{\an5}TO SPEAK TO
+Dialogue: 0,0:00:56.64,0:00:56.74,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:56.74,0:00:57.00,Default,,0,0,0,,{\an5}MOTHER.
+Dialogue: 0,0:00:57.17,0:00:57.60,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:57.60,0:00:58.25,Default,,0,0,0,,{\an5}PROUDLY ANNOUNCED
+Dialogue: 0,0:00:58.25,0:00:58.79,Default,,0,0,0,,{\an5}SHE HAD BOUGHT
+Dialogue: 0,0:00:58.79,0:00:59.32,Default,,0,0,0,,{\an5}HIM THE GRIDDLE
+Dialogue: 0,0:00:59.32,0:01:00.03,Default,,0,0,0,,{\an5}SET, PLUS
+Dialogue: 0,0:01:00.03,0:01:00.46,Default,,0,0,0,,{\an5}TWO OTHER
+Dialogue: 0,0:01:00.46,0:01:00.96,Default,,0,0,0,,{\an5}ITEMS THAT
+Dialogue: 0,0:01:00.96,0:01:01.56,Default,,0,0,0,,{\an5}WERE ALSO ALREADY
+Dialogue: 0,0:01:01.56,0:01:02.00,Default,,0,0,0,,{\an5}MARKED AS
+Dialogue: 0,0:01:02.00,0:01:02.32,Default,,0,0,0,,{\an5}PURCHASED.
+Dialogue: 0,0:01:02.60,0:01:03.17,Default,,0,0,0,,{\an5}MY MOTHER
+Dialogue: 0,0:01:03.17,0:01:03.89,Default,,0,0,0,,{\an5}GENTLY REMINDED
+Dialogue: 0,0:01:03.89,0:01:04.40,Default,,0,0,0,,{\an5}HER THAT ALL
+Dialogue: 0,0:01:04.40,0:01:04.90,Default,,0,0,0,,{\an5}THREE GIFTS
+Dialogue: 0,0:01:04.90,0:01:05.37,Default,,0,0,0,,{\an5}HAD BEEN CROSSED
+Dialogue: 0,0:01:05.37,0:01:05.76,Default,,0,0,0,,{\an5}OFF DAYS
+Dialogue: 0,0:01:05.76,0:01:06.07,Default,,0,0,0,,{\an5}EARLIER.
+Dialogue: 0,0:01:06.79,0:01:07.23,Default,,0,0,0,,{\an5}MARJORIE
+Dialogue: 0,0:01:07.23,0:01:08.00,Default,,0,0,0,,{\an5}IMMEDIATELY INSISTED
+Dialogue: 0,0:01:08.00,0:01:08.48,Default,,0,0,0,,{\an5}THAT SHE
+Dialogue: 0,0:01:08.48,0:01:09.28,Default,,0,0,0,,{\an5}HAD NEVER RECEIVED
+Dialogue: 0,0:01:09.28,0:01:09.78,Default,,0,0,0,,{\an5}ANY SUCH
+Dialogue: 0,0:01:09.78,0:01:10.28,Default,,0,0,0,,{\an5}NOTIFICATION
+Dialogue: 0,0:01:10.28,0:01:10.73,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:10.73,0:01:11.15,Default,,0,0,0,,{\an5}SAID THAT
+Dialogue: 0,0:01:11.15,0:01:11.93,Default,,0,0,0,,{\an5}EVERYONE
+Dialogue: 0,0:01:11.93,0:01:12.45,Default,,0,0,0,,{\an5}ELSE SHOULD
+Dialogue: 0,0:01:12.45,0:01:12.87,Default,,0,0,0,,{\an5}RETURN THEIR
+Dialogue: 0,0:01:12.87,0:01:13.15,Default,,0,0,0,,{\an5}ITEMS
+Dialogue: 0,0:01:13.15,0:01:13.50,Default,,0,0,0,,{\an5}INSTEAD.
+Dialogue: 0,0:01:13.90,0:01:14.34,Default,,0,0,0,,{\an5}RETURNING
+Dialogue: 0,0:01:14.34,0:01:15.43,Default,,0,0,0,,{\an5}HERS, APPARENTLY,
+Dialogue: 0,0:01:15.70,0:01:16.21,Default,,0,0,0,,{\an5}WAS NOT
+Dialogue: 0,0:01:16.21,0:01:16.35,Default,,0,0,0,,{\an5}AN
+Dialogue: 0,0:01:16.35,0:01:16.62,Default,,0,0,0,,{\an5}OPTION.
+Dialogue: 0,0:01:16.79,0:01:17.42,Default,,0,0,0,,{\an5}I DECIDED
+Dialogue: 0,0:01:17.42,0:01:17.92,Default,,0,0,0,,{\an5}I AM NOT
+Dialogue: 0,0:01:17.92,0:01:18.40,Default,,0,0,0,,{\an5}RETURNING THE
+Dialogue: 0,0:01:18.40,0:01:18.98,Default,,0,0,0,,{\an5}GIFT I CHOSE
+Dialogue: 0,0:01:18.98,0:01:19.26,Default,,0,0,0,,{\an5}FOR MY
+Dialogue: 0,0:01:19.26,0:01:19.48,Default,,0,0,0,,{\an5}DAD.
+Dialogue: 0,0:01:19.48,0:01:20.07,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:20.07,0:01:20.56,Default,,0,0,0,,{\an5}PICKED IT
+Dialogue: 0,0:01:20.56,0:01:21.43,Default,,0,0,0,,{\an5}MYSELF, LONG
+Dialogue: 0,0:01:21.43,0:01:21.98,Default,,0,0,0,,{\an5}BEFORE ANY
+Dialogue: 0,0:01:21.98,0:01:22.42,Default,,0,0,0,,{\an5}LISTS WENT
+Dialogue: 0,0:01:22.42,0:01:22.65,Default,,0,0,0,,{\an5}OUT.
+Dialogue: 0,0:01:22.78,0:01:23.20,Default,,0,0,0,,{\an5}AND I
+Dialogue: 0,0:01:23.20,0:01:23.76,Default,,0,0,0,,{\an5}KNOW HE'LL LOVE
+Dialogue: 0,0:01:23.76,0:01:24.37,Default,,0,0,0,,{\an5}IT, SINCE
+Dialogue: 0,0:01:24.37,0:01:24.81,Default,,0,0,0,,{\an5}I LIVE WITH
+Dialogue: 0,0:01:24.81,0:01:24.95,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:01:24.95,0:01:25.28,Default,,0,0,0,,{\an5}PARENTS.
+Dialogue: 0,0:01:25.59,0:01:26.00,Default,,0,0,0,,{\an5}HE'LL
+Dialogue: 0,0:01:26.00,0:01:26.62,Default,,0,0,0,,{\an5}GET MINE WEEKS
+Dialogue: 0,0:01:26.62,0:01:27.42,Default,,0,0,0,,{\an5}BEFORE MARJORIE
+Dialogue: 0,0:01:27.42,0:01:27.92,Default,,0,0,0,,{\an5}EVEN ARRIVES
+Dialogue: 0,0:01:27.92,0:01:28.45,Default,,0,0,0,,{\an5}FOR THE HOLIDAY
+Dialogue: 0,0:01:28.45,0:01:28.79,Default,,0,0,0,,{\an5}VISIT.
+Dialogue: 0,0:01:29.09,0:01:29.57,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:01:29.57,0:01:29.98,Default,,0,0,0,,{\an5}AWARE THAT
+Dialogue: 0,0:01:29.98,0:01:30.51,Default,,0,0,0,,{\an5}WHEN SHE FINDS
+Dialogue: 0,0:01:30.51,0:01:31.31,Default,,0,0,0,,{\an5}OUT, SHE'LL
+Dialogue: 0,0:01:31.31,0:01:31.90,Default,,0,0,0,,{\an5}LIKELY RETREAT
+Dialogue: 0,0:01:31.90,0:01:32.50,Default,,0,0,0,,{\an5}INTO SILENCE
+Dialogue: 0,0:01:32.50,0:01:32.73,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:01:32.73,0:01:33.01,Default,,0,0,0,,{\an5}MONTHS.
+Dialogue: 0,0:01:33.29,0:01:33.78,Default,,0,0,0,,{\an5}MAKING
+Dialogue: 0,0:01:33.78,0:01:34.21,Default,,0,0,0,,{\an5}A DRAMATIC
+Dialogue: 0,0:01:34.21,0:01:34.62,Default,,0,0,0,,{\an5}PRODUCTION
+Dialogue: 0,0:01:34.62,0:01:35.21,Default,,0,0,0,,{\an5}OUT OF BEING
+Dialogue: 0,0:01:35.21,0:01:35.78,Default,,0,0,0,,{\an5}WRONGED
+Dialogue: 0,0:01:35.78,0:01:36.29,Default,,0,0,0,,{\an5}BECAUSE SHE DOES
+Dialogue: 0,0:01:36.29,0:01:36.76,Default,,0,0,0,,{\an5}THIS EVERY
+Dialogue: 0,0:01:36.76,0:01:37.23,Default,,0,0,0,,{\an5}TIME ANYONE
+Dialogue: 0,0:01:37.23,0:01:38.18,Default,,0,0,0,,{\an5}CHALLENGES
+Dialogue: 0,0:01:38.18,0:01:38.56,Default,,0,0,0,,{\an5}HER.
+Dialogue: 0,0:01:38.70,0:01:39.20,Default,,0,0,0,,{\an5}THE PART
+Dialogue: 0,0:01:39.20,0:01:39.70,Default,,0,0,0,,{\an5}THAT MAKES ME
+Dialogue: 0,0:01:39.70,0:01:40.29,Default,,0,0,0,,{\an5}HESITATE IS
+Dialogue: 0,0:01:40.29,0:01:40.76,Default,,0,0,0,,{\an5}THAT SHE REALLY
+Dialogue: 0,0:01:40.76,0:01:41.23,Default,,0,0,0,,{\an5}DOES STRUGGLE
+Dialogue: 0,0:01:41.23,0:01:41.43,Default,,0,0,0,,{\an5}WITH
+Dialogue: 0,0:01:41.43,0:01:41.71,Default,,0,0,0,,{\an5}TECHNOLOGY.
+Dialogue: 0,0:01:42.29,0:01:42.78,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:42.78,0:01:43.18,Default,,0,0,0,,{\an5}CALLS MY
+Dialogue: 0,0:01:43.18,0:01:43.92,Default,,0,0,0,,{\an5}FATHER CONSTANTLY
+Dialogue: 0,0:01:43.92,0:01:44.35,Default,,0,0,0,,{\an5}FOR HELP
+Dialogue: 0,0:01:44.35,0:01:45.12,Default,,0,0,0,,{\an5}ADJUSTING SETTINGS,
+Dialogue: 0,0:01:45.45,0:01:45.90,Default,,0,0,0,,{\an5}OPENING
+Dialogue: 0,0:01:45.90,0:01:46.98,Default,,0,0,0,,{\an5}FILES, EVEN
+Dialogue: 0,0:01:46.98,0:01:47.50,Default,,0,0,0,,{\an5}FINDING HER
+Dialogue: 0,0:01:47.50,0:01:47.76,Default,,0,0,0,,{\an5}EMAIL.
+Dialogue: 0,0:01:47.76,0:01:48.18,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:48.18,0:01:48.64,Default,,0,0,0,,{\an5}IS GENUINELY
+Dialogue: 0,0:01:48.64,0:01:49.09,Default,,0,0,0,,{\an5}POSSIBLE
+Dialogue: 0,0:01:49.09,0:01:49.62,Default,,0,0,0,,{\an5}SHE NEVER
+Dialogue: 0,0:01:49.62,0:01:50.26,Default,,0,0,0,,{\an5}SAW THE UPDATED
+Dialogue: 0,0:01:50.26,0:01:50.84,Default,,0,0,0,,{\an5}LIST AND
+Dialogue: 0,0:01:50.84,0:01:51.37,Default,,0,0,0,,{\an5}SINCE RETURNING
+Dialogue: 0,0:01:51.37,0:01:51.79,Default,,0,0,0,,{\an5}THINGS TAKES
+Dialogue: 0,0:01:51.79,0:01:52.21,Default,,0,0,0,,{\an5}HER MUCH
+Dialogue: 0,0:01:52.70,0:01:53.14,Default,,0,0,0,,{\an5}LONGER
+Dialogue: 0,0:01:53.14,0:01:53.42,Default,,0,0,0,,{\an5}NOW.
+Dialogue: 0,0:01:53.51,0:01:54.14,Default,,0,0,0,,{\an5}I UNDERSTAND
+Dialogue: 0,0:01:54.14,0:01:54.70,Default,,0,0,0,,{\an5}WHY SHE'D
+Dialogue: 0,0:01:54.70,0:01:55.12,Default,,0,0,0,,{\an5}PREFER NOT
+Dialogue: 0,0:01:55.12,0:01:55.54,Default,,0,0,0,,{\an5}TO DEAL WITH
+Dialogue: 0,0:01:55.54,0:01:55.70,Default,,0,0,0,,{\an5}THAT.
+Dialogue: 0,0:01:55.81,0:01:56.31,Default,,0,0,0,,{\an5}BUT AT
+Dialogue: 0,0:01:56.31,0:01:56.93,Default,,0,0,0,,{\an5}THE SAME TIME,
+Dialogue: 0,0:01:57.01,0:01:57.42,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:57.42,0:01:57.90,Default,,0,0,0,,{\an5}REFUSES
+Dialogue: 0,0:01:57.90,0:01:58.71,Default,,0,0,0,,{\an5}TO ACKNOWLEDGE ANYONE
+Dialogue: 0,0:01:58.71,0:01:59.12,Default,,0,0,0,,{\an5}ELSE'S
+Dialogue: 0,0:01:59.12,0:01:59.37,Default,,0,0,0,,{\an5}EFFORT.
+Dialogue: 0,0:01:59.59,0:02:00.28,Default,,0,0,0,,{\an5}SHE SIMPLY
+Dialogue: 0,0:02:00.28,0:02:00.84,Default,,0,0,0,,{\an5}EXPECTS THE
+Dialogue: 0,0:02:00.84,0:02:01.26,Default,,0,0,0,,{\an5}WORLD TO
+Dialogue: 0,0:02:01.26,0:02:01.78,Default,,0,0,0,,{\an5}REORGANIZE
+Dialogue: 0,0:02:01.78,0:02:02.29,Default,,0,0,0,,{\an5}ITSELF AROUND
+Dialogue: 0,0:02:02.29,0:02:02.51,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:02:02.51,0:02:02.84,Default,,0,0,0,,{\an5}CHOICES.
+Dialogue: 0,0:02:03.20,0:02:03.64,Default,,0,0,0,,{\an5}THAT'S
+Dialogue: 0,0:02:03.64,0:02:04.26,Default,,0,0,0,,{\an5}WHAT SHE HAS ALWAYS
+Dialogue: 0,0:02:04.26,0:02:04.51,Default,,0,0,0,,{\an5}DONE.
+Dialogue: 0,0:02:05.00,0:02:05.43,Default,,0,0,0,,{\an5}MISKEEPING
+Dialogue: 0,0:02:05.43,0:02:05.84,Default,,0,0,0,,{\an5}MY GIFT
+Dialogue: 0,0:02:05.84,0:02:06.12,Default,,0,0,0,,{\an5}THE RIGHT
+Dialogue: 0,0:02:06.12,0:02:06.48,Default,,0,0,0,,{\an5}CHOICE.
+Dialogue: 0,0:02:06.68,0:02:07.15,Default,,0,0,0,,{\an5}OR DID
+Dialogue: 0,0:02:07.15,0:02:07.65,Default,,0,0,0,,{\an5}I JUST LIGHT
+Dialogue: 0,0:02:07.65,0:02:08.13,Default,,0,0,0,,{\an5}THE MASH FOR
+Dialogue: 0,0:02:08.13,0:02:08.53,Default,,0,0,0,,{\an5}ANOTHER ONE
+Dialogue: 0,0:02:08.53,0:02:09.00,Default,,0,0,0,,{\an5}OF HER DRAMATIC
+Dialogue: 0,0:02:09.00,0:02:09.37,Default,,0,0,0,,{\an5}STORMS?

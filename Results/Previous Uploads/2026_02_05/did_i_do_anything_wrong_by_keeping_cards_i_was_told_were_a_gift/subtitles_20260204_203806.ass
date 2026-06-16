@@ -1,0 +1,144 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.72,0:00:04.40,Default,,0,0,0,,\N{\k7}IN {\k24}EARLY {\k36}WINTER,
+Dialogue: 0,0:00:04.70,0:00:05.36,Default,,0,0,0,,\N{\k12}A {\k31}COLLEAGUE {\k22}FROM
+Dialogue: 0,0:00:05.36,0:00:06.04,Default,,0,0,0,,\N{\k15}WORK {\k26}OFFERED {\k17}ME {\k8}A
+Dialogue: 0,0:00:06.04,0:00:06.74,Default,,0,0,0,,\N{\k20}LARGE {\k21}COLLECTION {\k28}OF
+Dialogue: 0,0:00:06.74,0:00:07.40,Default,,0,0,0,,\N{\k25}TRADING {\k20}CARDS {\k20}THAT
+Dialogue: 0,0:00:07.40,0:00:08.08,Default,,0,0,0,,\N{\k11}SHE {\k14}SET {\k13}HER {\k28}PARTNER
+Dialogue: 0,0:00:08.08,0:00:08.85,Default,,0,0,0,,\N{\k17}NEAR {\k25}LONGER {\k33}WANTED.
+Dialogue: 0,0:00:09.67,0:00:10.38,Default,,0,0,0,,\N{\k17}I {\k22}GREED, {\k6}AND
+Dialogue: 0,0:00:10.38,0:00:11.09,Default,,0,0,0,,\N{\k13}SHE {\k20}ENDED {\k19}UP {\k17}HANDING
+Dialogue: 0,0:00:11.09,0:00:12.03,Default,,0,0,0,,\N{\k20}OVER {\k23}SEVERAL {\k50}BRIEFCASES
+Dialogue: 0,0:00:12.03,0:00:12.82,Default,,0,0,0,,\N{\k24}PACKED {\k22}FULL {\k11}OF {\k20}CARDS.
+Dialogue: 0,0:00:13.56,0:00:14.19,Default,,0,0,0,,\N{\k24}AS {\k9}I {\k29}STARTED
+Dialogue: 0,0:00:14.19,0:00:14.88,Default,,0,0,0,,\N{\k30}SORTING {\k22}THROUGH {\k16}THEM,
+Dialogue: 0,0:00:15.08,0:00:15.74,Default,,0,0,0,,\N{\k3}I {\k30}REALISED {\k24}THERE {\k8}WERE
+Dialogue: 0,0:00:15.74,0:00:16.53,Default,,0,0,0,,\N{\k8}A {\k39}SIGNIFICANT {\k32}NUMBER
+Dialogue: 0,0:00:16.53,0:00:17.16,Default,,0,0,0,,\N{\k12}OF {\k26}VALUABLE {\k23}ONES
+Dialogue: 0,0:00:17.16,0:00:17.76,Default,,0,0,0,,\N{\k28}MIXED {\k16}IN {\k16}WITH
+Dialogue: 0,0:00:17.76,0:00:18.51,Default,,0,0,0,,\N{\k7}THE {\k17}BULK, {\k16}SOME
+Dialogue: 0,0:00:18.51,0:00:19.19,Default,,0,0,0,,\N{\k19}WORTH {\k24}QUITE {\k11}A {\k12}BIT
+Dialogue: 0,0:00:19.19,0:00:19.67,Default,,0,0,0,,\N{\k48}INDIVIDUALLY.
+Dialogue: 0,0:00:20.53,0:00:21.21,Default,,0,0,0,,\N{\k30}THAT {\k26}RAISED {\k11}THE
+Dialogue: 0,0:00:21.21,0:00:21.83,Default,,0,0,0,,\N{\k12}RED {\k17}FLAG {\k21}FOR {\k10}ME,
+Dialogue: 0,0:00:21.85,0:00:22.48,Default,,0,0,0,,\N{\k14}SO {\k5}I {\k28}MESSAGED {\k14}MY
+Dialogue: 0,0:00:22.48,0:00:23.12,Default,,0,0,0,,\N{\k28}COLLEAGUE {\k16}TO {\k19}DOUBLE
+Dialogue: 0,0:00:23.12,0:00:23.78,Default,,0,0,0,,\N{\k14}CHECK {\k17}THAT {\k9}HER {\k24}PARTNER
+Dialogue: 0,0:00:23.78,0:00:24.42,Default,,0,0,0,,\N{\k21}TRULY {\k21}MEANT {\k12}TO {\k8}GIVE
+Dialogue: 0,0:00:24.42,0:00:25.03,Default,,0,0,0,,\N{\k19}AWAY {\k16}THE {\k25}ENTIRE
+Dialogue: 0,0:00:25.03,0:00:26.16,Default,,0,0,0,,\N{\k44}COLLECTION, {\k37}ESPECIALLY
+Dialogue: 0,0:00:26.16,0:00:26.85,Default,,0,0,0,,\N{\k23}KNOWING {\k16}THERE {\k12}WAS {\k17}REAL
+Dialogue: 0,0:00:26.85,0:00:27.55,Default,,0,0,0,,\N{\k24}VALUE {\k45}INVOLVED.
+Dialogue: 0,0:00:28.19,0:00:28.89,Default,,0,0,0,,\N{\k35}SHE {\k33}REASSURED
+Dialogue: 0,0:00:28.89,0:00:29.76,Default,,0,0,0,,\N{\k17}ME {\k12}THAT {\k8}IT {\k9}WAS {\k38}INTENTIONAL,
+Dialogue: 0,0:00:30.42,0:00:31.19,Default,,0,0,0,,\N{\k13}SAID {\k12}HE {\k10}NO {\k21}LONGER {\k19}PLAYED,
+Dialogue: 0,0:00:31.42,0:00:32.15,Default,,0,0,0,,\N{\k3}AND {\k14}TOLD {\k16}ME {\k13}TO {\k25}ENJOY
+Dialogue: 0,0:00:32.15,0:00:32.35,Default,,0,0,0,,\N{\k20}THEM.
+Dialogue: 0,0:00:33.21,0:00:33.84,Default,,0,0,0,,\N{\k28}TAKING {\k15}HER {\k6}AT {\k12}HER
+Dialogue: 0,0:00:33.84,0:00:34.47,Default,,0,0,0,,\N{\k21}WORD, {\k3}I {\k15}KEPT
+Dialogue: 0,0:00:34.47,0:00:34.78,Default,,0,0,0,,\N{\k16}THE {\k14}CARDS.
+Dialogue: 0,0:00:35.71,0:00:36.32,Default,,0,0,0,,\N{\k14}I {\k16}BUILT {\k15}A {\k14}FEW
+Dialogue: 0,0:00:36.32,0:00:36.93,Default,,0,0,0,,\N{\k15}DECKS {\k16}FOR {\k29}MYSELF,
+Dialogue: 0,0:00:37.34,0:00:38.02,Default,,0,0,0,,\N{\k15}TRADED {\k17}SOME {\k20}WITH {\k14}OTHER
+Dialogue: 0,0:00:38.02,0:00:38.65,Default,,0,0,0,,\N{\k29}PLAYERS, {\k5}AND
+Dialogue: 0,0:00:38.65,0:00:39.34,Default,,0,0,0,,\N{\k14}SOLD {\k17}A {\k17}PORTION {\k18}TO
+Dialogue: 0,0:00:39.34,0:00:40.00,Default,,0,0,0,,\N{\k3}A {\k17}LOCAL {\k23}GAME {\k20}SHOP,
+Dialogue: 0,0:00:40.28,0:00:40.97,Default,,0,0,0,,\N{\k14}MAKING {\k15}A {\k14}FEW {\k25}HUNDRED
+Dialogue: 0,0:00:40.97,0:00:41.75,Default,,0,0,0,,\N{\k28}DOLLARS {\k14}IN {\k7}THE {\k28}PROCESS.
+Dialogue: 0,0:00:42.84,0:00:43.53,Default,,0,0,0,,\N{\k35}EVERYTHING {\k33}SEEMED
+Dialogue: 0,0:00:43.53,0:00:44.29,Default,,0,0,0,,\N{\k30}SETTLED {\k23}UNTIL {\k21}MONTHS
+Dialogue: 0,0:00:44.29,0:00:45.11,Default,,0,0,0,,\N{\k34}LATER, {\k9}WHEN
+Dialogue: 0,0:00:45.11,0:00:45.88,Default,,0,0,0,,\N{\k16}MY {\k24}COLLEAGUE {\k35}APPROACHED
+Dialogue: 0,0:00:45.88,0:00:46.60,Default,,0,0,0,,\N{\k15}ME {\k14}AT {\k11}WORK {\k14}AND {\k16}ASKED
+Dialogue: 0,0:00:46.60,0:00:47.42,Default,,0,0,0,,\N{\k15}FOR {\k10}ALL {\k11}THE {\k17}CARDS {\k26}BACK.
+Dialogue: 0,0:00:48.21,0:00:48.92,Default,,0,0,0,,\N{\k24}SHE {\k25}ADMITTED {\k20}THAT
+Dialogue: 0,0:00:48.92,0:00:49.70,Default,,0,0,0,,\N{\k14}SHE {\k9}HAD {\k16}NEVER {\k38}ACTUALLY
+Dialogue: 0,0:00:49.70,0:00:50.50,Default,,0,0,0,,\N{\k19}ASKED {\k12}HER {\k27}PARTNER {\k20}BEFORE
+Dialogue: 0,0:00:50.50,0:00:51.24,Default,,0,0,0,,\N{\k17}GIVING {\k16}THEM {\k21}AWAY, {\k6}AND
+Dialogue: 0,0:00:51.24,0:00:51.84,Default,,0,0,0,,\N{\k10}THAT {\k11}HE {\k10}WAS {\k28}FURIOUS
+Dialogue: 0,0:00:51.84,0:00:52.60,Default,,0,0,0,,\N{\k19}WHEN {\k14}HE {\k17}FOUND {\k24}OUT.
+Dialogue: 0,0:00:53.29,0:00:53.89,Default,,0,0,0,,\N{\k16}I {\k15}TOLD {\k17}HER {\k10}I
+Dialogue: 0,0:00:53.89,0:00:54.64,Default,,0,0,0,,\N{\k10}WAS {\k24}WILLING {\k17}TO {\k21}RETURN
+Dialogue: 0,0:00:54.64,0:00:55.39,Default,,0,0,0,,\N{\k15}WHATEVER {\k40}CARDS {\k19}I
+Dialogue: 0,0:00:55.39,0:00:56.21,Default,,0,0,0,,\N{\k21}STILL {\k17}HAD, {\k5}BUT {\k24}EXPLAINED
+Dialogue: 0,0:00:56.21,0:00:56.96,Default,,0,0,0,,\N{\k17}THAT {\k17}MANY {\k20}HAD {\k17}ALREADY
+Dialogue: 0,0:00:56.96,0:00:57.61,Default,,0,0,0,,\N{\k19}BEEN {\k24}TREATED {\k21}OR
+Dialogue: 0,0:00:57.61,0:00:58.42,Default,,0,0,0,,\N{\k17}SOLD {\k14}AND {\k8}WERE {\k13}NO {\k26}LONGER
+Dialogue: 0,0:00:58.42,0:00:59.00,Default,,0,0,0,,\N{\k15}IN {\k7}MY {\k34}POSSESSION.
+Dialogue: 0,0:00:59.74,0:01:00.53,Default,,0,0,0,,\N{\k28}THAT {\k23}ANSWER {\k28}UPSET
+Dialogue: 0,0:01:00.53,0:01:01.47,Default,,0,0,0,,\N{\k17}HER {\k32}FURTHER, {\k15}AND
+Dialogue: 0,0:01:01.47,0:01:02.11,Default,,0,0,0,,\N{\k14}SHE {\k30}INSISTED {\k19}THAT
+Dialogue: 0,0:01:02.11,0:01:02.85,Default,,0,0,0,,\N{\k10}THEY {\k20}ALSO {\k19}HAND {\k24}OVER
+Dialogue: 0,0:01:02.85,0:01:03.52,Default,,0,0,0,,\N{\k10}THE {\k19}MONEY {\k16}I {\k10}HAD {\k10}MADE
+Dialogue: 0,0:01:03.52,0:01:04.21,Default,,0,0,0,,\N{\k19}SO {\k14}HER {\k23}PARTNER {\k12}COULD
+Dialogue: 0,0:01:04.21,0:01:04.92,Default,,0,0,0,,\N{\k15}TRY {\k14}TO {\k21}REPLACE {\k18}THE
+Dialogue: 0,0:01:04.92,0:01:05.37,Default,,0,0,0,,\N{\k20}MISSING {\k25}CARDS.
+Dialogue: 0,0:01:06.12,0:01:06.73,Default,,0,0,0,,\N{\k23}I {\k37}REFUSED,
+Dialogue: 0,0:01:06.98,0:01:07.68,Default,,0,0,0,,\N{\k25}EXPLAINING {\k24}THAT {\k7}I {\k12}HAD
+Dialogue: 0,0:01:07.68,0:01:08.40,Default,,0,0,0,,\N{\k21}ACTED {\k15}IN {\k12}GOOD {\k21}FAITH
+Dialogue: 0,0:01:08.40,0:01:09.07,Default,,0,0,0,,\N{\k35}BASED {\k5}ON {\k12}WHAT {\k14}SHE
+Dialogue: 0,0:01:09.07,0:01:09.68,Default,,0,0,0,,\N{\k18}TOLD {\k19}ME {\k10}AND {\k12}THAT
+Dialogue: 0,0:01:09.68,0:01:10.71,Default,,0,0,0,,\N{\k11}I {\k14}WAS {\k18}ALREADY {\k59}COMPROMISING
+Dialogue: 0,0:01:10.71,0:01:11.40,Default,,0,0,0,,\N{\k18}BY {\k31}RETURNING {\k18}WHAT
+Dialogue: 0,0:01:11.40,0:01:11.68,Default,,0,0,0,,\N{\k28}REMAINED.
+Dialogue: 0,0:01:12.48,0:01:13.12,Default,,0,0,0,,\N{\k23}THE {\k40}CONVERSATION
+Dialogue: 0,0:01:13.12,0:01:13.90,Default,,0,0,0,,\N{\k53}ESCALATED, {\k8}SHE
+Dialogue: 0,0:01:13.90,0:01:14.56,Default,,0,0,0,,\N{\k21}ACCUSED {\k17}ME {\k10}OF {\k15}MAKING
+Dialogue: 0,0:01:14.56,0:01:15.54,Default,,0,0,0,,\N{\k34}THINGS {\k17}WORSE, {\k6}AND
+Dialogue: 0,0:01:15.54,0:01:16.29,Default,,0,0,0,,\N{\k35}EVENTUALLY {\k39}STORMED
+Dialogue: 0,0:01:16.29,0:01:16.48,Default,,0,0,0,,\N{\k18}OFF.
+Dialogue: 0,0:01:17.29,0:01:18.04,Default,,0,0,0,,\N{\k24}SINCE {\k23}THEN, {\k8}SHE
+Dialogue: 0,0:01:18.04,0:01:18.65,Default,,0,0,0,,\N{\k11}HAS {\k26}BARELY {\k23}SPOKEN
+Dialogue: 0,0:01:18.65,0:01:19.28,Default,,0,0,0,,\N{\k21}TO {\k14}ME, {\k4}AND {\k7}I
+Dialogue: 0,0:01:19.28,0:01:20.06,Default,,0,0,0,,\N{\k6}AM {\k11}LEFT {\k26}HOLDING {\k15}THE {\k18}REMAINING
+Dialogue: 0,0:01:20.06,0:01:20.71,Default,,0,0,0,,\N{\k29}CARDS {\k23}WHILE {\k12}THE
+Dialogue: 0,0:01:20.71,0:01:21.42,Default,,0,0,0,,\N{\k28}SITUATION {\k42}STAYS
+Dialogue: 0,0:01:21.42,0:01:22.00,Default,,0,0,0,,\N{\k23}TENSE {\k12}AT {\k21}WORK.
+Dialogue: 0,0:01:22.90,0:01:23.62,Default,,0,0,0,,\N{\k15}TO {\k7}BE {\k20}CLEAR, {\k4}I
+Dialogue: 0,0:01:23.62,0:01:24.29,Default,,0,0,0,,\N{\k9}HAD {\k14}WARNED {\k18}HER {\k25}UPFRONT
+Dialogue: 0,0:01:24.29,0:01:24.95,Default,,0,0,0,,\N{\k14}THAT {\k15}SOME {\k10}OF {\k7}THE {\k17}CARDS
+Dialogue: 0,0:01:24.95,0:01:25.79,Default,,0,0,0,,\N{\k16}WERE {\k35}VALUABLE, {\k7}AND
+Dialogue: 0,0:01:25.79,0:01:26.45,Default,,0,0,0,,\N{\k7}THE {\k26}COLLECTION {\k31}ITSELF
+Dialogue: 0,0:01:26.45,0:01:27.12,Default,,0,0,0,,\N{\k20}WAS {\k28}MOSTLY {\k18}LOW
+Dialogue: 0,0:01:27.12,0:01:27.85,Default,,0,0,0,,\N{\k28}VALUE {\k31}ITEMS {\k14}OF
+Dialogue: 0,0:01:27.85,0:01:28.50,Default,,0,0,0,,\N{\k9}THE {\k20}SMALLER {\k34}NUMBER
+Dialogue: 0,0:01:28.50,0:01:29.28,Default,,0,0,0,,\N{\k15}OF {\k34}EXPENSIVE {\k28}ONES
+Dialogue: 0,0:01:29.28,0:01:29.78,Default,,0,0,0,,\N{\k31}MIXED {\k18}IN.
+Dialogue: 0,0:01:30.59,0:01:31.35,Default,,0,0,0,,\N{\k28}I {\k7}HAVE {\k12}NO {\k28}DIRECT
+Dialogue: 0,0:01:31.35,0:01:32.06,Default,,0,0,0,,\N{\k42}RELATIONSHIP {\k28}WITH
+Dialogue: 0,0:01:32.06,0:01:32.81,Default,,0,0,0,,\N{\k6}HER {\k29}PARTNER, {\k5}AND
+Dialogue: 0,0:01:32.81,0:01:33.62,Default,,0,0,0,,\N{\k12}SHE {\k7}IS {\k12}THE {\k20}ONLY {\k28}CHANNEL
+Dialogue: 0,0:01:33.62,0:01:34.48,Default,,0,0,0,,\N{\k14}I {\k11}HAVE {\k10}TO {\k21}RETURN {\k28}ANYTHING
+Dialogue: 0,0:01:34.48,0:01:34.79,Default,,0,0,0,,\N{\k15}TO {\k15}HIM.
+Dialogue: 0,0:01:35.54,0:01:36.23,Default,,0,0,0,,\N{\k37}LATER, {\k7}I
+Dialogue: 0,0:01:36.23,0:01:37.00,Default,,0,0,0,,\N{\k26}MANAGED {\k20}TO {\k29}CONTACT
+Dialogue: 0,0:01:37.00,0:01:38.14,Default,,0,0,0,,\N{\k21}HIM {\k37}DIRECTLY, {\k14}SHARE
+Dialogue: 0,0:01:38.14,0:01:39.07,Default,,0,0,0,,\N{\k20}PROOF {\k17}THAT {\k10}I {\k11}HAD {\k34}CONFIRMED
+Dialogue: 0,0:01:39.07,0:01:39.76,Default,,0,0,0,,\N{\k20}THE {\k14}GIFT {\k34}BEFOREHAND,
+Dialogue: 0,0:01:40.07,0:01:40.79,Default,,0,0,0,,\N{\k4}A {\k17}RANGE {\k18}TO {\k11}GIVE {\k20}BACK
+Dialogue: 0,0:01:40.79,0:01:41.59,Default,,0,0,0,,\N{\k20}WHAT {\k14}I {\k21}STILL {\k23}HAD.
+Dialogue: 0,0:01:42.37,0:01:43.07,Default,,0,0,0,,\N{\k40}HE {\k14}TOLD {\k15}ME
+Dialogue: 0,0:01:43.07,0:01:43.79,Default,,0,0,0,,\N{\k14}NOT {\k14}TO {\k23}WORRY {\k20}ABOUT
+Dialogue: 0,0:01:43.79,0:01:44.45,Default,,0,0,0,,\N{\k12}THE {\k17}SOLD {\k14}OR {\k21}TRADED
+Dialogue: 0,0:01:44.45,0:01:45.06,Default,,0,0,0,,\N{\k26}CARDS {\k20}AND {\k14}PLAN
+Dialogue: 0,0:01:45.06,0:01:45.84,Default,,0,0,0,,\N{\k17}TO {\k14}RESOLVE {\k24}THE {\k21}FINANCIAL
+Dialogue: 0,0:01:45.84,0:01:46.65,Default,,0,0,0,,\N{\k28}SIDE {\k31}DIRECTLY {\k21}WITH
+Dialogue: 0,0:01:46.65,0:01:46.78,Default,,0,0,0,,\N{\k12}HER.
+Dialogue: 0,0:01:47.45,0:01:48.54,Default,,0,0,0,,\N{\k28}EVEN {\k24}SO, {\k12}THE
+Dialogue: 0,0:01:48.54,0:01:49.29,Default,,0,0,0,,\N{\k15}WHOLE {\k34}SITUATION {\k25}HAS
+Dialogue: 0,0:01:49.29,0:01:50.14,Default,,0,0,0,,\N{\k14}LEFT {\k18}ME {\k25}WONDERING {\k26}WHETHER
+Dialogue: 0,0:01:50.14,0:01:50.78,Default,,0,0,0,,\N{\k15}I {\k28}HANDLED {\k20}THIS
+Dialogue: 0,0:01:50.78,0:01:51.70,Default,,0,0,0,,\N{\k17}AS {\k20}FAIRLY {\k18}AS {\k35}ECHOED,
+Dialogue: 0,0:01:51.79,0:01:52.43,Default,,0,0,0,,\N{\k7}OR {\k12}IF {\k6}I {\k17}CROSSED {\k10}A {\k9}LINE
+Dialogue: 0,0:01:52.43,0:01:53.04,Default,,0,0,0,,\N{\k15}BY {\k18}KEEPING {\k26}WHAT
+Dialogue: 0,0:01:53.04,0:01:53.79,Default,,0,0,0,,\N{\k7}I {\k11}WAS {\k14}TOLD {\k20}WAS {\k21}MINE.

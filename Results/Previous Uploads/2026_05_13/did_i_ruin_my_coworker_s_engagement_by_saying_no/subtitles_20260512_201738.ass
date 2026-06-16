@@ -1,0 +1,146 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.25,0:00:03.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}I'M {\k29}27F
+Dialogue: 0,0:00:03.85,0:00:04.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}AND {\k12}WORK {\k17}AT
+Dialogue: 0,0:00:04.46,0:00:05.13,Default,,0,0,0,,{\an8\pos(960,420)}{\k2}A {\k23}SPORTS {\k24}BAR {\k17}WITH
+Dialogue: 0,0:00:05.13,0:00:06.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}A {\k13}GUY {\k14}I'LL {\k15}CALL {\k32}JASON
+Dialogue: 0,0:00:06.00,0:00:06.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k62}32M
+Dialogue: 0,0:00:07.33,0:00:07.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ABOUT
+Dialogue: 0,0:00:07.55,0:00:08.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}A {\k8}MONTH {\k21}AGO {\k15}HE {\k22}STARTED
+Dialogue: 0,0:00:08.33,0:00:09.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}TELLING {\k33}EVERYONE
+Dialogue: 0,0:00:09.00,0:00:09.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AT {\k14}WORK {\k21}ABOUT {\k14}THIS
+Dialogue: 0,0:00:09.66,0:00:10.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}ELABORATE {\k47}PROPOSAL
+Dialogue: 0,0:00:10.43,0:00:11.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}HE {\k5}HAD {\k22}PLANNED {\k16}FOR
+Dialogue: 0,0:00:11.08,0:00:11.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HIS {\k35}GIRLFRIEND.
+Dialogue: 0,0:00:12.24,0:00:12.41,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HE
+Dialogue: 0,0:00:12.41,0:00:13.08,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}BOUGHT {\k22}TICKETS {\k19}TO {\k8}A
+Dialogue: 0,0:00:13.08,0:00:13.72,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HUGE {\k29}WEEKEND {\k20}MUSIC
+Dialogue: 0,0:00:13.72,0:00:14.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}FESTIVAL {\k16}IN {\k18}ANOTHER
+Dialogue: 0,0:00:14.46,0:00:15.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}CITY {\k16}AND {\k36}APPARENTLY
+Dialogue: 0,0:00:15.30,0:00:15.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WANTED {\k20}TO {\k19}PROPOSE
+Dialogue: 0,0:00:15.93,0:00:16.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}DURING {\k16}A {\k23}FIREWORKS
+Dialogue: 0,0:00:16.69,0:00:17.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SHOW {\k25}AFTER {\k16}THE
+Dialogue: 0,0:00:17.39,0:00:18.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}FINAL {\k44}PERFORMANCE.
+Dialogue: 0,0:00:18.96,0:00:19.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}EVERY
+Dialogue: 0,0:00:19.26,0:00:20.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SHIFT {\k17}HE {\k16}TALKED {\k25}ABOUT
+Dialogue: 0,0:00:20.03,0:00:20.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HOW {\k28}PERFECT {\k17}IT
+Dialogue: 0,0:00:20.66,0:00:21.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k16}GOING {\k13}TO {\k17}BE.
+Dialogue: 0,0:00:21.83,0:00:22.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THE
+Dialogue: 0,0:00:22.03,0:00:22.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}PROBLEM {\k16}WAS {\k11}THAT {\k16}JASON
+Dialogue: 0,0:00:22.71,0:00:23.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}SOMEHOW {\k26}FORGOT
+Dialogue: 0,0:00:23.32,0:00:24.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TO {\k16}REQUEST {\k21}THE {\k19}WEEKEND
+Dialogue: 0,0:00:24.07,0:00:24.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}OFF {\k14}FROM {\k27}WORK.
+Dialogue: 0,0:00:25.30,0:00:25.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HE
+Dialogue: 0,0:00:25.51,0:00:26.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}DIDN'T {\k19}NOTICE {\k25}UNTIL
+Dialogue: 0,0:00:26.23,0:00:26.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k21}SCHEDULE {\k20}WAS {\k17}ALREADY
+Dialogue: 0,0:00:26.96,0:00:27.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}POSTED,
+Dialogue: 0,0:00:27.57,0:00:28.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}AND {\k44}UNFORTUNATELY {\k21}HE
+Dialogue: 0,0:00:28.35,0:00:29.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k23}ASSIGNED {\k19}ONE {\k10}OF
+Dialogue: 0,0:00:29.00,0:00:29.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k33}BUSIEST {\k19}FRIDAY
+Dialogue: 0,0:00:29.64,0:00:30.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}NIGHT {\k19}SHIFTS {\k17}OF {\k8}THE
+Dialogue: 0,0:00:30.32,0:00:30.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}MONTH.
+Dialogue: 0,0:00:31.28,0:00:32.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ONCE {\k9}HE {\k28}REALIZED, {\k31}HE
+Dialogue: 0,0:00:32.15,0:00:32.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}STARTED {\k38}SCRAMBLING
+Dialogue: 0,0:00:32.85,0:00:33.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TO {\k9}GET {\k17}SOMEONE {\k14}TO {\k16}TAKE
+Dialogue: 0,0:00:33.60,0:00:33.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}IT.
+Dialogue: 0,0:00:34.34,0:00:34.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}HE
+Dialogue: 0,0:00:34.53,0:00:35.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}ASKED {\k22}PRETTY {\k25}MUCH
+Dialogue: 0,0:00:35.14,0:00:35.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}EVERYONE {\k28}FIRST,
+Dialogue: 0,0:00:36.11,0:00:36.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}BUT {\k21}MOST {\k25}PEOPLE {\k25}EITHER
+Dialogue: 0,0:00:36.93,0:00:37.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}ALREADY {\k10}HAD {\k19}PLANS
+Dialogue: 0,0:00:37.53,0:00:38.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OR {\k25}DIDN'T {\k10}WANT {\k14}TO
+Dialogue: 0,0:00:38.20,0:00:39.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}GIVE {\k14}UP {\k10}A {\k27}PROFITABLE {\k42}SHIFT.
+Dialogue: 0,0:00:39.84,0:00:40.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}I
+Dialogue: 0,0:00:40.03,0:00:40.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}HAPPENED {\k16}TO {\k7}BE {\k11}OFF
+Dialogue: 0,0:00:40.65,0:00:41.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THAT {\k17}NIGHT, {\k21}SO {\k34}EVENTUALLY
+Dialogue: 0,0:00:41.52,0:00:42.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}HE {\k16}CAME {\k13}TO {\k14}ME.
+Dialogue: 0,0:00:42.92,0:00:43.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}AT {\k9}THE {\k17}TIME {\k12}I {\k14}HAD
+Dialogue: 0,0:00:43.56,0:00:44.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}JUST {\k34}FINISHED {\k17}A
+Dialogue: 0,0:00:44.20,0:00:44.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}BRUTAL {\k30}STRETCH {\k19}OF
+Dialogue: 0,0:00:44.89,0:00:45.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}WORKDAYS {\k14}AND {\k11}WAS {\k22}ALSO
+Dialogue: 0,0:00:45.70,0:00:46.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}HELPING {\k16}MY {\k19}COUSIN {\k22}MOVE
+Dialogue: 0,0:00:46.52,0:00:47.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}APARTMENTS {\k25}THAT
+Dialogue: 0,0:00:47.14,0:00:47.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WEEKEND.
+Dialogue: 0,0:00:48.14,0:00:48.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}I
+Dialogue: 0,0:00:48.34,0:00:49.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DIDN'T {\k10}HAVE {\k15}SOME {\k25}HUGE
+Dialogue: 0,0:00:49.11,0:00:49.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}EVENT {\k20}PLANNED {\k14}THAT {\k14}NIGHT
+Dialogue: 0,0:00:49.78,0:00:50.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k51}SPECIFICALLY,
+Dialogue: 0,0:00:50.64,0:00:51.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}BUT {\k10}I {\k17}REALLY {\k24}WANTED
+Dialogue: 0,0:00:51.28,0:00:52.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THE {\k15}EVENING {\k15}TO {\k37}DECOMPRESS
+Dialogue: 0,0:00:52.11,0:00:52.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AND {\k11}CATCH {\k20}UP {\k10}ON {\k17}THINGS.
+Dialogue: 0,0:00:53.74,0:00:54.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k28}POLITELY {\k19}TOLD {\k20}HIM
+Dialogue: 0,0:00:54.50,0:00:55.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k30}COULDN'T {\k15}DO {\k21}IT.
+Dialogue: 0,0:00:55.84,0:00:56.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}AFTER
+Dialogue: 0,0:00:56.11,0:00:56.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THAT {\k11}HE {\k11}GOT {\k22}WEIRDLY {\k27}INTENSE
+Dialogue: 0,0:00:56.97,0:00:57.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}ABOUT {\k14}IT.
+Dialogue: 0,0:00:58.02,0:00:58.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}HE
+Dialogue: 0,0:00:58.24,0:00:59.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}KEPT {\k28}ASKING {\k39}WHAT
+Dialogue: 0,0:00:59.11,0:00:59.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k11}COULD {\k29}POSSIBLY {\k26}BE
+Dialogue: 0,0:00:59.92,0:01:00.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DOING {\k17}THAT {\k11}WAS {\k16}MORE
+Dialogue: 0,0:01:00.60,0:01:01.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}IMPORTANT {\k19}THAN {\k8}A
+Dialogue: 0,0:01:01.24,0:01:01.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}PROPOSAL {\k24}AND {\k17}SAYING
+Dialogue: 0,0:01:01.85,0:01:02.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THIS {\k15}WAS {\k10}“A {\k21}ONCE
+Dialogue: 0,0:01:02.53,0:01:03.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IN {\k7}A {\k24}LIFETIME {\k52}MOMENT.
+Dialogue: 0,0:01:04.06,0:01:04.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I
+Dialogue: 0,0:01:04.28,0:01:05.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}TOLD {\k20}HIM {\k9}I {\k32}UNDERSTOOD
+Dialogue: 0,0:01:05.14,0:01:05.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}IT {\k24}MATTERED {\k17}TO {\k12}HIM,
+Dialogue: 0,0:01:06.00,0:01:06.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}BUT {\k23}FORGETTING {\k29}TO {\k18}REQUEST
+Dialogue: 0,0:01:06.78,0:01:07.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}TIME {\k15}OFF {\k23}WASN'T
+Dialogue: 0,0:01:07.43,0:01:08.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}REALLY {\k12}MY {\k59}RESPONSIBILITY
+Dialogue: 0,0:01:08.37,0:01:09.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}TO {\k29}FIX.
+Dialogue: 0,0:01:09.76,0:01:10.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}NOBODY
+Dialogue: 0,0:01:10.06,0:01:10.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}ENDED {\k15}UP {\k23}TAKING
+Dialogue: 0,0:01:10.73,0:01:11.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THE {\k25}SHIFT,
+Dialogue: 0,0:01:11.40,0:01:12.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}SO {\k14}HE {\k6}HAD {\k11}TO {\k12}WORK {\k17}MOST
+Dialogue: 0,0:01:12.09,0:01:12.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}OF {\k14}THE {\k17}EVENING {\k21}BEFORE
+Dialogue: 0,0:01:12.79,0:01:13.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}DRIVING {\k23}OUT {\k18}TO
+Dialogue: 0,0:01:13.50,0:01:14.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}THE {\k24}FESTIVAL {\k45}AFTERWARD.
+Dialogue: 0,0:01:14.90,0:01:15.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}ACCORDING
+Dialogue: 0,0:01:15.28,0:01:15.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}TO {\k18}HIM, {\k8}BY
+Dialogue: 0,0:01:15.90,0:01:16.54,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k18}TIME {\k13}HE {\k22}ARRIVED,
+Dialogue: 0,0:01:16.85,0:01:17.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k24}FIREWORKS {\k25}AND {\k12}THE
+Dialogue: 0,0:01:17.56,0:01:18.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BIG {\k34}CLOSING {\k25}SONG
+Dialogue: 0,0:01:18.29,0:01:18.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WERE {\k29}ALREADY {\k20}OVER.
+Dialogue: 0,0:01:19.54,0:01:19.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HE
+Dialogue: 0,0:01:19.71,0:01:20.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}STILL {\k26}PROPOSED {\k28}LATER
+Dialogue: 0,0:01:20.48,0:01:21.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NEAR {\k11}THE {\k26}PARKING {\k23}AREA
+Dialogue: 0,0:01:21.29,0:01:22.12,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}OUTSIDE {\k28}THE {\k28}VENUE,
+Dialogue: 0,0:01:22.35,0:01:23.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}AND {\k12}HIS {\k25}GIRLFRIEND {\k24}SAID
+Dialogue: 0,0:01:23.06,0:01:23.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}YES, {\k10}BUT {\k11}HE
+Dialogue: 0,0:01:23.73,0:01:24.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WAS {\k23}FURIOUS {\k18}THAT {\k9}THE
+Dialogue: 0,0:01:24.35,0:01:25.06,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ORIGINAL {\k26}PLAN {\k21}GOT
+Dialogue: 0,0:01:25.06,0:01:25.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}RUINED.
+Dialogue: 0,0:01:25.87,0:01:26.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}EVER
+Dialogue: 0,0:01:26.28,0:01:27.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SINCE {\k21}THEN {\k12}HE'S
+Dialogue: 0,0:01:27.00,0:01:27.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}BEEN {\k24}MAKING {\k56}PASSIVE-AGGRESSIVE
+Dialogue: 0,0:01:27.90,0:01:28.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k45}COMMENTS {\k20}AT
+Dialogue: 0,0:01:28.56,0:01:29.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}WORK {\k21}ABOUT {\k15}HOW {\k14}I
+Dialogue: 0,0:01:29.20,0:01:29.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}“DESTROYED {\k20}THE {\k21}MAGIC”
+Dialogue: 0,0:01:29.90,0:01:30.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AND {\k14}HOW {\k20}SOME {\k23}PEOPLE
+Dialogue: 0,0:01:30.65,0:01:31.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}“CAN'T {\k7}DO {\k20}ONE
+Dialogue: 0,0:01:31.26,0:01:31.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FAVOR {\k21}FOR {\k18}ANOTHER
+Dialogue: 0,0:01:31.90,0:01:32.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}HUMAN {\k29}BEING.
+Dialogue: 0,0:01:33.29,0:01:33.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}A {\k17}FEW {\k34}COWORKERS
+Dialogue: 0,0:01:33.92,0:01:34.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THINK {\k21}HE'S {\k16}BEING {\k33}RIDICULOUS
+Dialogue: 0,0:01:34.81,0:01:35.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}BECAUSE {\k15}HE {\k34}CREATED
+Dialogue: 0,0:01:35.65,0:01:36.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k23}PROBLEM {\k35}HIMSELF,
+Dialogue: 0,0:01:36.56,0:01:37.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}BUT {\k28}ANOTHER {\k33}COWORKER
+Dialogue: 0,0:01:37.23,0:01:37.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SAID {\k14}I {\k20}COULD'VE {\k14}JUST
+Dialogue: 0,0:01:37.93,0:01:38.62,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}HELPED {\k15}HIM {\k9}OUT {\k16}SINCE
+Dialogue: 0,0:01:38.62,0:01:39.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k29}TECHNICALLY {\k50}WASN'T
+Dialogue: 0,0:01:39.56,0:01:40.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BUSY {\k17}WITH {\k28}ANYTHING
+Dialogue: 0,0:01:40.23,0:01:40.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}MAJOR.
+Dialogue: 0,0:01:41.42,0:01:42.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NOW {\k14}I'M {\k47}SECOND-GUESSING
+Dialogue: 0,0:01:42.23,0:01:42.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}MYSELF {\k17}A {\k24}LITTLE.
+Dialogue: 0,0:01:43.62,0:01:43.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WAS
+Dialogue: 0,0:01:43.84,0:01:44.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k10}WRONG {\k15}FOR {\k28}REFUSING
+Dialogue: 0,0:01:44.50,0:01:45.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}TO {\k18}COVER {\k15}THE {\k23}SHIFT?

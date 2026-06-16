@@ -1,0 +1,160 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.68,0:00:04.28,Default,,0,0,0,,\N{\k23}I'M {\k6}A {\k15}MAN {\k14}IN
+Dialogue: 0,0:00:04.28,0:00:05.01,Default,,0,0,0,,\N{\k13}MY {\k59}MID-TWENTIES
+Dialogue: 0,0:00:05.01,0:00:05.62,Default,,0,0,0,,\N{\k18}AND {\k21}COOKING {\k20}HAS
+Dialogue: 0,0:00:05.62,0:00:06.28,Default,,0,0,0,,\N{\k21}ALWAYS {\k20}BEEN {\k12}A {\k12}BIG
+Dialogue: 0,0:00:06.28,0:00:07.09,Default,,0,0,0,,\N{\k20}PART {\k13}OF {\k12}MY {\k35}LIFE.
+Dialogue: 0,0:00:07.74,0:00:08.50,Default,,0,0,0,,\N{\k25}I {\k16}LEARNED {\k33}ALMOST
+Dialogue: 0,0:00:08.50,0:00:09.19,Default,,0,0,0,,\N{\k35}EVERYTHING {\k17}I {\k16}KNOW
+Dialogue: 0,0:00:09.19,0:00:09.83,Default,,0,0,0,,\N{\k14}IN {\k8}THE {\k19}KITCHEN {\k22}FROM
+Dialogue: 0,0:00:09.83,0:00:10.61,Default,,0,0,0,,\N{\k12}MY {\k13}LATE {\k32}GRANDFATHER {\k19}ON
+Dialogue: 0,0:00:10.61,0:00:11.17,Default,,0,0,0,,\N{\k10}MY {\k24}DAD'S {\k21}SIDE.
+Dialogue: 0,0:00:11.96,0:00:12.77,Default,,0,0,0,,\N{\k25}ONE {\k16}OF {\k15}HIS {\k24}SIGNATURE
+Dialogue: 0,0:00:12.77,0:00:13.38,Default,,0,0,0,,\N{\k28}DESSERTS {\k21}WAS {\k10}A
+Dialogue: 0,0:00:13.38,0:00:14.11,Default,,0,0,0,,\N{\k51}CARAMELIZED {\k21}BANANA
+Dialogue: 0,0:00:14.11,0:00:14.90,Default,,0,0,0,,\N{\k26}DISH {\k13}THAT {\k12}MY {\k25}FAMILY
+Dialogue: 0,0:00:14.90,0:00:15.61,Default,,0,0,0,,\N{\k33}ABSOLUTELY {\k37}LOVES
+Dialogue: 0,0:00:15.61,0:00:16.32,Default,,0,0,0,,\N{\k45}AND {\k24}OVER
+Dialogue: 0,0:00:16.32,0:00:17.03,Default,,0,0,0,,\N{\k14}THE {\k17}YEARS {\k21}IT'S {\k17}BECOME
+Dialogue: 0,0:00:17.03,0:00:17.71,Default,,0,0,0,,\N{\k33}SOMETHING {\k17}I {\k16}MAKE
+Dialogue: 0,0:00:17.71,0:00:18.33,Default,,0,0,0,,\N{\k17}FOR {\k12}NEARLY {\k32}EVERY
+Dialogue: 0,0:00:18.33,0:00:18.94,Default,,0,0,0,,\N{\k26}FAMILY {\k33}GATHERING.
+Dialogue: 0,0:00:19.92,0:00:20.82,Default,,0,0,0,,\N{\k39}IRONICALLY, {\k19}BANANAS
+Dialogue: 0,0:00:20.82,0:00:21.44,Default,,0,0,0,,\N{\k25}HAVE {\k18}NEVER {\k17}BEEN
+Dialogue: 0,0:00:21.44,0:00:22.12,Default,,0,0,0,,\N{\k13}MY {\k28}FAVOURITE {\k26}FLAVOR.
+Dialogue: 0,0:00:22.88,0:00:23.73,Default,,0,0,0,,\N{\k39}I {\k19}USUALLY {\k25}TASTE
+Dialogue: 0,0:00:23.73,0:00:24.44,Default,,0,0,0,,\N{\k12}A {\k24}SMALL {\k16}BITE {\k17}TO
+Dialogue: 0,0:00:24.44,0:00:25.19,Default,,0,0,0,,\N{\k11}MAKE {\k17}SURE {\k14}IT {\k12}TURNS {\k19}OUT
+Dialogue: 0,0:00:25.19,0:00:26.07,Default,,0,0,0,,\N{\k17}RIGHT {\k22}AND {\k17}SERVE {\k29}MYSELF
+Dialogue: 0,0:00:26.07,0:00:26.76,Default,,0,0,0,,\N{\k16}A {\k18}MODEST {\k33}PORTION
+Dialogue: 0,0:00:26.76,0:00:27.53,Default,,0,0,0,,\N{\k17}AND {\k9}LET {\k30}EVERYONE {\k19}ELSE
+Dialogue: 0,0:00:27.53,0:00:27.98,Default,,0,0,0,,\N{\k17}ENJOY {\k26}IT.
+Dialogue: 0,0:00:28.46,0:00:29.16,Default,,0,0,0,,\N{\k39}I {\k30}CELEBRATED
+Dialogue: 0,0:00:29.16,0:00:30.16,Default,,0,0,0,,\N{\k30}MY {\k27}BIRTHDAY {\k42}RECENTLY
+Dialogue: 0,0:00:30.16,0:00:30.78,Default,,0,0,0,,\N{\k35}AND {\k5}A {\k10}LOT {\k10}OF
+Dialogue: 0,0:00:30.78,0:00:31.46,Default,,0,0,0,,\N{\k17}FRIENDS {\k17}AND {\k32}RELATIVES
+Dialogue: 0,0:00:31.46,0:00:32.06,Default,,0,0,0,,\N{\k25}CAME {\k34}OVER,
+Dialogue: 0,0:00:32.35,0:00:33.00,Default,,0,0,0,,\N{\k29}INCLUDING {\k24}MY {\k10}AUNT,
+Dialogue: 0,0:00:33.11,0:00:33.75,Default,,0,0,0,,\N{\k8}MY {\k37}FATHER'S {\k17}SLIGHTLY
+Dialogue: 0,0:00:33.75,0:00:34.29,Default,,0,0,0,,\N{\k20}OLDER {\k33}SISTER.
+Dialogue: 0,0:00:35.20,0:00:36.00,Default,,0,0,0,,\N{\k39}DURING {\k17}THE {\k21}PARTY
+Dialogue: 0,0:00:36.00,0:00:36.64,Default,,0,0,0,,\N{\k20}SHE {\k21}HANDED {\k21}ME
+Dialogue: 0,0:00:36.64,0:00:37.34,Default,,0,0,0,,\N{\k10}A {\k21}HOMEMADE {\k17}CAKE {\k20}SHE
+Dialogue: 0,0:00:37.34,0:00:38.07,Default,,0,0,0,,\N{\k5}HAD {\k16}BAKED {\k17}AS {\k10}A {\k23}BIRTHDAY
+Dialogue: 0,0:00:38.07,0:00:38.39,Default,,0,0,0,,\N{\k32}GIFT.
+Dialogue: 0,0:00:39.24,0:00:40.02,Default,,0,0,0,,\N{\k14}IT {\k9}WAS {\k14}A {\k40}BANANA-BASED
+Dialogue: 0,0:00:40.02,0:00:40.75,Default,,0,0,0,,\N{\k15}CAKE {\k42}INSPIRED {\k15}BY
+Dialogue: 0,0:00:40.75,0:00:41.42,Default,,0,0,0,,\N{\k8}THE {\k17}SAME {\k11}DESSERT {\k28}MY
+Dialogue: 0,0:00:41.42,0:00:42.14,Default,,0,0,0,,\N{\k21}GRANDFATHER {\k35}USED {\k14}TO
+Dialogue: 0,0:00:42.14,0:00:42.28,Default,,0,0,0,,\N{\k14}MAKE.
+Dialogue: 0,0:00:43.00,0:00:43.60,Default,,0,0,0,,\N{\k20}I {\k19}THANKED {\k20}HER,
+Dialogue: 0,0:00:43.96,0:00:44.60,Default,,0,0,0,,\N{\k11}PUT {\k14}THE {\k10}CAKE {\k15}ON {\k12}THE
+Dialogue: 0,0:00:44.60,0:00:45.20,Default,,0,0,0,,\N{\k15}DESSERT {\k30}TABLE {\k14}WITH
+Dialogue: 0,0:00:45.20,0:00:45.92,Default,,0,0,0,,\N{\k9}THE {\k12}REST {\k17}OF {\k11}THE {\k20}FOOD
+Dialogue: 0,0:00:45.92,0:00:46.53,Default,,0,0,0,,\N{\k25}AND {\k16}LATER {\k19}CUT
+Dialogue: 0,0:00:46.53,0:00:47.28,Default,,0,0,0,,\N{\k34}MYSELF {\k17}A {\k21}SLICE.
+Dialogue: 0,0:00:48.20,0:00:48.96,Default,,0,0,0,,\N{\k19}I {\k16}ADMIT {\k15}IT {\k24}WASN'T
+Dialogue: 0,0:00:48.96,0:00:49.79,Default,,0,0,0,,\N{\k7}A {\k17}HUGE {\k21}SLICE {\k35}BUT
+Dialogue: 0,0:00:49.79,0:00:50.79,Default,,0,0,0,,\N{\k12}I {\k10}DID {\k19}EAT {\k14}IT, {\k21}GENUINELY
+Dialogue: 0,0:00:50.79,0:00:51.57,Default,,0,0,0,,\N{\k34}ENJOYED {\k21}IT {\k21}AND
+Dialogue: 0,0:00:51.57,0:00:52.21,Default,,0,0,0,,\N{\k17}EVEN {\k17}TAUGHT {\k17}HER {\k10}AT
+Dialogue: 0,0:00:52.21,0:00:53.06,Default,,0,0,0,,\N{\k3}THE {\k30}PARTY {\k15}THAT {\k7}IT {\k26}TASTED
+Dialogue: 0,0:00:53.06,0:00:53.25,Default,,0,0,0,,\N{\k19}GREAT.
+Dialogue: 0,0:00:54.25,0:00:55.07,Default,,0,0,0,,\N{\k17}THE {\k17}NEXT {\k22}DAY {\k23}MY
+Dialogue: 0,0:00:55.07,0:00:55.56,Default,,0,0,0,,\N{\k10}AUNT {\k17}CALLED {\k20}ME.
+Dialogue: 0,0:00:56.17,0:00:56.93,Default,,0,0,0,,\N{\k35}SHE {\k16}ASKED {\k23}WHETHER
+Dialogue: 0,0:00:56.93,0:00:57.60,Default,,0,0,0,,\N{\k17}I {\k17}LIKE {\k16}THE {\k14}CAKE
+Dialogue: 0,0:00:57.60,0:00:58.32,Default,,0,0,0,,\N{\k28}AND {\k7}I {\k15}SAID {\k20}YES
+Dialogue: 0,0:00:58.32,0:00:59.00,Default,,0,0,0,,\N{\k39}REMINDING {\k17}HER {\k10}THAT
+Dialogue: 0,0:00:59.00,0:00:59.70,Default,,0,0,0,,\N{\k15}I'D {\k18}ALREADY {\k21}TOLD {\k14}HER
+Dialogue: 0,0:00:59.70,0:01:00.20,Default,,0,0,0,,\N{\k11}THAT {\k10}IN {\k28}PERSON.
+Dialogue: 0,0:01:00.96,0:01:01.65,Default,,0,0,0,,\N{\k35}THEN {\k14}SHE {\k19}ASKED
+Dialogue: 0,0:01:01.65,0:01:02.35,Default,,0,0,0,,\N{\k20}WHY {\k17}I {\k1}HAD {\k20}TAKEN {\k11}A
+Dialogue: 0,0:01:02.35,0:01:03.02,Default,,0,0,0,,\N{\k20}SMALLER {\k25}SLICE {\k20}THAN
+Dialogue: 0,0:01:03.02,0:01:03.28,Default,,0,0,0,,\N{\k25}USUAL.
+Dialogue: 0,0:01:04.14,0:01:04.78,Default,,0,0,0,,\N{\k12}I {\k51}HESITATED
+Dialogue: 0,0:01:04.78,0:01:05.56,Default,,0,0,0,,\N{\k35}DEBATING {\k42}WHETHER
+Dialogue: 0,0:01:05.56,0:01:06.37,Default,,0,0,0,,\N{\k15}TO {\k18}SMOOTH {\k21}THINGS {\k25}OVER
+Dialogue: 0,0:01:06.37,0:01:07.23,Default,,0,0,0,,\N{\k18}WITH {\k7}A {\k20}HARMLESS {\k39}EXCUSE
+Dialogue: 0,0:01:07.23,0:01:08.04,Default,,0,0,0,,\N{\k50}BUT {\k30}DECIDED
+Dialogue: 0,0:01:08.04,0:01:08.73,Default,,0,0,0,,\N{\k19}IT {\k12}WAS {\k20}BETTER {\k17}TO
+Dialogue: 0,0:01:08.73,0:01:09.04,Default,,0,0,0,,\N{\k7}BE {\k22}HONEST.
+Dialogue: 0,0:01:10.15,0:01:10.98,Default,,0,0,0,,\N{\k7}I {\k20}TOLD {\k14}HER {\k14}THAT {\k26}BANANAS
+Dialogue: 0,0:01:10.98,0:01:11.78,Default,,0,0,0,,\N{\k20}AREN'T {\k15}REALLY {\k15}MY {\k28}FAVOURITE
+Dialogue: 0,0:01:11.78,0:01:12.42,Default,,0,0,0,,\N{\k28}FLAVOUR {\k35}BUT
+Dialogue: 0,0:01:12.42,0:01:13.12,Default,,0,0,0,,\N{\k9}I {\k20}STILL {\k26}WANTED {\k14}TO
+Dialogue: 0,0:01:13.12,0:01:13.81,Default,,0,0,0,,\N{\k14}TRY {\k11}THE {\k16}CAKES {\k14}AND {\k13}SHE
+Dialogue: 0,0:01:13.81,0:01:14.34,Default,,0,0,0,,\N{\k16}MADE {\k11}IT {\k12}FOR {\k12}ME.
+Dialogue: 0,0:01:15.14,0:01:15.78,Default,,0,0,0,,\N{\k23}THAT {\k26}DIDN'T {\k14}GO
+Dialogue: 0,0:01:15.78,0:01:16.20,Default,,0,0,0,,\N{\k17}OVER {\k24}WELL.
+Dialogue: 0,0:01:16.98,0:01:17.62,Default,,0,0,0,,\N{\k20}SHE {\k15}SAID {\k11}THE {\k16}CAKE
+Dialogue: 0,0:01:17.62,0:01:18.28,Default,,0,0,0,,\N{\k19}WAS {\k14}MEANT {\k18}FOR {\k14}ME
+Dialogue: 0,0:01:18.28,0:01:18.98,Default,,0,0,0,,\N{\k14}AND {\k12}THAT {\k14}I {\k17}SHOULD {\k12}HAVE
+Dialogue: 0,0:01:18.98,0:01:19.87,Default,,0,0,0,,\N{\k14}EATEN {\k23}MOST {\k14}OF {\k7}IT {\k29}MYSELF.
+Dialogue: 0,0:01:20.62,0:01:21.23,Default,,0,0,0,,\N{\k11}AT {\k26}COURTING {\k15}TO {\k7}HER,
+Dialogue: 0,0:01:21.35,0:01:22.07,Default,,0,0,0,,\N{\k18}PUTTING {\k14}IT {\k11}ON {\k14}THE {\k14}DESSERT
+Dialogue: 0,0:01:22.07,0:01:22.68,Default,,0,0,0,,\N{\k26}TABLE {\k17}FELT {\k16}LIKE
+Dialogue: 0,0:01:22.68,0:01:23.31,Default,,0,0,0,,\N{\k11}I {\k15}HAD {\k12}A {\k23}REGIFT
+Dialogue: 0,0:01:23.31,0:01:24.14,Default,,0,0,0,,\N{\k10}TO {\k9}HER {\k21}PRESENT {\k40}EVERYONE
+Dialogue: 0,0:01:24.14,0:01:24.81,Default,,0,0,0,,\N{\k31}ELSE {\k18}WHICH {\k17}SHE
+Dialogue: 0,0:01:24.81,0:01:25.45,Default,,0,0,0,,\N{\k16}FOUND {\k25}RUDE {\k21}AND
+Dialogue: 0,0:01:25.45,0:01:25.84,Default,,0,0,0,,\N{\k38}UNGRATEFUL.
+Dialogue: 0,0:01:26.62,0:01:27.28,Default,,0,0,0,,\N{\k35}I {\k15}TRIED {\k14}TO
+Dialogue: 0,0:01:27.28,0:01:27.98,Default,,0,0,0,,\N{\k21}EXPLAIN {\k15}THAT {\k10}IT {\k21}DIDN'T
+Dialogue: 0,0:01:27.98,0:01:28.68,Default,,0,0,0,,\N{\k9}MAKE {\k18}SENSE {\k17}FOR {\k12}ME {\k12}TO
+Dialogue: 0,0:01:28.68,0:01:29.35,Default,,0,0,0,,\N{\k9}EAT {\k6}A {\k15}LARGE {\k20}AMOUNT {\k15}OF
+Dialogue: 0,0:01:29.35,0:01:30.00,Default,,0,0,0,,\N{\k7}A {\k14}FLAVOUR {\k20}I {\k21}DON'T
+Dialogue: 0,0:01:30.00,0:01:30.62,Default,,0,0,0,,\N{\k18}LOVE {\k23}AND {\k7}THAT {\k12}HER
+Dialogue: 0,0:01:30.62,0:01:31.28,Default,,0,0,0,,\N{\k14}THOUGHT {\k28}SHARING {\k15}IT {\k7}WAS
+Dialogue: 0,0:01:31.28,0:01:32.00,Default,,0,0,0,,\N{\k20}BETTER {\k17}THAN {\k14}LETTING {\k20}IT
+Dialogue: 0,0:01:32.00,0:01:32.42,Default,,0,0,0,,\N{\k9}GO {\k14}TO {\k18}WASTE.
+Dialogue: 0,0:01:33.12,0:01:33.92,Default,,0,0,0,,\N{\k35}I {\k17}ALSO {\k26}POINTED
+Dialogue: 0,0:01:33.92,0:01:34.56,Default,,0,0,0,,\N{\k17}OUT {\k10}THAT {\k14}THE {\k6}CAKE {\k15}WAS
+Dialogue: 0,0:01:34.56,0:01:35.26,Default,,0,0,0,,\N{\k31}COMPLETELY {\k24}GONE {\k14}BY
+Dialogue: 0,0:01:35.26,0:01:36.18,Default,,0,0,0,,\N{\k9}THE {\k12}END {\k9}OF {\k7}THE {\k20}NIGHT {\k32}SO
+Dialogue: 0,0:01:36.18,0:01:37.01,Default,,0,0,0,,\N{\k29}CLEARLY {\k25}OTHERS {\k28}REALLY
+Dialogue: 0,0:01:37.01,0:01:37.51,Default,,0,0,0,,\N{\k32}ENJOYED {\k17}IT.
+Dialogue: 0,0:01:38.12,0:01:38.73,Default,,0,0,0,,\N{\k17}SHE {\k12}THEN {\k31}QUESTIONED
+Dialogue: 0,0:01:38.73,0:01:39.50,Default,,0,0,0,,\N{\k28}WHY {\k12}I {\k9}KEEP {\k26}MAKING
+Dialogue: 0,0:01:39.50,0:01:40.29,Default,,0,0,0,,\N{\k14}MY {\k37}GRANDFATHERS {\k28}BANANA
+Dialogue: 0,0:01:40.29,0:01:41.04,Default,,0,0,0,,\N{\k29}DESSERT {\k18}IF {\k6}I {\k20}DON'T
+Dialogue: 0,0:01:41.04,0:01:41.70,Default,,0,0,0,,\N{\k21}EVEN {\k19}LIKE {\k24}BANANAS
+Dialogue: 0,0:01:41.70,0:01:42.07,Default,,0,0,0,,\N{\k21}THAT {\k15}MUCH.
+Dialogue: 0,0:01:42.79,0:01:43.43,Default,,0,0,0,,\N{\k12}I {\k23}EXPLAINED {\k18}THAT {\k9}I
+Dialogue: 0,0:01:43.43,0:01:44.04,Default,,0,0,0,,\N{\k14}MAKE {\k12}IT {\k17}BECAUSE {\k16}IT
+Dialogue: 0,0:01:44.04,0:01:44.68,Default,,0,0,0,,\N{\k7}WAS {\k17}SPECIAL {\k18}TO {\k11}HIM {\k8}AND
+Dialogue: 0,0:01:44.68,0:01:45.35,Default,,0,0,0,,\N{\k15}BECAUSE {\k14}THE {\k11}REST {\k14}OF {\k12}THE
+Dialogue: 0,0:01:45.35,0:01:45.98,Default,,0,0,0,,\N{\k21}FAMILY {\k23}LOVES {\k16}IT
+Dialogue: 0,0:01:45.98,0:01:46.73,Default,,0,0,0,,\N{\k29}EVEN {\k14}IF {\k7}IT'S {\k7}NOT {\k15}MY
+Dialogue: 0,0:01:46.73,0:01:47.29,Default,,0,0,0,,\N{\k28}PERSONAL {\k28}FAVOURITE.
+Dialogue: 0,0:01:48.07,0:01:48.85,Default,,0,0,0,,\N{\k26}SHE {\k29}DISMISSED {\k21}THAT
+Dialogue: 0,0:01:48.85,0:01:50.09,Default,,0,0,0,,\N{\k51}EXPLANATION, {\k19}SAID
+Dialogue: 0,0:01:50.09,0:01:50.87,Default,,0,0,0,,\N{\k12}I {\k12}WAS {\k15}BEING {\k37}DISRESPECTFUL
+Dialogue: 0,0:01:50.87,0:01:51.68,Default,,0,0,0,,\N{\k40}AND {\k40}UNGRATEFUL
+Dialogue: 0,0:01:51.68,0:01:52.29,Default,,0,0,0,,\N{\k29}AND {\k17}ENDED {\k14}THE
+Dialogue: 0,0:01:52.29,0:01:52.43,Default,,0,0,0,,\N{\k14}CALL.
+Dialogue: 0,0:01:53.57,0:01:54.18,Default,,0,0,0,,\N{\k35}AFTERWARD, {\k2}I
+Dialogue: 0,0:01:54.18,0:01:54.92,Default,,0,0,0,,\N{\k19}TALKED {\k20}TO {\k6}MY {\k28}PARENTS,
+Dialogue: 0,0:01:55.37,0:01:56.12,Default,,0,0,0,,\N{\k34}SUB-INGS {\k40}AND
+Dialogue: 0,0:01:56.12,0:01:56.78,Default,,0,0,0,,\N{\k17}EVEN {\k28}SOME {\k20}COUSINS
+Dialogue: 0,0:01:56.78,0:01:57.43,Default,,0,0,0,,\N{\k20}ON {\k9}HER {\k18}SIDE {\k11}OF {\k6}THE
+Dialogue: 0,0:01:57.43,0:01:58.12,Default,,0,0,0,,\N{\k32}FAMILY {\k25}AND {\k10}THEY
+Dialogue: 0,0:01:58.12,0:01:59.23,Default,,0,0,0,,\N{\k9}ALL {\k14}FELT {\k18}SHE {\k9}HAD {\k59}OVERREACTED.
+Dialogue: 0,0:02:00.20,0:02:01.09,Default,,0,0,0,,\N{\k35}STILL, {\k5}THE
+Dialogue: 0,0:02:01.09,0:02:01.76,Default,,0,0,0,,\N{\k32}CONVERSATION {\k34}STUCK
+Dialogue: 0,0:02:01.76,0:02:02.48,Default,,0,0,0,,\N{\k19}WITH {\k12}ME {\k10}AND {\k13}MADE {\k16}ME
+Dialogue: 0,0:02:02.48,0:02:03.37,Default,,0,0,0,,\N{\k21}WONDER {\k11}IF {\k14}I'D {\k4}BEEN {\k37}KNOWINGLY
+Dialogue: 0,0:02:03.37,0:02:04.00,Default,,0,0,0,,\N{\k16}CROSSED {\k14}A {\k15}LINE {\k15}BY
+Dialogue: 0,0:02:04.00,0:02:04.68,Default,,0,0,0,,\N{\k15}NOT {\k18}EATING {\k23}MORE {\k10}OF
+Dialogue: 0,0:02:04.68,0:02:05.31,Default,,0,0,0,,\N{\k7}THE {\k9}CAKE {\k18}SHE {\k15}MADE {\k11}FOR
+Dialogue: 0,0:02:05.31,0:02:05.71,Default,,0,0,0,,\N{\k12}MY {\k28}BIRTHDAY.

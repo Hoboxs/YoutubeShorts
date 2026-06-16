@@ -1,0 +1,262 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.25,0:00:04.70,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:00:04.70,0:00:05.17,Default,,0,0,0,,{\an5}SON MARRIED
+Dialogue: 0,0:00:05.17,0:00:05.79,Default,,0,0,0,,{\an5}VERY YOUNG,
+Dialogue: 0,0:00:05.94,0:00:06.41,Default,,0,0,0,,{\an5}BARELY
+Dialogue: 0,0:00:06.41,0:00:06.96,Default,,0,0,0,,{\an5}A YEAR AFTER
+Dialogue: 0,0:00:06.96,0:00:07.67,Default,,0,0,0,,{\an5}FINISHING SCHOOL,
+Dialogue: 0,0:00:07.87,0:00:08.43,Default,,0,0,0,,{\an5}AND WHILE
+Dialogue: 0,0:00:08.43,0:00:08.88,Default,,0,0,0,,{\an5}MY HUSBAND
+Dialogue: 0,0:00:08.88,0:00:09.32,Default,,0,0,0,,{\an5}AND I HAD
+Dialogue: 0,0:00:09.32,0:00:09.74,Default,,0,0,0,,{\an5}CONCERNS,
+Dialogue: 0,0:00:10.06,0:00:10.58,Default,,0,0,0,,{\an5}HE WAS
+Dialogue: 0,0:00:10.58,0:00:11.19,Default,,0,0,0,,{\an5}DETERMINED AND
+Dialogue: 0,0:00:11.19,0:00:11.69,Default,,0,0,0,,{\an5}SO WAS HIS
+Dialogue: 0,0:00:11.69,0:00:11.98,Default,,0,0,0,,{\an5}SPOUSE.
+Dialogue: 0,0:00:12.35,0:00:12.93,Default,,0,0,0,,{\an5}SOON AFTER
+Dialogue: 0,0:00:12.93,0:00:13.41,Default,,0,0,0,,{\an5}THE WEDDING,
+Dialogue: 0,0:00:13.56,0:00:14.17,Default,,0,0,0,,{\an5}THEY DECIDED
+Dialogue: 0,0:00:14.17,0:00:14.72,Default,,0,0,0,,{\an5}SHE WOULD STAY
+Dialogue: 0,0:00:14.72,0:00:15.17,Default,,0,0,0,,{\an5}HOME WHILE
+Dialogue: 0,0:00:15.17,0:00:15.66,Default,,0,0,0,,{\an5}HE WORKED,
+Dialogue: 0,0:00:15.74,0:00:16.23,Default,,0,0,0,,{\an5}AND NOT
+Dialogue: 0,0:00:16.23,0:00:16.71,Default,,0,0,0,,{\an5}LONG AFTER
+Dialogue: 0,0:00:16.71,0:00:17.42,Default,,0,0,0,,{\an5}THAT, THEY
+Dialogue: 0,0:00:17.42,0:00:17.92,Default,,0,0,0,,{\an5}WELCOMED A
+Dialogue: 0,0:00:17.92,0:00:18.12,Default,,0,0,0,,{\an5}BABY
+Dialogue: 0,0:00:18.12,0:00:18.37,Default,,0,0,0,,{\an5}BOY.
+Dialogue: 0,0:00:18.66,0:00:19.19,Default,,0,0,0,,{\an5}DURING THE
+Dialogue: 0,0:00:19.19,0:00:20.16,Default,,0,0,0,,{\an5}PREGNANCY, MY
+Dialogue: 0,0:00:20.16,0:00:20.62,Default,,0,0,0,,{\an5}DAUGHTER -IN
+Dialogue: 0,0:00:20.62,0:00:21.14,Default,,0,0,0,,{\an5}-LAW SPENT A
+Dialogue: 0,0:00:21.14,0:00:21.57,Default,,0,0,0,,{\an5}LOT OF TIME
+Dialogue: 0,0:00:21.57,0:00:22.17,Default,,0,0,0,,{\an5}AT MY HOUSE,
+Dialogue: 0,0:00:22.28,0:00:22.98,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:00:22.98,0:00:23.57,Default,,0,0,0,,{\an5}I DIDN'T MIND
+Dialogue: 0,0:00:23.57,0:00:24.16,Default,,0,0,0,,{\an5}AT FIRST AFTER
+Dialogue: 0,0:00:24.16,0:00:24.62,Default,,0,0,0,,{\an5}MY GRANDSON
+Dialogue: 0,0:00:24.62,0:00:24.87,Default,,0,0,0,,{\an5}WAS
+Dialogue: 0,0:00:24.87,0:00:25.14,Default,,0,0,0,,{\an5}BORN.
+Dialogue: 0,0:00:25.23,0:00:25.92,Default,,0,0,0,,{\an5}THE VISITS
+Dialogue: 0,0:00:25.92,0:00:26.33,Default,,0,0,0,,{\an5}CONTINUED,
+Dialogue: 0,0:00:26.62,0:00:27.14,Default,,0,0,0,,{\an5}AND AGAIN,
+Dialogue: 0,0:00:27.32,0:00:27.83,Default,,0,0,0,,{\an5}I DIDN'T
+Dialogue: 0,0:00:27.83,0:00:28.30,Default,,0,0,0,,{\an5}THINK MUCH OF
+Dialogue: 0,0:00:28.30,0:00:28.48,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:00:28.48,0:00:29.03,Default,,0,0,0,,{\an5}I LOVE
+Dialogue: 0,0:00:29.03,0:00:29.57,Default,,0,0,0,,{\an5}MY GRANDCHILDREN,
+Dialogue: 0,0:00:29.94,0:00:30.44,Default,,0,0,0,,{\an5}AND I'VE
+Dialogue: 0,0:00:30.44,0:00:30.94,Default,,0,0,0,,{\an5}RAISED CHILDREN
+Dialogue: 0,0:00:30.94,0:00:31.32,Default,,0,0,0,,{\an5}BEFORE.
+Dialogue: 0,0:00:31.55,0:00:31.96,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:00:31.96,0:00:32.84,Default,,0,0,0,,{\an5}SLOWLY, WITHOUT
+Dialogue: 0,0:00:32.84,0:00:33.28,Default,,0,0,0,,{\an5}ANY REAL
+Dialogue: 0,0:00:33.28,0:00:33.78,Default,,0,0,0,,{\an5}CONVERSATION,
+Dialogue: 0,0:00:34.14,0:00:34.78,Default,,0,0,0,,{\an5}THOSE VISITS
+Dialogue: 0,0:00:34.78,0:00:35.29,Default,,0,0,0,,{\an5}STOPPED BEING
+Dialogue: 0,0:00:35.29,0:00:35.89,Default,,0,0,0,,{\an5}VISITS AND
+Dialogue: 0,0:00:35.89,0:00:36.35,Default,,0,0,0,,{\an5}STARTED TURNING
+Dialogue: 0,0:00:36.35,0:00:36.79,Default,,0,0,0,,{\an5}INTO FULL
+Dialogue: 0,0:00:36.79,0:00:37.17,Default,,0,0,0,,{\an5}DAYS OF
+Dialogue: 0,0:00:37.17,0:00:37.46,Default,,0,0,0,,{\an5}CHILDCARE.
+Dialogue: 0,0:00:37.93,0:00:38.42,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:38.42,0:00:38.97,Default,,0,0,0,,{\an5}BEGAN LEAVING
+Dialogue: 0,0:00:38.97,0:00:39.39,Default,,0,0,0,,{\an5}THE BABY
+Dialogue: 0,0:00:39.39,0:00:39.89,Default,,0,0,0,,{\an5}WITH ME FOR
+Dialogue: 0,0:00:39.89,0:00:40.34,Default,,0,0,0,,{\an5}LONGER AND
+Dialogue: 0,0:00:40.34,0:00:40.53,Default,,0,0,0,,{\an5}LONGER
+Dialogue: 0,0:00:40.53,0:00:40.96,Default,,0,0,0,,{\an5}STRETCHES.
+Dialogue: 0,0:00:41.39,0:00:41.88,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:41.88,0:00:42.32,Default,,0,0,0,,{\an5}WHEN I SAID
+Dialogue: 0,0:00:42.32,0:00:42.93,Default,,0,0,0,,{\an5}I COULDN'T MANAGE
+Dialogue: 0,0:00:42.93,0:00:43.47,Default,,0,0,0,,{\an5}CERTAIN DAYS,
+Dialogue: 0,0:00:43.70,0:00:44.24,Default,,0,0,0,,{\an5}SHE WOULD
+Dialogue: 0,0:00:44.24,0:00:44.65,Default,,0,0,0,,{\an5}GET UPSET
+Dialogue: 0,0:00:44.65,0:00:45.10,Default,,0,0,0,,{\an5}OR ACT
+Dialogue: 0,0:00:45.10,0:00:45.38,Default,,0,0,0,,{\an5}HURT.
+Dialogue: 0,0:00:45.71,0:00:46.20,Default,,0,0,0,,{\an5}EVENTUALLY,
+Dialogue: 0,0:00:46.50,0:00:47.11,Default,,0,0,0,,{\an5}SHE STARTED
+Dialogue: 0,0:00:47.11,0:00:47.71,Default,,0,0,0,,{\an5}ASKING EVERY
+Dialogue: 0,0:00:47.71,0:00:48.29,Default,,0,0,0,,{\an5}WEEKEND IF
+Dialogue: 0,0:00:48.29,0:00:48.70,Default,,0,0,0,,{\an5}MY HUSBAND
+Dialogue: 0,0:00:48.70,0:00:49.34,Default,,0,0,0,,{\an5}AND I COULD WATCH
+Dialogue: 0,0:00:49.34,0:00:49.92,Default,,0,0,0,,{\an5}THE BABY SO
+Dialogue: 0,0:00:49.92,0:00:50.50,Default,,0,0,0,,{\an5}SHE AND MY SON
+Dialogue: 0,0:00:50.50,0:00:51.52,Default,,0,0,0,,{\an5}COULD GO
+Dialogue: 0,0:00:51.52,0:00:51.75,Default,,0,0,0,,{\an5}OUT.
+Dialogue: 0,0:00:51.78,0:00:52.28,Default,,0,0,0,,{\an5}I AGREED
+Dialogue: 0,0:00:52.28,0:00:52.75,Default,,0,0,0,,{\an5}FOR A FEW
+Dialogue: 0,0:00:52.75,0:00:53.74,Default,,0,0,0,,{\an5}WEEKS, UNTIL
+Dialogue: 0,0:00:53.74,0:00:54.15,Default,,0,0,0,,{\an5}WE ALREADY
+Dialogue: 0,0:00:54.15,0:00:54.60,Default,,0,0,0,,{\an5}HAD PLANS
+Dialogue: 0,0:00:54.60,0:00:54.89,Default,,0,0,0,,{\an5}OF OUR
+Dialogue: 0,0:00:54.89,0:00:55.14,Default,,0,0,0,,{\an5}OWN.
+Dialogue: 0,0:00:55.14,0:00:55.57,Default,,0,0,0,,{\an5}WHEN
+Dialogue: 0,0:00:55.57,0:00:56.15,Default,,0,0,0,,{\an5}I SAID NO,
+Dialogue: 0,0:00:56.32,0:00:57.03,Default,,0,0,0,,{\an5}SHE EXPLODED,
+Dialogue: 0,0:00:57.28,0:00:57.79,Default,,0,0,0,,{\an5}TELLING ME
+Dialogue: 0,0:00:57.79,0:00:58.39,Default,,0,0,0,,{\an5}I WAS SELFISH
+Dialogue: 0,0:00:58.39,0:00:58.82,Default,,0,0,0,,{\an5}AND LACKED
+Dialogue: 0,0:00:58.82,0:00:59.50,Default,,0,0,0,,{\an5}EMPATHY BECAUSE
+Dialogue: 0,0:00:59.50,0:01:00.02,Default,,0,0,0,,{\an5}SHE WAS STUCK
+Dialogue: 0,0:01:00.02,0:01:00.56,Default,,0,0,0,,{\an5}AT HOME ALL
+Dialogue: 0,0:01:00.56,0:01:01.00,Default,,0,0,0,,{\an5}WEEK AS
+Dialogue: 0,0:01:01.00,0:01:01.11,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:01:01.11,0:01:01.39,Default,,0,0,0,,{\an5}PARENT.
+Dialogue: 0,0:01:01.65,0:01:02.11,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:02.11,0:01:02.61,Default,,0,0,0,,{\an5}FELT GUILTY,
+Dialogue: 0,0:01:02.79,0:01:03.29,Default,,0,0,0,,{\an5}SO MY
+Dialogue: 0,0:01:03.29,0:01:03.82,Default,,0,0,0,,{\an5}HUSBAND AND
+Dialogue: 0,0:01:03.82,0:01:04.40,Default,,0,0,0,,{\an5}I REARRANGED
+Dialogue: 0,0:01:04.40,0:01:04.81,Default,,0,0,0,,{\an5}OUR LIVES
+Dialogue: 0,0:01:04.81,0:01:05.28,Default,,0,0,0,,{\an5}AND STARTED
+Dialogue: 0,0:01:05.28,0:01:05.78,Default,,0,0,0,,{\an5}WATCHING THE
+Dialogue: 0,0:01:05.78,0:01:06.42,Default,,0,0,0,,{\an5}BABY REGULARLY
+Dialogue: 0,0:01:06.42,0:01:06.70,Default,,0,0,0,,{\an5}ON
+Dialogue: 0,0:01:06.70,0:01:06.95,Default,,0,0,0,,{\an5}WEEKENDS.
+Dialogue: 0,0:01:07.60,0:01:08.06,Default,,0,0,0,,{\an5}EVEN
+Dialogue: 0,0:01:08.06,0:01:08.51,Default,,0,0,0,,{\an5}POSTPONING
+Dialogue: 0,0:01:08.51,0:01:09.04,Default,,0,0,0,,{\an5}A TRIP WE
+Dialogue: 0,0:01:09.04,0:01:09.54,Default,,0,0,0,,{\an5}HAD BEEN PLANNING
+Dialogue: 0,0:01:09.54,0:01:09.71,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:01:09.71,0:01:10.00,Default,,0,0,0,,{\an5}MONTHS.
+Dialogue: 0,0:01:10.26,0:01:10.87,Default,,0,0,0,,{\an5}THE TRUTH
+Dialogue: 0,0:01:10.87,0:01:11.68,Default,,0,0,0,,{\an5}IS, WE'RE
+Dialogue: 0,0:01:11.68,0:01:12.56,Default,,0,0,0,,{\an5}EXHAUSTED, WE
+Dialogue: 0,0:01:12.56,0:01:13.20,Default,,0,0,0,,{\an5}LOVE OUR FAMILY
+Dialogue: 0,0:01:13.20,0:01:14.14,Default,,0,0,0,,{\an5}DEEPLY, BUT
+Dialogue: 0,0:01:14.14,0:01:14.71,Default,,0,0,0,,{\an5}AT THIS STAGE
+Dialogue: 0,0:01:14.71,0:01:15.23,Default,,0,0,0,,{\an5}OF OUR LIVES,
+Dialogue: 0,0:01:15.40,0:01:15.92,Default,,0,0,0,,{\an5}WE WERE
+Dialogue: 0,0:01:15.92,0:01:16.51,Default,,0,0,0,,{\an5}LOOKING FORWARD
+Dialogue: 0,0:01:16.51,0:01:17.20,Default,,0,0,0,,{\an5}TO BEING PARTNERS
+Dialogue: 0,0:01:17.20,0:01:17.45,Default,,0,0,0,,{\an5}AGAIN.
+Dialogue: 0,0:01:17.68,0:01:18.14,Default,,0,0,0,,{\an5}NOT
+Dialogue: 0,0:01:18.14,0:01:18.56,Default,,0,0,0,,{\an5}FULL -TIME
+Dialogue: 0,0:01:18.56,0:01:18.85,Default,,0,0,0,,{\an5}CAREGIVERS.
+Dialogue: 0,0:01:19.29,0:01:19.78,Default,,0,0,0,,{\an5}ON TOP
+Dialogue: 0,0:01:19.78,0:01:20.48,Default,,0,0,0,,{\an5}OF THAT, MY
+Dialogue: 0,0:01:20.48,0:01:21.06,Default,,0,0,0,,{\an5}GRANDSON IS
+Dialogue: 0,0:01:21.06,0:01:21.50,Default,,0,0,0,,{\an5}NO LONGER
+Dialogue: 0,0:01:21.50,0:01:21.64,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:01:21.64,0:01:21.84,Default,,0,0,0,,{\an5}NEWBORN.
+Dialogue: 0,0:01:21.84,0:01:22.01,Default,,0,0,0,,{\an5}BORN.
+Dialogue: 0,0:01:22.15,0:01:22.56,Default,,0,0,0,,{\an5}HE'S
+Dialogue: 0,0:01:22.56,0:01:23.21,Default,,0,0,0,,{\an5}CRAWLING EVERYWHERE,
+Dialogue: 0,0:01:23.48,0:01:24.07,Default,,0,0,0,,{\an5}GETTING INTO
+Dialogue: 0,0:01:24.07,0:01:24.93,Default,,0,0,0,,{\an5}EVERYTHING, AND
+Dialogue: 0,0:01:24.93,0:01:25.42,Default,,0,0,0,,{\an5}IT'S PHYSICALLY
+Dialogue: 0,0:01:25.42,0:01:25.84,Default,,0,0,0,,{\an5}DIFFICULT
+Dialogue: 0,0:01:25.84,0:01:26.28,Default,,0,0,0,,{\an5}FOR US TO
+Dialogue: 0,0:01:26.28,0:01:26.43,Default,,0,0,0,,{\an5}KEEP
+Dialogue: 0,0:01:26.43,0:01:26.65,Default,,0,0,0,,{\an5}UP.
+Dialogue: 0,0:01:26.79,0:01:27.43,Default,,0,0,0,,{\an5}MY HUSBAND
+Dialogue: 0,0:01:27.43,0:01:27.90,Default,,0,0,0,,{\an5}WALKS WITH
+Dialogue: 0,0:01:27.90,0:01:28.68,Default,,0,0,0,,{\an5}A LIMP, AND
+Dialogue: 0,0:01:28.68,0:01:29.28,Default,,0,0,0,,{\an5}I STRUGGLE TO
+Dialogue: 0,0:01:29.28,0:01:29.64,Default,,0,0,0,,{\an5}BEND AND
+Dialogue: 0,0:01:29.64,0:01:29.92,Default,,0,0,0,,{\an5}LIFT.
+Dialogue: 0,0:01:30.07,0:01:30.62,Default,,0,0,0,,{\an5}WHAT USED
+Dialogue: 0,0:01:30.62,0:01:31.23,Default,,0,0,0,,{\an5}TO BE MANAGEABLE
+Dialogue: 0,0:01:31.23,0:01:31.78,Default,,0,0,0,,{\an5}HAS BECOME
+Dialogue: 0,0:01:31.78,0:01:32.21,Default,,0,0,0,,{\an5}PAINFUL
+Dialogue: 0,0:01:32.21,0:01:32.40,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:32.40,0:01:32.76,Default,,0,0,0,,{\an5}OVERWHELMING.
+Dialogue: 0,0:01:33.09,0:01:33.59,Default,,0,0,0,,{\an5}WHEN I
+Dialogue: 0,0:01:33.59,0:01:34.29,Default,,0,0,0,,{\an5}FINALLY EXPLAINED
+Dialogue: 0,0:01:34.29,0:01:34.79,Default,,0,0,0,,{\an5}THIS TO MY
+Dialogue: 0,0:01:34.79,0:01:35.23,Default,,0,0,0,,{\an5}DAUGHTER -IN
+Dialogue: 0,0:01:35.23,0:01:35.90,Default,,0,0,0,,{\an5}-LAW, SHE
+Dialogue: 0,0:01:35.90,0:01:36.31,Default,,0,0,0,,{\an5}BRUSHED IT
+Dialogue: 0,0:01:36.31,0:01:37.07,Default,,0,0,0,,{\an5}OFF, SAYING
+Dialogue: 0,0:01:37.07,0:01:37.56,Default,,0,0,0,,{\an5}IT WAS ONLY
+Dialogue: 0,0:01:37.56,0:01:38.04,Default,,0,0,0,,{\an5}A COUPLE OF
+Dialogue: 0,0:01:38.04,0:01:38.34,Default,,0,0,0,,{\an5}DAYS A
+Dialogue: 0,0:01:38.34,0:01:38.62,Default,,0,0,0,,{\an5}WEEK.
+Dialogue: 0,0:01:38.78,0:01:39.18,Default,,0,0,0,,{\an5}THAT'S
+Dialogue: 0,0:01:39.18,0:01:39.68,Default,,0,0,0,,{\an5}WHEN I CALMLY
+Dialogue: 0,0:01:39.68,0:01:40.12,Default,,0,0,0,,{\an5}SAID THAT
+Dialogue: 0,0:01:40.12,0:01:40.56,Default,,0,0,0,,{\an5}IF IT WAS SO
+Dialogue: 0,0:01:40.56,0:01:41.45,Default,,0,0,0,,{\an5}SMALL, THEN
+Dialogue: 0,0:01:41.45,0:01:41.93,Default,,0,0,0,,{\an5}SHE COULD PAY
+Dialogue: 0,0:01:41.93,0:01:42.40,Default,,0,0,0,,{\an5}US THE SAME
+Dialogue: 0,0:01:42.40,0:01:43.00,Default,,0,0,0,,{\an5}WAY SHE PAYS
+Dialogue: 0,0:01:43.00,0:01:43.54,Default,,0,0,0,,{\an5}THE SITTER SHE
+Dialogue: 0,0:01:43.54,0:01:43.84,Default,,0,0,0,,{\an5}RECENTLY
+Dialogue: 0,0:01:43.84,0:01:44.23,Default,,0,0,0,,{\an5}HIRED.
+Dialogue: 0,0:01:44.75,0:01:45.15,Default,,0,0,0,,{\an5}AROUND
+Dialogue: 0,0:01:45.15,0:01:45.56,Default,,0,0,0,,{\an5}$40
+Dialogue: 0,0:01:45.56,0:01:45.85,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:01:45.85,0:01:46.01,Default,,0,0,0,,{\an5}DAY.
+Dialogue: 0,0:01:46.23,0:01:46.84,Default,,0,0,0,,{\an5}I ADMITTED
+Dialogue: 0,0:01:46.84,0:01:47.45,Default,,0,0,0,,{\an5}THAT LATELY IT
+Dialogue: 0,0:01:47.45,0:01:48.00,Default,,0,0,0,,{\an5}FEELS LIKE SHE
+Dialogue: 0,0:01:48.00,0:01:48.40,Default,,0,0,0,,{\an5}ONLY COMES
+Dialogue: 0,0:01:48.40,0:01:48.92,Default,,0,0,0,,{\an5}AROUND WHEN
+Dialogue: 0,0:01:48.92,0:01:49.43,Default,,0,0,0,,{\an5}SHE NEEDS FREE
+Dialogue: 0,0:01:49.43,0:01:49.51,Default,,0,0,0,,{\an5}FREE
+Dialogue: 0,0:01:49.51,0:01:49.78,Default,,0,0,0,,{\an5}CHILDCARE.
+Dialogue: 0,0:01:50.40,0:01:50.84,Default,,0,0,0,,{\an5}NOT
+Dialogue: 0,0:01:50.84,0:01:51.68,Default,,0,0,0,,{\an5}TO VISIT, NOT
+Dialogue: 0,0:01:51.68,0:01:52.09,Default,,0,0,0,,{\an5}TO SHARE A
+Dialogue: 0,0:01:52.09,0:01:52.90,Default,,0,0,0,,{\an5}MEAL, NOT
+Dialogue: 0,0:01:52.90,0:01:53.45,Default,,0,0,0,,{\an5}TO SPEND TIME
+Dialogue: 0,0:01:53.45,0:01:53.62,Default,,0,0,0,,{\an5}AS
+Dialogue: 0,0:01:53.62,0:01:53.92,Default,,0,0,0,,{\an5}FAMILY.
+Dialogue: 0,0:01:54.18,0:01:54.62,Default,,0,0,0,,{\an5}THAT'S
+Dialogue: 0,0:01:54.62,0:01:55.20,Default,,0,0,0,,{\an5}WHEN SHE COMPLETELY
+Dialogue: 0,0:01:55.20,0:01:55.81,Default,,0,0,0,,{\an5}LOST IT,
+Dialogue: 0,0:01:55.87,0:01:56.35,Default,,0,0,0,,{\an5}ACCUSING
+Dialogue: 0,0:01:56.35,0:01:56.79,Default,,0,0,0,,{\an5}ME OF
+Dialogue: 0,0:01:56.79,0:01:57.28,Default,,0,0,0,,{\an5}BEING CRUEL
+Dialogue: 0,0:01:57.28,0:01:57.68,Default,,0,0,0,,{\an5}FOR EVEN
+Dialogue: 0,0:01:57.68,0:01:58.09,Default,,0,0,0,,{\an5}SUGGESTING
+Dialogue: 0,0:01:58.09,0:01:58.51,Default,,0,0,0,,{\an5}PAYMENT
+Dialogue: 0,0:01:58.51,0:01:59.01,Default,,0,0,0,,{\an5}FOR CARING
+Dialogue: 0,0:01:59.01,0:01:59.50,Default,,0,0,0,,{\an5}FOR MY OWN
+Dialogue: 0,0:01:59.50,0:01:59.95,Default,,0,0,0,,{\an5}GRANDCHILD.
+Dialogue: 0,0:02:00.48,0:02:00.92,Default,,0,0,0,,{\an5}NOW
+Dialogue: 0,0:02:00.92,0:02:01.35,Default,,0,0,0,,{\an5}SHE'S TELLING
+Dialogue: 0,0:02:01.35,0:02:01.76,Default,,0,0,0,,{\an5}RELATIVES
+Dialogue: 0,0:02:01.76,0:02:02.48,Default,,0,0,0,,{\an5}THAT I'M HEARTLESS
+Dialogue: 0,0:02:02.48,0:02:03.42,Default,,0,0,0,,{\an5}AND GREEDY, AND
+Dialogue: 0,0:02:03.42,0:02:03.90,Default,,0,0,0,,{\an5}I'VE BEEN LEFT
+Dialogue: 0,0:02:03.90,0:02:04.34,Default,,0,0,0,,{\an5}QUESTIONING
+Dialogue: 0,0:02:04.34,0:02:04.70,Default,,0,0,0,,{\an5}MYSELF.
+Dialogue: 0,0:02:04.98,0:02:05.62,Default,,0,0,0,,{\an5}I ADORE
+Dialogue: 0,0:02:05.62,0:02:06.18,Default,,0,0,0,,{\an5}MY GRANDSON,
+Dialogue: 0,0:02:06.45,0:02:07.06,Default,,0,0,0,,{\an5}BUT I DIDN'T
+Dialogue: 0,0:02:07.06,0:02:07.56,Default,,0,0,0,,{\an5}AGREE TO RAISE
+Dialogue: 0,0:02:07.56,0:02:08.19,Default,,0,0,0,,{\an5}ANOTHER CHILD,
+Dialogue: 0,0:02:08.36,0:02:08.90,Default,,0,0,0,,{\an5}ESPECIALLY
+Dialogue: 0,0:02:08.90,0:02:09.43,Default,,0,0,0,,{\an5}AT A POINT
+Dialogue: 0,0:02:09.43,0:02:10.00,Default,,0,0,0,,{\an5}IN MY LIFE
+Dialogue: 0,0:02:10.00,0:02:10.53,Default,,0,0,0,,{\an5}WHEN MY BODY
+Dialogue: 0,0:02:10.53,0:02:11.13,Default,,0,0,0,,{\an5}SIMPLY CAN'T
+Dialogue: 0,0:02:11.13,0:02:11.37,Default,,0,0,0,,{\an5}HANDLE
+Dialogue: 0,0:02:11.37,0:02:11.53,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:02:11.71,0:02:12.15,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:02:12.15,0:02:12.59,Default,,0,0,0,,{\an5}CAN'T TELL
+Dialogue: 0,0:02:12.59,0:02:13.06,Default,,0,0,0,,{\an5}IF I'M STANDING
+Dialogue: 0,0:02:13.06,0:02:13.68,Default,,0,0,0,,{\an5}UP FOR MYSELF,
+Dialogue: 0,0:02:13.93,0:02:14.40,Default,,0,0,0,,{\an5}OR IF
+Dialogue: 0,0:02:14.40,0:02:14.93,Default,,0,0,0,,{\an5}I'VE CROSSED A
+Dialogue: 0,0:02:14.93,0:02:15.34,Default,,0,0,0,,{\an5}LINE BY
+Dialogue: 0,0:02:15.34,0:02:15.93,Default,,0,0,0,,{\an5}FINALLY SAYING
+Dialogue: 0,0:02:15.93,0:02:16.34,Default,,0,0,0,,{\an5}OUT LOUD
+Dialogue: 0,0:02:16.34,0:02:16.75,Default,,0,0,0,,{\an5}WHAT I'VE
+Dialogue: 0,0:02:16.75,0:02:17.15,Default,,0,0,0,,{\an5}BEEN QUIETLY
+Dialogue: 0,0:02:17.15,0:02:17.69,Default,,0,0,0,,{\an5}FEELING FOR
+Dialogue: 0,0:02:17.69,0:02:17.97,Default,,0,0,0,,{\an5}MONTHS.

@@ -1,0 +1,123 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.70,0:00:04.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k31}I'M {\k32}26
+Dialogue: 0,0:00:04.33,0:00:04.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}AND {\k20}CURRENTLY
+Dialogue: 0,0:00:04.94,0:00:05.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}ABOUT {\k24}FIVE {\k16}MONTHS {\k33}PREGNANT.
+Dialogue: 0,0:00:06.66,0:00:06.94,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}LATELY
+Dialogue: 0,0:00:06.94,0:00:07.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}THE {\k18}ACID {\k46}REFLUX
+Dialogue: 0,0:00:07.74,0:00:08.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HAS {\k16}BEEN {\k30}BRUTAL.
+Dialogue: 0,0:00:09.41,0:00:10.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SOME {\k20}DAYS {\k16}IT {\k15}FEELS
+Dialogue: 0,0:00:10.11,0:00:11.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}LIKE {\k19}I'M {\k16}BREATHING {\k33}FIRE,
+Dialogue: 0,0:00:11.22,0:00:11.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}ESPECIALLY {\k16}AT {\k13}NIGHT
+Dialogue: 0,0:00:11.85,0:00:12.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}OR {\k21}AFTER {\k20}EATING {\k31}ANYTHING
+Dialogue: 0,0:00:12.69,0:00:13.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}GREASY.
+Dialogue: 0,0:00:13.88,0:00:14.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THE
+Dialogue: 0,0:00:14.00,0:00:14.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}OTHER {\k25}EVENING {\k20}MY
+Dialogue: 0,0:00:14.64,0:00:15.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}BOYFRIEND {\k23}AND {\k10}I
+Dialogue: 0,0:00:15.30,0:00:15.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WENT {\k16}OUT {\k16}FOR {\k24}DINNER
+Dialogue: 0,0:00:15.98,0:00:16.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}AT {\k13}A {\k13}LITTLE {\k22}DINER
+Dialogue: 0,0:00:16.60,0:00:17.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}KNOWN {\k22}FOR {\k17}HEAVY {\k28}COMFORT
+Dialogue: 0,0:00:17.42,0:00:17.76,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}FOOD.
+Dialogue: 0,0:00:18.37,0:00:18.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}BEFORE
+Dialogue: 0,0:00:18.67,0:00:19.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}WE {\k19}EVEN {\k24}ARRIVED,
+Dialogue: 0,0:00:19.66,0:00:20.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k14}COULD {\k21}ALREADY {\k21}FEEL {\k14}THE
+Dialogue: 0,0:00:20.37,0:00:20.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}HEARTBURN {\k17}STARTING.
+Dialogue: 0,0:00:21.92,0:00:22.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}SINCE {\k32}MOST
+Dialogue: 0,0:00:22.53,0:00:23.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k40}PHARMACIES {\k17}WERE {\k25}ALREADY
+Dialogue: 0,0:00:23.37,0:00:23.66,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}CLOSED,
+Dialogue: 0,0:00:23.98,0:00:24.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k14}ASKED {\k9}HIM {\k10}TO {\k19}STOP {\k12}AT
+Dialogue: 0,0:00:24.64,0:00:25.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}A {\k10}GAS {\k30}STATION {\k19}SO
+Dialogue: 0,0:00:25.32,0:00:26.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k11}COULD {\k12}GRAB {\k33}SOMETHING
+Dialogue: 0,0:00:26.00,0:00:26.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FOR {\k22}IT.
+Dialogue: 0,0:00:26.96,0:00:27.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THE
+Dialogue: 0,0:00:27.16,0:00:27.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}STATION {\k26}ONLY {\k14}HAD
+Dialogue: 0,0:00:27.78,0:00:28.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k48}INDIVIDUAL {\k27}TRAVEL
+Dialogue: 0,0:00:28.53,0:00:29.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}PACKS {\k19}OF {\k9}THE {\k20}MEDICINE
+Dialogue: 0,0:00:29.26,0:00:29.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}INSTEAD {\k17}OF {\k16}FULL
+Dialogue: 0,0:00:29.96,0:00:30.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}BOTTLES.
+Dialogue: 0,0:00:31.00,0:00:31.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}SINCE
+Dialogue: 0,0:00:31.26,0:00:31.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}I'VE {\k10}BEEN {\k23}DEALING
+Dialogue: 0,0:00:31.87,0:00:32.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WITH {\k24}REFLUX {\k38}ALMOST
+Dialogue: 0,0:00:32.74,0:00:33.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}DAILY, {\k4}I
+Dialogue: 0,0:00:33.34,0:00:34.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FIGURED {\k12}IT {\k14}MADE {\k17}SENSE
+Dialogue: 0,0:00:34.02,0:00:34.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k17}STOCK {\k14}UP {\k7}A {\k12}BIT
+Dialogue: 0,0:00:34.70,0:00:35.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}SO {\k7}I {\k11}COULD {\k16}KEEP {\k21}SOME
+Dialogue: 0,0:00:35.46,0:00:35.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IN {\k10}MY {\k25}PURSE,
+Dialogue: 0,0:00:36.39,0:00:37.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}SOME {\k11}IN {\k10}MY {\k43}BOYFRIEND'S
+Dialogue: 0,0:00:37.17,0:00:37.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}CAR, {\k24}AND {\k14}SOME {\k14}AT
+Dialogue: 0,0:00:37.84,0:00:38.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}HOME.
+Dialogue: 0,0:00:38.71,0:00:38.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I
+Dialogue: 0,0:00:38.88,0:00:39.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TOOK {\k23}AROUND {\k21}TEN {\k12}OF
+Dialogue: 0,0:00:39.60,0:00:40.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k21}SINGLE {\k32}PACKETS
+Dialogue: 0,0:00:40.21,0:00:40.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FROM {\k12}THE {\k28}DISPLAY
+Dialogue: 0,0:00:40.84,0:00:41.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}BOX, {\k14}LEAVING
+Dialogue: 0,0:00:41.56,0:00:42.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k29}SEVERAL {\k35}BEHIND.
+Dialogue: 0,0:00:42.89,0:00:43.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}WHEN
+Dialogue: 0,0:00:43.17,0:00:44.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WE {\k9}GOT {\k14}TO {\k12}THE {\k32}REGISTER,
+Dialogue: 0,0:00:44.34,0:00:45.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}THE {\k30}CASHIER {\k23}IMMEDIATELY {\k44}ASKED
+Dialogue: 0,0:00:45.38,0:00:46.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IF {\k7}I {\k14}HAD {\k11}LEFT {\k24}ANY
+Dialogue: 0,0:00:46.14,0:00:46.52,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}IN {\k6}THE {\k17}BOX.
+Dialogue: 0,0:00:47.32,0:00:47.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}I
+Dialogue: 0,0:00:47.57,0:00:48.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TOLD {\k20}HIM {\k15}YES, {\k30}AND
+Dialogue: 0,0:00:48.42,0:00:49.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}HE {\k25}ACTUALLY {\k20}WALKED {\k14}OVER
+Dialogue: 0,0:00:49.14,0:00:49.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}TO {\k16}CHECK.
+Dialogue: 0,0:00:50.25,0:00:50.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}APPARENTLY {\k24}HE
+Dialogue: 0,0:00:50.85,0:00:51.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}DIDN'T {\k14}THINK {\k14}I {\k17}LEFT
+Dialogue: 0,0:00:51.53,0:00:52.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ENOUGH {\k30}BECAUSE {\k19}HE
+Dialogue: 0,0:00:52.25,0:00:52.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}STARTED {\k37}COMPLAINING
+Dialogue: 0,0:00:52.93,0:00:53.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}THAT {\k12}HE {\k19}USES {\k16}THAT
+Dialogue: 0,0:00:53.64,0:00:54.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k42}MEDICATION {\k55}REGULARLY
+Dialogue: 0,0:00:54.61,0:00:54.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}HIMSELF.
+Dialogue: 0,0:00:55.56,0:00:55.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}MY
+Dialogue: 0,0:00:55.74,0:00:56.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}BOYFRIEND {\k46}APOLOGIZED
+Dialogue: 0,0:00:56.46,0:00:57.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}AND {\k25}QUIETLY {\k34}SUGGESTED
+Dialogue: 0,0:00:57.28,0:00:57.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}I {\k11}COULD {\k20}MAYBE
+Dialogue: 0,0:00:57.92,0:00:58.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}PUT {\k12}A {\k14}FEW {\k17}BACK,
+Dialogue: 0,0:00:58.84,0:00:59.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}BUT {\k11}I {\k11}SAID {\k16}NO.
+Dialogue: 0,0:00:59.93,0:01:00.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}I
+Dialogue: 0,0:01:00.14,0:01:00.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}EXPLAINED {\k19}THAT {\k10}I {\k29}GENUINELY
+Dialogue: 0,0:01:00.97,0:01:01.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}NEEDED {\k17}THEM {\k14}AND
+Dialogue: 0,0:01:01.64,0:01:02.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THAT {\k17}THIS {\k5}HAS {\k24}BECOME {\k16}AN
+Dialogue: 0,0:01:02.38,0:01:03.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}EVERYDAY {\k28}PROBLEM {\k19}FOR
+Dialogue: 0,0:01:03.11,0:01:03.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}ME {\k25}LATELY.
+Dialogue: 0,0:01:04.35,0:01:05.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THE {\k17}CASHIER {\k18}STOPPED {\k29}ARGUING,
+Dialogue: 0,0:01:05.50,0:01:06.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}BUT {\k10}HE {\k27}CLEARLY {\k24}LOOKED
+Dialogue: 0,0:01:06.20,0:01:06.45,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}ANNOYED.
+Dialogue: 0,0:01:07.23,0:01:07.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY
+Dialogue: 0,0:01:07.35,0:01:08.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}BOYFRIEND {\k21}THEN {\k31}MENTIONED
+Dialogue: 0,0:01:08.21,0:01:08.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}THAT {\k15}I'M {\k23}PREGNANT,
+Dialogue: 0,0:01:09.01,0:01:09.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WHICH {\k18}SORT {\k9}OF {\k20}ENDED
+Dialogue: 0,0:01:09.64,0:01:10.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}THE {\k40}CONVERSATION.
+Dialogue: 0,0:01:10.93,0:01:11.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}WE
+Dialogue: 0,0:01:11.20,0:01:11.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}PAID {\k14}AND {\k20}LEFT.
+Dialogue: 0,0:01:12.54,0:01:13.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}ONCE {\k15}WE {\k7}GOT {\k16}BACK {\k17}TO
+Dialogue: 0,0:01:13.29,0:01:13.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k15}CAR {\k14}THOUGH,
+Dialogue: 0,0:01:14.00,0:01:14.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}MY {\k28}BOYFRIEND {\k17}ASKED {\k20}IF
+Dialogue: 0,0:01:14.71,0:01:15.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k20}REALLY {\k21}NEEDED {\k14}TO
+Dialogue: 0,0:01:15.37,0:01:15.87,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}TAKE {\k12}THAT {\k25}MANY.
+Dialogue: 0,0:01:16.62,0:01:16.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}IN
+Dialogue: 0,0:01:16.81,0:01:17.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}MY {\k34}MIND,
+Dialogue: 0,0:01:17.54,0:01:18.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TEN {\k23}SMALL {\k28}PACKETS
+Dialogue: 0,0:01:18.20,0:01:19.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}DIDN'T {\k17}SEEM {\k35}EXCESSIVE
+Dialogue: 0,0:01:19.01,0:01:19.68,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}BECAUSE {\k18}I {\k26}USUALLY
+Dialogue: 0,0:01:19.68,0:01:20.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}NEED {\k17}TWO {\k10}AT {\k7}A {\k23}TIME,
+Dialogue: 0,0:01:20.50,0:01:21.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}AND {\k9}I {\k21}WANTED {\k31}EXTRAS
+Dialogue: 0,0:01:21.31,0:01:21.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k36}AVAILABLE {\k27}SO
+Dialogue: 0,0:01:21.95,0:01:22.59,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}I {\k20}WOULDN'T {\k12}GET {\k17}STUCK
+Dialogue: 0,0:01:22.59,0:01:23.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}WITHOUT {\k25}ANY {\k21}AGAIN.
+Dialogue: 0,0:01:24.07,0:01:24.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}NOW
+Dialogue: 0,0:01:24.28,0:01:24.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I'M {\k24}WONDERING {\k19}IF {\k10}I
+Dialogue: 0,0:01:24.98,0:01:25.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WAS {\k14}BEING {\k40}INCONSIDERATE
+Dialogue: 0,0:01:25.64,0:01:26.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}FOR {\k18}TAKING {\k21}MOST
+Dialogue: 0,0:01:26.28,0:01:26.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}OF {\k20}WHAT {\k15}WAS {\k14}THERE,
+Dialogue: 0,0:01:26.93,0:01:27.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}OR {\k14}IF {\k6}IT {\k9}WAS {\k34}REASONABLE
+Dialogue: 0,0:01:27.85,0:01:28.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}GIVEN {\k21}THE {\k40}SITUATION.

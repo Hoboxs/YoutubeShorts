@@ -1,0 +1,186 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.13,0:00:04.75,Default,,80,80,60,,{\k28}SON, {\k8}WHO {\k12}I
+Dialogue: 0,0:00:04.75,0:00:05.54,Default,,80,80,60,,{\k14}CALL {\k21}LEO, {\k8}IS
+Dialogue: 0,0:00:05.54,0:00:06.28,Default,,80,80,60,,{\k17}FIVE {\k12}AND {\k12}WAS {\k16}BORN {\k16}ON
+Dialogue: 0,0:00:06.28,0:00:07.78,Default,,80,80,60,,{\k16}ST. {\k68}PATRICK
+Dialogue: 0,0:00:07.78,0:00:07.86,Default,,80,80,60,,{\k8}DAY.
+Dialogue: 0,0:00:08.69,0:00:09.33,Default,,80,80,60,,{\k12}WHEN {\k11}I {\k16}WAS {\k24}PREGNANT
+Dialogue: 0,0:00:09.33,0:00:10.50,Default,,80,80,60,,{\k19}WITH {\k10}MY {\k24}DAUGHTER, {\k8}NORA,
+Dialogue: 0,0:00:10.77,0:00:11.43,Default,,80,80,60,,{\k6}I {\k24}SECRETLY {\k35}HOPED
+Dialogue: 0,0:00:11.43,0:00:12.09,Default,,80,80,60,,{\k22}SHE {\k17}ARRIVE {\k16}ON {\k9}A
+Dialogue: 0,0:00:12.09,0:00:12.90,Default,,80,80,60,,{\k22}FUN {\k14}OR {\k23}SYMBOLIC {\k20}DATE
+Dialogue: 0,0:00:12.90,0:00:13.53,Default,,80,80,60,,{\k24}TOO, {\k8}BUT {\k13}SHE
+Dialogue: 0,0:00:13.53,0:00:14.41,Default,,80,80,60,,{\k30}DIDN {\k35}T.
+Dialogue: 0,0:00:14.41,0:00:15.41,Default,,80,80,60,,{\k35}T. {\k24}DEFINITELY {\k40}NOTICED
+Dialogue: 0,0:00:15.41,0:00:16.07,Default,,80,80,60,,{\k17}THE {\k22}DIFFERENCE {\k17}IN {\k7}HOW
+Dialogue: 0,0:00:16.07,0:00:16.67,Default,,80,80,60,,{\k12}I {\k22}APPROACHED {\k25}THINGS
+Dialogue: 0,0:00:16.67,0:00:17.30,Default,,80,80,60,,{\k19}WITH {\k16}EACH {\k26}CHILD.
+Dialogue: 0,0:00:17.98,0:00:17.98,Default,,80,80,60,,{\k23}WHEN
+Dialogue: 0,0:00:17.98,0:00:18.80,Default,,80,80,60,,{\k23}WHEN {\k17}LEO {\k14}WAS {\k26}BORN,
+Dialogue: 0,0:00:19.17,0:00:19.89,Default,,80,80,60,,{\k1}I {\k17}WAS {\k26}ANXIOUS {\k25}AND
+Dialogue: 0,0:00:19.89,0:00:20.64,Default,,80,80,60,,{\k20}WANTED {\k32}EVERYTHING {\k21}TO
+Dialogue: 0,0:00:20.64,0:00:21.44,Default,,80,80,60,,{\k9}BE {\k26}PERFECT, {\k30}ESPECIALLY
+Dialogue: 0,0:00:21.44,0:00:22.10,Default,,80,80,60,,{\k23}SINCE {\k10}IT {\k9}WAS {\k22}DURING
+Dialogue: 0,0:00:22.10,0:00:23.66,Default,,80,80,60,,{\k13}THE {\k8}HEIGHT {\k17}OF {\k16}COVID. {\k35}WITH
+Dialogue: 0,0:00:23.66,0:00:24.51,Default,,80,80,60,,{\k19}NORA, {\k12}I
+Dialogue: 0,0:00:24.51,0:00:25.42,Default,,80,80,60,,{\k12}BEEN {\k17}MORE {\k25}RELAXED, {\k10}WHICH
+Dialogue: 0,0:00:25.42,0:00:26.17,Default,,80,80,60,,{\k15}SOUNDS {\k24}GOOD {\k14}IN {\k21}THEORY,
+Dialogue: 0,0:00:26.42,0:00:27.16,Default,,80,80,60,,{\k5}BUT {\k32}SOMETIMES {\k17}IT {\k17}FEELS
+Dialogue: 0,0:00:27.16,0:00:27.83,Default,,80,80,60,,{\k19}LIKE {\k26}SHE {\k21}GETTING
+Dialogue: 0,0:00:27.83,0:00:28.57,Default,,80,80,60,,{\k19}LESS {\k22}EFFORT {\k31}INSTEAD
+Dialogue: 0,0:00:28.57,0:00:29.42,Default,,80,80,60,,{\k20}OF {\k16}JUST {\k19}LESS {\k28}STRESS.
+Dialogue: 0,0:00:30.21,0:00:30.21,Default,,80,80,60,,{\k12}FOR
+Dialogue: 0,0:00:30.21,0:00:31.44,Default,,80,80,60,,{\k12}FOR {\k32}BIRTHDAYS, {\k16}LEO
+Dialogue: 0,0:00:31.44,0:00:32.20,Default,,80,80,60,,{\k19}HAS {\k9}HAD {\k8}A {\k14}BIG {\k24}PARTY
+Dialogue: 0,0:00:32.20,0:00:32.92,Default,,80,80,60,,{\k25}EVERY {\k14}YEAR {\k17}SINCE {\k14}HE
+Dialogue: 0,0:00:32.92,0:00:33.78,Default,,80,80,60,,{\k15}TURNED {\k26}ONE, {\k43}WITH
+Dialogue: 0,0:00:33.78,0:00:34.47,Default,,80,80,60,,{\k17}LOTS {\k14}OF {\k19}FRIENDS {\k17}AND
+Dialogue: 0,0:00:34.47,0:00:35.60,Default,,80,80,60,,{\k32}FAMILY. {\k29}NORA
+Dialogue: 0,0:00:35.60,0:00:36.42,Default,,80,80,60,,{\k29}NORA {\k12}FIRST {\k39}BIRTHDAY
+Dialogue: 0,0:00:36.42,0:00:37.10,Default,,80,80,60,,{\k15}WAS {\k16}MUCH {\k35}SMALLER,
+Dialogue: 0,0:00:37.38,0:00:38.14,Default,,80,80,60,,{\k9}JUST {\k17}CLOSE {\k32}FAMILY {\k16}AND
+Dialogue: 0,0:00:38.14,0:00:38.79,Default,,80,80,60,,{\k7}A {\k10}FEW {\k21}FRIENDS {\k25}BECAUSE
+Dialogue: 0,0:00:38.79,0:00:39.53,Default,,80,80,60,,{\k10}OF {\k17}SPACE {\k17}AND {\k28}TIMING.
+Dialogue: 0,0:00:40.32,0:00:40.32,Default,,80,80,60,,{\k14}WE
+Dialogue: 0,0:00:40.32,0:00:40.93,Default,,80,80,60,,{\k14}WE {\k14}DID {\k14}DO {\k7}A {\k11}BIGGER
+Dialogue: 0,0:00:40.93,0:00:41.71,Default,,80,80,60,,{\k32}PARTY {\k14}FOR {\k10}HER {\k21}SECOND
+Dialogue: 0,0:00:41.71,0:00:42.32,Default,,80,80,60,,{\k35}BIRTHDAY, {\k6}BUT
+Dialogue: 0,0:00:42.32,0:00:43.17,Default,,80,80,60,,{\k11}I {\k21}STILL {\k24}FEEL {\k28}GUILTY
+Dialogue: 0,0:00:43.17,0:00:43.93,Default,,80,80,60,,{\k24}ABOUT {\k11}THAT {\k20}FIRST {\k19}ONE.
+Dialogue: 0,0:00:44.70,0:00:44.70,Default,,80,80,60,,{\k14}A
+Dialogue: 0,0:00:44.70,0:00:45.32,Default,,80,80,60,,{\k14}A {\k19}COUPLE {\k16}OF {\k11}YEARS
+Dialogue: 0,0:00:45.32,0:00:46.10,Default,,80,80,60,,{\k25}AGO, {\k5}I {\k20}HELPED
+Dialogue: 0,0:00:46.10,0:00:46.79,Default,,80,80,60,,{\k17}MY {\k14}NIECE {\k17}BUILD {\k19}A
+Dialogue: 0,0:00:46.79,0:00:47.46,Default,,80,80,60,,{\k28}LEPRECHAUN {\k21}TRAP {\k16}FOR
+Dialogue: 0,0:00:47.46,0:00:48.11,Default,,80,80,60,,{\k24}SCHOOL, {\k27}AND {\k14}WE
+Dialogue: 0,0:00:48.11,0:00:48.88,Default,,80,80,60,,{\k20}ENDED {\k11}UP {\k21}MAKING {\k22}ONE
+Dialogue: 0,0:00:48.88,0:00:49.50,Default,,80,80,60,,{\k14}AT {\k9}OUR {\k17}HOUSE {\k20}TOO.
+Dialogue: 0,0:00:50.52,0:00:51.35,Default,,80,80,60,,{\k39}THAT {\k19}TURNED {\k24}INTO
+Dialogue: 0,0:00:51.35,0:00:52.70,Default,,80,80,60,,{\k7}A {\k10}WHOLE {\k35}TRADITION. {\k17}FOR
+Dialogue: 0,0:00:52.70,0:00:53.43,Default,,80,80,60,,{\k17}FOR {\k7}THE {\k17}PAST {\k29}THREE
+Dialogue: 0,0:00:53.43,0:00:54.29,Default,,80,80,60,,{\k26}YEARS, {\k19}WE
+Dialogue: 0,0:00:54.29,0:00:55.02,Default,,80,80,60,,{\k14}HAD {\k14}A {\k44}LEPRECHAUN
+Dialogue: 0,0:00:55.02,0:00:55.88,Default,,80,80,60,,{\k21}WE {\k15}CALL {\k16}HIM {\k32}RASCAL,
+Dialogue: 0,0:00:56.25,0:00:56.89,Default,,80,80,60,,{\k14}COME {\k16}TO {\k7}THE {\k10}HOUSE {\k15}FOR
+Dialogue: 0,0:00:56.89,0:00:57.52,Default,,80,80,60,,{\k17}ABOUT {\k12}A {\k7}WEEK {\k24}BEFORE
+Dialogue: 0,0:00:57.52,0:00:58.43,Default,,80,80,60,,{\k19}MARCH {\k71}17TH,
+Dialogue: 0,0:00:58.50,0:00:59.11,Default,,80,80,60,,{\k7}LEAVING {\k24}LITTLE {\k15}MESSES,
+Dialogue: 0,0:00:59.28,0:01:00.15,Default,,80,80,60,,{\k14}COINS, {\k29}AND {\k43}SURPRISES.
+Dialogue: 0,0:01:00.75,0:01:01.11,Default,,80,80,60,,{\k35}LEO
+Dialogue: 0,0:01:01.11,0:01:01.79,Default,,80,80,60,,{\k34}ABSOLUTELY {\k33}LOVES
+Dialogue: 0,0:01:01.79,0:01:02.61,Default,,80,80,60,,{\k20}IT. {\k32}HERE
+Dialogue: 0,0:01:02.61,0:01:03.50,Default,,80,80,60,,{\k32}HERE {\k10}WHERE {\k16}THINGS {\k29}STARTED
+Dialogue: 0,0:01:03.50,0:01:04.70,Default,,80,80,60,,{\k20}TO {\k11}FEEL {\k25}OFF. {\k34}SOMEWHERE
+Dialogue: 0,0:01:04.70,0:01:05.40,Default,,80,80,60,,{\k34}SOMEWHERE {\k19}ALONG {\k16}THE
+Dialogue: 0,0:01:05.40,0:01:06.12,Default,,80,80,60,,{\k15}WAY, {\k7}THIS {\k20}TURNED
+Dialogue: 0,0:01:06.12,0:01:06.84,Default,,80,80,60,,{\k29}INTO {\k7}AN {\k21}IDEA {\k12}IN
+Dialogue: 0,0:01:06.84,0:01:07.78,Default,,80,80,60,,{\k7}THE {\k21}FAMILY {\k17}THAT {\k10}THE {\k35}LEPRECHAUN
+Dialogue: 0,0:01:07.78,0:01:08.56,Default,,80,80,60,,{\k21}ONLY {\k28}VISITS {\k28}KIDS
+Dialogue: 0,0:01:08.56,0:01:09.15,Default,,80,80,60,,{\k17}BORN {\k18}ON {\k23}ST.
+Dialogue: 0,0:01:10.02,0:01:10.51,Default,,80,80,60,,{\k39}PATRICK {\k9}DAY.
+Dialogue: 0,0:01:11.31,0:01:11.98,Default,,80,80,60,,{\k14}MY {\k26}SIBLINGS {\k26}DIDN
+Dialogue: 0,0:01:11.98,0:01:12.62,Default,,80,80,60,,{\k14}DO {\k7}IT {\k9}FOR {\k12}THEIR {\k20}KIDS
+Dialogue: 0,0:01:12.62,0:01:13.48,Default,,80,80,60,,{\k15}THIS {\k26}YEAR, {\k18}EVEN
+Dialogue: 0,0:01:13.48,0:01:14.20,Default,,80,80,60,,{\k17}THOUGH {\k15}THEY {\k8}HAD {\k7}IN {\k21}PREVIOUS
+Dialogue: 0,0:01:14.20,0:01:15.18,Default,,80,80,60,,{\k43}YEARS, {\k54}BECAUSE
+Dialogue: 0,0:01:15.18,0:01:15.70,Default,,80,80,60,,{\k13}OF {\k10}THAT {\k28}BELIEF.
+Dialogue: 0,0:01:16.45,0:01:17.23,Default,,80,80,60,,{\k14}I {\k21}DIDN {\k22}T {\k19}THAT
+Dialogue: 0,0:01:17.23,0:01:18.51,Default,,80,80,60,,{\k14}SHIFT {\k16}HAD {\k27}HAPPENED. {\k26}I
+Dialogue: 0,0:01:18.51,0:01:19.15,Default,,80,80,60,,{\k26}I {\k20}ALWAYS {\k17}THOUGHT
+Dialogue: 0,0:01:19.15,0:01:19.92,Default,,80,80,60,,{\k14}OF {\k6}IT {\k9}AS {\k26}SOMETHING {\k20}FUN
+Dialogue: 0,0:01:19.92,0:01:21.29,Default,,80,80,60,,{\k14}FOR {\k15}BOTH {\k20}KIDS. {\k18}BUT
+Dialogue: 0,0:01:21.29,0:01:22.06,Default,,80,80,60,,{\k18}BUT {\k35}RECENTLY {\k21}MY
+Dialogue: 0,0:01:22.06,0:01:22.71,Default,,80,80,60,,{\k20}MOM {\k14}MADE {\k14}A {\k17}COMMENT
+Dialogue: 0,0:01:22.71,0:01:23.59,Default,,80,80,60,,{\k18}THAT {\k23}SUGGESTED {\k45}OTHERWISE,
+Dialogue: 0,0:01:23.59,0:01:24.23,Default,,80,80,60,,{\k30}AND {\k9}WHEN {\k9}I {\k14}BROUGHT
+Dialogue: 0,0:01:24.23,0:01:25.00,Default,,80,80,60,,{\k12}IT {\k14}UP {\k14}WITH {\k12}MY {\k23}HUSBAND
+Dialogue: 0,0:01:25.00,0:01:25.62,Default,,80,80,60,,{\k20}THIS {\k23}MORNING {\k18}WHILE
+Dialogue: 0,0:01:25.62,0:01:26.45,Default,,80,80,60,,{\k17}WE {\k7}WERE {\k18}SETTING {\k39}EVERYTHING
+Dialogue: 0,0:01:26.45,0:01:27.15,Default,,80,80,60,,{\k24}UP, {\k7}HE {\k16}SAID {\k11}THE
+Dialogue: 0,0:01:27.15,0:01:27.84,Default,,80,80,60,,{\k34}LEPRECHAUN {\k12}IS {\k21}ONLY
+Dialogue: 0,0:01:27.84,0:01:28.98,Default,,80,80,60,,{\k14}FOR {\k17}LEO. {\k15}THIS
+Dialogue: 0,0:01:28.98,0:01:29.64,Default,,80,80,60,,{\k15}THIS {\k17}IS {\k14}THE {\k18}THIRD
+Dialogue: 0,0:01:29.64,0:01:30.40,Default,,80,80,60,,{\k14}YEAR {\k15}LEO {\k21}HAS {\k24}WOKEN
+Dialogue: 0,0:01:30.40,0:01:31.04,Default,,80,80,60,,{\k15}UP {\k14}TO {\k34}DECORATIONS
+Dialogue: 0,0:01:31.04,0:01:31.81,Default,,80,80,60,,{\k27}LIKE {\k24}BALLOONS {\k25}AND
+Dialogue: 0,0:01:31.81,0:01:32.57,Default,,80,80,60,,{\k44}STREAMERS {\k31}EVERYWHERE
+Dialogue: 0,0:01:32.57,0:01:33.23,Default,,80,80,60,,{\k20}FOR {\k14}HIS {\k31}BIRTHDAY,
+Dialogue: 0,0:01:33.51,0:01:34.23,Default,,80,80,60,,{\k12}ALONG {\k17}WITH {\k10}THE {\k31}LEPRECHAUN
+Dialogue: 0,0:01:34.23,0:01:35.43,Default,,80,80,60,,{\k40}SURPRISES. {\k20}I
+Dialogue: 0,0:01:35.43,0:01:36.14,Default,,80,80,60,,{\k20}I {\k15}ASKED {\k10}MY {\k23}HUSBAND
+Dialogue: 0,0:01:36.14,0:01:36.87,Default,,80,80,60,,{\k14}IF {\k7}WE {\k14}SHOULD {\k9}AT {\k12}LEAST {\k15}LEAVE
+Dialogue: 0,0:01:36.87,0:01:37.54,Default,,80,80,60,,{\k28}SOMETHING {\k24}SMALL {\k14}FOR
+Dialogue: 0,0:01:37.54,0:01:38.29,Default,,80,80,60,,{\k11}NORA {\k29}TOO, {\k34}AND
+Dialogue: 0,0:01:38.29,0:01:39.34,Default,,80,80,60,,{\k10}HE {\k15}SAID {\k21}NO, {\k56}BECAUSE
+Dialogue: 0,0:01:39.34,0:01:40.00,Default,,80,80,60,,{\k20}IT {\k14}NOT {\k17}FOR {\k14}HER.
+Dialogue: 0,0:01:40.78,0:01:41.40,Default,,80,80,60,,{\k14}I {\k14}THEN {\k17}ASKED {\k16}IF
+Dialogue: 0,0:01:41.40,0:01:42.04,Default,,80,80,60,,{\k9}WE {\k7}WERE {\k23}PLANNING {\k22}TO
+Dialogue: 0,0:01:42.04,0:01:43.07,Default,,80,80,60,,{\k9}DO {\k29}SOMETHING {\k15}EQUALLY {\k48}SPECIAL
+Dialogue: 0,0:01:43.07,0:01:43.79,Default,,80,80,60,,{\k20}FOR {\k23}NORA {\k28}BIRTHDAY
+Dialogue: 0,0:01:43.79,0:01:44.56,Default,,80,80,60,,{\k14}WHEN {\k12}IT {\k14}COMES {\k35}AROUND,
+Dialogue: 0,0:01:44.56,0:01:45.29,Default,,80,80,60,,{\k31}AND {\k12}HE {\k14}SAID {\k15}NO
+Dialogue: 0,0:01:45.29,0:01:45.54,Default,,80,80,60,,{\k24}AGAIN.
+Dialogue: 0,0:01:46.23,0:01:46.90,Default,,80,80,60,,{\k10}HIS {\k29}REASONING {\k26}IS
+Dialogue: 0,0:01:46.90,0:01:47.51,Default,,80,80,60,,{\k14}THAT {\k14}BY {\k11}THE {\k21}TIME
+Dialogue: 0,0:01:47.51,0:01:48.12,Default,,80,80,60,,{\k24}SHE {\k7}OLD {\k28}ENOUGH
+Dialogue: 0,0:01:48.12,0:01:49.04,Default,,80,80,60,,{\k15}TO {\k21}NOTICE {\k20}OR {\k34}REMEMBER,
+Dialogue: 0,0:01:49.48,0:01:50.26,Default,,80,80,60,,{\k14}LEO {\k14}WILL {\k11}BE {\k16}OLD {\k21}ENOUGH
+Dialogue: 0,0:01:50.26,0:01:50.87,Default,,80,80,60,,{\k17}TO {\k15}STOP {\k28}BELIEVING
+Dialogue: 0,0:01:50.87,0:01:51.56,Default,,80,80,60,,{\k26}IN {\k12}THE {\k29}LEPRECHAUN
+Dialogue: 0,0:01:51.56,0:01:52.84,Default,,80,80,60,,{\k34}ANYWAY. {\k40}I
+Dialogue: 0,0:01:52.84,0:01:53.59,Default,,80,80,60,,{\k20}DON {\k14}REALLY {\k21}AGREE {\k19}WITH
+Dialogue: 0,0:01:53.59,0:01:54.45,Default,,80,80,60,,{\k16}THAT. {\k22}WE
+Dialogue: 0,0:01:54.45,0:01:55.21,Default,,80,80,60,,{\k22}WE {\k33}STARTED {\k20}THIS
+Dialogue: 0,0:01:55.21,0:01:55.90,Default,,80,80,60,,{\k32}TRADITION {\k19}WHEN {\k16}LEO
+Dialogue: 0,0:01:55.90,0:01:56.76,Default,,80,80,60,,{\k21}WAS {\k19}THREE, {\k14}WHICH
+Dialogue: 0,0:01:56.76,0:01:57.59,Default,,80,80,60,,{\k11}IS {\k20}ONLY {\k28}SLIGHTLY {\k23}OLDER
+Dialogue: 0,0:01:57.59,0:01:58.21,Default,,80,80,60,,{\k18}THAN {\k21}NORA {\k21}IS
+Dialogue: 0,0:01:58.21,0:01:59.14,Default,,80,80,60,,{\k15}NOW. {\k23}EVEN
+Dialogue: 0,0:01:59.14,0:01:59.81,Default,,80,80,60,,{\k23}EVEN {\k16}IF {\k11}WE {\k15}ONLY
+Dialogue: 0,0:01:59.81,0:02:00.51,Default,,80,80,60,,{\k38}CONTINUE {\k9}IT {\k7}FOR {\k14}ANOTHER
+Dialogue: 0,0:02:00.51,0:02:01.14,Default,,80,80,60,,{\k21}YEAR {\k21}OR {\k18}TWO,
+Dialogue: 0,0:02:01.42,0:02:02.12,Default,,80,80,60,,{\k1}I {\k14}THINK {\k20}IT {\k17}ENOUGH {\k16}FOR
+Dialogue: 0,0:02:02.12,0:02:02.93,Default,,80,80,60,,{\k7}HER {\k9}TO {\k24}NOTICE {\k15}THE {\k23}DIFFERENCE.
+Dialogue: 0,0:02:03.84,0:02:04.48,Default,,80,80,60,,{\k17}I {\k16}WORRIED {\k15}THAT {\k14}WHEN
+Dialogue: 0,0:02:04.48,0:02:05.28,Default,,80,80,60,,{\k23}SHE {\k23}OLDER, {\k6}SHE
+Dialogue: 0,0:02:05.28,0:02:05.98,Default,,80,80,60,,{\k12}MIGHT {\k11}LOOK {\k16}BACK {\k15}AND {\k14}FEEL
+Dialogue: 0,0:02:05.98,0:02:06.68,Default,,80,80,60,,{\k17}LIKE {\k14}HER {\k18}BROTHER {\k20}HAD
+Dialogue: 0,0:02:06.68,0:02:07.51,Default,,80,80,60,,{\k17}THIS {\k21}WEEK-LONG {\k31}MAGICAL
+Dialogue: 0,0:02:07.51,0:02:08.25,Default,,80,80,60,,{\k48}CELEBRATION {\k25}EVERY
+Dialogue: 0,0:02:08.25,0:02:08.91,Default,,80,80,60,,{\k18}YEAR, {\k28}WHILE {\k19}SHE
+Dialogue: 0,0:02:08.91,0:02:09.53,Default,,80,80,60,,{\k21}DIDN {\k12}HAVE {\k28}ANYTHING
+Dialogue: 0,0:02:09.53,0:02:10.68,Default,,80,80,60,,{\k43}COMPARABLE. {\k34}COMBINED
+Dialogue: 0,0:02:10.68,0:02:11.47,Default,,80,80,60,,{\k34}COMBINED {\k17}WITH {\k8}THE {\k19}SMALLER
+Dialogue: 0,0:02:11.47,0:02:12.19,Default,,80,80,60,,{\k40}BIRTHDAY {\k31}AND
+Dialogue: 0,0:02:12.19,0:02:12.96,Default,,80,80,60,,{\k14}JUST {\k13}THE {\k20}GENERAL {\k28}SECOND
+Dialogue: 0,0:02:12.96,0:02:13.80,Default,,80,80,60,,{\k29}CHILD {\k26}EFFECT, {\k4}I
+Dialogue: 0,0:02:13.80,0:02:14.47,Default,,80,80,60,,{\k21}DON {\k11}WANT {\k12}HER {\k10}TO {\k11}FEEL
+Dialogue: 0,0:02:14.47,0:02:15.18,Default,,80,80,60,,{\k20}LIKE {\k15}SHE {\k13}GOT {\k20}LESS.
+Dialogue: 0,0:02:16.02,0:02:16.02,Default,,80,80,60,,{\k17}MY
+Dialogue: 0,0:02:16.02,0:02:16.69,Default,,80,80,60,,{\k17}MY {\k16}HUSBAND {\k33}THINKS
+Dialogue: 0,0:02:16.69,0:02:17.37,Default,,80,80,60,,{\k14}I {\k6}M {\k34}OVERTHINKING {\k13}IT
+Dialogue: 0,0:02:17.37,0:02:18.50,Default,,80,80,60,,{\k6}AND {\k18}MAKING {\k31}THINGS {\k56}UNNECESSARILY
+Dialogue: 0,0:02:18.50,0:02:20.12,Default,,80,80,60,,{\k52}COMPLICATED. {\k36}WE
+Dialogue: 0,0:02:20.12,0:02:20.80,Default,,80,80,60,,{\k25}ARGUED {\k25}ABOUT {\k16}IT,
+Dialogue: 0,0:02:20.80,0:02:21.50,Default,,80,80,60,,{\k25}AND {\k12}HE {\k15}FEELS {\k15}LIKE
+Dialogue: 0,0:02:21.50,0:02:22.25,Default,,80,80,60,,{\k19}I {\k21}TURNING {\k18}THIS {\k15}INTO
+Dialogue: 0,0:02:22.25,0:02:22.91,Default,,80,80,60,,{\k14}A {\k13}BIGGER {\k26}ISSUE {\k11}THAN
+Dialogue: 0,0:02:22.91,0:02:23.62,Default,,80,80,60,,{\k10}IT {\k15}NEEDS {\k23}TO {\k20}BE.
+Dialogue: 0,0:02:24.25,0:02:24.25,Default,,80,80,60,,{\k18}AM
+Dialogue: 0,0:02:24.25,0:02:24.90,Default,,80,80,60,,{\k18}AM {\k9}I {\k18}WRONG {\k18}FOR
+Dialogue: 0,0:02:24.90,0:02:25.63,Default,,80,80,60,,{\k25}WANTING {\k14}TO {\k13}MAKE {\k19}SURE
+Dialogue: 0,0:02:25.63,0:02:26.41,Default,,80,80,60,,{\k18}SHE {\k28}SOMETHING {\k31}EQUALLY
+Dialogue: 0,0:02:26.41,0:02:27.12,Default,,80,80,60,,{\k32}SPECIAL, {\k37}OR
+Dialogue: 0,0:02:27.12,0:02:27.78,Default,,80,80,60,,{\k15}FOR {\k30}WORRYING {\k19}ABOUT
+Dialogue: 0,0:02:27.78,0:02:28.47,Default,,80,80,60,,{\k15}HOW {\k14}THIS {\k17}MIGHT {\k21}AFFECT
+Dialogue: 0,0:02:28.47,0:02:28.86,Default,,80,80,60,,{\k18}HER {\k20}LATER?

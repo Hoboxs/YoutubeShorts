@@ -1,0 +1,179 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.62,0:00:04.29,Default,,0,0,0,,\N{\k23}I {\k8}HAVE {\k11}BEEN {\k12}WITH {\k12}MY
+Dialogue: 0,0:00:04.29,0:00:04.94,Default,,0,0,0,,\N{\k21}HUSBAND {\k22}FOR {\k20}FIVE
+Dialogue: 0,0:00:04.94,0:00:05.71,Default,,0,0,0,,\N{\k23}YEARS {\k24}AND {\k12}FOR {\k17}MOST
+Dialogue: 0,0:00:05.71,0:00:06.40,Default,,0,0,0,,\N{\k14}OF {\k8}THE {\k17}TIME {\k13}I {\k14}HAVE
+Dialogue: 0,0:00:06.40,0:00:07.04,Default,,0,0,0,,\N{\k9}HAD {\k9}WHAT {\k8}I {\k18}THOUGHT {\k17}WAS
+Dialogue: 0,0:00:07.04,0:00:07.66,Default,,0,0,0,,\N{\k33}GENUINELY {\k28}GOOD
+Dialogue: 0,0:00:07.66,0:00:08.33,Default,,0,0,0,,\N{\k45}RELATIONSHIP {\k22}WITH
+Dialogue: 0,0:00:08.33,0:00:08.74,Default,,0,0,0,,\N{\k12}HIS {\k27}MOTHER.
+Dialogue: 0,0:00:09.51,0:00:10.59,Default,,0,0,0,,\N{\k30}SHE {\k8}IS {\k19}FRIENDLY {\k50}GENEROUS
+Dialogue: 0,0:00:10.59,0:00:11.40,Default,,0,0,0,,\N{\k33}AND {\k24}VERY {\k22}INVOLVED
+Dialogue: 0,0:00:11.40,0:00:12.11,Default,,0,0,0,,\N{\k21}IN {\k10}HER {\k39}FAMILY'S
+Dialogue: 0,0:00:12.11,0:00:12.35,Default,,0,0,0,,\N{\k24}LIFE.
+Dialogue: 0,0:00:13.09,0:00:13.74,Default,,0,0,0,,\N{\k24}ONE {\k17}THING {\k22}ABOUT
+Dialogue: 0,0:00:13.74,0:00:14.43,Default,,0,0,0,,\N{\k14}HER {\k21}THOUGH {\k33}IS
+Dialogue: 0,0:00:14.43,0:00:15.30,Default,,0,0,0,,\N{\k12}THAT {\k16}SHE {\k13}LIVES {\k16}ON {\k28}FACEBOOK.
+Dialogue: 0,0:00:16.30,0:00:16.92,Default,,0,0,0,,\N{\k23}SHE {\k22}POSTS {\k16}AT
+Dialogue: 0,0:00:16.92,0:00:17.57,Default,,0,0,0,,\N{\k11}LEAST {\k24}ONCE {\k14}A {\k15}DAY,
+Dialogue: 0,0:00:17.92,0:00:18.64,Default,,0,0,0,,\N{\k21}SOMETIMES {\k30}MORE, {\k3}AND
+Dialogue: 0,0:00:18.64,0:00:19.42,Default,,0,0,0,,\N{\k30}EVERYTHING {\k23}IS {\k24}PUBLIC.
+Dialogue: 0,0:00:20.21,0:00:20.83,Default,,0,0,0,,\N{\k28}SHE {\k7}IS {\k8}A {\k17}LARGE
+Dialogue: 0,0:00:20.83,0:00:21.46,Default,,0,0,0,,\N{\k21}FOLLOWING {\k17}OF {\k22}PEOPLE
+Dialogue: 0,0:00:21.46,0:00:22.12,Default,,0,0,0,,\N{\k11}I {\k10}DO {\k10}NOT {\k17}KNOW {\k16}AND
+Dialogue: 0,0:00:22.12,0:00:22.92,Default,,0,0,0,,\N{\k21}SHARING {\k33}DETAILS {\k24}ABOUT
+Dialogue: 0,0:00:22.92,0:00:23.73,Default,,0,0,0,,\N{\k11}HER {\k17}LIFE {\k14}AND {\k12}HER {\k25}FAMILY
+Dialogue: 0,0:00:23.73,0:00:24.50,Default,,0,0,0,,\N{\k20}SEEMS {\k19}TO {\k7}BE {\k10}A {\k17}HUGE
+Dialogue: 0,0:00:24.50,0:00:25.21,Default,,0,0,0,,\N{\k16}PART {\k14}OF {\k7}HOW {\k14}SHE {\k19}CONNECTS
+Dialogue: 0,0:00:25.21,0:00:25.66,Default,,0,0,0,,\N{\k22}WITH {\k21}OTHERS.
+Dialogue: 0,0:00:26.29,0:00:27.10,Default,,0,0,0,,\N{\k40}WHEN {\k16}MY {\k24}HUSBAND
+Dialogue: 0,0:00:27.10,0:00:27.73,Default,,0,0,0,,\N{\k29}WAS {\k33}YOUNGER
+Dialogue: 0,0:00:27.73,0:00:28.44,Default,,0,0,0,,\N{\k20}SHE {\k19}EVEN {\k16}USED {\k14}TO
+Dialogue: 0,0:00:28.44,0:00:29.12,Default,,0,0,0,,\N{\k9}WRITE {\k24}POSTS {\k33}PRETENDING
+Dialogue: 0,0:00:29.12,0:00:29.82,Default,,0,0,0,,\N{\k21}TO {\k8}BE {\k11}HIM {\k28}WHICH
+Dialogue: 0,0:00:29.82,0:00:30.42,Default,,0,0,0,,\N{\k30}EVERYONE {\k30}APPARENTLY
+Dialogue: 0,0:00:30.42,0:00:31.07,Default,,0,0,0,,\N{\k23}SAW {\k12}AS {\k29}NORMAL.
+Dialogue: 0,0:00:31.84,0:00:32.61,Default,,0,0,0,,\N{\k39}OVER {\k17}THE {\k19}YEARS
+Dialogue: 0,0:00:32.61,0:00:33.34,Default,,0,0,0,,\N{\k32}MY {\k26}HUSBAND {\k14}AND
+Dialogue: 0,0:00:33.34,0:00:34.10,Default,,0,0,0,,\N{\k9}I {\k10}HAD {\k10}SENT {\k17}HER {\k28}PHOTOS
+Dialogue: 0,0:00:34.10,0:00:35.14,Default,,0,0,0,,\N{\k17}OF {\k19}TRIPS, {\k24}ACTIVITIES,
+Dialogue: 0,0:00:35.60,0:00:36.38,Default,,0,0,0,,\N{\k5}OR {\k12}SMALL {\k29}LIFE {\k30}MOMENTS
+Dialogue: 0,0:00:36.38,0:00:37.25,Default,,0,0,0,,\N{\k59}AND {\k28}ALMOST
+Dialogue: 0,0:00:37.25,0:00:37.93,Default,,0,0,0,,\N{\k28}WITHOUT {\k20}FAIL {\k19}THOSE
+Dialogue: 0,0:00:37.93,0:00:38.61,Default,,0,0,0,,\N{\k32}PHOTOS {\k24}END {\k11}UP
+Dialogue: 0,0:00:38.61,0:00:39.50,Default,,0,0,0,,\N{\k8}ON {\k9}HER {\k28}FACEBOOK {\k42}PAGE.
+Dialogue: 0,0:00:40.57,0:00:41.28,Default,,0,0,0,,\N{\k26}MOST {\k15}OF {\k10}THE {\k17}TIME
+Dialogue: 0,0:00:41.28,0:00:41.92,Default,,0,0,0,,\N{\k21}WE {\k6}ARE {\k14}NOT {\k21}TOLD
+Dialogue: 0,0:00:41.92,0:00:42.35,Default,,0,0,0,,\N{\k43}BEFOREHAND.
+Dialogue: 0,0:00:43.11,0:00:43.71,Default,,0,0,0,,\N{\k32}I {\k12}HAVE {\k15}ALSO
+Dialogue: 0,0:00:43.71,0:00:44.46,Default,,0,0,0,,\N{\k38}DISCOVERED {\k35}PICTURES
+Dialogue: 0,0:00:44.46,0:00:45.15,Default,,0,0,0,,\N{\k15}OF {\k24}MYSELF {\k29}ONLINE
+Dialogue: 0,0:00:45.15,0:00:45.92,Default,,0,0,0,,\N{\k20}THAT {\k7}I {\k12}DID {\k11}NOT {\k24}EVEN
+Dialogue: 0,0:00:45.92,0:00:46.71,Default,,0,0,0,,\N{\k21}REALISE {\k21}SHE {\k6}HAD {\k29}TAKEN.
+Dialogue: 0,0:00:47.46,0:00:48.11,Default,,0,0,0,,\N{\k17}WHILE {\k15}THIS {\k12}HAS {\k19}ALWAYS
+Dialogue: 0,0:00:48.11,0:00:48.74,Default,,0,0,0,,\N{\k20}MADE {\k15}ME {\k26}UNEASY
+Dialogue: 0,0:00:48.74,0:00:49.64,Default,,0,0,0,,\N{\k29}I {\k24}CONVINCED {\k35}MYSELF
+Dialogue: 0,0:00:49.64,0:00:50.35,Default,,0,0,0,,\N{\k20}IT {\k11}WAS {\k19}HARMLESS {\k20}AND
+Dialogue: 0,0:00:50.35,0:00:50.96,Default,,0,0,0,,\N{\k16}TRIED {\k17}NOT {\k15}TO {\k10}ROCK
+Dialogue: 0,0:00:50.96,0:00:51.25,Default,,0,0,0,,\N{\k15}THE {\k14}BOAT.
+Dialogue: 0,0:00:51.84,0:00:52.60,Default,,0,0,0,,\N{\k35}I {\k11}DID {\k11}NOT {\k16}WANT
+Dialogue: 0,0:00:52.60,0:00:53.24,Default,,0,0,0,,\N{\k11}TO {\k16}SEEM {\k35}DRAMATIC
+Dialogue: 0,0:00:53.24,0:00:53.89,Default,,0,0,0,,\N{\k23}OR {\k42}UNGRATEFUL,
+Dialogue: 0,0:00:54.35,0:00:55.07,Default,,0,0,0,,\N{\k25}ESPECIALLY {\k30}SINCE {\k15}SHE
+Dialogue: 0,0:00:55.07,0:00:55.78,Default,,0,0,0,,\N{\k7}HAS {\k24}OTHERWISE {\k21}BEEN {\k16}KIND
+Dialogue: 0,0:00:55.78,0:00:56.06,Default,,0,0,0,,\N{\k15}TO {\k12}ME.
+Dialogue: 0,0:00:56.98,0:00:57.70,Default,,0,0,0,,\N{\k35}RECENTLY {\k35}MY
+Dialogue: 0,0:00:57.70,0:00:58.39,Default,,0,0,0,,\N{\k29}HUSBAND {\k14}AND {\k10}I {\k15}BOTH
+Dialogue: 0,0:00:58.39,0:00:59.21,Default,,0,0,0,,\N{\k30}STARTED {\k23}NEW {\k28}JOBS
+Dialogue: 0,0:00:59.21,0:00:59.93,Default,,0,0,0,,\N{\k34}AND {\k9}OUR {\k28}SCHEDULES
+Dialogue: 0,0:00:59.93,0:01:00.57,Default,,0,0,0,,\N{\k17}HAVE {\k10}BEEN {\k35}CHAOTIC.
+Dialogue: 0,0:01:01.57,0:01:02.46,Default,,0,0,0,,\N{\k21}BECAUSE {\k14}OF {\k17}THIS {\k34}WE
+Dialogue: 0,0:01:02.46,0:01:03.15,Default,,0,0,0,,\N{\k6}HAVE {\k15}NOT {\k14}BEEN {\k21}ABLE {\k11}TO
+Dialogue: 0,0:01:03.15,0:01:03.75,Default,,0,0,0,,\N{\k14}TRAVEL {\k26}TOGETHER {\k19}TO
+Dialogue: 0,0:01:03.75,0:01:04.37,Default,,0,0,0,,\N{\k14}SEE {\k10}HIS {\k20}PARENTS {\k17}SINCE
+Dialogue: 0,0:01:04.37,0:01:04.81,Default,,0,0,0,,\N{\k14}THE {\k29}HOLIDAYS.
+Dialogue: 0,0:01:05.64,0:01:06.37,Default,,0,0,0,,\N{\k21}HE {\k7}HAS {\k28}VISITED {\k15}ON
+Dialogue: 0,0:01:06.37,0:01:07.12,Default,,0,0,0,,\N{\k12}HIS {\k14}OWN {\k29}ONCE {\k18}BUT
+Dialogue: 0,0:01:07.12,0:01:07.85,Default,,0,0,0,,\N{\k11}I {\k10}HAVE {\k14}NOT {\k17}BEEN {\k20}ABLE
+Dialogue: 0,0:01:07.85,0:01:08.59,Default,,0,0,0,,\N{\k12}TO {\k9}GO {\k14}DO {\k9}TO {\k10}MY {\k17}WORK
+Dialogue: 0,0:01:08.59,0:01:08.81,Default,,0,0,0,,\N{\k21}HOURS.
+Dialogue: 0,0:01:09.93,0:01:10.65,Default,,0,0,0,,\N{\k35}YESTERDAY {\k35}MY
+Dialogue: 0,0:01:10.65,0:01:11.37,Default,,0,0,0,,\N{\k29}PARENTS {\k20}CALLED {\k21}ME
+Dialogue: 0,0:01:11.37,0:01:11.98,Default,,0,0,0,,\N{\k12}AND {\k26}CASUALLY {\k21}ASKED
+Dialogue: 0,0:01:11.98,0:01:12.59,Default,,0,0,0,,\N{\k14}HOW {\k11}MY {\k16}VISIT {\k19}WITH
+Dialogue: 0,0:01:12.59,0:01:13.28,Default,,0,0,0,,\N{\k14}MINE {\k21}LOST {\k20}HAD {\k12}BEEN.
+Dialogue: 0,0:01:14.04,0:01:14.73,Default,,0,0,0,,\N{\k25}I {\k12}WAS {\k31}CONFUSED
+Dialogue: 0,0:01:14.73,0:01:15.35,Default,,0,0,0,,\N{\k38}BECAUSE {\k11}I {\k12}HAD
+Dialogue: 0,0:01:15.35,0:01:16.00,Default,,0,0,0,,\N{\k15}NOT {\k16}GONE {\k31}ANYWHERE.
+Dialogue: 0,0:01:16.79,0:01:17.64,Default,,0,0,0,,\N{\k20}WHEN {\k7}I {\k15}CHECKED {\k40}FACEBOOK
+Dialogue: 0,0:01:17.64,0:01:18.31,Default,,0,0,0,,\N{\k23}I {\k18}SAW {\k15}WHY {\k9}THEY
+Dialogue: 0,0:01:18.31,0:01:18.68,Default,,0,0,0,,\N{\k8}WERE {\k28}ASKING.
+Dialogue: 0,0:01:19.31,0:01:20.15,Default,,0,0,0,,\N{\k40}MY {\k43}MOTHER-IN-LAW
+Dialogue: 0,0:01:20.15,0:01:20.79,Default,,0,0,0,,\N{\k18}HAD {\k28}POSTED {\k17}AN
+Dialogue: 0,0:01:20.79,0:01:21.43,Default,,0,0,0,,\N{\k29}ARTIFICIAL {\k34}INTELLIGENCE
+Dialogue: 0,0:01:21.43,0:01:22.35,Default,,0,0,0,,\N{\k60}GENERATED {\k31}IMAGE
+Dialogue: 0,0:01:22.35,0:01:23.09,Default,,0,0,0,,\N{\k15}OF {\k14}MY {\k24}HUSBAND {\k19}AND
+Dialogue: 0,0:01:23.09,0:01:23.78,Default,,0,0,0,,\N{\k14}ME {\k20}SITTING {\k21}WITH {\k12}THE
+Dialogue: 0,0:01:23.78,0:01:24.51,Default,,0,0,0,,\N{\k29}FAMILY, {\k17}WATCHING
+Dialogue: 0,0:01:24.51,0:01:25.42,Default,,0,0,0,,\N{\k14}A {\k15}FOOTBALL {\k28}GAME, {\k10}ALL
+Dialogue: 0,0:01:25.42,0:01:26.26,Default,,0,0,0,,\N{\k12}OF {\k15}US {\k21}WEARING {\k34}MATCHING
+Dialogue: 0,0:01:26.26,0:01:26.76,Default,,0,0,0,,\N{\k50}JERSEYS.
+Dialogue: 0,0:01:27.30,0:01:28.23,Default,,0,0,0,,\N{\k39}IT {\k15}LOOKED {\k37}REALISTIC
+Dialogue: 0,0:01:28.23,0:01:28.98,Default,,0,0,0,,\N{\k34}ENOUGH {\k18}THAT {\k21}PEOPLE
+Dialogue: 0,0:01:28.98,0:01:29.65,Default,,0,0,0,,\N{\k29}GENUINELY {\k37}BELIEVED
+Dialogue: 0,0:01:29.65,0:01:30.28,Default,,0,0,0,,\N{\k24}WE {\k7}HAD {\k11}BEEN {\k18}THERE.
+Dialogue: 0,0:01:30.95,0:01:31.57,Default,,0,0,0,,\N{\k18}I {\k15}FELT {\k28}DEEPLY
+Dialogue: 0,0:01:31.57,0:01:32.42,Default,,0,0,0,,\N{\k46}UNCOMFORTABLE {\k37}AND
+Dialogue: 0,0:01:32.42,0:01:33.07,Default,,0,0,0,,\N{\k14}SO {\k12}DID {\k11}MY {\k28}HUSBAND.
+Dialogue: 0,0:01:33.87,0:01:34.48,Default,,0,0,0,,\N{\k20}IT {\k15}CROSSED {\k16}THE {\k7}LINE
+Dialogue: 0,0:01:34.48,0:01:35.34,Default,,0,0,0,,\N{\k15}FOR {\k15}BOTH {\k10}OF {\k17}US {\k26}BECAUSE
+Dialogue: 0,0:01:35.34,0:01:36.07,Default,,0,0,0,,\N{\k14}IT {\k7}WAS {\k14}NOT {\k17}JUST {\k20}SHOWING
+Dialogue: 0,0:01:36.07,0:01:36.71,Default,,0,0,0,,\N{\k10}A {\k23}MOMENT {\k29}WITHOUT
+Dialogue: 0,0:01:36.71,0:01:37.06,Default,,0,0,0,,\N{\k34}PERMISSION.
+Dialogue: 0,0:01:38.00,0:01:38.73,Default,,0,0,0,,\N{\k15}IT {\k12}WAS {\k45}INVENTING
+Dialogue: 0,0:01:38.73,0:01:38.92,Default,,0,0,0,,\N{\k18}ONE.
+Dialogue: 0,0:01:39.73,0:01:40.54,Default,,0,0,0,,\N{\k16}MY {\k25}HUSBAND {\k38}IMMEDIATELY
+Dialogue: 0,0:01:40.54,0:01:41.15,Default,,0,0,0,,\N{\k31}OFFERED {\k20}TO {\k9}TEXT
+Dialogue: 0,0:01:41.15,0:01:41.81,Default,,0,0,0,,\N{\k20}HIS {\k23}MOTHER {\k21}AND
+Dialogue: 0,0:01:41.81,0:01:42.54,Default,,0,0,0,,\N{\k18}ASK {\k12}HER {\k9}NOT {\k14}TO {\k18}CREATE
+Dialogue: 0,0:01:42.54,0:01:43.35,Default,,0,0,0,,\N{\k27}ANY {\k20}MORE {\k34}ARTIFICIAL
+Dialogue: 0,0:01:43.35,0:01:44.07,Default,,0,0,0,,\N{\k34}IMAGES {\k20}OF {\k17}US.
+Dialogue: 0,0:01:44.68,0:01:45.56,Default,,0,0,0,,\N{\k21}GIVEN {\k21}HOW {\k14}OUR {\k29}RELATIONSHIP
+Dialogue: 0,0:01:45.56,0:01:46.23,Default,,0,0,0,,\N{\k29}HAS {\k15}BEEN {\k12}IN {\k9}THE
+Dialogue: 0,0:01:46.23,0:01:47.01,Default,,0,0,0,,\N{\k34}PAST, {\k11}NEITHER
+Dialogue: 0,0:01:47.01,0:01:47.64,Default,,0,0,0,,\N{\k16}OF {\k9}US {\k35}EXPECTED
+Dialogue: 0,0:01:47.64,0:01:48.31,Default,,0,0,0,,\N{\k14}A {\k17}MAJOR {\k35}ISSUE.
+Dialogue: 0,0:01:49.18,0:01:49.98,Default,,0,0,0,,\N{\k43}INSTEAD {\k35}SHE
+Dialogue: 0,0:01:49.98,0:01:50.62,Default,,0,0,0,,\N{\k31}REACTED {\k32}VERY
+Dialogue: 0,0:01:50.62,0:01:50.95,Default,,0,0,0,,\N{\k33}STRONGLY.
+Dialogue: 0,0:01:51.84,0:01:52.54,Default,,0,0,0,,\N{\k21}SHE {\k17}TOLD {\k18}US {\k12}WE
+Dialogue: 0,0:01:52.54,0:01:53.56,Default,,0,0,0,,\N{\k11}WERE {\k38}UNGRATEFUL, {\k26}ACCUSED
+Dialogue: 0,0:01:53.56,0:01:54.35,Default,,0,0,0,,\N{\k15}US {\k9}OF {\k32}CONSTANTLY {\k21}HURTING
+Dialogue: 0,0:01:54.35,0:01:55.00,Default,,0,0,0,,\N{\k18}HER {\k23}FEELINGS {\k21}WHENEVER
+Dialogue: 0,0:01:55.00,0:01:55.76,Default,,0,0,0,,\N{\k26}WE {\k15}ASKED {\k15}FOR {\k18}LIMITS
+Dialogue: 0,0:01:55.76,0:01:56.51,Default,,0,0,0,,\N{\k25}AROUND {\k50}FORPURS
+Dialogue: 0,0:01:56.51,0:01:57.20,Default,,0,0,0,,\N{\k24}AND {\k14}SAID {\k15}THAT {\k14}WE,
+Dialogue: 0,0:01:57.28,0:01:58.21,Default,,0,0,0,,\N{\k31}ESPECIALLY {\k28}ME, {\k6}WERE
+Dialogue: 0,0:01:58.21,0:01:58.78,Default,,0,0,0,,\N{\k23}OVERLY {\k32}SENSITIVE.
+Dialogue: 0,0:01:59.78,0:02:00.42,Default,,0,0,0,,\N{\k29}SHE {\k34}INSISTED
+Dialogue: 0,0:02:00.42,0:02:01.15,Default,,0,0,0,,\N{\k20}THAT {\k14}WE {\k15}SHOULD {\k23}SIMPLY
+Dialogue: 0,0:02:01.15,0:02:01.93,Default,,0,0,0,,\N{\k18}LET {\k14}HER {\k20}PURSE {\k25}WHATEVER
+Dialogue: 0,0:02:01.93,0:02:02.37,Default,,0,0,0,,\N{\k24}SHE {\k19}WANTS.
+Dialogue: 0,0:02:03.12,0:02:03.85,Default,,0,0,0,,\N{\k17}NOW {\k12}I {\k14}FEEL {\k29}SHAKEN.
+Dialogue: 0,0:02:04.64,0:02:05.29,Default,,0,0,0,,\N{\k15}MY {\k21}HUSBAND {\k28}AGREES
+Dialogue: 0,0:02:05.29,0:02:06.20,Default,,0,0,0,,\N{\k21}THAT {\k35}ARTIFICIAL {\k32}IMAGES
+Dialogue: 0,0:02:06.20,0:02:07.15,Default,,0,0,0,,\N{\k23}OF {\k12}US {\k12}ARE {\k47}UNACCEPTABLE
+Dialogue: 0,0:02:07.15,0:02:07.78,Default,,0,0,0,,\N{\k50}BUT {\k12}HE
+Dialogue: 0,0:02:07.78,0:02:08.52,Default,,0,0,0,,\N{\k17}FEELS {\k16}WE {\k12}CAN {\k28}TOLERATE
+Dialogue: 0,0:02:08.52,0:02:09.30,Default,,0,0,0,,\N{\k13}A {\k21}USUAL {\k24}HABIT {\k18}OF
+Dialogue: 0,0:02:09.30,0:02:10.08,Default,,0,0,0,,\N{\k23}POSTING {\k21}REAL {\k32}PHOTOS.
+Dialogue: 0,0:02:10.93,0:02:11.62,Default,,0,0,0,,\N{\k21}I {\k9}AM {\k12}NO {\k24}LONGER
+Dialogue: 0,0:02:11.62,0:02:12.36,Default,,0,0,0,,\N{\k18}SURE {\k15}I {\k7}AM {\k32}COMFORTABLE
+Dialogue: 0,0:02:12.36,0:02:13.03,Default,,0,0,0,,\N{\k27}WITH {\k8}IT {\k31}EITHER.
+Dialogue: 0,0:02:13.57,0:02:14.21,Default,,0,0,0,,\N{\k36}I {\k12}THOUGHT {\k15}I
+Dialogue: 0,0:02:14.21,0:02:14.90,Default,,0,0,0,,\N{\k14}HAD {\k15}SOME {\k17}SAY {\k12}IN {\k8}WHAT
+Dialogue: 0,0:02:14.90,0:02:15.59,Default,,0,0,0,,\N{\k21}PARTS {\k13}OF {\k12}MY {\k21}LIFE
+Dialogue: 0,0:02:15.59,0:02:16.47,Default,,0,0,0,,\N{\k12}ARE {\k15}SHARED {\k28}PUBLICLY {\k31}BUT
+Dialogue: 0,0:02:16.47,0:02:17.18,Default,,0,0,0,,\N{\k10}HER {\k21}REACTION {\k25}MADE {\k12}IT
+Dialogue: 0,0:02:17.18,0:02:17.80,Default,,0,0,0,,\N{\k15}CLEAR {\k18}SHE {\k13}DOES {\k14}NOT
+Dialogue: 0,0:02:17.80,0:02:18.25,Default,,0,0,0,,\N{\k23}BELIEVE {\k21}THAT.
+Dialogue: 0,0:02:18.90,0:02:19.81,Default,,0,0,0,,\N{\k35}I {\k8}AM {\k12}LEFT {\k35}WONDERING
+Dialogue: 0,0:02:19.81,0:02:20.50,Default,,0,0,0,,\N{\k30}WHETHER {\k15}I {\k13}WOULD {\k8}BE
+Dialogue: 0,0:02:20.50,0:02:21.28,Default,,0,0,0,,\N{\k21}RUMMED {\k8}TO {\k19}START {\k28}CLEARLY
+Dialogue: 0,0:02:21.28,0:02:21.96,Default,,0,0,0,,\N{\k34}TELLING {\k13}HER {\k12}THAT {\k8}I
+Dialogue: 0,0:02:21.96,0:02:22.65,Default,,0,0,0,,\N{\k9}DID {\k12}NOT {\k18}WANT {\k15}MY {\k13}IMAGE
+Dialogue: 0,0:02:22.65,0:02:23.52,Default,,0,0,0,,\N{\k25}SHARED {\k24}ONLINE {\k36}EXCEPT
+Dialogue: 0,0:02:23.52,0:02:24.25,Default,,0,0,0,,\N{\k23}FOR {\k10}RARE, {\k21}REASONABLE
+Dialogue: 0,0:02:24.25,0:02:25.00,Default,,0,0,0,,\N{\k36}FAMILY {\k37}PHOTOS,
+Dialogue: 0,0:02:25.30,0:02:26.00,Default,,0,0,0,,\N{\k17}EVEN {\k18}IF {\k9}THAT {\k24}UPSET
+Dialogue: 0,0:02:26.00,0:02:26.24,Default,,0,0,0,,\N{\k24}HER.

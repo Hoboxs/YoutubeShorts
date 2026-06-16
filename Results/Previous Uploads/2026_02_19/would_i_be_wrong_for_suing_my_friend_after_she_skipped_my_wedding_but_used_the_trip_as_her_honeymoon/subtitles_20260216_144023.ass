@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.79,0:00:05.50,Default,,0,0,0,,\N{\k10}I {\k11}GOT {\k28}MARRIED {\k20}THIS
+Dialogue: 0,0:00:05.50,0:00:06.24,Default,,0,0,0,,\N{\k28}JANUARY {\k23}IN {\k22}BALI.
+Dialogue: 0,0:00:07.08,0:00:07.75,Default,,0,0,0,,\N{\k9}IT {\k8}WAS {\k12}A {\k37}DESTINATION
+Dialogue: 0,0:00:07.75,0:00:08.41,Default,,0,0,0,,\N{\k33}WEDDING {\k32}AND
+Dialogue: 0,0:00:08.41,0:00:09.16,Default,,0,0,0,,\N{\k14}WHILE {\k11}OUR {\k28}PARENTS {\k19}PAID
+Dialogue: 0,0:00:09.16,0:00:09.77,Default,,0,0,0,,\N{\k16}FOR {\k11}THEIR {\k14}OWN {\k19}FLIGHTS
+Dialogue: 0,0:00:09.77,0:00:10.58,Default,,0,0,0,,\N{\k18}AND {\k25}HOTELS, {\k4}MY
+Dialogue: 0,0:00:10.58,0:00:11.19,Default,,0,0,0,,\N{\k27}HUSBAND {\k22}AND {\k11}I
+Dialogue: 0,0:00:11.19,0:00:11.85,Default,,0,0,0,,\N{\k24}COVERED {\k14}THEIR {\k16}FUR {\k11}AND
+Dialogue: 0,0:00:11.85,0:00:12.50,Default,,0,0,0,,\N{\k16}HOTEL {\k33}STAYS {\k14}FOR
+Dialogue: 0,0:00:12.50,0:00:13.24,Default,,0,0,0,,\N{\k11}OUR {\k16}CLOSE {\k28}FRIENDS {\k17}SO
+Dialogue: 0,0:00:13.24,0:00:13.72,Default,,0,0,0,,\N{\k11}THEY {\k12}COULD {\k24}ATTEND.
+Dialogue: 0,0:00:14.77,0:00:15.46,Default,,0,0,0,,\N{\k22}EACH {\k22}PLANE {\k24}TICKET
+Dialogue: 0,0:00:15.46,0:00:16.21,Default,,0,0,0,,\N{\k17}WAS {\k16}ABOUT {\k19}TWO {\k21}DOLLARS,
+Dialogue: 0,0:00:16.46,0:00:17.21,Default,,0,0,0,,\N{\k9}ZERO {\k28}USD {\k37}AND
+Dialogue: 0,0:00:17.21,0:00:17.85,Default,,0,0,0,,\N{\k10}THE {\k21}HOTEL {\k22}FOR {\k9}THE
+Dialogue: 0,0:00:17.85,0:00:19.12,Default,,0,0,0,,\N{\k12}WEEK {\k17}WAS {\k26}ROUGHLY {\k69}$150,
+Dialogue: 0,0:00:19.51,0:00:20.26,Default,,0,0,0,,\N{\k35}300 {\k38}TOTAL
+Dialogue: 0,0:00:20.26,0:00:20.57,Default,,0,0,0,,\N{\k11}PER {\k19}GUEST.
+Dialogue: 0,0:00:21.53,0:00:22.26,Default,,0,0,0,,\N{\k19}MY {\k24}FRIEND, {\k24}GEMMA,
+Dialogue: 0,0:00:22.60,0:00:23.30,Default,,0,0,0,,\N{\k7}WHO {\k17}I'VE {\k8}BEEN {\k19}CLOSE {\k16}WITH
+Dialogue: 0,0:00:23.30,0:00:24.01,Default,,0,0,0,,\N{\k12}FOR {\k17}OVER {\k19}TEN {\k21}YEARS
+Dialogue: 0,0:00:24.01,0:00:24.66,Default,,0,0,0,,\N{\k33}WAS {\k30}INVITED
+Dialogue: 0,0:00:24.66,0:00:25.51,Default,,0,0,0,,\N{\k23}ALONG {\k17}WITH {\k12}HER {\k32}NEWLYWED
+Dialogue: 0,0:00:25.51,0:00:26.33,Default,,0,0,0,,\N{\k28}HUSBAND, {\k3}JOHN.
+Dialogue: 0,0:00:27.39,0:00:28.03,Default,,0,0,0,,\N{\k20}ARE {\k9}WE {\k17}PAID {\k16}FOR
+Dialogue: 0,0:00:28.03,0:00:28.67,Default,,0,0,0,,\N{\k30}GEMMA'S {\k16}FLIGHT {\k17}IN
+Dialogue: 0,0:00:28.67,0:00:28.92,Default,,0,0,0,,\N{\k24}HOTEL?
+Dialogue: 0,0:00:29.60,0:00:30.30,Default,,0,0,0,,\N{\k35}SHE {\k16}PAID {\k17}FOR
+Dialogue: 0,0:00:30.30,0:00:31.00,Default,,0,0,0,,\N{\k33}JOHN'S {\k14}PLANE {\k21}TICKET
+Dialogue: 0,0:00:31.00,0:00:31.32,Default,,0,0,0,,\N{\k32}HERSELF.
+Dialogue: 0,0:00:31.98,0:00:32.61,Default,,0,0,0,,\N{\k33}HERE'S {\k7}THE {\k21}ISSUE.
+Dialogue: 0,0:00:33.17,0:00:33.79,Default,,0,0,0,,\N{\k20}GEMMA {\k7}AND {\k14}JOHN {\k19}FLEW
+Dialogue: 0,0:00:33.79,0:00:34.47,Default,,0,0,0,,\N{\k16}TO {\k17}BALI, {\k7}STAYED
+Dialogue: 0,0:00:34.47,0:00:35.17,Default,,0,0,0,,\N{\k17}IN {\k8}THE {\k15}HOTEL {\k28}ROOM
+Dialogue: 0,0:00:35.17,0:00:35.88,Default,,0,0,0,,\N{\k10}WE {\k17}PAID {\k17}FOR {\k11}AND {\k12}DID
+Dialogue: 0,0:00:35.88,0:00:36.53,Default,,0,0,0,,\N{\k11}NOT {\k21}SHOW {\k14}UP {\k10}TO {\k7}OUR
+Dialogue: 0,0:00:36.53,0:00:36.74,Default,,0,0,0,,\N{\k20}WEDDING.
+Dialogue: 0,0:00:37.60,0:00:38.29,Default,,0,0,0,,\N{\k25}WHEN {\k11}I {\k20}ASKED {\k11}HER
+Dialogue: 0,0:00:38.29,0:00:39.10,Default,,0,0,0,,\N{\k24}WHY, {\k6}SHE {\k21}TOLD
+Dialogue: 0,0:00:39.10,0:00:39.88,Default,,0,0,0,,\N{\k15}ME {\k12}THAT {\k15}SINCE {\k14}THEY {\k20}COULDN'T
+Dialogue: 0,0:00:39.88,0:00:40.75,Default,,0,0,0,,\N{\k21}AFFORD {\k15}THEIR {\k17}OWN {\k32}HONEYMOON,
+Dialogue: 0,0:00:41.06,0:00:41.71,Default,,0,0,0,,\N{\k3}THIS {\k14}TRIP {\k14}WAS {\k7}A {\k25}PERFECT
+Dialogue: 0,0:00:41.71,0:00:42.17,Default,,0,0,0,,\N{\k46}OPPORTUNITY.
+Dialogue: 0,0:00:43.10,0:00:43.79,Default,,0,0,0,,\N{\k19}SHE {\k10}ALSO {\k21}SAID {\k17}JOHN
+Dialogue: 0,0:00:43.79,0:00:44.43,Default,,0,0,0,,\N{\k28}DIDN'T {\k17}FEEL {\k17}LIKE
+Dialogue: 0,0:00:44.43,0:00:45.20,Default,,0,0,0,,\N{\k26}GOING {\k19}TO {\k10}THE {\k20}WEDDING
+Dialogue: 0,0:00:45.20,0:00:45.56,Default,,0,0,0,,\N{\k35}ITSELF.
+Dialogue: 0,0:00:46.21,0:00:46.85,Default,,0,0,0,,\N{\k25}SO {\k38}ESSENTIALLY,
+Dialogue: 0,0:00:47.20,0:00:47.96,Default,,0,0,0,,\N{\k9}THEY {\k32}ACCEPTED {\k34}THOUSANDS
+Dialogue: 0,0:00:47.96,0:00:48.74,Default,,0,0,0,,\N{\k24}OF {\k19}DOLLARS {\k14}AND {\k20}TRAVELLED
+Dialogue: 0,0:00:48.74,0:00:49.38,Default,,0,0,0,,\N{\k15}IN {\k7}A {\k40}ACCOMMODATION
+Dialogue: 0,0:00:49.38,0:00:50.06,Default,,0,0,0,,\N{\k17}FROM {\k23}US, {\k14}USED
+Dialogue: 0,0:00:50.06,0:00:50.71,Default,,0,0,0,,\N{\k11}IT {\k11}AS {\k6}A {\k35}VACATION,
+Dialogue: 0,0:00:51.17,0:00:51.85,Default,,0,0,0,,\N{\k7}AND {\k17}SKIPPED {\k20}THE {\k21}ACTUAL
+Dialogue: 0,0:00:51.85,0:00:52.61,Default,,0,0,0,,\N{\k16}EVENT {\k11}THE {\k10}TRIP {\k19}WAS {\k17}MEANT
+Dialogue: 0,0:00:52.61,0:00:52.79,Default,,0,0,0,,\N{\k17}FOR.
+Dialogue: 0,0:00:53.79,0:00:54.43,Default,,0,0,0,,\N{\k35}I'M {\k28}HONESTLY
+Dialogue: 0,0:00:54.43,0:00:54.89,Default,,0,0,0,,\N{\k46}DEVASTATED.
+Dialogue: 0,0:00:55.74,0:00:56.34,Default,,0,0,0,,\N{\k29}THIS {\k30}WASN'T
+Dialogue: 0,0:00:56.34,0:00:57.11,Default,,0,0,0,,\N{\k13}JUST {\k17}ABOUT {\k24}MONEY, {\k5}IT
+Dialogue: 0,0:00:57.11,0:00:57.85,Default,,0,0,0,,\N{\k10}WAS {\k16}ABOUT {\k11}A {\k17}DECADE {\k17}LONG
+Dialogue: 0,0:00:57.85,0:00:58.47,Default,,0,0,0,,\N{\k28}FRIENDSHIP {\k15}AND {\k10}WHAT {\k7}I
+Dialogue: 0,0:00:58.47,0:00:59.39,Default,,0,0,0,,\N{\k14}THOUGHT {\k16}WAS {\k28}MUTUAL {\k33}RESPECT.
+Dialogue: 0,0:01:00.34,0:01:01.02,Default,,0,0,0,,\N{\k11}WE {\k19}PAID {\k16}FOR {\k7}HER {\k12}TO
+Dialogue: 0,0:01:01.02,0:01:01.92,Default,,0,0,0,,\N{\k7}BE {\k14}THERE {\k11}TO {\k25}CELEBRATE {\k30}ONE
+Dialogue: 0,0:01:01.92,0:01:02.57,Default,,0,0,0,,\N{\k7}OF {\k15}THE {\k26}BIGGEST {\k15}DAYS
+Dialogue: 0,0:01:02.57,0:01:03.07,Default,,0,0,0,,\N{\k14}OF {\k10}OUR {\k25}LIVES.
+Dialogue: 0,0:01:04.01,0:01:04.62,Default,,0,0,0,,\N{\k34}INSTEAD, {\k6}SHE
+Dialogue: 0,0:01:04.62,0:01:05.28,Default,,0,0,0,,\N{\k21}TREATED {\k20}IT {\k14}LIKE {\k9}A
+Dialogue: 0,0:01:05.28,0:01:05.68,Default,,0,0,0,,\N{\k15}FREE {\k24}HONEYMOON.
+Dialogue: 0,0:01:06.68,0:01:07.34,Default,,0,0,0,,\N{\k21}NOW {\k15}I'M {\k28}CONSIDERING
+Dialogue: 0,0:01:07.34,0:01:08.00,Default,,0,0,0,,\N{\k35}TAKING {\k17}HER {\k12}TO
+Dialogue: 0,0:01:08.00,0:01:08.65,Default,,0,0,0,,\N{\k20}SMALL {\k25}CLAIMS {\k20}COURT
+Dialogue: 0,0:01:08.65,0:01:09.37,Default,,0,0,0,,\N{\k14}TO {\k26}RECOVER {\k17}THE {\k14}COST
+Dialogue: 0,0:01:09.37,0:01:10.01,Default,,0,0,0,,\N{\k16}OF {\k5}A {\k16}PLANE {\k25}TICKET
+Dialogue: 0,0:01:10.01,0:01:10.78,Default,,0,0,0,,\N{\k20}AND {\k15}HOTEL {\k40}STAY.
+Dialogue: 0,0:01:11.56,0:01:12.29,Default,,0,0,0,,\N{\k12}ON {\k17}ONE {\k29}HAND, {\k3}I
+Dialogue: 0,0:01:12.29,0:01:13.15,Default,,0,0,0,,\N{\k15}FEEL {\k42}COMPLETELY {\k28}TAKEN
+Dialogue: 0,0:01:13.15,0:01:13.78,Default,,0,0,0,,\N{\k42}ADVANTAGE {\k20}OF.
+Dialogue: 0,0:01:14.48,0:01:15.85,Default,,0,0,0,,\N{\k20}ON {\k11}THE {\k21}OTHER, {\k62}SAINT-A-LANDTIME
+Dialogue: 0,0:01:15.85,0:01:16.62,Default,,0,0,0,,\N{\k20}FRIEND {\k23}FEELS {\k32}EXTREME
+Dialogue: 0,0:01:16.62,0:01:17.26,Default,,0,0,0,,\N{\k15}AND {\k35}REPRIMAND {\k6}AT {\k6}THE
+Dialogue: 0,0:01:17.26,0:01:17.93,Default,,0,0,0,,\N{\k11}END {\k10}OF {\k1}THE {\k43}RELATIONSHIP.

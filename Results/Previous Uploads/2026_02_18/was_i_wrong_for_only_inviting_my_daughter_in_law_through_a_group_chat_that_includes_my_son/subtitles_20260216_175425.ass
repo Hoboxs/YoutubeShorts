@@ -1,0 +1,112 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.82,0:00:05.50,Default,,0,0,0,,\N{\k8}I'LL {\k15}CALL {\k20}MY {\k24}DAUGHTER
+Dialogue: 0,0:00:05.50,0:00:06.09,Default,,0,0,0,,\N{\k16}IN {\k9}LAW {\k33}ACTUALLY.
+Dialogue: 0,0:00:06.71,0:00:07.51,Default,,0,0,0,,\N{\k26}THE {\k19}ONGOING {\k33}ISSUE
+Dialogue: 0,0:00:07.51,0:00:08.24,Default,,0,0,0,,\N{\k18}IS {\k5}THAT {\k20}SHE'S {\k28}TERRIBLE
+Dialogue: 0,0:00:08.24,0:00:08.93,Default,,0,0,0,,\N{\k11}AT {\k30}RESPONDING {\k27}TO
+Dialogue: 0,0:00:08.93,0:00:09.77,Default,,0,0,0,,\N{\k24}TEXT {\k16}OR {\k43}IMITATIONS.
+Dialogue: 0,0:00:10.50,0:00:11.25,Default,,0,0,0,,\N{\k24}SHE {\k24}OFTEN {\k27}DOESN'T
+Dialogue: 0,0:00:11.25,0:00:11.93,Default,,0,0,0,,\N{\k25}REPLY {\k20}AT {\k21}ALL,
+Dialogue: 0,0:00:12.33,0:00:13.17,Default,,0,0,0,,\N{\k22}WHICH {\k8}HAS {\k17}CAUSED {\k35}REPEATED
+Dialogue: 0,0:00:13.17,0:00:14.09,Default,,0,0,0,,\N{\k92}MISUNDERSTANDINGS.
+Dialogue: 0,0:00:14.72,0:00:15.50,Default,,0,0,0,,\N{\k13}FOR {\k36}EXAMPLE, {\k6}I'LL
+Dialogue: 0,0:00:15.50,0:00:16.17,Default,,0,0,0,,\N{\k27}TEXT {\k14}HER {\k25}DIRECTLY
+Dialogue: 0,0:00:16.17,0:00:16.82,Default,,0,0,0,,\N{\k26}TO {\k21}INVITE {\k16}HER
+Dialogue: 0,0:00:16.82,0:00:17.19,Default,,0,0,0,,\N{\k7}TO {\k30}SOMETHING.
+Dialogue: 0,0:00:18.07,0:00:18.64,Default,,0,0,0,,\N{\k14}SHE {\k16}WON'T {\k26}RESPOND.
+Dialogue: 0,0:00:19.44,0:00:20.05,Default,,0,0,0,,\N{\k11}THE {\k17}EVENT {\k32}HAPPENS.
+Dialogue: 0,0:00:21.03,0:00:21.89,Default,,0,0,0,,\N{\k14}THEN {\k16}I {\k16}GET {\k39}CRITICIZED,
+Dialogue: 0,0:00:22.30,0:00:23.00,Default,,0,0,0,,\N{\k17}USUALLY {\k21}BY {\k12}MY {\k17}SON
+Dialogue: 0,0:00:23.00,0:00:23.73,Default,,0,0,0,,\N{\k21}FOR {\k20}NOT {\k31}INVITING
+Dialogue: 0,0:00:23.73,0:00:23.96,Default,,0,0,0,,\N{\k22}HER.
+Dialogue: 0,0:00:24.64,0:00:25.37,Default,,0,0,0,,\N{\k43}BUT {\k10}I {\k19}DIDN'T
+Dialogue: 0,0:00:25.37,0:00:25.73,Default,,0,0,0,,\N{\k17}INVITE {\k17}HER.
+Dialogue: 0,0:00:26.51,0:00:27.19,Default,,0,0,0,,\N{\k24}SHE {\k17}JUST {\k25}DIDN'T
+Dialogue: 0,0:00:27.19,0:00:27.46,Default,,0,0,0,,\N{\k26}ANSWER.
+Dialogue: 0,0:00:27.99,0:00:28.66,Default,,0,0,0,,\N{\k40}AT {\k26}FIRST,
+Dialogue: 0,0:00:28.92,0:00:29.64,Default,,0,0,0,,\N{\k1}I {\k25}EVEN {\k26}WONDERED {\k17}IF
+Dialogue: 0,0:00:29.64,0:00:30.33,Default,,0,0,0,,\N{\k7}I {\k12}HAD {\k8}THE {\k13}WRONG {\k28}NUMBER.
+Dialogue: 0,0:00:31.17,0:00:31.66,Default,,0,0,0,,\N{\k17}I {\k30}DON'T.
+Dialogue: 0,0:00:32.14,0:00:33.07,Default,,0,0,0,,\N{\k35}THE {\k17}BIGGEST {\k39}BLOWUP
+Dialogue: 0,0:00:33.07,0:00:33.64,Default,,0,0,0,,\N{\k21}HAPPENED {\k14}AT {\k20}CHRISTMAS.
+Dialogue: 0,0:00:34.56,0:00:35.17,Default,,0,0,0,,\N{\k14}THE {\k23}WOMEN {\k14}IN {\k10}THE
+Dialogue: 0,0:00:35.17,0:00:35.88,Default,,0,0,0,,\N{\k21}FAMILY {\k17}WERE {\k30}INVITED
+Dialogue: 0,0:00:35.88,0:00:36.56,Default,,0,0,0,,\N{\k14}ON {\k11}A {\k14}ONE {\k28}NIGHT'S
+Dialogue: 0,0:00:36.56,0:00:36.85,Default,,0,0,0,,\N{\k11}KEY {\k17}TRIP.
+Dialogue: 0,0:00:37.71,0:00:38.47,Default,,0,0,0,,\N{\k32}ATHLETE {\k11}WAS {\k32}INCLUDED
+Dialogue: 0,0:00:38.47,0:00:39.07,Default,,0,0,0,,\N{\k17}IN {\k10}THE {\k14}GROUP {\k17}CHAT
+Dialogue: 0,0:00:39.07,0:00:39.92,Default,,0,0,0,,\N{\k16}AND {\k7}I {\k17}ALSO {\k42}PERSONALLY
+Dialogue: 0,0:00:39.92,0:00:40.47,Default,,0,0,0,,\N{\k28}TEXTED {\k27}HER.
+Dialogue: 0,0:00:41.17,0:00:42.06,Default,,0,0,0,,\N{\k17}SHE {\k24}NEVER {\k46}RESPONDED.
+Dialogue: 0,0:00:42.82,0:00:43.46,Default,,0,0,0,,\N{\k21}WE {\k16}WENT {\k14}ON {\k11}THE
+Dialogue: 0,0:00:43.46,0:00:44.10,Default,,0,0,0,,\N{\k15}TRIP, {\k20}PEOPLE
+Dialogue: 0,0:00:44.10,0:00:44.70,Default,,0,0,0,,\N{\k21}PUSHED {\k11}HER {\k26}PICTURES,
+Dialogue: 0,0:00:45.14,0:00:45.74,Default,,0,0,0,,\N{\k6}AND {\k9}I {\k24}RECEIVED {\k20}AN
+Dialogue: 0,0:00:45.74,0:00:46.39,Default,,0,0,0,,\N{\k15}ANGRY {\k21}CALL {\k14}FROM {\k14}MY
+Dialogue: 0,0:00:46.39,0:00:47.11,Default,,0,0,0,,\N{\k17}SON {\k28}ACCUSING {\k25}ME
+Dialogue: 0,0:00:47.11,0:00:47.79,Default,,0,0,0,,\N{\k10}OF {\k32}EXCLUDING {\k25}HER.
+Dialogue: 0,0:00:48.64,0:00:49.39,Default,,0,0,0,,\N{\k32}WHEN {\k10}I {\k15}TOLD {\k17}HIM
+Dialogue: 0,0:00:49.39,0:00:50.06,Default,,0,0,0,,\N{\k17}SHE'D {\k10}BEEN {\k38}INVITED,
+Dialogue: 0,0:00:50.38,0:00:51.17,Default,,0,0,0,,\N{\k14}HE {\k19}DIDN'T {\k20}BELIEVE {\k25}ME.
+Dialogue: 0,0:00:51.88,0:00:52.57,Default,,0,0,0,,\N{\k29}THEY {\k20}THEN {\k19}REFUSED
+Dialogue: 0,0:00:52.57,0:00:53.25,Default,,0,0,0,,\N{\k17}TO {\k10}COME {\k14}TO {\k25}CHRISTMAS
+Dialogue: 0,0:00:53.25,0:00:53.89,Default,,0,0,0,,\N{\k38}UNLESS {\k25}I
+Dialogue: 0,0:00:53.89,0:00:54.88,Default,,0,0,0,,\N{\k38}APOLOGIZED. {\k60}I
+Dialogue: 0,0:00:54.88,0:00:56.14,Default,,0,0,0,,\N{\k79}REFUSED {\k46}BECAUSE
+Dialogue: 0,0:00:56.14,0:00:56.96,Default,,0,0,0,,\N{\k14}I {\k14}HAD {\k29}INVITED {\k24}HER.
+Dialogue: 0,0:00:57.84,0:00:58.82,Default,,0,0,0,,\N{\k23}SINCE {\k24}THEN, {\k14}I'VE
+Dialogue: 0,0:00:58.82,0:00:59.50,Default,,0,0,0,,\N{\k14}MADE {\k11}A {\k14}POINT {\k14}TO {\k14}SEND
+Dialogue: 0,0:00:59.50,0:01:00.11,Default,,0,0,0,,\N{\k24}ALL {\k3}THE {\k33}ROTATIONS
+Dialogue: 0,0:01:00.11,0:01:00.74,Default,,0,0,0,,\N{\k20}IN {\k10}A {\k11}GROUP {\k20}CHAT
+Dialogue: 0,0:01:00.74,0:01:01.39,Default,,0,0,0,,\N{\k15}THAT {\k25}INCLUDES {\k24}MY
+Dialogue: 0,0:01:01.39,0:01:01.61,Default,,0,0,0,,\N{\k21}SON.
+Dialogue: 0,0:01:02.47,0:01:03.11,Default,,0,0,0,,\N{\k17}THAT {\k18}WAY, {\k3}THIS
+Dialogue: 0,0:01:03.11,0:01:03.93,Default,,0,0,0,,\N{\k22}PROOF {\k15}SHE {\k11}WAS {\k32}INVITED
+Dialogue: 0,0:01:03.93,0:01:04.57,Default,,0,0,0,,\N{\k15}IN {\k16}NO {\k19}ROOM {\k12}FOR
+Dialogue: 0,0:01:04.57,0:01:04.98,Default,,0,0,0,,\N{\k40}ACCUSATIONS.
+Dialogue: 0,0:01:05.92,0:01:06.57,Default,,0,0,0,,\N{\k20}THERE {\k14}HAVE {\k17}ONLY {\k14}BEEN
+Dialogue: 0,0:01:06.57,0:01:07.18,Default,,0,0,0,,\N{\k18}TWO {\k17}EVENTS {\k24}SINCE
+Dialogue: 0,0:01:07.18,0:01:07.43,Default,,0,0,0,,\N{\k25}THEN.
+Dialogue: 0,0:01:08.21,0:01:08.95,Default,,0,0,0,,\N{\k9}THE {\k26}LATEST {\k21}WAS {\k15}JUST
+Dialogue: 0,0:01:08.95,0:01:09.73,Default,,0,0,0,,\N{\k12}A {\k21}CASUAL {\k20}DINNER {\k23}LAST
+Dialogue: 0,0:01:09.73,0:01:10.06,Default,,0,0,0,,\N{\k32}WEEKEND.
+Dialogue: 0,0:01:10.79,0:01:11.42,Default,,0,0,0,,\N{\k14}MY {\k15}SON {\k18}CALLS {\k14}ME
+Dialogue: 0,0:01:11.42,0:01:12.14,Default,,0,0,0,,\N{\k20}AFTER {\k33}ASKING {\k18}ME
+Dialogue: 0,0:01:12.14,0:01:12.76,Default,,0,0,0,,\N{\k9}TO {\k18}STOP {\k34}INCLUDING
+Dialogue: 0,0:01:12.76,0:01:13.57,Default,,0,0,0,,\N{\k25}HIM {\k12}IN {\k12}THE {\k31}INVITATION
+Dialogue: 0,0:01:13.57,0:01:13.98,Default,,0,0,0,,\N{\k40}TEXTS.
+Dialogue: 0,0:01:14.68,0:01:15.34,Default,,0,0,0,,\N{\k17}I {\k14}TOLD {\k20}HIM {\k14}NO.
+Dialogue: 0,0:01:16.15,0:01:16.76,Default,,0,0,0,,\N{\k15}AS {\k16}SAID, {\k12}I'M {\k12}DONE
+Dialogue: 0,0:01:16.76,0:01:17.43,Default,,0,0,0,,\N{\k21}BEING {\k28}ACCUSED {\k17}OF
+Dialogue: 0,0:01:17.43,0:01:18.26,Default,,0,0,0,,\N{\k14}LYING {\k20}ABOUT {\k15}NOT {\k32}INVITING
+Dialogue: 0,0:01:18.26,0:01:19.14,Default,,0,0,0,,\N{\k21}HER {\k31}AND {\k34}INCLUDING
+Dialogue: 0,0:01:19.14,0:01:19.81,Default,,0,0,0,,\N{\k17}HIM {\k28}PREVENTS {\k21}THAT.
+Dialogue: 0,0:01:19.81,0:01:20.21,Default,,0,0,0,,\N{\k40}HE
+Dialogue: 0,0:01:20.21,0:01:21.18,Default,,0,0,0,,\N{\k76}SAYS {\k20}IT'S
+Dialogue: 0,0:01:21.18,0:01:22.09,Default,,0,0,0,,\N{\k15}CAUSING {\k37}PROBLEMS {\k37}BETWEEN
+Dialogue: 0,0:01:22.09,0:01:22.85,Default,,0,0,0,,\N{\k18}HIM {\k12}AND {\k25}ASHLEY {\k20}AND
+Dialogue: 0,0:01:22.85,0:01:23.68,Default,,0,0,0,,\N{\k12}THAT {\k14}I {\k7}AM {\k15}MAKING {\k32}THINGS
+Dialogue: 0,0:01:23.68,0:01:23.84,Default,,0,0,0,,\N{\k15}WORSE.
+Dialogue: 0,0:01:24.50,0:01:25.20,Default,,0,0,0,,\N{\k34}I {\k17}TOLD {\k18}HIM
+Dialogue: 0,0:01:25.20,0:01:26.18,Default,,0,0,0,,\N{\k11}THAT {\k20}ISN'T {\k14}MY {\k52}RESPONSIBILITY.
+Dialogue: 0,0:01:26.81,0:01:27.45,Default,,0,0,0,,\N{\k12}I'M {\k21}SIMPLY {\k29}PROTECTING
+Dialogue: 0,0:01:27.45,0:01:28.06,Default,,0,0,0,,\N{\k42}MYSELF {\k18}FROM
+Dialogue: 0,0:01:28.06,0:01:28.68,Default,,0,0,0,,\N{\k14}BEING {\k23}BLAMED {\k24}ON
+Dialogue: 0,0:01:28.68,0:01:29.01,Default,,0,0,0,,\N{\k33}VELLEY.
+Dialogue: 0,0:01:29.84,0:01:30.64,Default,,0,0,0,,\N{\k20}NOW {\k15}HE {\k21}ISN'T {\k21}SPEAKING
+Dialogue: 0,0:01:30.64,0:01:31.35,Default,,0,0,0,,\N{\k17}TO {\k12}ME {\k26}AND {\k15}SOME
+Dialogue: 0,0:01:31.35,0:01:32.14,Default,,0,0,0,,\N{\k23}OTHER {\k26}FAMILY {\k28}MEMBERS
+Dialogue: 0,0:01:32.14,0:01:32.93,Default,,0,0,0,,\N{\k15}HAVE {\k32}STARTED {\k31}FOLLOWING
+Dialogue: 0,0:01:32.93,0:01:33.65,Default,,0,0,0,,\N{\k21}MY {\k15}LEAD {\k14}AND {\k20}USING
+Dialogue: 0,0:01:33.65,0:01:34.29,Default,,0,0,0,,\N{\k20}GROUP {\k18}CHATS {\k25}AS
+Dialogue: 0,0:01:34.29,0:01:34.45,Default,,0,0,0,,\N{\k15}WELL.

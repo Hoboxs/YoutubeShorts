@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.22,0:00:03.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}MY {\k34}HUSBAND
+Dialogue: 0,0:00:03.92,0:00:05.01,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k8}I {\k9}HAVE {\k16}TWO {\k24}KIDS,
+Dialogue: 0,0:00:05.01,0:00:05.63,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}INCLUDING {\k16}A {\k13}SON
+Dialogue: 0,0:00:05.63,0:00:06.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WHO {\k12}IS {\k17}ABOUT {\k12}A {\k12}YEAR
+Dialogue: 0,0:00:06.32,0:00:07.63,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}AND {\k16}HALF {\k32}OLD.
+Dialogue: 0,0:00:07.63,0:00:07.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}LATELY
+Dialogue: 0,0:00:07.96,0:00:08.69,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}I {\k18}FEEL {\k23}LIKE {\k16}I
+Dialogue: 0,0:00:08.69,0:00:09.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}CAN'T {\k16}EVEN {\k21}USE
+Dialogue: 0,0:00:09.35,0:00:10.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}THE {\k25}BATHROOM {\k35}WITHOUT
+Dialogue: 0,0:00:10.09,0:00:11.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AN {\k33}AUDIENCE.
+Dialogue: 0,0:00:11.30,0:00:11.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}EVERY {\k17}TIME {\k11}I {\k16}TRY
+Dialogue: 0,0:00:11.93,0:00:13.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TO {\k18}GO, {\k6}MY {\k24}SON
+Dialogue: 0,0:00:13.14,0:00:13.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}EITHER {\k21}BANGS {\k16}ON {\k12}THE
+Dialogue: 0,0:00:13.82,0:00:14.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}DOOR {\k13}CRYING {\k17}OR {\k20}INSISTS
+Dialogue: 0,0:00:14.48,0:00:15.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ON {\k28}CLIMBING {\k27}ONTO
+Dialogue: 0,0:00:15.25,0:00:16.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MY {\k16}LAP {\k24}WHILE {\k21}I'M
+Dialogue: 0,0:00:16.03,0:00:17.33,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SITTING {\k20}THERE. {\k12}IT
+Dialogue: 0,0:00:17.33,0:00:18.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}SOUNDS {\k32}SILLY, {\k6}BUT {\k23}AFTER
+Dialogue: 0,0:00:18.35,0:00:19.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}DEALING {\k23}WITH {\k6}IT {\k33}CONSTANTLY,
+Dialogue: 0,0:00:19.26,0:00:20.05,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}I {\k12}WAS {\k23}DESPERATE {\k21}FOR
+Dialogue: 0,0:00:20.05,0:00:20.67,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}JUST {\k14}A {\k12}FEW {\k23}QUIET
+Dialogue: 0,0:00:20.67,0:00:22.26,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}MINUTES {\k19}BY {\k35}MYSELF.
+Dialogue: 0,0:00:22.26,0:00:22.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}ONE
+Dialogue: 0,0:00:22.42,0:00:23.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}MORNING {\k17}I {\k16}ASKED {\k14}MY
+Dialogue: 0,0:00:23.16,0:00:23.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}HUSBAND {\k17}IF {\k7}HE {\k10}COULD
+Dialogue: 0,0:00:23.80,0:00:24.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}TAKE {\k14}OUR {\k15}SON {\k13}WITH {\k10}HIM
+Dialogue: 0,0:00:24.50,0:00:25.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}WHILE {\k19}HE {\k16}DROVE {\k19}OUR
+Dialogue: 0,0:00:25.21,0:00:26.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}OLDER {\k19}CHILD {\k14}TO {\k17}SCHOOL.
+Dialogue: 0,0:00:26.48,0:00:26.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}I
+Dialogue: 0,0:00:26.83,0:00:27.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}FIGURED {\k17}IT {\k7}WOULD {\k12}GIVE
+Dialogue: 0,0:00:27.48,0:00:28.30,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}ME {\k7}A {\k17}CHANCE {\k17}TO {\k24}FINALLY
+Dialogue: 0,0:00:28.30,0:00:29.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}USE {\k10}THE {\k23}BATHROOM {\k14}IN
+Dialogue: 0,0:00:29.03,0:00:30.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}PEACE.
+Dialogue: 0,0:00:30.21,0:00:30.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k35}UNFORTUNATELY, {\k24}THE
+Dialogue: 0,0:00:30.82,0:00:31.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TIMING {\k21}TURNED {\k28}INTO
+Dialogue: 0,0:00:31.51,0:00:32.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k37}DISASTER. {\k28}THERE
+Dialogue: 0,0:00:32.84,0:00:33.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WAS {\k21}TRAFFIC {\k38}EVERYWHERE,
+Dialogue: 0,0:00:33.70,0:00:34.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}ROAD {\k38}CLOSURES, {\k43}AND
+Dialogue: 0,0:00:34.64,0:00:35.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}DELAYS {\k17}THAT {\k15}KEPT {\k20}THEM
+Dialogue: 0,0:00:35.38,0:00:36.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}STUCK {\k17}IN {\k5}THE {\k14}CAR {\k17}FAR
+Dialogue: 0,0:00:36.11,0:00:37.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}LONGER {\k20}THAN {\k39}EXPECTED.
+Dialogue: 0,0:00:37.75,0:00:38.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}WHAT {\k16}SHOULD {\k9}HAVE {\k14}BEEN {\k8}A {\k15}QUICK
+Dialogue: 0,0:00:38.50,0:00:39.24,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TRIP {\k28}ENDED {\k15}UP {\k16}TAKING
+Dialogue: 0,0:00:39.24,0:00:39.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}CLOSE {\k14}TO {\k9}AN {\k14}HOUR,
+Dialogue: 0,0:00:39.93,0:00:40.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AND {\k10}OUR {\k17}SON {\k32}APPARENTLY
+Dialogue: 0,0:00:40.74,0:00:41.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SCREAMED {\k25}MOST {\k14}OF
+Dialogue: 0,0:00:41.38,0:00:42.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THE {\k21}DRIVE. {\k20}WHEN
+Dialogue: 0,0:00:42.64,0:00:43.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}THEY {\k26}FINALLY {\k17}GOT {\k23}HOME,
+Dialogue: 0,0:00:43.75,0:00:45.39,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}MY {\k21}HUSBAND {\k23}WAS {\k26}FURIOUS.
+Dialogue: 0,0:00:45.39,0:00:45.56,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}HE
+Dialogue: 0,0:00:45.56,0:00:46.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}STARTED {\k20}YELLING {\k19}THAT
+Dialogue: 0,0:00:46.29,0:00:46.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}IT {\k12}WAS {\k25}UNFAIR {\k17}TO
+Dialogue: 0,0:00:46.96,0:00:47.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}OUR {\k12}SON {\k15}TO {\k11}BE {\k24}“TRAPPED”
+Dialogue: 0,0:00:47.71,0:00:48.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IN {\k10}THE {\k15}CAR {\k14}FOR
+Dialogue: 0,0:00:48.32,0:00:48.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}THAT {\k17}LONG {\k16}JUST {\k21}SO
+Dialogue: 0,0:00:48.96,0:00:49.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k14}COULD {\k14}GO {\k11}TO {\k10}THE {\k28}BATHROOM
+Dialogue: 0,0:00:49.82,0:00:51.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}ALONE. {\k25}ACCORDING
+Dialogue: 0,0:00:51.10,0:00:52.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}TO {\k8}HIM, {\k3}I {\k11}WAS {\k28}SELFISH
+Dialogue: 0,0:00:52.00,0:00:53.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}FOR {\k20}EVEN {\k29}ASKING.
+Dialogue: 0,0:00:53.21,0:00:53.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}I
+Dialogue: 0,0:00:53.61,0:00:54.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}GOT {\k33}IRRITATED {\k26}AND
+Dialogue: 0,0:00:54.38,0:00:55.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}REPLIED {\k18}THAT {\k15}BY
+Dialogue: 0,0:00:55.00,0:00:55.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}HIS {\k24}LOGIC, {\k7}I {\k16}GUESS
+Dialogue: 0,0:00:55.88,0:00:56.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}WE {\k12}CAN {\k19}NEVER {\k21}TAKE
+Dialogue: 0,0:00:56.61,0:00:57.88,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}OUR {\k14}SON {\k30}ANYWHERE {\k37}ANYMORE,
+Dialogue: 0,0:00:57.88,0:00:58.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}BECAUSE {\k34}TODDLERS {\k17}HATE
+Dialogue: 0,0:00:58.60,0:00:59.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}CAR {\k15}SEATS {\k35}SOMETIMES
+Dialogue: 0,0:00:59.28,0:01:00.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}AND {\k27}COMPLAIN {\k22}ABOUT
+Dialogue: 0,0:01:00.02,0:01:00.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}BEING {\k35}STRAPPED {\k7}IN
+Dialogue: 0,0:01:00.64,0:01:01.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}NO {\k17}MATTER {\k20}WHERE {\k11}YOU'RE
+Dialogue: 0,0:01:01.25,0:01:02.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}GOING.
+Dialogue: 0,0:01:02.21,0:01:02.92,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}NOW {\k16}HE {\k17}THINKS {\k17}I'M
+Dialogue: 0,0:01:02.92,0:01:04.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}COMPLETELY {\k52}UNREASONABLE,
+Dialogue: 0,0:01:04.07,0:01:04.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}WHILE {\k14}I {\k16}FEEL {\k15}LIKE
+Dialogue: 0,0:01:04.70,0:01:05.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}WANTING {\k20}A {\k12}FEW {\k51}UNINTERRUPTED
+Dialogue: 0,0:01:05.79,0:01:06.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}MINUTES {\k15}IN {\k6}THE {\k28}BATHROOM
+Dialogue: 0,0:01:06.48,0:01:07.31,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IS {\k13}NOT {\k14}SOME {\k35}OUTRAGEOUS
+Dialogue: 0,0:01:07.31,0:01:07.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k38}REQUEST.

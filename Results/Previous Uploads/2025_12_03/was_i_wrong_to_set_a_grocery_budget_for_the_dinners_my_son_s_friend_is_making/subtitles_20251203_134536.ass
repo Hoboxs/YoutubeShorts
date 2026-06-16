@@ -1,0 +1,236 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.50,0:00:04.36,Default,,0,0,0,,{\an5}MY SON,
+Dialogue: 0,0:00:04.41,0:00:05.09,Default,,0,0,0,,{\an5}WHO'S 23,
+Dialogue: 0,0:00:05.41,0:00:06.01,Default,,0,0,0,,{\an5}MOVED BACK
+Dialogue: 0,0:00:06.01,0:00:06.55,Default,,0,0,0,,{\an5}HOME TO OUR
+Dialogue: 0,0:00:06.55,0:00:07.05,Default,,0,0,0,,{\an5}SMALL TOWN
+Dialogue: 0,0:00:07.05,0:00:07.62,Default,,0,0,0,,{\an5}AFTER FINISHING
+Dialogue: 0,0:00:07.62,0:00:08.33,Default,,0,0,0,,{\an5}A TRAINING PROGRAM
+Dialogue: 0,0:00:08.33,0:00:08.85,Default,,0,0,0,,{\an5}AND STARTING
+Dialogue: 0,0:00:08.85,0:00:09.38,Default,,0,0,0,,{\an5}A NEW JOB
+Dialogue: 0,0:00:09.38,0:00:09.66,Default,,0,0,0,,{\an5}NEARBY.
+Dialogue: 0,0:00:10.19,0:00:10.75,Default,,0,0,0,,{\an5}HE'S BEEN
+Dialogue: 0,0:00:10.75,0:00:11.25,Default,,0,0,0,,{\an5}CLOSE FRIENDS
+Dialogue: 0,0:00:11.25,0:00:12.00,Default,,0,0,0,,{\an5}WITH A YOUNG WOMAN
+Dialogue: 0,0:00:12.00,0:00:12.56,Default,,0,0,0,,{\an5}NAMED LILA,
+Dialogue: 0,0:00:12.69,0:00:13.82,Default,,0,0,0,,{\an5}21, AND
+Dialogue: 0,0:00:13.82,0:00:14.48,Default,,0,0,0,,{\an5}ALTHOUGH THEY WEREN'T
+Dialogue: 0,0:00:14.48,0:00:15.14,Default,,0,0,0,,{\an5}OFFICIALLY DATING,
+Dialogue: 0,0:00:15.32,0:00:15.83,Default,,0,0,0,,{\an5}THEY'D BEEN
+Dialogue: 0,0:00:15.83,0:00:16.39,Default,,0,0,0,,{\an5}TALKING DAILY
+Dialogue: 0,0:00:16.39,0:00:16.98,Default,,0,0,0,,{\an5}WHILE SHE LIVED
+Dialogue: 0,0:00:16.98,0:00:17.69,Default,,0,0,0,,{\an5}SEVERAL PROVINCES
+Dialogue: 0,0:00:17.69,0:00:17.98,Default,,0,0,0,,{\an5}AWAY.
+Dialogue: 0,0:00:18.26,0:00:18.89,Default,,0,0,0,,{\an5}EARLIER THIS
+Dialogue: 0,0:00:18.89,0:00:19.67,Default,,0,0,0,,{\an5}FALL, SHE
+Dialogue: 0,0:00:19.67,0:00:20.26,Default,,0,0,0,,{\an5}LEFT HER COLLEGE
+Dialogue: 0,0:00:20.26,0:00:20.96,Default,,0,0,0,,{\an5}PROGRAM AND
+Dialogue: 0,0:00:20.96,0:00:21.48,Default,,0,0,0,,{\an5}WAS STAYING WITH
+Dialogue: 0,0:00:21.48,0:00:22.39,Default,,0,0,0,,{\an5}A RELATIVE, BUT
+Dialogue: 0,0:00:22.39,0:00:23.05,Default,,0,0,0,,{\an5}WHEN THAT RELATIVE
+Dialogue: 0,0:00:23.05,0:00:23.64,Default,,0,0,0,,{\an5}TOLD HER SHE
+Dialogue: 0,0:00:23.64,0:00:24.33,Default,,0,0,0,,{\an5}NEEDED TO MOVE OUT,
+Dialogue: 0,0:00:24.44,0:00:24.94,Default,,0,0,0,,{\an5}SHE HAD
+Dialogue: 0,0:00:24.94,0:00:25.37,Default,,0,0,0,,{\an5}NOWHERE TO
+Dialogue: 0,0:00:25.37,0:00:25.55,Default,,0,0,0,,{\an5}GO.
+Dialogue: 0,0:00:25.78,0:00:26.37,Default,,0,0,0,,{\an5}MY SON
+Dialogue: 0,0:00:26.37,0:00:27.01,Default,,0,0,0,,{\an5}PLANS TO MOVE
+Dialogue: 0,0:00:27.01,0:00:27.82,Default,,0,0,0,,{\an5}INTO HIS OWN APARTMENT
+Dialogue: 0,0:00:27.82,0:00:28.39,Default,,0,0,0,,{\an5}IN FEBRUARY
+Dialogue: 0,0:00:28.39,0:00:28.92,Default,,0,0,0,,{\an5}AND HAD
+Dialogue: 0,0:00:28.92,0:00:29.51,Default,,0,0,0,,{\an5}ALREADY SAID SHE
+Dialogue: 0,0:00:29.51,0:00:30.03,Default,,0,0,0,,{\an5}COULD LIVE WITH
+Dialogue: 0,0:00:30.03,0:00:30.76,Default,,0,0,0,,{\an5}HIM
+Dialogue: 0,0:00:30.76,0:00:31.30,Default,,0,0,0,,{\an5}THEN WHILE SHE
+Dialogue: 0,0:00:31.30,0:00:31.94,Default,,0,0,0,,{\an5}LOOKS FOR WORK
+Dialogue: 0,0:00:31.94,0:00:32.53,Default,,0,0,0,,{\an5}BUT SHE
+Dialogue: 0,0:00:32.53,0:00:33.11,Default,,0,0,0,,{\an5}NEEDED A PLACE
+Dialogue: 0,0:00:33.11,0:00:33.61,Default,,0,0,0,,{\an5}MUCH SOONER
+Dialogue: 0,0:00:33.61,0:00:34.24,Default,,0,0,0,,{\an5}SO
+Dialogue: 0,0:00:34.24,0:00:34.88,Default,,0,0,0,,{\an5}THEY BOTH ASKED
+Dialogue: 0,0:00:34.88,0:00:35.50,Default,,0,0,0,,{\an5}IF SHE COULD STAY
+Dialogue: 0,0:00:35.50,0:00:36.00,Default,,0,0,0,,{\an5}WITH US FOR A
+Dialogue: 0,0:00:36.00,0:00:36.60,Default,,0,0,0,,{\an5}COUPLE OF MONTHS
+Dialogue: 0,0:00:36.60,0:00:37.35,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:37.35,0:00:37.89,Default,,0,0,0,,{\an5}SAID YES
+Dialogue: 0,0:00:37.89,0:00:38.57,Default,,0,0,0,,{\an5}I DON'T
+Dialogue: 0,0:00:38.57,0:00:39.15,Default,,0,0,0,,{\an5}CHARGE MY KIDS
+Dialogue: 0,0:00:39.15,0:00:39.96,Default,,0,0,0,,{\an5}RENT SO
+Dialogue: 0,0:00:39.96,0:00:40.61,Default,,0,0,0,,{\an5}IT FELT UNFAIR
+Dialogue: 0,0:00:40.61,0:00:41.21,Default,,0,0,0,,{\an5}TO CHARGE HER
+Dialogue: 0,0:00:41.21,0:00:42.02,Default,,0,0,0,,{\an5}EITHER ALL
+Dialogue: 0,0:00:42.02,0:00:42.60,Default,,0,0,0,,{\an5}I ASKED WAS
+Dialogue: 0,0:00:42.60,0:00:43.53,Default,,0,0,0,,{\an5}THAT THEY BE CONSIDERATE
+Dialogue: 0,0:00:43.53,0:00:44.17,Default,,0,0,0,,{\an5}AND HELP KEEP SHARED
+Dialogue: 0,0:00:44.17,0:00:44.88,Default,,0,0,0,,{\an5}SPACES CLEAN
+Dialogue: 0,0:00:44.88,0:00:45.84,Default,,0,0,0,,{\an5}LILA
+Dialogue: 0,0:00:45.84,0:00:46.39,Default,,0,0,0,,{\an5}MOVED IN RIGHT
+Dialogue: 0,0:00:46.39,0:00:47.20,Default,,0,0,0,,{\an5}AFTER HALLOWEEN
+Dialogue: 0,0:00:47.20,0:00:47.74,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:47.74,0:00:48.71,Default,,0,0,0,,{\an5}HONESTLY SHE'S
+Dialogue: 0,0:00:48.71,0:00:49.25,Default,,0,0,0,,{\an5}BEEN KIND AND
+Dialogue: 0,0:00:49.25,0:00:49.75,Default,,0,0,0,,{\an5}EASY TO LIVE
+Dialogue: 0,0:00:49.75,0:00:50.52,Default,,0,0,0,,{\an5}WITH SHE'S
+Dialogue: 0,0:00:50.52,0:00:51.24,Default,,0,0,0,,{\an5}STILL APPLYING FOR
+Dialogue: 0,0:00:51.24,0:00:52.20,Default,,0,0,0,,{\an5}JOBS BUT
+Dialogue: 0,0:00:52.20,0:00:52.75,Default,,0,0,0,,{\an5}SHE'S TRIED TO
+Dialogue: 0,0:00:52.75,0:00:53.39,Default,,0,0,0,,{\an5}HELP OUT BY COOKING
+Dialogue: 0,0:00:53.39,0:00:53.89,Default,,0,0,0,,{\an5}DINNER MOST
+Dialogue: 0,0:00:53.89,0:00:54.75,Default,,0,0,0,,{\an5}NIGHTS I
+Dialogue: 0,0:00:54.75,0:00:55.53,Default,,0,0,0,,{\an5}TOLD HER SHE DIDN'T
+Dialogue: 0,0:00:55.53,0:00:56.29,Default,,0,0,0,,{\an5}NEED TO BUT
+Dialogue: 0,0:00:56.29,0:00:56.92,Default,,0,0,0,,{\an5}SHE INSISTED
+Dialogue: 0,0:00:56.92,0:00:57.65,Default,,0,0,0,,{\an5}AND SHE'S GENUINELY
+Dialogue: 0,0:00:57.65,0:00:58.25,Default,,0,0,0,,{\an5}A GREAT COOK
+Dialogue: 0,0:00:58.25,0:00:58.88,Default,,0,0,0,,{\an5}ABOUT
+Dialogue: 0,0:00:58.88,0:00:59.46,Default,,0,0,0,,{\an5}A WEEK IN
+Dialogue: 0,0:00:59.46,0:01:00.07,Default,,0,0,0,,{\an5}SHE WANTED
+Dialogue: 0,0:01:00.07,0:01:00.74,Default,,0,0,0,,{\an5}TO MAKE A SPECIFIC
+Dialogue: 0,0:01:00.74,0:01:01.34,Default,,0,0,0,,{\an5}DISH BUT
+Dialogue: 0,0:01:01.34,0:01:01.92,Default,,0,0,0,,{\an5}WE DIDN'T HAVE THE
+Dialogue: 0,0:01:01.92,0:01:03.15,Default,,0,0,0,,{\an5}INGREDIENTS I
+Dialogue: 0,0:01:03.15,0:01:03.75,Default,,0,0,0,,{\an5}OFFERED HER MY
+Dialogue: 0,0:01:03.75,0:01:04.45,Default,,0,0,0,,{\an5}DEBIT CARD SO
+Dialogue: 0,0:01:04.45,0:01:05.12,Default,,0,0,0,,{\an5}SHE COULD GRAB WHAT
+Dialogue: 0,0:01:05.12,0:01:06.28,Default,,0,0,0,,{\an5}SHE NEEDED THAT
+Dialogue: 0,0:01:06.28,0:01:06.85,Default,,0,0,0,,{\an5}TURNED INTO HER
+Dialogue: 0,0:01:06.85,0:01:07.51,Default,,0,0,0,,{\an5}ROUTINELY DOING
+Dialogue: 0,0:01:07.51,0:01:08.26,Default,,0,0,0,,{\an5}THE GROCERY RUNS
+Dialogue: 0,0:01:08.26,0:01:08.93,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:01:08.93,0:01:09.48,Default,,0,0,0,,{\an5}I DIDN'T MIND
+Dialogue: 0,0:01:09.48,0:01:10.15,Default,,0,0,0,,{\an5}AT FIRST BECAUSE
+Dialogue: 0,0:01:10.15,0:01:10.79,Default,,0,0,0,,{\an5}SHE ALSO PICKED
+Dialogue: 0,0:01:10.79,0:01:11.31,Default,,0,0,0,,{\an5}UP THE BASICS
+Dialogue: 0,0:01:11.31,0:01:11.87,Default,,0,0,0,,{\an5}FOR THE HOUSE
+Dialogue: 0,0:01:11.87,0:01:12.90,Default,,0,0,0,,{\an5}THEN
+Dialogue: 0,0:01:12.90,0:01:13.48,Default,,0,0,0,,{\an5}THE TRIPS BECAME
+Dialogue: 0,0:01:13.48,0:01:14.12,Default,,0,0,0,,{\an5}MORE FREQUENT
+Dialogue: 0,0:01:14.12,0:01:14.73,Default,,0,0,0,,{\an5}THREE
+Dialogue: 0,0:01:14.73,0:01:15.43,Default,,0,0,0,,{\an5}SOMETIMES
+Dialogue: 0,0:01:15.43,0:01:16.06,Default,,0,0,0,,{\an5}FOUR TIMES
+Dialogue: 0,0:01:16.06,0:01:16.93,Default,,0,0,0,,{\an5}A WEEK AND
+Dialogue: 0,0:01:16.93,0:01:17.57,Default,,0,0,0,,{\an5}SHE STARTED BUYING
+Dialogue: 0,0:01:17.57,0:01:18.07,Default,,0,0,0,,{\an5}THINGS I
+Dialogue: 0,0:01:18.07,0:01:18.84,Default,,0,0,0,,{\an5}DON'T NORMALLY INCLUDE
+Dialogue: 0,0:01:18.84,0:01:19.42,Default,,0,0,0,,{\an5}IN MY GROCERY
+Dialogue: 0,0:01:19.42,0:01:20.57,Default,,0,0,0,,{\an5}BUDGET LIKE
+Dialogue: 0,0:01:20.57,0:01:21.43,Default,,0,0,0,,{\an5}SPECIALTY INGREDIENTS
+Dialogue: 0,0:01:21.43,0:01:22.12,Default,,0,0,0,,{\an5}FRESH
+Dialogue: 0,0:01:22.12,0:01:23.00,Default,,0,0,0,,{\an5}SEAFOOD AND
+Dialogue: 0,0:01:23.00,0:01:23.64,Default,,0,0,0,,{\an5}PRICIER CUTS
+Dialogue: 0,0:01:23.64,0:01:24.56,Default,,0,0,0,,{\an5}OF MEAT WITH
+Dialogue: 0,0:01:24.56,0:01:25.21,Default,,0,0,0,,{\an5}SIX PEOPLE IN
+Dialogue: 0,0:01:25.21,0:01:26.20,Default,,0,0,0,,{\an5}THE HOUSE THAT
+Dialogue: 0,0:01:26.20,0:01:26.81,Default,,0,0,0,,{\an5}ADDS UP FAST
+Dialogue: 0,0:01:26.81,0:01:27.45,Default,,0,0,0,,{\an5}ON SUNDAY
+Dialogue: 0,0:01:27.45,0:01:28.12,Default,,0,0,0,,{\an5}WHEN SHE
+Dialogue: 0,0:01:28.12,0:01:28.68,Default,,0,0,0,,{\an5}LEFT FOR ANOTHER
+Dialogue: 0,0:01:28.68,0:01:29.35,Default,,0,0,0,,{\an5}GROCERY RUN
+Dialogue: 0,0:01:29.35,0:01:30.12,Default,,0,0,0,,{\an5}I ASKED
+Dialogue: 0,0:01:30.12,0:01:30.76,Default,,0,0,0,,{\an5}HER TO PLEASE MAKE
+Dialogue: 0,0:01:30.76,0:01:31.28,Default,,0,0,0,,{\an5}SURE SHE GETS
+Dialogue: 0,0:01:31.28,0:01:31.84,Default,,0,0,0,,{\an5}EVERYTHING FOR
+Dialogue: 0,0:01:31.84,0:01:32.43,Default,,0,0,0,,{\an5}THE WEEK SO WE'RE
+Dialogue: 0,0:01:32.43,0:01:32.98,Default,,0,0,0,,{\an5}NOT CONSTANTLY
+Dialogue: 0,0:01:32.98,0:01:34.20,Default,,0,0,0,,{\an5}BUYING EXTRA
+Dialogue: 0,0:01:34.20,0:01:35.35,Default,,0,0,0,,{\an5}SUPPLIES SHE
+Dialogue: 0,0:01:35.35,0:01:35.95,Default,,0,0,0,,{\an5}SAID SHE WOULD
+Dialogue: 0,0:01:35.95,0:01:36.56,Default,,0,0,0,,{\an5}THE NEXT
+Dialogue: 0,0:01:36.56,0:01:37.26,Default,,0,0,0,,{\an5}NIGHT AFTER DINNER
+Dialogue: 0,0:01:37.26,0:01:37.90,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:37.90,0:01:38.42,Default,,0,0,0,,{\an5}TOLD MY SON
+Dialogue: 0,0:01:38.42,0:01:39.00,Default,,0,0,0,,{\an5}SHE WANTED TO
+Dialogue: 0,0:01:39.00,0:01:39.71,Default,,0,0,0,,{\an5}MAKE A FANCY ROAST
+Dialogue: 0,0:01:39.71,0:01:40.26,Default,,0,0,0,,{\an5}LATER IN THE
+Dialogue: 0,0:01:40.26,0:01:40.78,Default,,0,0,0,,{\an5}WEEK BUT WOULD
+Dialogue: 0,0:01:40.78,0:01:41.35,Default,,0,0,0,,{\an5}NEED TO GO BACK
+Dialogue: 0,0:01:41.35,0:01:42.28,Default,,0,0,0,,{\an5}TO THE
+Dialogue: 0,0:01:42.28,0:01:42.95,Default,,0,0,0,,{\an5}STORE MY
+Dialogue: 0,0:01:42.95,0:01:43.50,Default,,0,0,0,,{\an5}SON IMMEDIATELY
+Dialogue: 0,0:01:43.50,0:01:44.06,Default,,0,0,0,,{\an5}TURNED TO
+Dialogue: 0,0:01:44.06,0:01:44.57,Default,,0,0,0,,{\an5}ME AND SAID
+Dialogue: 0,0:01:44.57,0:01:45.14,Default,,0,0,0,,{\an5}CAN YOU
+Dialogue: 0,0:01:45.14,0:01:45.81,Default,,0,0,0,,{\an5}GIVE HER YOUR CARD
+Dialogue: 0,0:01:45.81,0:01:46.31,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:46.31,0:01:46.87,Default,,0,0,0,,{\an5}TOLD THEM NO
+Dialogue: 0,0:01:46.87,0:01:47.64,Default,,0,0,0,,{\an5}I EXPLAINED
+Dialogue: 0,0:01:47.64,0:01:48.20,Default,,0,0,0,,{\an5}I HAD ALREADY
+Dialogue: 0,0:01:48.20,0:01:48.78,Default,,0,0,0,,{\an5}PAID FOR THE
+Dialogue: 0,0:01:48.78,0:01:49.31,Default,,0,0,0,,{\an5}WEEK'S GROCERIES
+Dialogue: 0,0:01:49.31,0:01:49.92,Default,,0,0,0,,{\an5}AND ASKED HER
+Dialogue: 0,0:01:49.92,0:01:51.14,Default,,0,0,0,,{\an5}TO PLAN AHEAD I
+Dialogue: 0,0:01:51.14,0:01:51.65,Default,,0,0,0,,{\an5}ADDED THAT A
+Dialogue: 0,0:01:51.65,0:01:52.15,Default,,0,0,0,,{\an5}DISH LIKE THAT
+Dialogue: 0,0:01:52.15,0:01:52.76,Default,,0,0,0,,{\an5}IS TOO EXPENSIVE
+Dialogue: 0,0:01:52.76,0:01:53.29,Default,,0,0,0,,{\an5}RIGHT NOW
+Dialogue: 0,0:01:53.29,0:01:53.98,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:01:53.98,0:01:54.51,Default,,0,0,0,,{\an5}MAYBE WE COULD
+Dialogue: 0,0:01:54.51,0:01:55.35,Default,,0,0,0,,{\an5}MAKE SOMETHING SIMILAR
+Dialogue: 0,0:01:55.35,0:01:55.93,Default,,0,0,0,,{\an5}FOR A HOLIDAY
+Dialogue: 0,0:01:55.93,0:01:56.68,Default,,0,0,0,,{\an5}MEAL I
+Dialogue: 0,0:01:56.68,0:01:57.18,Default,,0,0,0,,{\an5}ALSO SAID
+Dialogue: 0,0:01:57.18,0:01:57.71,Default,,0,0,0,,{\an5}THAT IF SHE WANTS
+Dialogue: 0,0:01:57.71,0:01:58.34,Default,,0,0,0,,{\an5}TO KEEP COOKING
+Dialogue: 0,0:01:58.34,0:01:58.92,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:01:58.92,0:01:59.48,Default,,0,0,0,,{\an5}I APPRECIATE
+Dialogue: 0,0:01:59.48,0:02:00.07,Default,,0,0,0,,{\an5}I'LL NEED
+Dialogue: 0,0:02:00.07,0:02:00.71,Default,,0,0,0,,{\an5}TO PUT A SPENDING
+Dialogue: 0,0:02:00.71,0:02:01.42,Default,,0,0,0,,{\an5}LIMIT IN PLACE
+Dialogue: 0,0:02:01.42,0:02:01.98,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:02:01.98,0:02:02.48,Default,,0,0,0,,{\an5}TOLD HER I
+Dialogue: 0,0:02:02.48,0:02:03.12,Default,,0,0,0,,{\an5}WISHED I'D MENTIONED
+Dialogue: 0,0:02:03.12,0:02:04.34,Default,,0,0,0,,{\an5}IT EARLIER LILA
+Dialogue: 0,0:02:04.34,0:02:04.92,Default,,0,0,0,,{\an5}LOOKED EMBARRASSED
+Dialogue: 0,0:02:04.92,0:02:05.42,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:02:05.42,0:02:06.00,Default,,0,0,0,,{\an5}MY SON LOOKED
+Dialogue: 0,0:02:06.00,0:02:06.93,Default,,0,0,0,,{\an5}ANNOYED LATER
+Dialogue: 0,0:02:06.93,0:02:07.45,Default,,0,0,0,,{\an5}HE TOLD ME
+Dialogue: 0,0:02:07.45,0:02:08.03,Default,,0,0,0,,{\an5}I MADE HER FEEL
+Dialogue: 0,0:02:08.03,0:02:08.74,Default,,0,0,0,,{\an5}UNWELCOME WHEN
+Dialogue: 0,0:02:08.74,0:02:09.41,Default,,0,0,0,,{\an5}SHE WAS JUST TRYING
+Dialogue: 0,0:02:09.41,0:02:09.91,Default,,0,0,0,,{\an5}TO DO SOMETHING
+Dialogue: 0,0:02:09.91,0:02:11.24,Default,,0,0,0,,{\an5}THOUGHTFUL I
+Dialogue: 0,0:02:11.24,0:02:11.75,Default,,0,0,0,,{\an5}SAID
+Dialogue: 0,0:02:11.75,0:02:12.41,Default,,0,0,0,,{\an5}I APPRECIATED
+Dialogue: 0,0:02:12.41,0:02:12.91,Default,,0,0,0,,{\an5}THE GESTURE
+Dialogue: 0,0:02:12.91,0:02:13.53,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:02:13.53,0:02:14.30,Default,,0,0,0,,{\an5}SHE'S BUYING EVERYTHING
+Dialogue: 0,0:02:14.30,0:02:14.91,Default,,0,0,0,,{\an5}WITH MY MONEY
+Dialogue: 0,0:02:14.91,0:02:15.43,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:02:15.43,0:02:16.18,Default,,0,0,0,,{\an5}I SIMPLY CAN'T
+Dialogue: 0,0:02:16.18,0:02:16.71,Default,,0,0,0,,{\an5}AFFORD MULTIPLE
+Dialogue: 0,0:02:16.71,0:02:17.21,Default,,0,0,0,,{\an5}SPLURGES
+Dialogue: 0,0:02:17.21,0:02:18.13,Default,,0,0,0,,{\an5}EACH WEEK I
+Dialogue: 0,0:02:18.13,0:02:18.71,Default,,0,0,0,,{\an5}ALSO REMINDED
+Dialogue: 0,0:02:18.71,0:02:19.24,Default,,0,0,0,,{\an5}HIM THAT HE'S
+Dialogue: 0,0:02:19.24,0:02:19.80,Default,,0,0,0,,{\an5}WELCOME TO GIVE
+Dialogue: 0,0:02:19.80,0:02:20.31,Default,,0,0,0,,{\an5}HER MONEY IF
+Dialogue: 0,0:02:20.31,0:02:20.90,Default,,0,0,0,,{\an5}THIS MEANS SO
+Dialogue: 0,0:02:20.90,0:02:21.40,Default,,0,0,0,,{\an5}MUCH TO HIM
+Dialogue: 0,0:02:21.40,0:02:22.08,Default,,0,0,0,,{\an5}HE
+Dialogue: 0,0:02:22.08,0:02:22.68,Default,,0,0,0,,{\an5}SAID THEY'RE ONLY
+Dialogue: 0,0:02:22.68,0:02:23.21,Default,,0,0,0,,{\an5}HERE FOR
+Dialogue: 0,0:02:23.21,0:02:23.97,Default,,0,0,0,,{\an5}A FEW MORE WEEKS
+Dialogue: 0,0:02:23.97,0:02:24.59,Default,,0,0,0,,{\an5}AND ASKED
+Dialogue: 0,0:02:24.59,0:02:25.13,Default,,0,0,0,,{\an5}WHY I COULDN'T
+Dialogue: 0,0:02:25.13,0:02:25.63,Default,,0,0,0,,{\an5}JUST MAKE OUR
+Dialogue: 0,0:02:25.63,0:02:25.84,Default,,0,0,0,,{\an5}GUEST
+Dialogue: 0,0:02:26.51,0:02:26.91,Default,,0,0,0,,{\an5}HAPPY.
+Dialogue: 0,0:02:26.91,0:02:27.56,Default,,0,0,0,,{\an5}I'M HONESTLY
+Dialogue: 0,0:02:27.56,0:02:28.06,Default,,0,0,0,,{\an5}NOT SURE
+Dialogue: 0,0:02:28.06,0:02:28.68,Default,,0,0,0,,{\an5}IF I HANDLED IT
+Dialogue: 0,0:02:28.68,0:02:29.30,Default,,0,0,0,,{\an5}POORLY OR IF
+Dialogue: 0,0:02:29.30,0:02:29.84,Default,,0,0,0,,{\an5}I'M JUST PROTECTING
+Dialogue: 0,0:02:29.84,0:02:30.36,Default,,0,0,0,,{\an5}MY BUDGET

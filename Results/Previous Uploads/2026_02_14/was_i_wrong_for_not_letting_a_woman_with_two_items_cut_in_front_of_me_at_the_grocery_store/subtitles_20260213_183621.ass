@@ -1,0 +1,90 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.74,0:00:05.37,Default,,0,0,0,,\N{\k35}EARLIER {\k28}TODAY
+Dialogue: 0,0:00:05.37,0:00:06.04,Default,,0,0,0,,\N{\k29}I {\k12}WAS {\k8}AT {\k16}PACKED
+Dialogue: 0,0:00:06.04,0:00:06.79,Default,,0,0,0,,\N{\k37}GROCERY {\k37}STORE.
+Dialogue: 0,0:00:07.60,0:00:08.50,Default,,0,0,0,,\N{\k35}ONLY {\k20}TWO {\k33}REGISTERS
+Dialogue: 0,0:00:08.50,0:00:09.27,Default,,0,0,0,,\N{\k17}WERE {\k28}OPEN {\k31}AND
+Dialogue: 0,0:00:09.27,0:00:10.01,Default,,0,0,0,,\N{\k10}THE {\k19}LINES {\k22}WERE {\k21}LONG.
+Dialogue: 0,0:00:10.82,0:00:11.50,Default,,0,0,0,,\N{\k17}I {\k8}HAD {\k8}A {\k14}FULL {\k19}CART
+Dialogue: 0,0:00:11.50,0:00:12.22,Default,,0,0,0,,\N{\k19}AND {\k14}HAD {\k17}ALREADY {\k20}BEEN
+Dialogue: 0,0:00:12.22,0:00:13.16,Default,,0,0,0,,\N{\k24}WAITING {\k17}FOR {\k16}ABOUT {\k35}15
+Dialogue: 0,0:00:13.16,0:00:13.85,Default,,0,0,0,,\N{\k24}MINUTES {\k17}BY {\k9}THE {\k17}TIME
+Dialogue: 0,0:00:13.85,0:00:14.51,Default,,0,0,0,,\N{\k14}I {\k27}FINALLY {\k24}REACHED
+Dialogue: 0,0:00:14.51,0:00:15.24,Default,,0,0,0,,\N{\k14}THE {\k33}CONVEYOR {\k24}BELT.
+Dialogue: 0,0:00:15.90,0:00:16.87,Default,,0,0,0,,\N{\k25}RIGHT {\k21}AS {\k12}I {\k37}STARTED
+Dialogue: 0,0:00:16.87,0:00:17.73,Default,,0,0,0,,\N{\k22}AND {\k9}LEARNED {\k12}IN {\k10}MY {\k31}GROCERIES,
+Dialogue: 0,0:00:17.98,0:00:18.66,Default,,0,0,0,,\N{\k3}A {\k24}WOMAN {\k25}WALKED {\k14}UP,
+Dialogue: 0,0:00:18.76,0:00:19.53,Default,,0,0,0,,\N{\k17}HOLDING {\k19}JUST {\k14}A {\k25}CARTON
+Dialogue: 0,0:00:19.53,0:00:20.14,Default,,0,0,0,,\N{\k12}OF {\k12}EGGS {\k21}AND {\k14}A
+Dialogue: 0,0:00:20.14,0:00:20.57,Default,,0,0,0,,\N{\k9}GALLON {\k16}OF {\k17}MILK.
+Dialogue: 0,0:00:21.46,0:00:22.17,Default,,0,0,0,,\N{\k23}SHE {\k17}ASKED {\k16}IF {\k14}SHE
+Dialogue: 0,0:00:22.17,0:00:22.85,Default,,0,0,0,,\N{\k14}COULD {\k16}GO {\k16}AHEAD {\k12}OF {\k9}ME
+Dialogue: 0,0:00:22.85,0:00:23.53,Default,,0,0,0,,\N{\k19}BECAUSE {\k17}SHE {\k12}WAS {\k17}IN
+Dialogue: 0,0:00:23.53,0:00:24.30,Default,,0,0,0,,\N{\k8}A {\k14}HUGE {\k19}RUSH {\k16}AND {\k17}ONLY
+Dialogue: 0,0:00:24.30,0:00:24.89,Default,,0,0,0,,\N{\k12}HAD {\k17}TWO {\k29}ITEMS.
+Dialogue: 0,0:00:25.71,0:00:26.32,Default,,0,0,0,,\N{\k35}NORMALLY {\k24}I
+Dialogue: 0,0:00:26.32,0:00:27.00,Default,,0,0,0,,\N{\k16}MIGHT {\k14}NOT {\k17}HAVE {\k19}CARED.
+Dialogue: 0,0:00:27.00,0:00:27.37,Default,,0,0,0,,\N{\k37}BUT
+Dialogue: 0,0:00:27.37,0:00:28.23,Default,,0,0,0,,\N{\k69}I {\k16}WAS
+Dialogue: 0,0:00:28.23,0:00:28.85,Default,,0,0,0,,\N{\k36}EXHAUSTED, {\k5}MY
+Dialogue: 0,0:00:28.85,0:00:29.64,Default,,0,0,0,,\N{\k14}BACK {\k17}WAS {\k17}HURTING {\k28}AND
+Dialogue: 0,0:00:29.64,0:00:30.35,Default,,0,0,0,,\N{\k12}I {\k3}HAD {\k14}ALREADY {\k23}WAITED {\k17}MY
+Dialogue: 0,0:00:30.35,0:00:31.07,Default,,0,0,0,,\N{\k19}TURN {\k14}LIKE {\k37}EVERYONE
+Dialogue: 0,0:00:31.07,0:00:31.37,Default,,0,0,0,,\N{\k30}ELSE.
+Dialogue: 0,0:00:32.15,0:00:32.75,Default,,0,0,0,,\N{\k36}SO {\k9}I {\k14}TOLD
+Dialogue: 0,0:00:32.75,0:00:33.56,Default,,0,0,0,,\N{\k24}HER, {\k28}SORRY,
+Dialogue: 0,0:00:33.85,0:00:34.60,Default,,0,0,0,,\N{\k10}BUT {\k14}I'VE {\k5}BEEN {\k24}WAITING {\k20}HERE
+Dialogue: 0,0:00:34.60,0:00:35.21,Default,,0,0,0,,\N{\k11}FOR {\k28}15 {\k21}MINUTES
+Dialogue: 0,0:00:35.21,0:00:35.84,Default,,0,0,0,,\N{\k20}AND {\k10}I {\k13}JUST {\k18}WANT
+Dialogue: 0,0:00:35.84,0:00:36.25,Default,,0,0,0,,\N{\k11}TO {\k7}GET {\k21}HOME.
+Dialogue: 0,0:00:37.65,0:00:38.25,Default,,0,0,0,,\N{\k38}SHE {\k21}IMMEDIATELY
+Dialogue: 0,0:00:38.25,0:00:38.97,Default,,0,0,0,,\N{\k24}LOOKED {\k28}OFFENDED {\k19}AND
+Dialogue: 0,0:00:38.97,0:00:39.85,Default,,0,0,0,,\N{\k24}STARTED {\k30}COMPLAINING {\k33}LOUDLY
+Dialogue: 0,0:00:39.85,0:00:40.53,Default,,0,0,0,,\N{\k17}TO {\k6}THE {\k17}PEOPLE {\k25}BEHIND
+Dialogue: 0,0:00:40.53,0:00:41.21,Default,,0,0,0,,\N{\k20}ME, {\k17}SAYING
+Dialogue: 0,0:00:41.21,0:00:41.85,Default,,0,0,0,,\N{\k21}THINGS {\k20}LIKE {\k21}SOME
+Dialogue: 0,0:00:41.85,0:00:42.75,Default,,0,0,0,,\N{\k25}PEOPLE {\k14}ARE {\k14}JUST {\k35}MISERABLE
+Dialogue: 0,0:00:42.75,0:00:43.39,Default,,0,0,0,,\N{\k52}THAN {\k11}THAT
+Dialogue: 0,0:00:43.39,0:00:44.10,Default,,0,0,0,,\N{\k7}IT {\k12}WOULD {\k11}HAVE {\k21}TAKEN {\k16}HER
+Dialogue: 0,0:00:44.10,0:00:44.71,Default,,0,0,0,,\N{\k24}30 {\k37}SECONDS.
+Dialogue: 0,0:00:45.60,0:00:46.38,Default,,0,0,0,,\N{\k17}IT {\k10}IN {\k9}MY {\k40}SURPRISE,
+Dialogue: 0,0:00:46.60,0:00:47.35,Default,,0,0,0,,\N{\k7}THE {\k14}GUY {\k20}DIRECTLY {\k33}BEHIND
+Dialogue: 0,0:00:47.35,0:00:48.15,Default,,0,0,0,,\N{\k17}ME {\k25}ACTUALLY {\k35}CHANTED
+Dialogue: 0,0:00:48.15,0:00:48.75,Default,,0,0,0,,\N{\k18}AND {\k13}CALLED {\k16}ME {\k11}A
+Dialogue: 0,0:00:48.75,0:00:49.42,Default,,0,0,0,,\N{\k14}JERK {\k16}FOR {\k11}NOT {\k24}BEING
+Dialogue: 0,0:00:49.42,0:00:49.82,Default,,0,0,0,,\N{\k5}A {\k34}NEIGHBORLY.
+Dialogue: 0,0:00:51.06,0:00:51.78,Default,,0,0,0,,\N{\k39}THAT {\k17}CAUGHT {\k14}ME
+Dialogue: 0,0:00:51.78,0:00:52.07,Default,,0,0,0,,\N{\k15}OFF {\k14}GUARD.
+Dialogue: 0,0:00:52.85,0:00:53.47,Default,,0,0,0,,\N{\k20}I {\k21}DIDN'T {\k19}INSULT
+Dialogue: 0,0:00:53.47,0:00:53.74,Default,,0,0,0,,\N{\k26}HER.
+Dialogue: 0,0:00:54.52,0:00:55.21,Default,,0,0,0,,\N{\k17}I {\k32}DIDN'T {\k19}SNAP.
+Dialogue: 0,0:00:55.74,0:00:56.42,Default,,0,0,0,,\N{\k39}I {\k10}JUST {\k17}SAID
+Dialogue: 0,0:00:56.42,0:00:56.61,Default,,0,0,0,,\N{\k19}NO.
+Dialogue: 0,0:00:57.14,0:00:58.07,Default,,0,0,0,,\N{\k35}FROM {\k11}MY {\k46}PERSPECTIVE,
+Dialogue: 0,0:00:58.65,0:00:59.34,Default,,0,0,0,,\N{\k32}THE {\k16}WHOLE {\k20}POINT
+Dialogue: 0,0:00:59.34,0:01:00.00,Default,,0,0,0,,\N{\k17}OF {\k7}A {\k15}LINE {\k16}IS {\k7}THAT
+Dialogue: 0,0:01:00.00,0:01:00.64,Default,,0,0,0,,\N{\k28}EVERYONE {\k24}WAITS {\k11}THEIR
+Dialogue: 0,0:01:00.64,0:01:01.46,Default,,0,0,0,,\N{\k25}TURN {\k56}REGARDLESS
+Dialogue: 0,0:01:01.46,0:01:02.17,Default,,0,0,0,,\N{\k17}OF {\k6}HOW {\k21}MANY {\k25}ITEMS
+Dialogue: 0,0:01:02.17,0:01:02.64,Default,,0,0,0,,\N{\k17}THEY {\k28}HAVE.
+Dialogue: 0,0:01:03.48,0:01:04.09,Default,,0,0,0,,\N{\k39}STORES {\k21}EVEN
+Dialogue: 0,0:01:04.09,0:01:04.71,Default,,0,0,0,,\N{\k28}CREATE {\k34}EXPRESS
+Dialogue: 0,0:01:04.71,0:01:05.35,Default,,0,0,0,,\N{\k26}LANES {\k17}FOR {\k20}SMALL
+Dialogue: 0,0:01:05.35,0:01:06.07,Default,,0,0,0,,\N{\k35}PURCHASES {\k23}THAT {\k12}THIS
+Dialogue: 0,0:01:06.07,0:01:06.76,Default,,0,0,0,,\N{\k21}WASN'T {\k15}ONE {\k14}OF {\k16}THEM.
+Dialogue: 0,0:01:07.54,0:01:08.20,Default,,0,0,0,,\N{\k11}IF {\k7}I {\k12}LET {\k14}GO {\k20}GO,
+Dialogue: 0,0:01:08.40,0:01:09.06,Default,,0,0,0,,\N{\k7}WHAT {\k28}HAPPENS {\k17}IF {\k12}THE
+Dialogue: 0,0:01:09.06,0:01:09.76,Default,,0,0,0,,\N{\k15}NEXT {\k29}PERSON {\k24}ALSO
+Dialogue: 0,0:01:09.76,0:01:10.51,Default,,0,0,0,,\N{\k17}HAS {\k24}THREE {\k33}ITEMS?
+Dialogue: 0,0:01:11.54,0:01:12.00,Default,,0,0,0,,\N{\k19}OR {\k26}FOUR?
+Dialogue: 0,0:01:12.81,0:01:13.34,Default,,0,0,0,,\N{\k24}WHERE'S {\k7}THE {\k20}LINE?

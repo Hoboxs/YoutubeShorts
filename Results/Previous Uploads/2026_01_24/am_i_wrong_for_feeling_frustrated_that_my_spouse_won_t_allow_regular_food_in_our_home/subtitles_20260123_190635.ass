@@ -1,0 +1,147 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.48,0:00:05.09,Default,,0,0,0,,\N{\k19}I {\k16}END {\k14}IN {\k11}MY
+Dialogue: 0,0:00:05.09,0:00:05.75,Default,,0,0,0,,\N{\k56}MID-30S {\k9}AND
+Dialogue: 0,0:00:05.75,0:00:06.48,Default,,0,0,0,,\N{\k10}HAVE {\k13}BEEN {\k16}MY {\k32}WIFE
+Dialogue: 0,0:00:06.48,0:00:07.00,Default,,0,0,0,,\N{\k11}FOR {\k18}SEVERAL {\k21}YEARS.
+Dialogue: 0,0:00:07.58,0:00:08.24,Default,,0,0,0,,\N{\k20}UNTIL {\k46}RECENTLY,
+Dialogue: 0,0:00:08.53,0:00:09.24,Default,,0,0,0,,\N{\k16}FOOD {\k18}WAS {\k13}NEVER {\k22}A
+Dialogue: 0,0:00:09.24,0:00:10.00,Default,,0,0,0,,\N{\k16}MAJOR {\k21}SOURCE {\k10}OF {\k27}CONFLICT
+Dialogue: 0,0:00:10.00,0:00:10.66,Default,,0,0,0,,\N{\k27}BETWEEN {\k16}MY {\k22}SPOUSE
+Dialogue: 0,0:00:10.66,0:00:10.98,Default,,0,0,0,,\N{\k17}AND {\k14}ME.
+Dialogue: 0,0:00:11.67,0:00:12.38,Default,,0,0,0,,\N{\k20}OVER {\k9}THE {\k19}PAST {\k20}YEAR,
+Dialogue: 0,0:00:12.50,0:00:13.24,Default,,0,0,0,,\N{\k17}HOWEVER, {\k8}THINGS
+Dialogue: 0,0:00:13.24,0:00:13.88,Default,,0,0,0,,\N{\k19}HAVE {\k25}SHIFTED {\k18}IN
+Dialogue: 0,0:00:13.88,0:00:14.51,Default,,0,0,0,,\N{\k5}A {\k16}WAY {\k14}THAT {\k14}HAS {\k13}LEFT
+Dialogue: 0,0:00:14.51,0:00:15.30,Default,,0,0,0,,\N{\k17}ME {\k20}FEELING {\k40}INCREASINGLY
+Dialogue: 0,0:00:15.30,0:00:16.26,Default,,0,0,0,,\N{\k39}BOXING {\k18}AND {\k38}STRANGELY
+Dialogue: 0,0:00:16.26,0:00:16.94,Default,,0,0,0,,\N{\k41}UNCOMFORTABLE {\k26}IN
+Dialogue: 0,0:00:16.94,0:00:17.37,Default,,0,0,0,,\N{\k13}MY {\k12}OWN {\k17}HOME.
+Dialogue: 0,0:00:18.12,0:00:18.94,Default,,0,0,0,,\N{\k11}MY {\k24}SPOUSE {\k17}HAS {\k28}BECOME
+Dialogue: 0,0:00:18.94,0:00:19.76,Default,,0,0,0,,\N{\k45}EXTREMELY {\k36}COMMITTED
+Dialogue: 0,0:00:19.76,0:00:20.39,Default,,0,0,0,,\N{\k16}TO {\k21}PREPARING {\k25}OR
+Dialogue: 0,0:00:20.39,0:00:20.96,Default,,0,0,0,,\N{\k17}FOOD {\k16}FROM {\k22}SCRATCH.
+Dialogue: 0,0:00:21.78,0:00:22.69,Default,,0,0,0,,\N{\k7}I {\k17}FIRST {\k24}FELT {\k41}HARMLESS
+Dialogue: 0,0:00:22.69,0:00:23.37,Default,,0,0,0,,\N{\k17}AND {\k19}EVEN {\k30}IMPRESSIVE.
+Dialogue: 0,0:00:24.16,0:00:25.12,Default,,0,0,0,,\N{\k12}HOME {\k11}MADE {\k20}BREAD, {\k14}SNACKS,
+Dialogue: 0,0:00:25.67,0:00:26.28,Default,,0,0,0,,\N{\k5}AND {\k22}DESSERT {\k32}SLOWLY
+Dialogue: 0,0:00:26.28,0:00:27.00,Default,,0,0,0,,\N{\k33}REPLACED {\k21}OR {\k16}BOUGHT
+Dialogue: 0,0:00:27.00,0:00:27.64,Default,,0,0,0,,\N{\k39}VERSIONS, {\k6}AND
+Dialogue: 0,0:00:27.64,0:00:28.33,Default,,0,0,0,,\N{\k9}I {\k40}APPRECIATED {\k19}THE
+Dialogue: 0,0:00:28.33,0:00:29.00,Default,,0,0,0,,\N{\k26}EFFORT {\k19}AND {\k19}SKILL
+Dialogue: 0,0:00:29.00,0:00:29.44,Default,,0,0,0,,\N{\k44}INVOLVED.
+Dialogue: 0,0:00:30.03,0:00:31.10,Default,,0,0,0,,\N{\k16}OVER {\k22}TIME, {\k7}THOUGH, {\k14}THIS
+Dialogue: 0,0:00:31.10,0:00:31.78,Default,,0,0,0,,\N{\k23}APPROACH {\k44}EXPANDED
+Dialogue: 0,0:00:31.78,0:00:32.56,Default,,0,0,0,,\N{\k17}TO {\k19}NEARLY {\k40}EVERYTHING
+Dialogue: 0,0:00:32.56,0:00:32.96,Default,,0,0,0,,\N{\k17}WE {\k21}EAT.
+Dialogue: 0,0:00:33.53,0:00:34.32,Default,,0,0,0,,\N{\k32}SAUSAGE {\k46}STAPLES
+Dialogue: 0,0:00:34.32,0:00:35.00,Default,,0,0,0,,\N{\k46}AND {\k21}EVEN
+Dialogue: 0,0:00:35.00,0:00:35.64,Default,,0,0,0,,\N{\k20}ITEMS {\k23}THAT {\k20}MOST
+Dialogue: 0,0:00:35.64,0:00:36.39,Default,,0,0,0,,\N{\k24}PEOPLE {\k19}BY {\k32}FROZEN
+Dialogue: 0,0:00:36.39,0:00:37.06,Default,,0,0,0,,\N{\k14}OR {\k52}PROPAGAGED
+Dialogue: 0,0:00:37.06,0:00:37.85,Default,,0,0,0,,\N{\k7}ARE {\k17}NOW {\k15}MADE {\k38}ENTIRELY
+Dialogue: 0,0:00:37.85,0:00:38.17,Default,,0,0,0,,\N{\k11}AT {\k20}HOME.
+Dialogue: 0,0:00:38.88,0:00:39.53,Default,,0,0,0,,\N{\k19}I {\k34}WILL {\k11}BE
+Dialogue: 0,0:00:39.53,0:00:40.34,Default,,0,0,0,,\N{\k16}CLEAR {\k14}THAT {\k9}THE {\k16}FOOD {\k24}TASTES
+Dialogue: 0,0:00:40.34,0:00:41.14,Default,,0,0,0,,\N{\k19}GOOD {\k11}AND {\k12}I {\k35}RECOGNISE
+Dialogue: 0,0:00:41.14,0:00:41.84,Default,,0,0,0,,\N{\k21}HOW {\k14}MUCH {\k21}TIME {\k12}AND
+Dialogue: 0,0:00:41.84,0:00:42.52,Default,,0,0,0,,\N{\k27}ENERGY {\k17}GOES {\k22}INTO
+Dialogue: 0,0:00:42.52,0:00:42.74,Default,,0,0,0,,\N{\k21}IT.
+Dialogue: 0,0:00:43.20,0:00:43.88,Default,,0,0,0,,\N{\k21}THAT {\k17}PART {\k15}IS {\k12}NOT
+Dialogue: 0,0:00:43.88,0:00:44.28,Default,,0,0,0,,\N{\k9}IN {\k30}QUESTION.
+Dialogue: 0,0:00:45.06,0:00:45.89,Default,,0,0,0,,\N{\k15}WHAT {\k12}HAS {\k21}BECOME {\k33}DIFFICULT
+Dialogue: 0,0:00:45.89,0:00:46.50,Default,,0,0,0,,\N{\k21}IS {\k14}THAT {\k12}THERE {\k11}IS
+Dialogue: 0,0:00:46.50,0:00:47.21,Default,,0,0,0,,\N{\k15}NO {\k22}ROOM {\k17}LEFT {\k15}FOR
+Dialogue: 0,0:00:47.21,0:00:47.46,Default,,0,0,0,,\N{\k24}CHOICE.
+Dialogue: 0,0:00:48.21,0:00:48.85,Default,,0,0,0,,\N{\k39}SOMETIMES {\k24}I
+Dialogue: 0,0:00:48.85,0:00:49.46,Default,,0,0,0,,\N{\k32}SIMPLY {\k14}WANT {\k14}THE
+Dialogue: 0,0:00:49.46,0:00:50.39,Default,,0,0,0,,\N{\k35}FAMILIAR, {\k24}CONVENIENT
+Dialogue: 0,0:00:50.39,0:00:51.07,Default,,0,0,0,,\N{\k34}VERSION {\k15}OF {\k17}CERTAIN
+Dialogue: 0,0:00:51.07,0:00:51.39,Default,,0,0,0,,\N{\k32}FOODS.
+Dialogue: 0,0:00:52.11,0:00:52.85,Default,,0,0,0,,\N{\k17}NOT {\k14}AS {\k8}A {\k33}REJECTION
+Dialogue: 0,0:00:52.85,0:00:53.61,Default,,0,0,0,,\N{\k16}OF {\k7}HER {\k25}COOKING, {\k5}BUT
+Dialogue: 0,0:00:53.61,0:00:54.21,Default,,0,0,0,,\N{\k22}BECAUSE {\k17}I {\k19}ENJOY
+Dialogue: 0,0:00:54.21,0:00:55.03,Default,,0,0,0,,\N{\k20}THEM {\k15}OR {\k16}FIND {\k29}COMFORT
+Dialogue: 0,0:00:55.03,0:00:55.34,Default,,0,0,0,,\N{\k16}IN {\k14}THEM.
+Dialogue: 0,0:00:55.85,0:00:56.57,Default,,0,0,0,,\N{\k36}MY {\k36}SPOUSE'S
+Dialogue: 0,0:00:56.57,0:00:57.34,Default,,0,0,0,,\N{\k32}POSITION {\k16}IS {\k9}THAT {\k18}BECAUSE
+Dialogue: 0,0:00:57.34,0:00:58.06,Default,,0,0,0,,\N{\k17}SHE {\k13}DOES {\k24}MOST {\k16}OF
+Dialogue: 0,0:00:58.06,0:00:58.78,Default,,0,0,0,,\N{\k15}THE {\k20}COOKING {\k19}AND {\k16}GROCERY
+Dialogue: 0,0:00:58.78,0:00:59.57,Default,,0,0,0,,\N{\k46}SHOPPING {\k33}OR
+Dialogue: 0,0:00:59.57,0:01:00.29,Default,,0,0,0,,\N{\k20}FOOD {\k29}DECISIONS {\k21}SHOULD
+Dialogue: 0,0:01:00.29,0:01:01.14,Default,,0,0,0,,\N{\k22}ALIGN {\k21}WITH {\k10}HER {\k29}VALUES.
+Dialogue: 0,0:01:01.67,0:01:02.29,Default,,0,0,0,,\N{\k20}SHE {\k23}BELIEVES {\k17}THAT
+Dialogue: 0,0:01:02.29,0:01:02.97,Default,,0,0,0,,\N{\k28}PROCESSED {\k21}OR {\k17}JUNK
+Dialogue: 0,0:01:02.97,0:01:03.70,Default,,0,0,0,,\N{\k22}FOOD {\k17}DOES {\k11}NOT {\k20}BELONG
+Dialogue: 0,0:01:03.70,0:01:04.42,Default,,0,0,0,,\N{\k17}IN {\k7}THE {\k17}HOUSE {\k12}AT {\k15}ALL
+Dialogue: 0,0:01:04.42,0:01:05.15,Default,,0,0,0,,\N{\k35}AND {\k12}THAT {\k25}ALLOWING
+Dialogue: 0,0:01:05.15,0:01:05.95,Default,,0,0,0,,\N{\k14}IT {\k7}WOULD {\k35}UNDERMINE {\k21}WHAT
+Dialogue: 0,0:01:05.95,0:01:06.64,Default,,0,0,0,,\N{\k10}SHE {\k7}IS {\k20}TRYING {\k15}TO {\k14}DO.
+Dialogue: 0,0:01:07.26,0:01:07.90,Default,,0,0,0,,\N{\k14}HER {\k29}SOLUTION {\k20}IS
+Dialogue: 0,0:01:07.90,0:01:08.70,Default,,0,0,0,,\N{\k9}THAT {\k12}IF {\k9}I {\k14}WANT {\k14}THOSE {\k20}FOODS,
+Dialogue: 0,0:01:08.92,0:01:09.70,Default,,0,0,0,,\N{\k6}I {\k15}SHOULD {\k12}EAT {\k14}THEM {\k29}ELSEWHERE.
+Dialogue: 0,0:01:10.34,0:01:11.09,Default,,0,0,0,,\N{\k21}THAT {\k17}MEANS {\k35}GRABBY
+Dialogue: 0,0:01:11.09,0:01:11.76,Default,,0,0,0,,\N{\k16}FAST {\k17}FOOD {\k15}ON {\k8}THE {\k7}WAY
+Dialogue: 0,0:01:11.76,0:01:12.56,Default,,0,0,0,,\N{\k19}HOME, {\k13}EATING {\k24}SNACKS
+Dialogue: 0,0:01:12.56,0:01:13.34,Default,,0,0,0,,\N{\k20}AT {\k15}WORK, {\k1}ARE {\k18}KEEPING
+Dialogue: 0,0:01:13.34,0:01:14.28,Default,,0,0,0,,\N{\k28}THOSE {\k29}PREFERENCES {\k35}ENTIRELY
+Dialogue: 0,0:01:14.28,0:01:14.76,Default,,0,0,0,,\N{\k20}OUT {\k9}OF {\k18}SIGHT.
+Dialogue: 0,0:01:15.40,0:01:16.14,Default,,0,0,0,,\N{\k25}OVER {\k26}TIME, {\k7}THIS
+Dialogue: 0,0:01:16.14,0:01:16.76,Default,,0,0,0,,\N{\k14}HAS {\k14}MADE {\k15}ME {\k18}FEEL
+Dialogue: 0,0:01:16.76,0:01:17.37,Default,,0,0,0,,\N{\k15}ODDLY {\k45}SECRETIVE
+Dialogue: 0,0:01:17.37,0:01:18.21,Default,,0,0,0,,\N{\k14}AND {\k28}JUVENILE, {\k9}LIKE
+Dialogue: 0,0:01:18.21,0:01:19.00,Default,,0,0,0,,\N{\k15}I {\k10}AM {\k15}HIDING {\k35}SOMETHING
+Dialogue: 0,0:01:19.00,0:01:19.76,Default,,0,0,0,,\N{\k31}INSTEAD {\k14}OF {\k14}MAKING {\k16}A
+Dialogue: 0,0:01:19.76,0:01:20.56,Default,,0,0,0,,\N{\k29}REASONABLE {\k21}ADULT {\k28}CHOICE.
+Dialogue: 0,0:01:21.21,0:01:22.14,Default,,0,0,0,,\N{\k29}I {\k14}NEVER {\k48}EXPECTED
+Dialogue: 0,0:01:22.14,0:01:22.79,Default,,0,0,0,,\N{\k20}THAT {\k25}WANTING {\k20}A
+Dialogue: 0,0:01:22.79,0:01:23.50,Default,,0,0,0,,\N{\k15}BAG {\k20}OF {\k20}CHIPS {\k14}OR
+Dialogue: 0,0:01:23.50,0:01:24.21,Default,,0,0,0,,\N{\k9}A {\k20}SIMPLE {\k21}STORE {\k20}BOUGHT
+Dialogue: 0,0:01:24.21,0:01:24.92,Default,,0,0,0,,\N{\k20}MEAL {\k15}WOULD {\k15}TURN {\k18}INTO
+Dialogue: 0,0:01:24.92,0:01:25.57,Default,,0,0,0,,\N{\k28}SOMETHING {\k17}I {\k12}HAVE {\k7}TO
+Dialogue: 0,0:01:25.57,0:01:26.57,Default,,0,0,0,,\N{\k35}JUSTIFY {\k18}OR {\k45}RELOCATE.
+Dialogue: 0,0:01:27.06,0:01:27.78,Default,,0,0,0,,\N{\k23}WHENEVER {\k29}I {\k18}TRY
+Dialogue: 0,0:01:27.78,0:01:28.51,Default,,0,0,0,,\N{\k15}TO {\k26}EXPLAIN {\k17}HOW {\k14}THIS
+Dialogue: 0,0:01:28.51,0:01:29.51,Default,,0,0,0,,\N{\k12}MAKES {\k20}ME {\k21}FEEL, {\k6}THE
+Dialogue: 0,0:01:29.51,0:01:30.18,Default,,0,0,0,,\N{\k32}CONVERSATION {\k34}TURNS
+Dialogue: 0,0:01:30.18,0:01:30.84,Default,,0,0,0,,\N{\k23}INTO {\k14}HOW {\k28}GRATEFUL
+Dialogue: 0,0:01:30.84,0:01:31.54,Default,,0,0,0,,\N{\k23}I {\k15}AM {\k14}BEING {\k16}AND
+Dialogue: 0,0:01:31.54,0:01:32.31,Default,,0,0,0,,\N{\k11}HOW {\k14}I {\k14}AM {\k37}MINIMISING
+Dialogue: 0,0:01:32.31,0:01:32.79,Default,,0,0,0,,\N{\k20}HER {\k28}EFFORT.
+Dialogue: 0,0:01:33.43,0:01:34.31,Default,,0,0,0,,\N{\k20}THAT {\k20}HURTS {\k47}BECAUSE
+Dialogue: 0,0:01:34.31,0:01:35.06,Default,,0,0,0,,\N{\k18}I {\k18}DO {\k37}APPRECIATE
+Dialogue: 0,0:01:35.06,0:01:35.54,Default,,0,0,0,,\N{\k17}WHAT {\k14}SHE {\k16}DOES.
+Dialogue: 0,0:01:36.37,0:01:37.01,Default,,0,0,0,,\N{\k12}I {\k23}JUST {\k16}DO {\k11}NOT
+Dialogue: 0,0:01:37.01,0:01:37.73,Default,,0,0,0,,\N{\k18}WANT {\k28}EVERY {\k25}SINGLE
+Dialogue: 0,0:01:37.73,0:01:38.50,Default,,0,0,0,,\N{\k20}FOOD {\k32}DECISION {\k23}IN
+Dialogue: 0,0:01:38.50,0:01:39.21,Default,,0,0,0,,\N{\k15}OUR {\k15}SHARED {\k28}HOME {\k12}TO
+Dialogue: 0,0:01:39.21,0:01:39.92,Default,,0,0,0,,\N{\k12}BE {\k42}DICTATED {\k15}BY
+Dialogue: 0,0:01:39.92,0:01:40.92,Default,,0,0,0,,\N{\k17}ONE {\k42}PERSON'S {\k40}PHILOSOPHY,
+Dialogue: 0,0:01:41.07,0:01:41.68,Default,,0,0,0,,\N{\k35}ESPECIALLY {\k24}WHEN
+Dialogue: 0,0:01:41.68,0:01:42.34,Default,,0,0,0,,\N{\k9}IT {\k15}LEAVES {\k15}ME {\k24}FEELING
+Dialogue: 0,0:01:42.34,0:01:43.01,Default,,0,0,0,,\N{\k35}EXCLUDED {\k17}FROM {\k14}MY
+Dialogue: 0,0:01:43.01,0:01:43.43,Default,,0,0,0,,\N{\k12}OWN {\k29}KITCHEN.
+Dialogue: 0,0:01:44.07,0:01:44.81,Default,,0,0,0,,\N{\k12}AT {\k14}THIS {\k23}POINT, {\k5}I
+Dialogue: 0,0:01:44.81,0:01:45.54,Default,,0,0,0,,\N{\k18}AM {\k9}LESS {\k16}UPSET {\k28}ABOUT
+Dialogue: 0,0:01:45.54,0:01:46.28,Default,,0,0,0,,\N{\k11}THE {\k15}FOOD {\k24}ITSELF {\k21}AND
+Dialogue: 0,0:01:46.28,0:01:46.95,Default,,0,0,0,,\N{\k14}MORE {\k39}UNSETTLED {\k14}BY
+Dialogue: 0,0:01:46.95,0:01:47.57,Default,,0,0,0,,\N{\k10}THE {\k17}SENSE {\k20}THAT {\k14}MY
+Dialogue: 0,0:01:47.57,0:01:48.18,Default,,0,0,0,,\N{\k40}PREFERENCES {\k20}DO
+Dialogue: 0,0:01:48.18,0:01:48.64,Default,,0,0,0,,\N{\k13}NOT {\k32}MATTER.
+Dialogue: 0,0:01:49.29,0:01:49.93,Default,,0,0,0,,\N{\k20}I {\k14}AM {\k29}WONDERING
+Dialogue: 0,0:01:49.93,0:01:50.73,Default,,0,0,0,,\N{\k28}WHETHER {\k18}I {\k11}AM {\k21}TRULY
+Dialogue: 0,0:01:50.73,0:01:51.45,Default,,0,0,0,,\N{\k28}BEING {\k43}UNREASONABLE
+Dialogue: 0,0:01:51.45,0:01:52.12,Default,,0,0,0,,\N{\k30}OR {\k15}IF {\k6}IT {\k14}IS
+Dialogue: 0,0:01:52.12,0:01:52.79,Default,,0,0,0,,\N{\k9}FAIR {\k14}TO {\k23}EXPECT {\k20}SOME
+Dialogue: 0,0:01:52.79,0:01:53.64,Default,,0,0,0,,\N{\k26}BALANCE {\k20}AND {\k37}AUTONOMY
+Dialogue: 0,0:01:53.64,0:01:54.29,Default,,0,0,0,,\N{\k20}IN {\k7}A {\k15}HOME {\k21}WE
+Dialogue: 0,0:01:54.29,0:01:54.73,Default,,0,0,0,,\N{\k28}BOTH {\k15}SHARE.

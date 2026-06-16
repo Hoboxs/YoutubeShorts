@@ -1,0 +1,132 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.83,0:00:04.32,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:04.32,0:00:04.96,Default,,0,0,0,,{\an5}WENT TO THANKSGIVING
+Dialogue: 0,0:00:04.96,0:00:05.37,Default,,0,0,0,,{\an5}WITH MY
+Dialogue: 0,0:00:05.37,0:00:05.79,Default,,0,0,0,,{\an5}WIFE AND
+Dialogue: 0,0:00:05.79,0:00:06.21,Default,,0,0,0,,{\an5}OUR 14
+Dialogue: 0,0:00:06.21,0:00:06.62,Default,,0,0,0,,{\an5}-YEAR -OLD
+Dialogue: 0,0:00:06.62,0:00:07.05,Default,,0,0,0,,{\an5}DAUGHTER TO
+Dialogue: 0,0:00:07.05,0:00:07.62,Default,,0,0,0,,{\an5}A RELATIVE'S
+Dialogue: 0,0:00:07.62,0:00:07.86,Default,,0,0,0,,{\an5}HOUSE.
+Dialogue: 0,0:00:08.27,0:00:08.75,Default,,0,0,0,,{\an5}ALSO
+Dialogue: 0,0:00:08.75,0:00:09.25,Default,,0,0,0,,{\an5}THERE WERE MY
+Dialogue: 0,0:00:09.25,0:00:10.14,Default,,0,0,0,,{\an5}NEPHEW, HIS
+Dialogue: 0,0:00:10.14,0:00:11.06,Default,,0,0,0,,{\an5}BOYFRIEND, AND
+Dialogue: 0,0:00:11.06,0:00:11.50,Default,,0,0,0,,{\an5}MY COUSIN
+Dialogue: 0,0:00:11.50,0:00:11.98,Default,,0,0,0,,{\an5}BY MARRIAGE,
+Dialogue: 0,0:00:12.19,0:00:12.75,Default,,0,0,0,,{\an5}WHO HAS
+Dialogue: 0,0:00:12.75,0:00:13.16,Default,,0,0,0,,{\an5}A HABIT
+Dialogue: 0,0:00:13.16,0:00:13.85,Default,,0,0,0,,{\an5}OF SAYING OFFENSIVE
+Dialogue: 0,0:00:13.85,0:00:14.30,Default,,0,0,0,,{\an5}THINGS
+Dialogue: 0,0:00:14.30,0:00:14.96,Default,,0,0,0,,{\an5}AND CALLING IT
+Dialogue: 0,0:00:14.96,0:00:15.33,Default,,0,0,0,,{\an5}JUST BEING
+Dialogue: 0,0:00:15.33,0:00:15.64,Default,,0,0,0,,{\an5}HONEST.
+Dialogue: 0,0:00:16.17,0:00:16.66,Default,,0,0,0,,{\an5}WHILE
+Dialogue: 0,0:00:16.66,0:00:17.14,Default,,0,0,0,,{\an5}I WAS IN THE
+Dialogue: 0,0:00:17.14,0:00:17.96,Default,,0,0,0,,{\an5}KITCHEN, MY
+Dialogue: 0,0:00:17.96,0:00:18.46,Default,,0,0,0,,{\an5}DAUGHTER PULLED
+Dialogue: 0,0:00:18.46,0:00:18.87,Default,,0,0,0,,{\an5}ME ASIDE
+Dialogue: 0,0:00:18.87,0:00:19.32,Default,,0,0,0,,{\an5}AND TOLD
+Dialogue: 0,0:00:19.32,0:00:19.89,Default,,0,0,0,,{\an5}ME MY COUSIN
+Dialogue: 0,0:00:19.89,0:00:20.57,Default,,0,0,0,,{\an5}WAS BEING REALLY
+Dialogue: 0,0:00:20.57,0:00:21.21,Default,,0,0,0,,{\an5}WEIRD AND
+Dialogue: 0,0:00:21.21,0:00:21.64,Default,,0,0,0,,{\an5}MAKING THE
+Dialogue: 0,0:00:21.64,0:00:21.87,Default,,0,0,0,,{\an5}SITUATION
+Dialogue: 0,0:00:21.87,0:00:23.01,Default,,0,0,0,,{\an5}UNCOMFORTABLE.
+Dialogue: 0,0:00:23.30,0:00:23.78,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:23.78,0:00:24.32,Default,,0,0,0,,{\an5}WENT TO CHECK
+Dialogue: 0,0:00:24.32,0:00:24.85,Default,,0,0,0,,{\an5}AND FOUND HIM
+Dialogue: 0,0:00:24.85,0:00:25.39,Default,,0,0,0,,{\an5}LOUDLY MAKING
+Dialogue: 0,0:00:25.39,0:00:26.00,Default,,0,0,0,,{\an5}HOMOPHOBIC
+Dialogue: 0,0:00:26.00,0:00:26.60,Default,,0,0,0,,{\an5}COMMENTS TOWARD
+Dialogue: 0,0:00:26.60,0:00:27.19,Default,,0,0,0,,{\an5}MY NEPHEW AND
+Dialogue: 0,0:00:27.19,0:00:27.64,Default,,0,0,0,,{\an5}HIS BOYFRIEND
+Dialogue: 0,0:00:27.64,0:00:28.57,Default,,0,0,0,,{\an5}NOTHING
+Dialogue: 0,0:00:28.57,0:00:29.05,Default,,0,0,0,,{\an5}PHYSICAL
+Dialogue: 0,0:00:29.05,0:00:29.53,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:00:29.53,0:00:30.01,Default,,0,0,0,,{\an5}IT WAS CLEARLY
+Dialogue: 0,0:00:30.01,0:00:30.66,Default,,0,0,0,,{\an5}ESCALATING
+Dialogue: 0,0:00:30.66,0:00:31.16,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:31.16,0:00:31.60,Default,,0,0,0,,{\an5}TEMPERS
+Dialogue: 0,0:00:31.60,0:00:32.10,Default,,0,0,0,,{\an5}WERE FLARING
+Dialogue: 0,0:00:32.10,0:00:32.65,Default,,0,0,0,,{\an5}I TOOK
+Dialogue: 0,0:00:32.65,0:00:33.07,Default,,0,0,0,,{\an5}MY COUSIN
+Dialogue: 0,0:00:33.07,0:00:33.78,Default,,0,0,0,,{\an5}OUTSIDE AND
+Dialogue: 0,0:00:33.78,0:00:34.20,Default,,0,0,0,,{\an5}TOLD HIM HE
+Dialogue: 0,0:00:34.20,0:00:34.74,Default,,0,0,0,,{\an5}NEEDED TO LEAVE
+Dialogue: 0,0:00:34.74,0:00:35.47,Default,,0,0,0,,{\an5}HE
+Dialogue: 0,0:00:35.47,0:00:35.97,Default,,0,0,0,,{\an5}ARGUED THAT
+Dialogue: 0,0:00:35.97,0:00:36.43,Default,,0,0,0,,{\an5}IT WAS IN MY
+Dialogue: 0,0:00:36.43,0:00:36.89,Default,,0,0,0,,{\an5}HOUSE AND
+Dialogue: 0,0:00:36.89,0:00:37.61,Default,,0,0,0,,{\an5}I HAD NO AUTHORITY
+Dialogue: 0,0:00:37.61,0:00:38.43,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:00:38.43,0:00:38.89,Default,,0,0,0,,{\an5}I STOOD MY
+Dialogue: 0,0:00:38.89,0:00:39.39,Default,,0,0,0,,{\an5}GROUND AND
+Dialogue: 0,0:00:39.39,0:00:39.82,Default,,0,0,0,,{\an5}DIDN'T LET HIM
+Dialogue: 0,0:00:39.82,0:00:40.93,Default,,0,0,0,,{\an5}BACK IN LATER
+Dialogue: 0,0:00:40.93,0:00:41.46,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:00:41.46,0:00:41.92,Default,,0,0,0,,{\an5}HOST DEMANDED
+Dialogue: 0,0:00:41.92,0:00:42.35,Default,,0,0,0,,{\an5}TO KNOW
+Dialogue: 0,0:00:42.35,0:00:43.00,Default,,0,0,0,,{\an5}WHERE HE WAS
+Dialogue: 0,0:00:43.00,0:00:43.56,Default,,0,0,0,,{\an5}WHEN
+Dialogue: 0,0:00:43.56,0:00:44.06,Default,,0,0,0,,{\an5}I EXPLAINED
+Dialogue: 0,0:00:44.06,0:00:44.57,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:44.57,0:00:45.02,Default,,0,0,0,,{\an5}EXPLODED
+Dialogue: 0,0:00:45.02,0:00:45.60,Default,,0,0,0,,{\an5}SAYING
+Dialogue: 0,0:00:45.60,0:00:46.07,Default,,0,0,0,,{\an5}I RUINED
+Dialogue: 0,0:00:46.07,0:00:46.61,Default,,0,0,0,,{\an5}THANKSGIVING
+Dialogue: 0,0:00:46.61,0:00:47.07,Default,,0,0,0,,{\an5}AND THAT WHAT
+Dialogue: 0,0:00:47.07,0:00:47.79,Default,,0,0,0,,{\an5}HE SAID WASN'T
+Dialogue: 0,0:00:47.79,0:00:49.00,Default,,0,0,0,,{\an5}THAT BAD SHE
+Dialogue: 0,0:00:49.00,0:00:49.42,Default,,0,0,0,,{\an5}TOLD ME
+Dialogue: 0,0:00:49.42,0:00:50.14,Default,,0,0,0,,{\an5}MY WIFE
+Dialogue: 0,0:00:50.14,0:00:50.85,Default,,0,0,0,,{\an5}MY DAUGHTER
+Dialogue: 0,0:00:50.85,0:00:51.29,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:51.29,0:00:51.79,Default,,0,0,0,,{\an5}THE THE COUPLE TO
+Dialogue: 0,0:00:51.79,0:00:52.34,Default,,0,0,0,,{\an5}LEAVE AND SAID
+Dialogue: 0,0:00:52.34,0:00:52.75,Default,,0,0,0,,{\an5}WE MIGHT BE
+Dialogue: 0,0:00:52.75,0:00:53.25,Default,,0,0,0,,{\an5}INVITED BACK
+Dialogue: 0,0:00:53.25,0:00:53.74,Default,,0,0,0,,{\an5}NEXT YEAR,
+Dialogue: 0,0:00:53.84,0:00:54.42,Default,,0,0,0,,{\an5}ONCE WE LEARN
+Dialogue: 0,0:00:54.42,0:00:54.53,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:00:54.53,0:00:54.78,Default,,0,0,0,,{\an5}BEHAVE.
+Dialogue: 0,0:00:55.34,0:00:55.78,Default,,0,0,0,,{\an5}WE
+Dialogue: 0,0:00:55.78,0:00:56.29,Default,,0,0,0,,{\an5}LEFT AND HAD
+Dialogue: 0,0:00:56.29,0:00:56.74,Default,,0,0,0,,{\an5}A SURPRISINGLY
+Dialogue: 0,0:00:56.74,0:00:57.38,Default,,0,0,0,,{\an5}NICE DINNER
+Dialogue: 0,0:00:57.38,0:00:57.67,Default,,0,0,0,,{\an5}ELSEWHERE.
+Dialogue: 0,0:00:57.97,0:00:58.52,Default,,0,0,0,,{\an5}BUT SINCE
+Dialogue: 0,0:00:58.52,0:00:58.97,Default,,0,0,0,,{\an5}THEN I'VE BEEN
+Dialogue: 0,0:00:58.97,0:00:59.61,Default,,0,0,0,,{\an5}GETTING MESSAGES
+Dialogue: 0,0:00:59.61,0:01:00.15,Default,,0,0,0,,{\an5}FROM FAMILY
+Dialogue: 0,0:01:00.15,0:01:00.61,Default,,0,0,0,,{\an5}SAYING I
+Dialogue: 0,0:01:00.61,0:01:01.20,Default,,0,0,0,,{\an5}OVERSTEPPED
+Dialogue: 0,0:01:01.20,0:01:01.78,Default,,0,0,0,,{\an5}AND HAD NO RIGHT
+Dialogue: 0,0:01:01.78,0:01:02.92,Default,,0,0,0,,{\an5}TO KICK ANYONE
+Dialogue: 0,0:01:02.92,0:01:03.25,Default,,0,0,0,,{\an5}OUT.
+Dialogue: 0,0:01:03.38,0:01:03.89,Default,,0,0,0,,{\an5}NOW I'M
+Dialogue: 0,0:01:03.89,0:01:04.40,Default,,0,0,0,,{\an5}STUCK WONDERING
+Dialogue: 0,0:01:04.40,0:01:04.85,Default,,0,0,0,,{\an5}WHETHER I
+Dialogue: 0,0:01:04.85,0:01:05.50,Default,,0,0,0,,{\an5}PROTECTED PEOPLE
+Dialogue: 0,0:01:05.50,0:01:06.15,Default,,0,0,0,,{\an5}FROM A SITUATION
+Dialogue: 0,0:01:06.15,0:01:06.54,Default,,0,0,0,,{\an5}GETTING
+Dialogue: 0,0:01:06.54,0:01:06.90,Default,,0,0,0,,{\an5}WORSE.
+Dialogue: 0,0:01:07.29,0:01:07.73,Default,,0,0,0,,{\an5}OR
+Dialogue: 0,0:01:07.73,0:01:08.21,Default,,0,0,0,,{\an5}IF I CROSSED
+Dialogue: 0,0:01:08.21,0:01:08.71,Default,,0,0,0,,{\an5}A LINE BY
+Dialogue: 0,0:01:08.71,0:01:09.26,Default,,0,0,0,,{\an5}ACTING WHEN
+Dialogue: 0,0:01:09.26,0:01:09.90,Default,,0,0,0,,{\an5}IT WASN'T TECHNICALLY
+Dialogue: 0,0:01:09.90,0:01:10.21,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:01:10.21,0:01:10.50,Default,,0,0,0,,{\an5}PLACE.

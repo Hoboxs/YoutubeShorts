@@ -1,0 +1,102 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.10,0:00:03.92,Default,,0,0,0,,{\an5}AT 26,
+Dialogue: 0,0:00:04.33,0:00:05.05,Default,,0,0,0,,{\an5}I WAS STANDING
+Dialogue: 0,0:00:05.05,0:00:05.82,Default,,0,0,0,,{\an5}IN A CROWDED CHAPEL
+Dialogue: 0,0:00:05.82,0:00:06.55,Default,,0,0,0,,{\an5}DURING THE FUNERAL
+Dialogue: 0,0:00:06.55,0:00:07.12,Default,,0,0,0,,{\an5}OF MY AUNT,
+Dialogue: 0,0:00:07.25,0:00:07.82,Default,,0,0,0,,{\an5}WHO
+Dialogue: 0,0:00:07.82,0:00:08.43,Default,,0,0,0,,{\an5}HAD JUST LOST
+Dialogue: 0,0:00:08.43,0:00:09.50,Default,,0,0,0,,{\an5}HER SECOND, BRUTAL
+Dialogue: 0,0:00:09.50,0:00:10.03,Default,,0,0,0,,{\an5}FIGHT WITH A
+Dialogue: 0,0:00:10.03,0:00:11.16,Default,,0,0,0,,{\an5}LONG ILLNESS, WHEN
+Dialogue: 0,0:00:11.16,0:00:11.96,Default,,0,0,0,,{\an5}AN OLD ACQUAINTANCE
+Dialogue: 0,0:00:11.96,0:00:12.53,Default,,0,0,0,,{\an5}FROM WORK CAME
+Dialogue: 0,0:00:12.53,0:00:13.51,Default,,0,0,0,,{\an5}UP TO ME, OFFERED
+Dialogue: 0,0:00:13.51,0:00:14.41,Default,,0,0,0,,{\an5}BRIEF CONDOLENCES,
+Dialogue: 0,0:00:14.72,0:00:15.43,Default,,0,0,0,,{\an5}AND THEN PRESSED
+Dialogue: 0,0:00:15.43,0:00:16.19,Default,,0,0,0,,{\an5}FOR DETAILS ABOUT
+Dialogue: 0,0:00:16.19,0:00:16.85,Default,,0,0,0,,{\an5}HOW SHE DIED.
+Dialogue: 0,0:00:17.00,0:00:17.53,Default,,0,0,0,,{\an5}SO THROUGH
+Dialogue: 0,0:00:17.53,0:00:18.05,Default,,0,0,0,,{\an5}TEARS I
+Dialogue: 0,0:00:18.05,0:00:18.96,Default,,0,0,0,,{\an5}EXPLAINED THE COMPLICATIONS
+Dialogue: 0,0:00:18.96,0:00:19.51,Default,,0,0,0,,{\an5}AND HOW
+Dialogue: 0,0:00:19.51,0:00:20.05,Default,,0,0,0,,{\an5}HARD THE FINAL
+Dialogue: 0,0:00:20.05,0:00:20.67,Default,,0,0,0,,{\an5}MONTHS HAD BEEN.
+Dialogue: 0,0:00:21.12,0:00:21.76,Default,,0,0,0,,{\an5}ONLY FOR
+Dialogue: 0,0:00:21.76,0:00:22.67,Default,,0,0,0,,{\an5}HER TO SMILE SOFTLY
+Dialogue: 0,0:00:22.67,0:00:23.23,Default,,0,0,0,,{\an5}AND SAY HOW
+Dialogue: 0,0:00:23.23,0:00:23.73,Default,,0,0,0,,{\an5}GRATEFUL SHE
+Dialogue: 0,0:00:23.73,0:00:24.28,Default,,0,0,0,,{\an5}WAS THAT NOTHING
+Dialogue: 0,0:00:24.28,0:00:24.94,Default,,0,0,0,,{\an5}LIKE THAT HAD EVER
+Dialogue: 0,0:00:24.94,0:00:25.98,Default,,0,0,0,,{\an5}TOUCHED HER
+Dialogue: 0,0:00:25.98,0:00:26.60,Default,,0,0,0,,{\an5}FAMILY BECAUSE
+Dialogue: 0,0:00:26.60,0:00:27.39,Default,,0,0,0,,{\an5}THEY WERE, BLESSED,
+Dialogue: 0,0:00:27.53,0:00:28.53,Default,,0,0,0,,{\an5}PROTECTED, AND
+Dialogue: 0,0:00:28.53,0:00:29.17,Default,,0,0,0,,{\an5}CLEARLY FAVORED
+Dialogue: 0,0:00:29.17,0:00:29.80,Default,,0,0,0,,{\an5}BY HER GOD.
+Dialogue: 0,0:00:30.00,0:00:30.60,Default,,0,0,0,,{\an5}A COMMENT
+Dialogue: 0,0:00:30.60,0:00:31.14,Default,,0,0,0,,{\an5}THAT FELT LIKE
+Dialogue: 0,0:00:31.14,0:00:31.69,Default,,0,0,0,,{\an5}A KNIFE TWISTING
+Dialogue: 0,0:00:31.69,0:00:32.20,Default,,0,0,0,,{\an5}WHILE I WAS
+Dialogue: 0,0:00:32.20,0:00:33.00,Default,,0,0,0,,{\an5}ALREADY BARELY HOLDING
+Dialogue: 0,0:00:33.00,0:00:33.67,Default,,0,0,0,,{\an5}MYSELF TOGETHER
+Dialogue: 0,0:00:33.67,0:00:34.53,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:34.53,0:00:35.20,Default,,0,0,0,,{\an5}I SNAPPED BACK
+Dialogue: 0,0:00:35.20,0:00:35.78,Default,,0,0,0,,{\an5}THAT IT MUST BE
+Dialogue: 0,0:00:35.78,0:00:36.34,Default,,0,0,0,,{\an5}COMFORTING TO
+Dialogue: 0,0:00:36.34,0:00:37.15,Default,,0,0,0,,{\an5}BELIEVE SOME FAMILIES
+Dialogue: 0,0:00:37.15,0:00:37.78,Default,,0,0,0,,{\an5}ARE CHOSEN FOR
+Dialogue: 0,0:00:37.78,0:00:39.15,Default,,0,0,0,,{\an5}MERCY WHILE OTHERS
+Dialogue: 0,0:00:39.15,0:00:39.67,Default,,0,0,0,,{\an5}ARE LEFT TO
+Dialogue: 0,0:00:39.67,0:00:40.25,Default,,0,0,0,,{\an5}BURY THEIR LOVED
+Dialogue: 0,0:00:40.25,0:00:41.20,Default,,0,0,0,,{\an5}ONES WHICH
+Dialogue: 0,0:00:41.20,0:00:41.89,Default,,0,0,0,,{\an5}CAUSED AN AUDIBLE
+Dialogue: 0,0:00:41.89,0:00:42.46,Default,,0,0,0,,{\an5}STIR AND
+Dialogue: 0,0:00:42.46,0:00:43.39,Default,,0,0,0,,{\an5}DREW UNCOMFORTABLE LOOKS
+Dialogue: 0,0:00:43.39,0:00:44.14,Default,,0,0,0,,{\an5}FROM EVERYONE NEARBY
+Dialogue: 0,0:00:44.14,0:00:45.00,Default,,0,0,0,,{\an5}HER
+Dialogue: 0,0:00:45.00,0:00:45.71,Default,,0,0,0,,{\an5}RELATIVES IMMEDIATELY
+Dialogue: 0,0:00:45.71,0:00:46.35,Default,,0,0,0,,{\an5}TURNED ON
+Dialogue: 0,0:00:46.35,0:00:47.10,Default,,0,0,0,,{\an5}ME ACCUSING
+Dialogue: 0,0:00:47.10,0:00:47.78,Default,,0,0,0,,{\an5}ME OF ATTACKING
+Dialogue: 0,0:00:47.78,0:00:48.46,Default,,0,0,0,,{\an5}SOMEONE WHO
+Dialogue: 0,0:00:48.46,0:00:49.02,Default,,0,0,0,,{\an5}WAS JUST BEING
+Dialogue: 0,0:00:49.02,0:00:49.61,Default,,0,0,0,,{\an5}KIND WITH
+Dialogue: 0,0:00:49.61,0:00:50.15,Default,,0,0,0,,{\an5}ONE OF THEM EVEN
+Dialogue: 0,0:00:50.15,0:00:50.78,Default,,0,0,0,,{\an5}IMPLYING THAT
+Dialogue: 0,0:00:50.78,0:00:51.85,Default,,0,0,0,,{\an5}MY REACTION
+Dialogue: 0,0:00:51.85,0:00:52.53,Default,,0,0,0,,{\an5}WAS THE VERY
+Dialogue: 0,0:00:52.53,0:00:53.06,Default,,0,0,0,,{\an5}REASON MY
+Dialogue: 0,0:00:53.06,0:00:53.70,Default,,0,0,0,,{\an5}FAMILY HADN'T
+Dialogue: 0,0:00:53.70,0:00:54.70,Default,,0,0,0,,{\an5}BEEN SPARED AND
+Dialogue: 0,0:00:54.70,0:00:55.38,Default,,0,0,0,,{\an5}OVERWHELMED BY
+Dialogue: 0,0:00:55.38,0:00:56.02,Default,,0,0,0,,{\an5}GRIEF AND FURY
+Dialogue: 0,0:00:56.02,0:00:56.60,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:00:56.60,0:00:57.10,Default,,0,0,0,,{\an5}TOLD THEM TO
+Dialogue: 0,0:00:57.10,0:00:57.67,Default,,0,0,0,,{\an5}LEAVE THE SERVICE
+Dialogue: 0,0:00:57.67,0:00:58.38,Default,,0,0,0,,{\an5}CUTTING
+Dialogue: 0,0:00:58.38,0:00:58.96,Default,,0,0,0,,{\an5}OFF CONTACT
+Dialogue: 0,0:00:58.96,0:00:59.50,Default,,0,0,0,,{\an5}WITH EVERYONE
+Dialogue: 0,0:00:59.50,0:01:00.20,Default,,0,0,0,,{\an5}WHO DEFENDED HER
+Dialogue: 0,0:01:00.20,0:01:01.10,Default,,0,0,0,,{\an5}AFTERWARD BUT
+Dialogue: 0,0:01:01.10,0:01:01.67,Default,,0,0,0,,{\an5}NOW I'M LEFT
+Dialogue: 0,0:01:01.67,0:01:02.43,Default,,0,0,0,,{\an5}QUESTIONING WHETHER
+Dialogue: 0,0:01:02.43,0:01:03.25,Default,,0,0,0,,{\an5}MY PAIN JUSTIFIED
+Dialogue: 0,0:01:03.25,0:01:03.97,Default,,0,0,0,,{\an5}MY OUTBURST
+Dialogue: 0,0:01:03.97,0:01:04.51,Default,,0,0,0,,{\an5}OR WHETHER I
+Dialogue: 0,0:01:04.51,0:01:06.09,Default,,0,0,0,,{\an5}CROSS IN UNFORGIVABLE
+Dialogue: 0,0:01:06.09,0:01:06.64,Default,,0,0,0,,{\an5}LINE IN
+Dialogue: 0,0:01:06.64,0:01:07.15,Default,,0,0,0,,{\an5}A MOMENT MEANT
+Dialogue: 0,0:01:07.15,0:01:07.51,Default,,0,0,0,,{\an5}FOR MOURNING

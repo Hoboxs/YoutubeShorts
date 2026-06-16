@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.63,0:00:05.28,Default,,0,0,0,,\N{\k28}HUSBAND {\k25}AND {\k10}I
+Dialogue: 0,0:00:05.28,0:00:05.90,Default,,0,0,0,,\N{\k8}ARE {\k21}CHILD {\k16}FREE {\k16}BY
+Dialogue: 0,0:00:05.90,0:00:07.16,Default,,0,0,0,,\N{\k27}CHOICE. {\k21}THAT
+Dialogue: 0,0:00:07.16,0:00:07.98,Default,,0,0,0,,\N{\k28}SAID, {\k2}WE {\k24}GENUINELY
+Dialogue: 0,0:00:07.98,0:00:08.61,Default,,0,0,0,,\N{\k32}ENJOY {\k31}GIFTS.
+Dialogue: 0,0:00:09.51,0:00:09.67,Default,,0,0,0,,\N{\k16}I
+Dialogue: 0,0:00:09.51,0:00:10.22,Default,,0,0,0,,\N{\k16}I {\k12}WORK {\k41}PROFESSIONALLY
+Dialogue: 0,0:00:10.22,0:00:10.96,Default,,0,0,0,,\N{\k19}WITH {\k24}CHILDREN {\k16}WHO {\k14}HAVE
+Dialogue: 0,0:00:10.96,0:00:11.66,Default,,0,0,0,,\N{\k17}MENTAL {\k29}HEALTH {\k22}NEEDS
+Dialogue: 0,0:00:11.66,0:00:12.50,Default,,0,0,0,,\N{\k32}AND {\k11}WE {\k9}SPEND {\k30}TIME
+Dialogue: 0,0:00:12.50,0:00:13.22,Default,,0,0,0,,\N{\k27}EVERY {\k20}MONTH {\k24}WITH
+Dialogue: 0,0:00:13.22,0:00:13.85,Default,,0,0,0,,\N{\k9}OUR {\k25}NIECES {\k27}AND
+Dialogue: 0,0:00:13.85,0:00:14.72,Default,,0,0,0,,\N{\k25}NEPHEWS {\k26}AGES {\k33}ONE-EIGHT
+Dialogue: 0,0:00:14.72,0:00:15.38,Default,,0,0,0,,\N{\k25}BOTH {\k40}BIOLOGICAL
+Dialogue: 0,0:00:15.38,0:00:16.30,Default,,0,0,0,,\N{\k29}AND {\k22}CHOSEN {\k40}FAMILY.
+Dialogue: 0,0:00:17.30,0:00:17.50,Default,,0,0,0,,\N{\k19}SINCE
+Dialogue: 0,0:00:17.30,0:00:18.00,Default,,0,0,0,,\N{\k19}SINCE {\k50}2018
+Dialogue: 0,0:00:18.00,0:00:18.64,Default,,0,0,0,,\N{\k42}I'VE {\k21}HOSTED
+Dialogue: 0,0:00:18.64,0:00:19.55,Default,,0,0,0,,\N{\k17}AN {\k21}ANNUAL {\k51}VALENTINE'S
+Dialogue: 0,0:00:19.55,0:00:19.85,Default,,0,0,0,,\N{\k30}EVENT.
+Dialogue: 0,0:00:20.80,0:00:21.55,Default,,0,0,0,,\N{\k43}HISTORICALLY {\k32}IT'S
+Dialogue: 0,0:00:21.55,0:00:23.12,Default,,0,0,0,,\N{\k10}BEEN {\k17}ADULT {\k30}ONLY. {\k10}I
+Dialogue: 0,0:00:23.01,0:00:23.73,Default,,0,0,0,,\N{\k10}I {\k11}PICKED {\k20}THIS {\k29}YEAR'S
+Dialogue: 0,0:00:23.73,0:00:24.55,Default,,0,0,0,,\N{\k10}DATE {\k21}BACK {\k16}IN {\k33}DECEMBER
+Dialogue: 0,0:00:24.55,0:00:25.21,Default,,0,0,0,,\N{\k20}FOR {\k11}LATE {\k33}FEBRUARY.
+Dialogue: 0,0:00:25.98,0:00:26.23,Default,,0,0,0,,\N{\k25}THIS
+Dialogue: 0,0:00:26.23,0:00:26.96,Default,,0,0,0,,\N{\k24}WEEK {\k30}A {\k17}FRIEND
+Dialogue: 0,0:00:26.96,0:00:28.19,Default,,0,0,0,,\N{\k27}TEXTED {\k20}ME. {\k19}SHE
+Dialogue: 0,0:00:28.19,0:00:28.89,Default,,0,0,0,,\N{\k17}SAID {\k16}SHE {\k16}MIGHT {\k19}NEED
+Dialogue: 0,0:00:28.89,0:00:29.64,Default,,0,0,0,,\N{\k14}TO {\k16}BRING {\k16}HER {\k12}ONE {\k16}YEAR
+Dialogue: 0,0:00:29.64,0:00:30.46,Default,,0,0,0,,\N{\k14}OLD {\k25}BECAUSE {\k17}HER {\k24}HUSBAND
+Dialogue: 0,0:00:30.46,0:00:31.16,Default,,0,0,0,,\N{\k17}IS {\k23}WORKING {\k16}AND {\k12}HER
+Dialogue: 0,0:00:31.16,0:00:31.76,Default,,0,0,0,,\N{\k16}MOM {\k14}CAN {\k17}WATCH {\k12}HER
+Dialogue: 0,0:00:31.76,0:00:32.56,Default,,0,0,0,,\N{\k11}TWO {\k22}OLDER {\k19}KIDS {\k26}BUT
+Dialogue: 0,0:00:32.56,0:00:33.35,Default,,0,0,0,,\N{\k11}SHE {\k17}FEELS {\k28}NERVOUS {\k21}LEAVING
+Dialogue: 0,0:00:33.35,0:00:34.02,Default,,0,0,0,,\N{\k16}THE {\k13}ONE {\k18}YEAR {\k17}OLD
+Dialogue: 0,0:00:34.02,0:00:34.70,Default,,0,0,0,,\N{\k17}SINCE {\k19}HE {\k30}REQUIRES
+Dialogue: 0,0:00:34.70,0:00:35.60,Default,,0,0,0,,\N{\k21}A {\k14}LOT {\k15}MORE {\k38}TENSION.
+Dialogue: 0,0:00:37.14,0:00:37.96,Default,,0,0,0,,\N{\k20}FOR {\k33}CONTEXT {\k28}HER
+Dialogue: 0,0:00:37.96,0:00:38.85,Default,,0,0,0,,\N{\k19}OLDER {\k24}TWO {\k12}ARE {\k33}ELEMENTARY
+Dialogue: 0,0:00:38.85,0:00:40.11,Default,,0,0,0,,\N{\k48}AGED. {\k27}I
+Dialogue: 0,0:00:40.11,0:00:40.85,Default,,0,0,0,,\N{\k24}REPLIED {\k24}THAT {\k25}BRINGING
+Dialogue: 0,0:00:40.85,0:00:41.47,Default,,0,0,0,,\N{\k17}HIM {\k24}WOULDN'T {\k19}RUIN
+Dialogue: 0,0:00:41.47,0:00:42.15,Default,,0,0,0,,\N{\k17}THE {\k18}VIBE {\k31}BUT
+Dialogue: 0,0:00:42.15,0:00:42.96,Default,,0,0,0,,\N{\k8}IT {\k10}WOULD {\k19}CHANGE {\k20}THE {\k21}VIBE
+Dialogue: 0,0:00:42.96,0:00:43.78,Default,,0,0,0,,\N{\k35}AND {\k20}SINCE {\k25}PEOPLE
+Dialogue: 0,0:00:43.78,0:00:44.52,Default,,0,0,0,,\N{\k11}ARE {\k16}US {\k17}WE'VE {\k7}BEEN {\k20}KNOWING
+Dialogue: 0,0:00:44.52,0:00:45.15,Default,,0,0,0,,\N{\k13}IT {\k10}WAS {\k12}A {\k7}KID {\k19}FREE
+Dialogue: 0,0:00:45.15,0:00:45.92,Default,,0,0,0,,\N{\k28}EVENT. {\k3}I {\k24}DIDN'T
+Dialogue: 0,0:00:45.92,0:00:46.56,Default,,0,0,0,,\N{\k11}FEEL {\k14}IT {\k11}WAS {\k12}FAIR {\k14}TO
+Dialogue: 0,0:00:46.56,0:00:47.20,Default,,0,0,0,,\N{\k19}CHANGE {\k44}EXPECTATIONS
+Dialogue: 0,0:00:47.20,0:00:48.84,Default,,0,0,0,,\N{\k37}NOW. {\k22}SHE
+Dialogue: 0,0:00:48.84,0:00:49.47,Default,,0,0,0,,\N{\k31}RESPONDED {\k18}THAT {\k13}SHE
+Dialogue: 0,0:00:49.47,0:00:50.21,Default,,0,0,0,,\N{\k24}DIDN'T {\k25}REALISE {\k24}IT
+Dialogue: 0,0:00:50.21,0:00:50.96,Default,,0,0,0,,\N{\k12}WAS {\k21}CHILD {\k17}FREE {\k21}BECAUSE
+Dialogue: 0,0:00:50.96,0:00:51.57,Default,,0,0,0,,\N{\k14}IN {\k19}PAST {\k16}YEAR {\k11}SHE
+Dialogue: 0,0:00:51.57,0:00:52.21,Default,,0,0,0,,\N{\k12}CAN {\k21}ANOTHER {\k29}FRIEND
+Dialogue: 0,0:00:52.21,0:00:52.88,Default,,0,0,0,,\N{\k17}HAVE {\k24}BROUGHT {\k24}VERY
+Dialogue: 0,0:00:52.88,0:00:54.42,Default,,0,0,0,,\N{\k19}YOUNG {\k30}BABIES. {\k30}SHE
+Dialogue: 0,0:00:54.42,0:00:55.15,Default,,0,0,0,,\N{\k14}ADDED {\k15}THAT {\k14}IF {\k10}SHE {\k19}DIDN'T
+Dialogue: 0,0:00:55.15,0:00:55.88,Default,,0,0,0,,\N{\k12}FEEL {\k35}COMFORTABLE {\k24}LEAVING
+Dialogue: 0,0:00:55.88,0:00:56.71,Default,,0,0,0,,\N{\k17}HIM {\k11}WITH {\k10}HER {\k19}MOM {\k24}SHE
+Dialogue: 0,0:00:56.71,0:00:57.32,Default,,0,0,0,,\N{\k10}WOULD {\k11}JUST {\k20}SKIP {\k17}IT.

@@ -1,0 +1,110 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat,52,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,80,80,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.12,0:00:04.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k9}WAS {\k18}TALKING {\k17}TO {\k12}MY
+Dialogue: 0,0:00:04.78,0:00:05.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}WIFE {\k12}ONE {\k22}EVENING {\k13}AND
+Dialogue: 0,0:00:05.50,0:00:06.17,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}TRYING {\k14}TO {\k13}TELL {\k13}HER {\k8}A
+Dialogue: 0,0:00:06.17,0:00:06.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}FUNNY {\k21}STORY {\k20}FROM {\k14}MY
+Dialogue: 0,0:00:06.90,0:00:07.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}DAY.
+Dialogue: 0,0:00:07.48,0:00:08.16,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}IT {\k21}WASN'T {\k28}ANYTHING
+Dialogue: 0,0:00:08.16,0:00:09.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k41}IMPORTANT, {\k8}JUST {\k32}SOMETHING
+Dialogue: 0,0:00:09.14,0:00:09.85,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}I {\k17}THOUGHT {\k24}SHE'D {\k13}ENJOY
+Dialogue: 0,0:00:09.85,0:00:10.48,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}HEARING.
+Dialogue: 0,0:00:10.48,0:00:11.09,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}THE {\k24}PROBLEM {\k16}WAS {\k11}THAT
+Dialogue: 0,0:00:11.09,0:00:11.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}I {\k11}COULD {\k24}BARELY {\k16}GET
+Dialogue: 0,0:00:11.74,0:00:12.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}THROUGH {\k11}IT {\k14}BECAUSE {\k19}SHE
+Dialogue: 0,0:00:12.35,0:00:13.58,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}KEPT {\k21}INTERRUPTING {\k40}ME.
+Dialogue: 0,0:00:13.58,0:00:14.38,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}EVERY {\k22}TIME {\k11}I {\k28}STARTED
+Dialogue: 0,0:00:14.38,0:00:15.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}BUILDING {\k29}UP {\k14}TO
+Dialogue: 0,0:00:15.00,0:00:15.96,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THE {\k16}POINT {\k16}OF {\k9}THE {\k25}STORY,
+Dialogue: 0,0:00:15.96,0:00:16.60,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}SHE {\k10}WOULD {\k13}JUMP {\k16}IN {\k10}WITH {\k10}A
+Dialogue: 0,0:00:16.60,0:00:17.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}COMMENT, {\k41}QUESTION,
+Dialogue: 0,0:00:17.23,0:00:18.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k26}OR {\k26}SOMETHING {\k31}RELATED
+Dialogue: 0,0:00:18.07,0:00:18.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}THAT {\k11}SHE {\k24}WANTED {\k14}TO
+Dialogue: 0,0:00:18.78,0:00:19.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}SAY.
+Dialogue: 0,0:00:19.42,0:00:20.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}IT {\k22}HAPPENED {\k17}FIVE {\k27}SEPARATE
+Dialogue: 0,0:00:20.21,0:00:20.89,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}TIMES.
+Dialogue: 0,0:00:20.89,0:00:21.55,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}I {\k16}KNOW {\k14}THAT {\k27}SOUNDS
+Dialogue: 0,0:00:21.55,0:00:22.42,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}ODDLY {\k39}SPECIFIC,
+Dialogue: 0,0:00:22.42,0:00:23.10,Default,,0,0,0,,{\an8\pos(960,420)}{\k13}BUT {\k10}I {\k21}ACTUALLY {\k22}COUNTED
+Dialogue: 0,0:00:23.10,0:00:23.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}BECAUSE {\k12}IT {\k7}WAS {\k26}BECOMING
+Dialogue: 0,0:00:23.82,0:00:24.80,Default,,0,0,0,,{\an8\pos(960,420)}{\k33}FRUSTRATING.
+Dialogue: 0,0:00:24.80,0:00:25.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k17}AFTER {\k12}THE {\k16}FIRST {\k23}COUPLE
+Dialogue: 0,0:00:25.50,0:00:26.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}OF {\k48}INTERRUPTIONS,
+Dialogue: 0,0:00:26.32,0:00:27.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k7}I {\k17}TRIED {\k16}TO {\k33}CONTINUE.
+Dialogue: 0,0:00:27.07,0:00:27.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k56}AFTER {\k17}THE
+Dialogue: 0,0:00:27.82,0:00:28.83,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}THIRD {\k21}AND {\k24}FOURTH,
+Dialogue: 0,0:00:28.83,0:00:29.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k1}I {\k10}WAS {\k23}GETTING {\k30}ANNOYED.
+Dialogue: 0,0:00:29.82,0:00:30.78,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}BY {\k11}THE {\k17}FIFTH {\k28}TIME,
+Dialogue: 0,0:00:30.78,0:00:31.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k5}I {\k10}HAD {\k29}COMPLETELY {\k26}LOST
+Dialogue: 0,0:00:31.50,0:00:32.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}MY {\k19}TRAIN {\k16}OF {\k13}THOUGHT
+Dialogue: 0,0:00:32.15,0:00:33.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k22}AND {\k32}HONESTLY {\k41}WASN'T
+Dialogue: 0,0:00:33.11,0:00:33.74,Default,,0,0,0,,{\an8\pos(960,420)}{\k32}INTERESTED {\k14}IN {\k16}TELLING
+Dialogue: 0,0:00:33.74,0:00:35.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}THE {\k21}STORY {\k35}ANYMORE.
+Dialogue: 0,0:00:35.00,0:00:35.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}I {\k28}FINALLY {\k21}SAID
+Dialogue: 0,0:00:35.61,0:00:36.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}SOMETHING {\k21}LIKE, {\k15}“WHY
+Dialogue: 0,0:00:36.57,0:00:37.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}DON'T {\k14}YOU {\k17}JUST {\k13}TELL {\k12}ME
+Dialogue: 0,0:00:37.28,0:00:37.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}WHAT {\k12}YOU {\k13}WANT {\k16}TO {\k11}SAY
+Dialogue: 0,0:00:37.93,0:00:38.61,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SINCE {\k14}IT {\k15}SEEMS {\k21}MORE
+Dialogue: 0,0:00:38.61,0:00:40.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}IMPORTANT?
+Dialogue: 0,0:00:40.02,0:00:40.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}SHE {\k34}IMMEDIATELY
+Dialogue: 0,0:00:40.64,0:00:41.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k47}REALIZED {\k32}I
+Dialogue: 0,0:00:41.43,0:00:42.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WAS {\k26}UPSET {\k17}AND {\k25}STARTED
+Dialogue: 0,0:00:42.28,0:00:43.25,Default,,0,0,0,,{\an8\pos(960,420)}{\k56}APOLOGIZING.
+Dialogue: 0,0:00:43.25,0:00:44.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k20}SAID {\k15}SHE {\k28}WASN'T
+Dialogue: 0,0:00:44.03,0:00:44.70,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TRYING {\k15}TO {\k12}BE {\k17}RUDE
+Dialogue: 0,0:00:44.70,0:00:45.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k19}AND {\k17}ASKED {\k12}ME {\k11}TO
+Dialogue: 0,0:00:45.32,0:00:46.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}FINISH {\k14}THE {\k24}STORY.
+Dialogue: 0,0:00:46.21,0:00:46.82,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}SHE {\k43}APOLOGIZED
+Dialogue: 0,0:00:46.82,0:00:47.46,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}SEVERAL {\k17}MORE {\k20}TIMES
+Dialogue: 0,0:00:47.46,0:00:48.11,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AND {\k12}KEPT {\k21}SAYING {\k15}SHE
+Dialogue: 0,0:00:48.11,0:00:48.75,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}GENUINELY {\k33}WANTED
+Dialogue: 0,0:00:48.75,0:00:49.43,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}TO {\k12}HEAR {\k21}IT.
+Dialogue: 0,0:00:49.43,0:00:50.07,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BUT {\k20}BY {\k15}THEN {\k14}THE
+Dialogue: 0,0:00:50.07,0:00:51.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}MOMENT {\k24}WAS {\k15}GONE.
+Dialogue: 0,0:00:51.15,0:00:51.84,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}THE {\k23}STORY {\k14}WAS {\k22}SUPPOSED
+Dialogue: 0,0:00:51.84,0:00:53.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k25}TO {\k10}BE {\k5}A {\k17}FUNNY {\k52}CONVERSATION,
+Dialogue: 0,0:00:53.29,0:00:54.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}AND {\k19}AFTER {\k17}BEING {\k38}INTERRUPTED
+Dialogue: 0,0:00:54.14,0:00:55.03,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}OVER {\k11}AND {\k24}OVER,
+Dialogue: 0,0:00:55.03,0:00:55.65,Default,,0,0,0,,{\an8\pos(960,420)}{\k3}I {\k16}JUST {\k28}WASN'T {\k13}IN
+Dialogue: 0,0:00:55.65,0:00:56.21,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}THE {\k12}MOOD {\k33}ANYMORE.
+Dialogue: 0,0:00:56.21,0:00:56.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k39}I {\k17}TOLD {\k14}HER
+Dialogue: 0,0:00:56.93,0:00:57.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k17}DIDN'T {\k14}WANT {\k10}TO {\k25}FINISH
+Dialogue: 0,0:00:57.71,0:00:58.32,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}IT.
+Dialogue: 0,0:00:58.32,0:00:59.35,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}SHE {\k38}CONTINUED {\k53}APOLOGIZING
+Dialogue: 0,0:00:59.35,0:01:00.02,Default,,0,0,0,,{\an8\pos(960,420)}{\k16}AND {\k17}ASKED {\k11}ME {\k20}AGAIN
+Dialogue: 0,0:01:00.02,0:01:00.97,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}TO {\k14}TELL {\k12}HER {\k7}WHAT {\k24}HAPPENED,
+Dialogue: 0,0:01:00.97,0:01:01.93,Default,,0,0,0,,{\an8\pos(960,420)}{\k8}BUT {\k9}I {\k34}REFUSED.
+Dialogue: 0,0:01:01.93,0:01:02.53,Default,,0,0,0,,{\an8\pos(960,420)}{\k30}EVENTUALLY {\k17}SHE {\k11}GOT
+Dialogue: 0,0:01:02.53,0:01:03.28,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}QUIET {\k24}AND {\k11}LOOKED {\k16}LIKE
+Dialogue: 0,0:01:03.28,0:01:04.34,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}SHE {\k11}WAS {\k16}ABOUT {\k15}TO {\k14}CRY.
+Dialogue: 0,0:01:04.34,0:01:04.95,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k7}COULD {\k15}TELL {\k14}SHE {\k17}FELT
+Dialogue: 0,0:01:04.95,0:01:05.73,Default,,0,0,0,,{\an8\pos(960,420)}{\k34}GENUINELY {\k21}BAD {\k21}ABOUT
+Dialogue: 0,0:01:05.73,0:01:06.20,Default,,0,0,0,,{\an8\pos(960,420)}{\k18}IT.
+Dialogue: 0,0:01:06.20,0:01:06.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}NOW {\k17}I'M {\k21}WONDERING {\k24}IF
+Dialogue: 0,0:01:06.98,0:01:08.15,Default,,0,0,0,,{\an8\pos(960,420)}{\k9}I {\k12}TOOK {\k9}IT {\k15}TOO {\k20}FAR.
+Dialogue: 0,0:01:08.15,0:01:08.98,Default,,0,0,0,,{\an8\pos(960,420)}{\k10}I {\k14}WAS {\k31}FRUSTRATED {\k26}AND
+Dialogue: 0,0:01:08.98,0:01:09.71,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}FELT {\k17}LIKE {\k14}I {\k21}WASN'T
+Dialogue: 0,0:01:09.71,0:01:10.50,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}BEING {\k21}LISTENED {\k18}TO, {\k7}BUT
+Dialogue: 0,0:01:10.50,0:01:11.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k12}SHE {\k14}DID {\k29}APOLOGIZE {\k51}REPEATEDLY
+Dialogue: 0,0:01:11.57,0:01:12.29,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}ONCE {\k17}SHE {\k34}REALIZED
+Dialogue: 0,0:01:12.29,0:01:13.40,Default,,0,0,0,,{\an8\pos(960,420)}{\k21}WHAT {\k16}SHE {\k7}HAD {\k15}DONE.
+Dialogue: 0,0:01:13.40,0:01:14.23,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}AT {\k11}THE {\k18}SAME {\k25}TIME,
+Dialogue: 0,0:01:14.23,0:01:14.90,Default,,0,0,0,,{\an8\pos(960,420)}{\k6}I {\k21}DON'T {\k14}THINK {\k14}I {\k10}SHOULD
+Dialogue: 0,0:01:14.90,0:01:15.51,Default,,0,0,0,,{\an8\pos(960,420)}{\k11}BE {\k34}OBLIGATED {\k15}TO
+Dialogue: 0,0:01:15.51,0:01:16.14,Default,,0,0,0,,{\an8\pos(960,420)}{\k24}RESTART {\k37}STORY
+Dialogue: 0,0:01:16.14,0:01:16.81,Default,,0,0,0,,{\an8\pos(960,420)}{\k15}AFTER {\k14}THE {\k37}CONVERSATION
+Dialogue: 0,0:01:16.81,0:01:17.57,Default,,0,0,0,,{\an8\pos(960,420)}{\k28}HAS {\k18}BEEN {\k29}DERAILED
+Dialogue: 0,0:01:17.57,0:01:18.79,Default,,0,0,0,,{\an8\pos(960,420)}{\k23}MULTIPLE {\k44}TIMES.
+Dialogue: 0,0:01:18.79,0:01:19.64,Default,,0,0,0,,{\an8\pos(960,420)}{\k14}WAS {\k10}I {\k14}WRONG {\k17}FOR {\k28}REFUSING
+Dialogue: 0,0:01:19.64,0:01:20.37,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}TO {\k17}FINISH {\k16}THE {\k19}STORY
+Dialogue: 0,0:01:20.37,0:01:21.18,Default,,0,0,0,,{\an8\pos(960,420)}{\k20}AFTER {\k18}BEING {\k42}INTERRUPTED
+Dialogue: 0,0:01:21.18,0:01:22.00,Default,,0,0,0,,{\an8\pos(960,420)}{\k27}SO {\k18}MANY {\k35}TIMES?

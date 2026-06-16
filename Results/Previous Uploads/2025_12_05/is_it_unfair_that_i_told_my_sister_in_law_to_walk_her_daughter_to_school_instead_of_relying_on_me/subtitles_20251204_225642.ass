@@ -1,0 +1,196 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.44,0:00:05.04,Default,,0,0,0,,{\an5}I'M IN MY
+Dialogue: 0,0:00:05.04,0:00:05.74,Default,,0,0,0,,{\an5}MID -TWENTIES,
+Dialogue: 0,0:00:05.75,0:00:06.28,Default,,0,0,0,,{\an5}WORKING
+Dialogue: 0,0:00:06.28,0:00:07.12,Default,,0,0,0,,{\an5}IRREGULAR HOURS
+Dialogue: 0,0:00:07.12,0:00:07.90,Default,,0,0,0,,{\an5}IN HEALTHCARE WHILE
+Dialogue: 0,0:00:07.90,0:00:08.40,Default,,0,0,0,,{\an5}LIVING WITH MY
+Dialogue: 0,0:00:08.40,0:00:08.67,Default,,0,0,0,,{\an5}MOM.
+Dialogue: 0,0:00:08.82,0:00:09.40,Default,,0,0,0,,{\an5}SHE OWNS
+Dialogue: 0,0:00:09.40,0:00:10.14,Default,,0,0,0,,{\an5}THE HOUSE OUTRIGHT,
+Dialogue: 0,0:00:10.33,0:00:10.98,Default,,0,0,0,,{\an5}AND I PAY
+Dialogue: 0,0:00:10.98,0:00:11.69,Default,,0,0,0,,{\an5}HER REDUCED RENT
+Dialogue: 0,0:00:11.69,0:00:12.38,Default,,0,0,0,,{\an5}AND HANDLE MOST
+Dialogue: 0,0:00:12.38,0:00:13.11,Default,,0,0,0,,{\an5}OF THE CHORES BECAUSE
+Dialogue: 0,0:00:13.11,0:00:13.66,Default,,0,0,0,,{\an5}OUR SCHEDULES
+Dialogue: 0,0:00:13.66,0:00:13.85,Default,,0,0,0,,{\an5}ARE
+Dialogue: 0,0:00:13.85,0:00:14.09,Default,,0,0,0,,{\an5}CHAOTIC.
+Dialogue: 0,0:00:14.74,0:00:15.35,Default,,0,0,0,,{\an5}SHE'S SELF
+Dialogue: 0,0:00:15.35,0:00:15.90,Default,,0,0,0,,{\an5}-EMPLOYED AND
+Dialogue: 0,0:00:15.90,0:00:16.10,Default,,0,0,0,,{\an5}OFTEN
+Dialogue: 0,0:00:16.10,0:00:16.51,Default,,0,0,0,,{\an5}TRAVELS.
+Dialogue: 0,0:00:16.94,0:00:17.64,Default,,0,0,0,,{\an5}LAST WEEK,
+Dialogue: 0,0:00:17.78,0:00:18.28,Default,,0,0,0,,{\an5}MY OLDER
+Dialogue: 0,0:00:18.28,0:00:19.00,Default,,0,0,0,,{\an5}SISTER, LENA,
+Dialogue: 0,0:00:19.17,0:00:19.94,Default,,0,0,0,,{\an5}HER HUSBAND EVAN,
+Dialogue: 0,0:00:20.10,0:00:20.67,Default,,0,0,0,,{\an5}AND THEIR SEVEN
+Dialogue: 0,0:00:20.67,0:00:21.19,Default,,0,0,0,,{\an5}-YEAR -OLD DAUGHTER
+Dialogue: 0,0:00:21.19,0:00:21.66,Default,,0,0,0,,{\an5}MOVED IN
+Dialogue: 0,0:00:21.66,0:00:22.00,Default,,0,0,0,,{\an5}TEMPORARILY.
+Dialogue: 0,0:00:22.78,0:00:23.44,Default,,0,0,0,,{\an5}THEIR HOUSE TURNED
+Dialogue: 0,0:00:23.44,0:00:24.07,Default,,0,0,0,,{\an5}OUT TO HAVE MAJOR
+Dialogue: 0,0:00:24.07,0:00:24.66,Default,,0,0,0,,{\an5}PLUMBING AND
+Dialogue: 0,0:00:24.66,0:00:25.33,Default,,0,0,0,,{\an5}HEATING ISSUES THAT
+Dialogue: 0,0:00:25.33,0:00:26.00,Default,,0,0,0,,{\an5}WILL TAKE WEEKS TO
+Dialogue: 0,0:00:26.00,0:00:27.14,Default,,0,0,0,,{\an5}REPAIR SO
+Dialogue: 0,0:00:27.14,0:00:27.73,Default,,0,0,0,,{\an5}STAYING WITH THIS
+Dialogue: 0,0:00:27.73,0:00:28.55,Default,,0,0,0,,{\an5}MADE THE MOST SENSE
+Dialogue: 0,0:00:28.55,0:00:29.12,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:00:29.12,0:00:29.71,Default,,0,0,0,,{\an5}DAY AFTER THEY
+Dialogue: 0,0:00:29.71,0:00:30.71,Default,,0,0,0,,{\an5}ARRIVED LENA
+Dialogue: 0,0:00:30.71,0:00:31.28,Default,,0,0,0,,{\an5}ASKED IF I
+Dialogue: 0,0:00:31.28,0:00:31.92,Default,,0,0,0,,{\an5}COULD TAKE THEIR DAUGHTER
+Dialogue: 0,0:00:31.92,0:00:32.57,Default,,0,0,0,,{\an5}TO SCHOOL EVERY
+Dialogue: 0,0:00:32.57,0:00:33.57,Default,,0,0,0,,{\an5}MORNING THE
+Dialogue: 0,0:00:33.57,0:00:34.10,Default,,0,0,0,,{\an5}SCHOOL IS A
+Dialogue: 0,0:00:34.10,0:00:34.78,Default,,0,0,0,,{\an5}SHORT WALK FROM
+Dialogue: 0,0:00:34.78,0:00:35.35,Default,,0,0,0,,{\an5}OUR MOM'S HOUSE
+Dialogue: 0,0:00:35.35,0:00:36.10,Default,,0,0,0,,{\an5}15
+Dialogue: 0,0:00:36.10,0:00:37.11,Default,,0,0,0,,{\an5}MINUTES FLAT
+Dialogue: 0,0:00:37.11,0:00:37.92,Default,,0,0,0,,{\an5}SIDEWALKS
+Dialogue: 0,0:00:37.92,0:00:38.89,Default,,0,0,0,,{\an5}CROSSWALKS
+Dialogue: 0,0:00:38.89,0:00:39.93,Default,,0,0,0,,{\an5}EVERYTHING BUT
+Dialogue: 0,0:00:39.93,0:00:40.64,Default,,0,0,0,,{\an5}LENA AND EVAN
+Dialogue: 0,0:00:40.64,0:00:41.24,Default,,0,0,0,,{\an5}NORMALLY RELY
+Dialogue: 0,0:00:41.24,0:00:41.79,Default,,0,0,0,,{\an5}ON A NEIGHBOR
+Dialogue: 0,0:00:41.79,0:00:42.56,Default,,0,0,0,,{\an5}FOR DROP -OFFS
+Dialogue: 0,0:00:42.56,0:00:43.32,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:43.32,0:00:44.15,Default,,0,0,0,,{\an5}EVAN'S JOB STARTS
+Dialogue: 0,0:00:44.15,0:00:44.79,Default,,0,0,0,,{\an5}VERY EARLY
+Dialogue: 0,0:00:44.79,0:00:45.32,Default,,0,0,0,,{\an5}THEY
+Dialogue: 0,0:00:45.32,0:00:46.02,Default,,0,0,0,,{\an5}SHARE ONE CAR
+Dialogue: 0,0:00:46.02,0:00:46.52,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:46.52,0:00:47.02,Default,,0,0,0,,{\an5}LENA ONLY
+Dialogue: 0,0:00:47.02,0:00:47.75,Default,,0,0,0,,{\an5}WORKS ONE WEEKEND
+Dialogue: 0,0:00:47.75,0:00:48.65,Default,,0,0,0,,{\an5}SHIFT SO
+Dialogue: 0,0:00:48.65,0:00:49.17,Default,,0,0,0,,{\an5}SHE'S USUALLY
+Dialogue: 0,0:00:49.17,0:00:49.97,Default,,0,0,0,,{\an5}HOME I
+Dialogue: 0,0:00:49.97,0:00:50.71,Default,,0,0,0,,{\an5}TOLD HER I COULDN'T
+Dialogue: 0,0:00:50.71,0:00:51.24,Default,,0,0,0,,{\an5}COMMIT TO DOING
+Dialogue: 0,0:00:51.24,0:00:51.74,Default,,0,0,0,,{\an5}MORNING SCHOOL
+Dialogue: 0,0:00:51.74,0:00:52.29,Default,,0,0,0,,{\an5}RUNS BECAUSE
+Dialogue: 0,0:00:52.29,0:00:53.10,Default,,0,0,0,,{\an5}MY OWN SHIFTS ARE
+Dialogue: 0,0:00:53.10,0:00:54.34,Default,,0,0,0,,{\an5}ALL OVER THE PLACE
+Dialogue: 0,0:00:54.34,0:00:54.92,Default,,0,0,0,,{\an5}SOMETIMES
+Dialogue: 0,0:00:54.92,0:00:55.50,Default,,0,0,0,,{\an5}I GET
+Dialogue: 0,0:00:55.50,0:00:56.00,Default,,0,0,0,,{\an5}OFF AT 9
+Dialogue: 0,0:00:56.00,0:00:56.65,Default,,0,0,0,,{\an5}OR 10 A .M
+Dialogue: 0,0:00:56.65,0:00:57.25,Default,,0,0,0,,{\an5}AFTER AN OVERNIGHT
+Dialogue: 0,0:00:57.25,0:00:58.38,Default,,0,0,0,,{\an5}SHIFT AND
+Dialogue: 0,0:00:58.38,0:00:58.88,Default,,0,0,0,,{\an5}OTHER TIMES
+Dialogue: 0,0:00:58.88,0:00:59.42,Default,,0,0,0,,{\an5}I'M CLOCKING
+Dialogue: 0,0:00:59.42,0:01:00.17,Default,,0,0,0,,{\an5}IN BEFORE SUNRISE
+Dialogue: 0,0:01:00.17,0:01:00.84,Default,,0,0,0,,{\an5}THERE
+Dialogue: 0,0:01:00.84,0:01:01.42,Default,,0,0,0,,{\an5}IS NO WORLD
+Dialogue: 0,0:01:01.42,0:01:02.00,Default,,0,0,0,,{\an5}WHERE MY BOSS
+Dialogue: 0,0:01:02.00,0:01:02.60,Default,,0,0,0,,{\an5}WOULD ACCEPT ME
+Dialogue: 0,0:01:02.60,0:01:03.53,Default,,0,0,0,,{\an5}SAYING SORRY
+Dialogue: 0,0:01:03.53,0:01:04.21,Default,,0,0,0,,{\an5}I NEED
+Dialogue: 0,0:01:04.21,0:01:04.95,Default,,0,0,0,,{\an5}MY MORNINGS FREE
+Dialogue: 0,0:01:04.95,0:01:05.54,Default,,0,0,0,,{\an5}FOR SCHOOL DROP
+Dialogue: 0,0:01:05.54,0:01:06.07,Default,,0,0,0,,{\an5}OFF WITHOUT
+Dialogue: 0,0:01:06.07,0:01:06.81,Default,,0,0,0,,{\an5}CUTTING MY HOURS
+Dialogue: 0,0:01:06.81,0:01:07.76,Default,,0,0,0,,{\an5}WHICH
+Dialogue: 0,0:01:07.76,0:01:08.34,Default,,0,0,0,,{\an5}I CAN'T AFFORD
+Dialogue: 0,0:01:08.34,0:01:08.92,Default,,0,0,0,,{\an5}INSTEAD
+Dialogue: 0,0:01:08.92,0:01:09.50,Default,,0,0,0,,{\an5}OF DISCUSSING
+Dialogue: 0,0:01:09.50,0:01:10.21,Default,,0,0,0,,{\an5}IT LENA
+Dialogue: 0,0:01:10.21,0:01:10.79,Default,,0,0,0,,{\an5}GOT EMOTIONAL
+Dialogue: 0,0:01:10.79,0:01:11.40,Default,,0,0,0,,{\an5}AND SAID SHE
+Dialogue: 0,0:01:11.40,0:01:12.04,Default,,0,0,0,,{\an5}NEEDED ME TO DO
+Dialogue: 0,0:01:12.04,0:01:12.84,Default,,0,0,0,,{\an5}THIS THAT
+Dialogue: 0,0:01:12.84,0:01:13.43,Default,,0,0,0,,{\an5}WOULD JUST MAKE
+Dialogue: 0,0:01:13.43,0:01:13.98,Default,,0,0,0,,{\an5}THINGS EASIER
+Dialogue: 0,0:01:13.98,0:01:14.57,Default,,0,0,0,,{\an5}WHEN
+Dialogue: 0,0:01:14.57,0:01:15.26,Default,,0,0,0,,{\an5}I GENTLY POINTED
+Dialogue: 0,0:01:15.26,0:01:15.78,Default,,0,0,0,,{\an5}OUT THAT SHE
+Dialogue: 0,0:01:15.78,0:01:16.42,Default,,0,0,0,,{\an5}COULD SIMPLY WALK
+Dialogue: 0,0:01:16.42,0:01:17.20,Default,,0,0,0,,{\an5}HER DAUGHTER
+Dialogue: 0,0:01:17.20,0:01:18.15,Default,,0,0,0,,{\an5}TO SCHOOL SINCE
+Dialogue: 0,0:01:18.15,0:01:18.79,Default,,0,0,0,,{\an5}SINCE SHE'S HOME MOST
+Dialogue: 0,0:01:18.79,0:01:19.90,Default,,0,0,0,,{\an5}MORNINGS, SHE
+Dialogue: 0,0:01:19.90,0:01:20.59,Default,,0,0,0,,{\an5}SAID THAT A 15
+Dialogue: 0,0:01:20.59,0:01:21.12,Default,,0,0,0,,{\an5}-MINUTE WALK
+Dialogue: 0,0:01:21.12,0:01:21.71,Default,,0,0,0,,{\an5}WAS TOO LONG
+Dialogue: 0,0:01:21.71,0:01:22.15,Default,,0,0,0,,{\an5}FOR A YOUNG
+Dialogue: 0,0:01:22.15,0:01:22.42,Default,,0,0,0,,{\an5}KID.
+Dialogue: 0,0:01:22.73,0:01:23.40,Default,,0,0,0,,{\an5}I EVEN
+Dialogue: 0,0:01:23.40,0:01:24.14,Default,,0,0,0,,{\an5}PULLED UP THE DISTANCE
+Dialogue: 0,0:01:24.14,0:01:25.07,Default,,0,0,0,,{\an5}ON MY PHONE,
+Dialogue: 0,0:01:25.31,0:01:25.93,Default,,0,0,0,,{\an5}THINKING SHE
+Dialogue: 0,0:01:25.93,0:01:26.50,Default,,0,0,0,,{\an5}HADN'T REALIZED
+Dialogue: 0,0:01:26.50,0:01:27.00,Default,,0,0,0,,{\an5}HOW CLOSE
+Dialogue: 0,0:01:27.00,0:01:27.14,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:01:27.14,0:01:27.35,Default,,0,0,0,,{\an5}WAS.
+Dialogue: 0,0:01:27.59,0:01:28.31,Default,,0,0,0,,{\an5}BUT SHE DOUBLED
+Dialogue: 0,0:01:28.31,0:01:28.59,Default,,0,0,0,,{\an5}DOWN.
+Dialogue: 0,0:01:28.71,0:01:29.28,Default,,0,0,0,,{\an5}I TOLD
+Dialogue: 0,0:01:29.28,0:01:29.79,Default,,0,0,0,,{\an5}HER I COULDN'T
+Dialogue: 0,0:01:29.79,0:01:30.31,Default,,0,0,0,,{\an5}TAKE ON DAILY
+Dialogue: 0,0:01:30.31,0:01:30.92,Default,,0,0,0,,{\an5}DROP -OFFS
+Dialogue: 0,0:01:30.92,0:01:31.42,Default,,0,0,0,,{\an5}AND THAT WALKING
+Dialogue: 0,0:01:31.42,0:01:32.01,Default,,0,0,0,,{\an5}REALLY WAS THE
+Dialogue: 0,0:01:32.01,0:01:32.26,Default,,0,0,0,,{\an5}SIMPLEST
+Dialogue: 0,0:01:32.26,0:01:32.65,Default,,0,0,0,,{\an5}SOLUTION.
+Dialogue: 0,0:01:33.46,0:01:34.35,Default,,0,0,0,,{\an5}LATER, MY
+Dialogue: 0,0:01:34.35,0:01:34.98,Default,,0,0,0,,{\an5}MOM TOLD ME
+Dialogue: 0,0:01:34.98,0:01:35.59,Default,,0,0,0,,{\an5}LENA HAD GONE
+Dialogue: 0,0:01:35.59,0:01:36.26,Default,,0,0,0,,{\an5}TO HER CRYING ABOUT
+Dialogue: 0,0:01:36.26,0:01:36.50,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:01:36.78,0:01:37.43,Default,,0,0,0,,{\an5}MOM SAID
+Dialogue: 0,0:01:37.43,0:01:38.07,Default,,0,0,0,,{\an5}IT WOULD BE A KIND
+Dialogue: 0,0:01:38.07,0:01:38.62,Default,,0,0,0,,{\an5}THING FOR ME TO
+Dialogue: 0,0:01:38.62,0:01:38.84,Default,,0,0,0,,{\an5}HELP.
+Dialogue: 0,0:01:39.14,0:01:39.70,Default,,0,0,0,,{\an5}BUT SHE
+Dialogue: 0,0:01:39.70,0:01:40.42,Default,,0,0,0,,{\an5}ALSO ACKNOWLEDGED
+Dialogue: 0,0:01:40.42,0:01:41.04,Default,,0,0,0,,{\an5}THAT MY SCHEDULE
+Dialogue: 0,0:01:41.04,0:01:42.01,Default,,0,0,0,,{\an5}IS UNPREDICTABLE AND
+Dialogue: 0,0:01:42.01,0:01:42.40,Default,,0,0,0,,{\an5}DIDN'T PUSH
+Dialogue: 0,0:01:42.40,0:01:42.70,Default,,0,0,0,,{\an5}FURTHER.
+Dialogue: 0,0:01:43.29,0:01:44.00,Default,,0,0,0,,{\an5}NOW EVAN
+Dialogue: 0,0:01:44.00,0:01:44.56,Default,,0,0,0,,{\an5}IS CALLING ME
+Dialogue: 0,0:01:44.56,0:01:44.87,Default,,0,0,0,,{\an5}SELFISH.
+Dialogue: 0,0:01:44.87,0:01:45.95,Default,,0,0,0,,{\an5}FISH INSISTING
+Dialogue: 0,0:01:45.95,0:01:46.79,Default,,0,0,0,,{\an5}IT'S A SMALL ASK
+Dialogue: 0,0:01:46.79,0:01:47.37,Default,,0,0,0,,{\an5}SINCE THEIR OLD
+Dialogue: 0,0:01:47.37,0:01:48.01,Default,,0,0,0,,{\an5}NEIGHBOR COULD DO
+Dialogue: 0,0:01:48.01,0:01:48.78,Default,,0,0,0,,{\an5}IT BUT
+Dialogue: 0,0:01:48.78,0:01:49.40,Default,,0,0,0,,{\an5}THEIR OLD NEIGHBOR
+Dialogue: 0,0:01:49.40,0:01:50.01,Default,,0,0,0,,{\an5}ALSO DIDN'T
+Dialogue: 0,0:01:50.01,0:01:50.51,Default,,0,0,0,,{\an5}WORK ROTATING
+Dialogue: 0,0:01:50.51,0:01:51.12,Default,,0,0,0,,{\an5}SHIFTS AND
+Dialogue: 0,0:01:51.12,0:01:51.78,Default,,0,0,0,,{\an5}WASN'T COMING OFF
+Dialogue: 0,0:01:51.78,0:01:52.40,Default,,0,0,0,,{\an5}10 HOUR NIGHTS
+Dialogue: 0,0:01:52.40,0:01:53.28,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:53.28,0:01:53.81,Default,,0,0,0,,{\an5}FEEL LIKE I'M
+Dialogue: 0,0:01:53.81,0:01:54.56,Default,,0,0,0,,{\an5}LOSING MY MIND
+Dialogue: 0,0:01:54.56,0:01:55.06,Default,,0,0,0,,{\an5}BECAUSE
+Dialogue: 0,0:01:55.06,0:01:55.62,Default,,0,0,0,,{\an5}WHEN I WENT
+Dialogue: 0,0:01:55.62,0:01:56.35,Default,,0,0,0,,{\an5}TO THAT SAME SCHOOL
+Dialogue: 0,0:01:56.35,0:01:56.93,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:01:56.93,0:01:57.50,Default,,0,0,0,,{\an5}MOM LITERALLY
+Dialogue: 0,0:01:57.50,0:01:58.20,Default,,0,0,0,,{\an5}WALKED ME EVERY
+Dialogue: 0,0:01:58.20,0:01:58.70,Default,,0,0,0,,{\an5}MORNING FROM
+Dialogue: 0,0:01:58.70,0:01:59.29,Default,,0,0,0,,{\an5}THE SAME HOUSE
+Dialogue: 0,0:01:59.29,0:01:59.98,Default,,0,0,0,,{\an5}SO
+Dialogue: 0,0:01:59.98,0:02:00.62,Default,,0,0,0,,{\an5}WAS I REALLY IN
+Dialogue: 0,0:02:00.62,0:02:01.14,Default,,0,0,0,,{\an5}THE WRONG FOR
+Dialogue: 0,0:02:01.14,0:02:01.65,Default,,0,0,0,,{\an5}TELLING LENA
+Dialogue: 0,0:02:01.65,0:02:02.20,Default,,0,0,0,,{\an5}SHE NEEDS TO
+Dialogue: 0,0:02:02.20,0:02:02.95,Default,,0,0,0,,{\an5}WALK HER DAUGHTER INSTEAD
+Dialogue: 0,0:02:02.95,0:02:03.51,Default,,0,0,0,,{\an5}OF EXPECTING
+Dialogue: 0,0:02:03.51,0:02:04.34,Default,,0,0,0,,{\an5}ME
+Dialogue: 0,0:02:04.34,0:02:05.06,Default,,0,0,0,,{\an5}TO REARRANGE MY
+Dialogue: 0,0:02:05.06,0:02:05.48,Default,,0,0,0,,{\an5}WORK LIFE

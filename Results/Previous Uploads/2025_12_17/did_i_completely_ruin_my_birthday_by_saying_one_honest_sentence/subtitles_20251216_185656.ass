@@ -1,0 +1,185 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.54,0:00:03.96,Default,,0,0,0,,{\an5}I'M
+Dialogue: 0,0:00:03.96,0:00:04.36,Default,,0,0,0,,{\an5}A MAN IN
+Dialogue: 0,0:00:04.36,0:00:05.09,Default,,0,0,0,,{\an5}MY LATE 30S
+Dialogue: 0,0:00:05.09,0:00:05.55,Default,,0,0,0,,{\an5}LIVING WITH MY
+Dialogue: 0,0:00:05.55,0:00:06.01,Default,,0,0,0,,{\an5}WIFE IN A
+Dialogue: 0,0:00:06.01,0:00:06.48,Default,,0,0,0,,{\an5}QUIET EUROPEAN
+Dialogue: 0,0:00:06.48,0:00:06.92,Default,,0,0,0,,{\an5}CITY.
+Dialogue: 0,0:00:07.24,0:00:07.71,Default,,0,0,0,,{\an5}AND
+Dialogue: 0,0:00:07.71,0:00:08.22,Default,,0,0,0,,{\an5}FROM THE VERY
+Dialogue: 0,0:00:08.22,0:00:08.74,Default,,0,0,0,,{\an5}BEGINNING OF
+Dialogue: 0,0:00:08.74,0:00:09.22,Default,,0,0,0,,{\an5}OUR RELATIONSHIP
+Dialogue: 0,0:00:09.22,0:00:09.72,Default,,0,0,0,,{\an5}WE BUILD
+Dialogue: 0,0:00:09.72,0:00:10.27,Default,,0,0,0,,{\an5}OUR LIFE AROUND
+Dialogue: 0,0:00:10.27,0:00:11.67,Default,,0,0,0,,{\an5}RESTRAINT, PLANNING,
+Dialogue: 0,0:00:11.83,0:00:12.53,Default,,0,0,0,,{\an5}AND THE IDEA
+Dialogue: 0,0:00:12.53,0:00:13.00,Default,,0,0,0,,{\an5}THAT FREEDOM
+Dialogue: 0,0:00:13.00,0:00:13.51,Default,,0,0,0,,{\an5}LATER WAS
+Dialogue: 0,0:00:13.51,0:00:14.01,Default,,0,0,0,,{\an5}WORTH SACRIFICE
+Dialogue: 0,0:00:14.01,0:00:14.46,Default,,0,0,0,,{\an5}NOW.
+Dialogue: 0,0:00:14.58,0:00:14.98,Default,,0,0,0,,{\an5}WE
+Dialogue: 0,0:00:14.98,0:00:15.59,Default,,0,0,0,,{\an5}LIVE MODESTLY,
+Dialogue: 0,0:00:15.82,0:00:16.23,Default,,0,0,0,,{\an5}SAVE
+Dialogue: 0,0:00:16.23,0:00:17.32,Default,,0,0,0,,{\an5}AGGRESSIVELY, AVOID
+Dialogue: 0,0:00:17.32,0:00:18.62,Default,,0,0,0,,{\an5}UNNECESSARY LUXURIES,
+Dialogue: 0,0:00:18.78,0:00:19.28,Default,,0,0,0,,{\an5}AND TREAT
+Dialogue: 0,0:00:19.28,0:00:19.69,Default,,0,0,0,,{\an5}BIRTHDAYS
+Dialogue: 0,0:00:19.69,0:00:20.14,Default,,0,0,0,,{\an5}AS SMALL
+Dialogue: 0,0:00:20.14,0:00:20.62,Default,,0,0,0,,{\an5}BUT MEANINGFUL
+Dialogue: 0,0:00:20.62,0:00:21.07,Default,,0,0,0,,{\an5}MOMENTS
+Dialogue: 0,0:00:21.07,0:00:21.48,Default,,0,0,0,,{\an5}WHERE WE
+Dialogue: 0,0:00:21.48,0:00:21.94,Default,,0,0,0,,{\an5}BUY EACH OTHER
+Dialogue: 0,0:00:21.94,0:00:22.60,Default,,0,0,0,,{\an5}SOMETHING PERSONAL
+Dialogue: 0,0:00:22.60,0:00:23.66,Default,,0,0,0,,{\an5}FROM OUR
+Dialogue: 0,0:00:23.66,0:00:23.85,Default,,0,0,0,,{\an5}OWN
+Dialogue: 0,0:00:23.85,0:00:24.12,Default,,0,0,0,,{\an5}ACCOUNTS.
+Dialogue: 0,0:00:24.35,0:00:24.83,Default,,0,0,0,,{\an5}SOMETHING
+Dialogue: 0,0:00:24.83,0:00:25.33,Default,,0,0,0,,{\an5}THAT FEELS
+Dialogue: 0,0:00:25.33,0:00:25.76,Default,,0,0,0,,{\an5}INTENTIONAL
+Dialogue: 0,0:00:25.76,0:00:26.35,Default,,0,0,0,,{\an5}RATHER THAN
+Dialogue: 0,0:00:26.35,0:00:26.83,Default,,0,0,0,,{\an5}INDULGENT.
+Dialogue: 0,0:00:26.83,0:00:27.33,Default,,0,0,0,,{\an5}A
+Dialogue: 0,0:00:27.33,0:00:28.00,Default,,0,0,0,,{\an5}FEW MONTHS BEFORE
+Dialogue: 0,0:00:28.00,0:00:28.53,Default,,0,0,0,,{\an5}MY BIRTHDAY,
+Dialogue: 0,0:00:28.78,0:00:29.44,Default,,0,0,0,,{\an5}MY WIFE
+Dialogue: 0,0:00:29.44,0:00:30.03,Default,,0,0,0,,{\an5}SHYLY ADMITTED
+Dialogue: 0,0:00:30.03,0:00:30.46,Default,,0,0,0,,{\an5}SHE'D BEEN
+Dialogue: 0,0:00:30.46,0:00:31.00,Default,,0,0,0,,{\an5}DREAMING ABOUT
+Dialogue: 0,0:00:31.00,0:00:31.42,Default,,0,0,0,,{\an5}AN EXPENSIVE
+Dialogue: 0,0:00:31.42,0:00:32.11,Default,,0,0,0,,{\an5}BEAUTY GADGET
+Dialogue: 0,0:00:32.11,0:00:32.56,Default,,0,0,0,,{\an5}SHE KEPT
+Dialogue: 0,0:00:32.56,0:00:32.75,Default,,0,0,0,,{\an5}SEEING
+Dialogue: 0,0:00:32.75,0:00:33.07,Default,,0,0,0,,{\an5}ONLINE.
+Dialogue: 0,0:00:33.46,0:00:33.93,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:00:33.93,0:00:34.57,Default,,0,0,0,,{\an5}WAS FAR OUTSIDE
+Dialogue: 0,0:00:34.57,0:00:35.07,Default,,0,0,0,,{\an5}OUR USUAL
+Dialogue: 0,0:00:35.07,0:00:35.47,Default,,0,0,0,,{\an5}HABITS.
+Dialogue: 0,0:00:35.78,0:00:36.34,Default,,0,0,0,,{\an5}AND WHILE
+Dialogue: 0,0:00:36.34,0:00:36.88,Default,,0,0,0,,{\an5}I DIDN'T FORBID
+Dialogue: 0,0:00:36.88,0:00:37.53,Default,,0,0,0,,{\an5}IT, I
+Dialogue: 0,0:00:37.53,0:00:38.21,Default,,0,0,0,,{\an5}SUGGESTED SHE
+Dialogue: 0,0:00:38.21,0:00:38.84,Default,,0,0,0,,{\an5}DO WHAT WE ALWAYS
+Dialogue: 0,0:00:38.84,0:00:39.46,Default,,0,0,0,,{\an5}DO WHEN TEMPTATION
+Dialogue: 0,0:00:39.46,0:00:39.92,Default,,0,0,0,,{\an5}HITS.
+Dialogue: 0,0:00:40.15,0:00:40.57,Default,,0,0,0,,{\an5}WAIT
+Dialogue: 0,0:00:40.57,0:00:41.02,Default,,0,0,0,,{\an5}A COUPLE OF
+Dialogue: 0,0:00:41.02,0:00:41.46,Default,,0,0,0,,{\an5}WEEKS AND
+Dialogue: 0,0:00:41.46,0:00:42.07,Default,,0,0,0,,{\an5}SEE IF THE DESIRE
+Dialogue: 0,0:00:42.07,0:00:42.43,Default,,0,0,0,,{\an5}FADES.
+Dialogue: 0,0:00:42.71,0:00:43.15,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:00:43.15,0:00:43.74,Default,,0,0,0,,{\an5}NEVER MENTIONED
+Dialogue: 0,0:00:43.74,0:00:43.88,Default,,0,0,0,,{\an5}IT
+Dialogue: 0,0:00:43.88,0:00:44.07,Default,,0,0,0,,{\an5}AGAIN.
+Dialogue: 0,0:00:44.29,0:00:44.78,Default,,0,0,0,,{\an5}AND I
+Dialogue: 0,0:00:44.78,0:00:45.28,Default,,0,0,0,,{\an5}ASSUMED THE
+Dialogue: 0,0:00:45.28,0:00:45.61,Default,,0,0,0,,{\an5}URGE HAD
+Dialogue: 0,0:00:45.61,0:00:45.93,Default,,0,0,0,,{\an5}PASSED.
+Dialogue: 0,0:00:46.17,0:00:46.75,Default,,0,0,0,,{\an5}JUST LIKE
+Dialogue: 0,0:00:46.75,0:00:47.14,Default,,0,0,0,,{\an5}IT USUALLY
+Dialogue: 0,0:00:47.14,0:00:47.50,Default,,0,0,0,,{\an5}DOES.
+Dialogue: 0,0:00:47.82,0:00:48.24,Default,,0,0,0,,{\an5}ON
+Dialogue: 0,0:00:48.24,0:00:48.71,Default,,0,0,0,,{\an5}MY BIRTHDAY,
+Dialogue: 0,0:00:48.93,0:00:49.53,Default,,0,0,0,,{\an5}SHE HANDED
+Dialogue: 0,0:00:49.53,0:00:50.06,Default,,0,0,0,,{\an5}ME A LARGE,
+Dialogue: 0,0:00:50.28,0:00:50.71,Default,,0,0,0,,{\an5}CAREFULLY
+Dialogue: 0,0:00:50.71,0:00:51.10,Default,,0,0,0,,{\an5}WRAPPED
+Dialogue: 0,0:00:51.10,0:00:51.46,Default,,0,0,0,,{\an5}BOX.
+Dialogue: 0,0:00:51.71,0:00:52.21,Default,,0,0,0,,{\an5}THE MOMENT
+Dialogue: 0,0:00:52.21,0:00:52.79,Default,,0,0,0,,{\an5}I OPENED IT,
+Dialogue: 0,0:00:52.88,0:00:53.57,Default,,0,0,0,,{\an5}MY STOMACH
+Dialogue: 0,0:00:53.57,0:00:53.85,Default,,0,0,0,,{\an5}DROPPED.
+Dialogue: 0,0:00:54.07,0:00:54.74,Default,,0,0,0,,{\an5}INSIDE WAS
+Dialogue: 0,0:00:54.74,0:00:55.47,Default,,0,0,0,,{\an5}THE EXACT ITEM
+Dialogue: 0,0:00:55.47,0:00:55.92,Default,,0,0,0,,{\an5}SHE'D WANTED
+Dialogue: 0,0:00:55.92,0:00:56.14,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:00:56.14,0:00:56.38,Default,,0,0,0,,{\an5}HERSELF.
+Dialogue: 0,0:00:56.84,0:00:57.35,Default,,0,0,0,,{\an5}SOMETHING I
+Dialogue: 0,0:00:57.35,0:00:57.97,Default,,0,0,0,,{\an5}WOULD NEVER USE
+Dialogue: 0,0:00:57.97,0:00:58.52,Default,,0,0,0,,{\an5}AND HAD NEVER
+Dialogue: 0,0:00:58.52,0:00:58.96,Default,,0,0,0,,{\an5}SHOWN INTEREST
+Dialogue: 0,0:00:58.96,0:00:59.28,Default,,0,0,0,,{\an5}IN.
+Dialogue: 0,0:00:59.39,0:01:00.00,Default,,0,0,0,,{\an5}I DIDN'T
+Dialogue: 0,0:01:00.00,0:01:00.64,Default,,0,0,0,,{\an5}SAY ANYTHING RIGHT
+Dialogue: 0,0:01:00.64,0:01:00.84,Default,,0,0,0,,{\an5}AWAY.
+Dialogue: 0,0:01:01.14,0:01:01.57,Default,,0,0,0,,{\an5}INSTEAD,
+Dialogue: 0,0:01:01.88,0:01:02.39,Default,,0,0,0,,{\an5}I HANDED
+Dialogue: 0,0:01:02.39,0:01:02.74,Default,,0,0,0,,{\an5}IT TO HER
+Dialogue: 0,0:01:02.74,0:01:03.06,Default,,0,0,0,,{\an5}QUIETLY.
+Dialogue: 0,0:01:03.38,0:01:03.82,Default,,0,0,0,,{\an5}WATCHING
+Dialogue: 0,0:01:03.82,0:01:04.40,Default,,0,0,0,,{\an5}HER EYES LIGHT
+Dialogue: 0,0:01:04.40,0:01:04.84,Default,,0,0,0,,{\an5}UP AS SHE
+Dialogue: 0,0:01:04.84,0:01:05.43,Default,,0,0,0,,{\an5}RAN HER FINGERS
+Dialogue: 0,0:01:05.43,0:01:05.68,Default,,0,0,0,,{\an5}OVER
+Dialogue: 0,0:01:05.68,0:01:05.87,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:01:06.40,0:01:06.84,Default,,0,0,0,,{\an5}ADMIRED
+Dialogue: 0,0:01:06.84,0:01:06.95,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:01:06.95,0:01:07.23,Default,,0,0,0,,{\an5}FINISH.
+Dialogue: 0,0:01:07.48,0:01:08.04,Default,,0,0,0,,{\an5}AND SMILED
+Dialogue: 0,0:01:08.04,0:01:08.50,Default,,0,0,0,,{\an5}IN A WAY
+Dialogue: 0,0:01:08.50,0:01:09.09,Default,,0,0,0,,{\an5}THAT FELT DEEPLY
+Dialogue: 0,0:01:09.09,0:01:09.56,Default,,0,0,0,,{\an5}FAMILIAR.
+Dialogue: 0,0:01:09.81,0:01:10.23,Default,,0,0,0,,{\an5}LIKE
+Dialogue: 0,0:01:10.23,0:01:10.71,Default,,0,0,0,,{\an5}SOMEONE FINALLY
+Dialogue: 0,0:01:10.71,0:01:11.14,Default,,0,0,0,,{\an5}HOLDING
+Dialogue: 0,0:01:11.14,0:01:11.76,Default,,0,0,0,,{\an5}SOMETHING THEY'D
+Dialogue: 0,0:01:11.76,0:01:12.35,Default,,0,0,0,,{\an5}LONG IMAGINED
+Dialogue: 0,0:01:12.35,0:01:12.57,Default,,0,0,0,,{\an5}OWNING.
+Dialogue: 0,0:01:12.81,0:01:13.26,Default,,0,0,0,,{\an5}THAT
+Dialogue: 0,0:01:13.26,0:01:13.84,Default,,0,0,0,,{\an5}WAS WHEN I SAID
+Dialogue: 0,0:01:13.84,0:01:13.98,Default,,0,0,0,,{\an5}IT.
+Dialogue: 0,0:01:14.34,0:01:14.78,Default,,0,0,0,,{\an5}SOFTLY
+Dialogue: 0,0:01:14.78,0:01:14.87,Default,,0,0,0,,{\an5}BUT
+Dialogue: 0,0:01:14.87,0:01:15.34,Default,,0,0,0,,{\an5}PLAINLY.
+Dialogue: 0,0:01:15.43,0:01:15.84,Default,,0,0,0,,{\an5}THAT IT
+Dialogue: 0,0:01:15.84,0:01:16.37,Default,,0,0,0,,{\an5}DIDN'T FEEL LIKE
+Dialogue: 0,0:01:16.37,0:01:16.84,Default,,0,0,0,,{\an5}THE GIFT WAS
+Dialogue: 0,0:01:16.84,0:01:17.31,Default,,0,0,0,,{\an5}ACTUALLY MEANT
+Dialogue: 0,0:01:17.31,0:01:17.50,Default,,0,0,0,,{\an5}FOR
+Dialogue: 0,0:01:17.50,0:01:17.64,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:01:18.18,0:01:18.76,Default,,0,0,0,,{\an5}THE ROOM WENT
+Dialogue: 0,0:01:18.76,0:01:19.07,Default,,0,0,0,,{\an5}COLD.
+Dialogue: 0,0:01:19.26,0:01:19.84,Default,,0,0,0,,{\an5}HER EXCITEMENT
+Dialogue: 0,0:01:19.84,0:01:20.28,Default,,0,0,0,,{\an5}VANISHED.
+Dialogue: 0,0:01:20.57,0:01:21.09,Default,,0,0,0,,{\an5}HER FACE
+Dialogue: 0,0:01:21.09,0:01:21.34,Default,,0,0,0,,{\an5}FELL.
+Dialogue: 0,0:01:21.57,0:01:21.98,Default,,0,0,0,,{\an5}AND SHE
+Dialogue: 0,0:01:21.98,0:01:22.40,Default,,0,0,0,,{\an5}ASKED WHY
+Dialogue: 0,0:01:22.40,0:01:23.01,Default,,0,0,0,,{\an5}I WOULD EVEN SAY
+Dialogue: 0,0:01:23.01,0:01:23.50,Default,,0,0,0,,{\an5}SOMETHING LIKE
+Dialogue: 0,0:01:23.50,0:01:23.71,Default,,0,0,0,,{\an5}THAT.
+Dialogue: 0,0:01:23.87,0:01:24.29,Default,,0,0,0,,{\an5}AFTER
+Dialogue: 0,0:01:24.29,0:01:24.70,Default,,0,0,0,,{\an5}A LONG,
+Dialogue: 0,0:01:24.84,0:01:25.18,Default,,0,0,0,,{\an5}HEAVY
+Dialogue: 0,0:01:25.18,0:01:25.64,Default,,0,0,0,,{\an5}SILENCE.
+Dialogue: 0,0:01:25.64,0:01:26.18,Default,,0,0,0,,{\an5}SHE
+Dialogue: 0,0:01:26.18,0:01:26.68,Default,,0,0,0,,{\an5}WALKED INTO
+Dialogue: 0,0:01:26.68,0:01:27.12,Default,,0,0,0,,{\an5}THE BEDROOM
+Dialogue: 0,0:01:27.12,0:01:27.62,Default,,0,0,0,,{\an5}AND SHUT THE
+Dialogue: 0,0:01:27.62,0:01:28.48,Default,,0,0,0,,{\an5}DOOR, LEAVING
+Dialogue: 0,0:01:28.48,0:01:29.12,Default,,0,0,0,,{\an5}THE UNOPENED
+Dialogue: 0,0:01:29.12,0:01:29.59,Default,,0,0,0,,{\an5}BOX SITTING
+Dialogue: 0,0:01:29.59,0:01:30.06,Default,,0,0,0,,{\an5}ALONE ON
+Dialogue: 0,0:01:30.06,0:01:31.26,Default,,0,0,0,,{\an5}THE SOFA, UNTOUCHED
+Dialogue: 0,0:01:31.26,0:01:31.79,Default,,0,0,0,,{\an5}THROUGH THE NIGHT,
+Dialogue: 0,0:01:31.85,0:01:32.51,Default,,0,0,0,,{\an5}LIKE A REMINDER
+Dialogue: 0,0:01:32.51,0:01:33.18,Default,,0,0,0,,{\an5}OF A CELEBRATION
+Dialogue: 0,0:01:33.18,0:01:33.85,Default,,0,0,0,,{\an5}THAT SOMEHOW
+Dialogue: 0,0:01:33.85,0:01:34.40,Default,,0,0,0,,{\an5}TURNED INTO
+Dialogue: 0,0:01:34.40,0:01:35.26,Default,,0,0,0,,{\an5}A QUIET STANDOFF
+Dialogue: 0,0:01:35.26,0:01:35.71,Default,,0,0,0,,{\an5}NEITHER OF
+Dialogue: 0,0:01:35.71,0:01:36.18,Default,,0,0,0,,{\an5}US KNEW HOW
+Dialogue: 0,0:01:36.18,0:01:36.87,Default,,0,0,0,,{\an5}TO
+Dialogue: 0,0:01:36.87,0:01:37.14,Default,,0,0,0,,{\an5}RESOLVE.

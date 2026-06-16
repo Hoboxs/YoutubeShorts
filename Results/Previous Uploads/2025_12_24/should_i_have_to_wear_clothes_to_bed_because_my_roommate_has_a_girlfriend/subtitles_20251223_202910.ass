@@ -1,0 +1,150 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.72,0:00:04.25,Default,,0,0,0,,{\an5}I'M IN
+Dialogue: 0,0:00:04.25,0:00:04.98,Default,,0,0,0,,{\an5}MY MID-TWENTIES
+Dialogue: 0,0:00:04.98,0:00:05.67,Default,,0,0,0,,{\an5}AND SHARE AN APARTMENT
+Dialogue: 0,0:00:05.67,0:00:06.48,Default,,0,0,0,,{\an5}WITH A HOUSEMATE
+Dialogue: 0,0:00:06.48,0:00:07.08,Default,,0,0,0,,{\an5}I'VE LIVED WITH FOR
+Dialogue: 0,0:00:07.08,0:00:08.19,Default,,0,0,0,,{\an5}A WHILE. EVER
+Dialogue: 0,0:00:08.19,0:00:08.74,Default,,0,0,0,,{\an5}SINCE I WAS
+Dialogue: 0,0:00:08.74,0:00:09.88,Default,,0,0,0,,{\an5}A TEENAGER, I'VE
+Dialogue: 0,0:00:09.88,0:00:10.72,Default,,0,0,0,,{\an5}SLEPT WITHOUT CLOTHES
+Dialogue: 0,0:00:10.72,0:00:11.61,Default,,0,0,0,,{\an5}BECAUSE I OVERHEAT
+Dialogue: 0,0:00:11.61,0:00:12.16,Default,,0,0,0,,{\an5}EASILY AND
+Dialogue: 0,0:00:12.16,0:00:12.77,Default,,0,0,0,,{\an5}IT'S THE ONLY WAY
+Dialogue: 0,0:00:12.77,0:00:13.30,Default,,0,0,0,,{\an5}I CAN ACTUALLY
+Dialogue: 0,0:00:13.30,0:00:14.59,Default,,0,0,0,,{\an5}REST TIME. CAREFUL
+Dialogue: 0,0:00:14.59,0:00:15.09,Default,,0,0,0,,{\an5}ABOUT IT,
+Dialogue: 0,0:00:15.16,0:00:15.82,Default,,0,0,0,,{\an5}ANYTIME I
+Dialogue: 0,0:00:15.82,0:00:16.39,Default,,0,0,0,,{\an5}LEAVE MY ROOM,
+Dialogue: 0,0:00:16.55,0:00:17.17,Default,,0,0,0,,{\an5}EVEN JUST
+Dialogue: 0,0:00:17.17,0:00:17.82,Default,,0,0,0,,{\an5}TO GRAB WATER
+Dialogue: 0,0:00:17.82,0:00:18.35,Default,,0,0,0,,{\an5}OR HEAD TO THE
+Dialogue: 0,0:00:18.35,0:00:19.30,Default,,0,0,0,,{\an5}SHOWER, I'M
+Dialogue: 0,0:00:19.30,0:00:19.80,Default,,0,0,0,,{\an5}DRESSED OR AT
+Dialogue: 0,0:00:19.80,0:00:20.30,Default,,0,0,0,,{\an5}LEAST COVERED,
+Dialogue: 0,0:00:20.48,0:00:21.14,Default,,0,0,0,,{\an5}AND WE BOTH
+Dialogue: 0,0:00:21.14,0:00:21.80,Default,,0,0,0,,{\an5}NORMALLY KNOCK
+Dialogue: 0,0:00:21.80,0:00:22.33,Default,,0,0,0,,{\an5}BEFORE ENTERING
+Dialogue: 0,0:00:22.33,0:00:22.87,Default,,0,0,0,,{\an5}EACH OTHER'S
+Dialogue: 0,0:00:22.87,0:00:23.53,Default,,0,0,0,,{\an5}ROOMS THIS ROUTINE
+Dialogue: 0,0:00:23.53,0:00:24.10,Default,,0,0,0,,{\an5}HAS NEVER
+Dialogue: 0,0:00:24.10,0:00:24.62,Default,,0,0,0,,{\an5}BEEN AN ISSUE.
+Dialogue: 0,0:00:24.98,0:00:25.57,Default,,0,0,0,,{\an5}AND HE'S
+Dialogue: 0,0:00:25.57,0:00:26.19,Default,,0,0,0,,{\an5}ALWAYS KNOWN HOW
+Dialogue: 0,0:00:26.19,0:00:27.14,Default,,0,0,0,,{\an5}I SLEEP. THE
+Dialogue: 0,0:00:27.14,0:00:27.76,Default,,0,0,0,,{\an5}PROBLEM STARTED
+Dialogue: 0,0:00:27.76,0:00:28.48,Default,,0,0,0,,{\an5}WHEN HE INVITED
+Dialogue: 0,0:00:28.48,0:00:28.98,Default,,0,0,0,,{\an5}HIS PARTNER
+Dialogue: 0,0:00:28.98,0:00:29.51,Default,,0,0,0,,{\an5}TO STAY OVER
+Dialogue: 0,0:00:29.51,0:00:30.21,Default,,0,0,0,,{\an5}FOR A FEW NIGHTS.
+Dialogue: 0,0:00:30.73,0:00:31.26,Default,,0,0,0,,{\an5}WE'VE ALL
+Dialogue: 0,0:00:31.26,0:00:31.94,Default,,0,0,0,,{\an5}HUNG OUT BEFORE
+Dialogue: 0,0:00:31.94,0:00:32.47,Default,,0,0,0,,{\an5}AND GENERALLY
+Dialogue: 0,0:00:32.47,0:00:33.47,Default,,0,0,0,,{\an5}GET ALONG, BUT
+Dialogue: 0,0:00:33.47,0:00:34.15,Default,,0,0,0,,{\an5}THIS WAS THE FIRST
+Dialogue: 0,0:00:34.15,0:00:34.65,Default,,0,0,0,,{\an5}TIME THEY STAYED
+Dialogue: 0,0:00:34.65,0:00:35.03,Default,,0,0,0,,{\an5}OVERNIGHT.
+Dialogue: 0,0:00:35.34,0:00:35.92,Default,,0,0,0,,{\an5}ONE NIGHT
+Dialogue: 0,0:00:35.92,0:00:36.56,Default,,0,0,0,,{\an5}WE CAME BACK LATE
+Dialogue: 0,0:00:36.56,0:00:37.11,Default,,0,0,0,,{\an5}AFTER DRINKING,
+Dialogue: 0,0:00:37.34,0:00:37.96,Default,,0,0,0,,{\an5}AND EVERYONE
+Dialogue: 0,0:00:37.96,0:00:38.47,Default,,0,0,0,,{\an5}WENT STRAIGHT
+Dialogue: 0,0:00:38.47,0:00:39.35,Default,,0,0,0,,{\an5}TO BED. AT
+Dialogue: 0,0:00:39.35,0:00:39.93,Default,,0,0,0,,{\an5}SOME POINT IN
+Dialogue: 0,0:00:39.93,0:00:40.61,Default,,0,0,0,,{\an5}THE MIDDLE OF THE NIGHT,
+Dialogue: 0,0:00:40.75,0:00:41.43,Default,,0,0,0,,{\an5}HIS PARTNER
+Dialogue: 0,0:00:41.43,0:00:42.10,Default,,0,0,0,,{\an5}GOT UP TO FIND
+Dialogue: 0,0:00:42.10,0:00:42.75,Default,,0,0,0,,{\an5}THE BATHROOM AND
+Dialogue: 0,0:00:42.75,0:00:43.52,Default,,0,0,0,,{\an5}ACCIDENTALLY OPENED
+Dialogue: 0,0:00:43.52,0:00:44.20,Default,,0,0,0,,{\an5}MY BEDROOM DOOR
+Dialogue: 0,0:00:44.20,0:00:44.50,Default,,0,0,0,,{\an5}INSTEAD.
+Dialogue: 0,0:00:45.03,0:00:45.60,Default,,0,0,0,,{\an5}SINCE IT'S
+Dialogue: 0,0:00:45.60,0:00:46.11,Default,,0,0,0,,{\an5}RIGHT NEXT TO
+Dialogue: 0,0:00:46.11,0:00:46.67,Default,,0,0,0,,{\an5}IT, I
+Dialogue: 0,0:00:46.67,0:00:47.21,Default,,0,0,0,,{\an5}WAS HALF ASLEEP
+Dialogue: 0,0:00:47.21,0:00:47.78,Default,,0,0,0,,{\an5}AND BARELY
+Dialogue: 0,0:00:47.78,0:00:48.39,Default,,0,0,0,,{\an5}REGISTERED IT
+Dialogue: 0,0:00:48.39,0:00:48.93,Default,,0,0,0,,{\an5}BEFORE THE DOOR
+Dialogue: 0,0:00:48.93,0:00:50.35,Default,,0,0,0,,{\an5}CLOSED AGAIN. THE
+Dialogue: 0,0:00:50.35,0:00:50.88,Default,,0,0,0,,{\an5}NEXT MORNING,
+Dialogue: 0,0:00:51.03,0:00:51.65,Default,,0,0,0,,{\an5}BOTH OF THEM
+Dialogue: 0,0:00:51.65,0:00:52.21,Default,,0,0,0,,{\an5}WERE UPSET WITH
+Dialogue: 0,0:00:52.21,0:00:52.42,Default,,0,0,0,,{\an5}ME.
+Dialogue: 0,0:00:52.42,0:00:53.03,Default,,0,0,0,,{\an5}SHE WAS
+Dialogue: 0,0:00:53.03,0:00:53.85,Default,,0,0,0,,{\an5}UNCOMFORTABLE BECAUSE
+Dialogue: 0,0:00:53.85,0:00:54.38,Default,,0,0,0,,{\an5}SHE SAW ME
+Dialogue: 0,0:00:54.38,0:00:55.10,Default,,0,0,0,,{\an5}NAKED AND
+Dialogue: 0,0:00:55.10,0:00:55.60,Default,,0,0,0,,{\an5}THEY SAID I
+Dialogue: 0,0:00:55.60,0:00:56.11,Default,,0,0,0,,{\an5}WAS WRONG FOR
+Dialogue: 0,0:00:56.11,0:00:56.61,Default,,0,0,0,,{\an5}SLEEPING THAT
+Dialogue: 0,0:00:56.61,0:00:57.24,Default,,0,0,0,,{\an5}WAY AT ALL WHEN
+Dialogue: 0,0:00:57.24,0:00:57.78,Default,,0,0,0,,{\an5}THERE WAS A GUEST
+Dialogue: 0,0:00:57.78,0:00:58.32,Default,,0,0,0,,{\an5}IN THE APARTMENT
+Dialogue: 0,0:00:58.32,0:00:59.14,Default,,0,0,0,,{\an5}THEY
+Dialogue: 0,0:00:59.14,0:00:59.65,Default,,0,0,0,,{\an5}TOLD ME I
+Dialogue: 0,0:00:59.65,0:01:00.24,Default,,0,0,0,,{\an5}SHOULD START WEARING
+Dialogue: 0,0:01:00.24,0:01:00.75,Default,,0,0,0,,{\an5}CLOTHES TO
+Dialogue: 0,0:01:00.75,0:01:01.38,Default,,0,0,0,,{\an5}BED SINCE SHE'LL
+Dialogue: 0,0:01:01.38,0:01:02.03,Default,,0,0,0,,{\an5}LIKELY BE STAYING
+Dialogue: 0,0:01:02.03,0:01:02.71,Default,,0,0,0,,{\an5}OVER MORE OFTEN
+Dialogue: 0,0:01:02.71,0:01:03.43,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:03.43,0:01:03.93,Default,,0,0,0,,{\an5}TOLD THEM I
+Dialogue: 0,0:01:03.93,0:01:04.48,Default,,0,0,0,,{\an5}UNDERSTOOD THE
+Dialogue: 0,0:01:04.48,0:01:05.14,Default,,0,0,0,,{\an5}SITUATION WAS
+Dialogue: 0,0:01:05.14,0:01:06.00,Default,,0,0,0,,{\an5}AWKWARD BUT
+Dialogue: 0,0:01:06.00,0:01:06.50,Default,,0,0,0,,{\an5}I WAS IN MY
+Dialogue: 0,0:01:06.50,0:01:07.23,Default,,0,0,0,,{\an5}OWN PRIVATE ROOM
+Dialogue: 0,0:01:07.23,0:01:07.85,Default,,0,0,0,,{\an5}AND THE
+Dialogue: 0,0:01:07.85,0:01:08.42,Default,,0,0,0,,{\an5}DOOR WAS ONLY
+Dialogue: 0,0:01:08.42,0:01:09.14,Default,,0,0,0,,{\an5}OPENED BY MISTAKE
+Dialogue: 0,0:01:09.14,0:01:09.70,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:09.70,0:01:10.26,Default,,0,0,0,,{\an5}DIDN'T THINK I
+Dialogue: 0,0:01:10.26,0:01:10.85,Default,,0,0,0,,{\an5}SHOULD HAVE TO CHANGE
+Dialogue: 0,0:01:10.85,0:01:11.35,Default,,0,0,0,,{\an5}HOW I SLEEP
+Dialogue: 0,0:01:11.35,0:01:12.01,Default,,0,0,0,,{\an5}IN MY OWN SPACE
+Dialogue: 0,0:01:12.01,0:01:13.21,Default,,0,0,0,,{\an5}SINCE
+Dialogue: 0,0:01:13.21,0:01:13.98,Default,,0,0,0,,{\an5}THEN THINGS
+Dialogue: 0,0:01:13.98,0:01:14.65,Default,,0,0,0,,{\an5}HAVE ESCALATED
+Dialogue: 0,0:01:14.65,0:01:15.50,Default,,0,0,0,,{\an5}MY HOUSEMATE
+Dialogue: 0,0:01:15.50,0:01:16.20,Default,,0,0,0,,{\an5}KEEPS BRINGING IT
+Dialogue: 0,0:01:16.20,0:01:16.81,Default,,0,0,0,,{\an5}UP AND
+Dialogue: 0,0:01:16.81,0:01:17.34,Default,,0,0,0,,{\an5}ONCE HE EVEN
+Dialogue: 0,0:01:17.34,0:01:17.98,Default,,0,0,0,,{\an5}OPENED MY DOOR
+Dialogue: 0,0:01:17.98,0:01:18.68,Default,,0,0,0,,{\an5}ON PURPOSE WHILE
+Dialogue: 0,0:01:18.68,0:01:19.37,Default,,0,0,0,,{\an5}I WAS SLEEPING TO
+Dialogue: 0,0:01:19.37,0:01:19.92,Default,,0,0,0,,{\an5}CHECK WHETHER I
+Dialogue: 0,0:01:19.92,0:01:21.12,Default,,0,0,0,,{\an5}I WAS NAKED. THAT
+Dialogue: 0,0:01:21.12,0:01:21.73,Default,,0,0,0,,{\an5}CROSSED A LINE
+Dialogue: 0,0:01:21.73,0:01:22.54,Default,,0,0,0,,{\an5}FOR ME. I
+Dialogue: 0,0:01:22.54,0:01:23.21,Default,,0,0,0,,{\an5}DON'T FEEL EMBARRASSED
+Dialogue: 0,0:01:23.21,0:01:23.90,Default,,0,0,0,,{\an5}ABOUT HIM SEEING
+Dialogue: 0,0:01:23.90,0:01:24.57,Default,,0,0,0,,{\an5}ME, BUT
+Dialogue: 0,0:01:24.57,0:01:25.37,Default,,0,0,0,,{\an5}IT FEELS INVASIVE
+Dialogue: 0,0:01:25.37,0:01:26.84,Default,,0,0,0,,{\an5}AND UNNECESSARY. ESPECIALLY
+Dialogue: 0,0:01:26.84,0:01:27.35,Default,,0,0,0,,{\an5}WHEN THE
+Dialogue: 0,0:01:27.35,0:01:28.00,Default,,0,0,0,,{\an5}ORIGINAL ISSUE
+Dialogue: 0,0:01:28.00,0:01:28.68,Default,,0,0,0,,{\an5}CAME FROM SOMEONE
+Dialogue: 0,0:01:28.68,0:01:29.40,Default,,0,0,0,,{\an5}ENTERING MY ROOM
+Dialogue: 0,0:01:29.40,0:01:29.92,Default,,0,0,0,,{\an5}WITHOUT KNOCKING.
+Dialogue: 0,0:01:30.21,0:01:30.93,Default,,0,0,0,,{\an5}I STILL
+Dialogue: 0,0:01:30.93,0:01:31.43,Default,,0,0,0,,{\an5}DON'T THINK IT'S
+Dialogue: 0,0:01:31.43,0:01:32.01,Default,,0,0,0,,{\an5}REASONABLE TO
+Dialogue: 0,0:01:32.01,0:01:32.56,Default,,0,0,0,,{\an5}EXPECT ME TO
+Dialogue: 0,0:01:32.56,0:01:33.06,Default,,0,0,0,,{\an5}CHANGE WHAT I
+Dialogue: 0,0:01:33.06,0:01:33.62,Default,,0,0,0,,{\an5}DO IN PRIVATE
+Dialogue: 0,0:01:33.62,0:01:34.34,Default,,0,0,0,,{\an5}JUST BECAUSE IT
+Dialogue: 0,0:01:34.34,0:01:35.00,Default,,0,0,0,,{\an5}MAKES
+Dialogue: 0,0:01:35.00,0:01:35.51,Default,,0,0,0,,{\an5}HIS PARTNER
+Dialogue: 0,0:01:35.51,0:01:35.79,Default,,0,0,0,,{\an5}UNCOMFORTABLE.

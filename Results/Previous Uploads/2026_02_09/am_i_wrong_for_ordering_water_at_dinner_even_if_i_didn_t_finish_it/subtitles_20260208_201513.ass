@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.70,0:00:04.33,Default,,0,0,0,,\N{\k19}MY {\k23}SPOUSE {\k20}AND
+Dialogue: 0,0:00:04.33,0:00:05.20,Default,,0,0,0,,\N{\k17}AYANNA {\k28}COMFORTABLE {\k40}LIVING
+Dialogue: 0,0:00:05.20,0:00:05.86,Default,,0,0,0,,\N{\k17}AND {\k29}GENERALLY {\k18}KEEP
+Dialogue: 0,0:00:05.86,0:00:06.63,Default,,0,0,0,,\N{\k17}OUR {\k29}EXPENSES {\k29}MODEST,
+Dialogue: 0,0:00:06.94,0:00:07.59,Default,,0,0,0,,\N{\k7}BUT {\k14}WE {\k16}CURRENTLY {\k19}ON {\k8}A
+Dialogue: 0,0:00:07.59,0:00:08.35,Default,,0,0,0,,\N{\k18}WINTER {\k39}GETAWAY {\k17}TO
+Dialogue: 0,0:00:08.35,0:00:09.19,Default,,0,0,0,,\N{\k30}HIGH-END {\k22}MOUNTAIN {\k31}RESORT.
+Dialogue: 0,0:00:10.01,0:00:10.67,Default,,0,0,0,,\N{\k25}THE {\k18}TRIP {\k21}COSTS
+Dialogue: 0,0:00:10.67,0:00:11.50,Default,,0,0,0,,\N{\k25}SEVERAL {\k32}THOUSAND {\k24}EUROS
+Dialogue: 0,0:00:11.50,0:00:12.41,Default,,0,0,0,,\N{\k19}FOR {\k10}THE {\k17}WEEK {\k11}AND {\k32}INCLUDES
+Dialogue: 0,0:00:12.41,0:00:13.19,Default,,0,0,0,,\N{\k24}BREAKFAST {\k32}AND {\k21}DINNER,
+Dialogue: 0,0:00:13.59,0:00:14.27,Default,,0,0,0,,\N{\k9}THEIR {\k22}DRINKS {\k16}AT {\k19}DINNER
+Dialogue: 0,0:00:14.27,0:00:14.67,Default,,0,0,0,,\N{\k12}ARE {\k27}EXTRA.
+Dialogue: 0,0:00:15.67,0:00:16.42,Default,,0,0,0,,\N{\k22}ONE {\k20}THING {\k16}THAT {\k16}STOOD
+Dialogue: 0,0:00:16.42,0:00:17.12,Default,,0,0,0,,\N{\k15}OUT {\k14}TO {\k6}ME {\k11}WAS {\k12}THAT {\k10}THE
+Dialogue: 0,0:00:17.12,0:00:17.78,Default,,0,0,0,,\N{\k19}RESTAURANT {\k32}CHARGES {\k14}A
+Dialogue: 0,0:00:17.78,0:00:18.44,Default,,0,0,0,,\N{\k16}FEW {\k25}EUROS {\k17}FOR {\k6}A
+Dialogue: 0,0:00:18.44,0:00:19.14,Default,,0,0,0,,\N{\k16}LITER {\k17}OF {\k14}PLAIN {\k21}TAP
+Dialogue: 0,0:00:19.14,0:00:20.05,Default,,0,0,0,,\N{\k35}WATER, {\k21}SOSTER
+Dialogue: 0,0:00:20.05,0:00:20.66,Default,,0,0,0,,\N{\k10}FROM {\k5}A {\k16}LOCAL {\k28}MOUNTAIN
+Dialogue: 0,0:00:20.66,0:00:20.98,Default,,0,0,0,,\N{\k32}SPRING.
+Dialogue: 0,0:00:21.66,0:00:22.42,Default,,0,0,0,,\N{\k39}I {\k16}THINK {\k20}IT'S
+Dialogue: 0,0:00:22.42,0:00:23.10,Default,,0,0,0,,\N{\k3}A {\k23}PRICE, {\k5}BUT {\k10}IT
+Dialogue: 0,0:00:23.10,0:00:23.92,Default,,0,0,0,,\N{\k23}HASN'T {\k14}RUINED {\k17}THE {\k26}VACATION
+Dialogue: 0,0:00:23.92,0:00:24.26,Default,,0,0,0,,\N{\k19}FOR {\k14}ME.
+Dialogue: 0,0:00:25.01,0:00:25.69,Default,,0,0,0,,\N{\k21}I {\k10}HAVE {\k8}A {\k27}RESPIRATORY
+Dialogue: 0,0:00:25.69,0:00:26.35,Default,,0,0,0,,\N{\k40}CONDITION {\k25}THAT
+Dialogue: 0,0:00:26.35,0:00:27.00,Default,,0,0,0,,\N{\k16}TENDS {\k24}TO {\k11}LEAVE {\k12}ME
+Dialogue: 0,0:00:27.00,0:00:27.69,Default,,0,0,0,,\N{\k37}ESPECIALLY {\k32}THIRSTY
+Dialogue: 0,0:00:27.69,0:00:28.37,Default,,0,0,0,,\N{\k26}AFTER {\k11}THE {\k10}LONG {\k19}DAYS
+Dialogue: 0,0:00:28.37,0:00:29.03,Default,,0,0,0,,\N{\k19}AT {\k24}DOORS {\k10}AND {\k11}COLD
+Dialogue: 0,0:00:29.03,0:00:29.55,Default,,0,0,0,,\N{\k22}MOUNTAIN {\k29}AIR.
+Dialogue: 0,0:00:30.33,0:00:31.17,Default,,0,0,0,,\N{\k8}AT {\k19}DINNER {\k19}ONE {\k35}EVENING
+Dialogue: 0,0:00:31.17,0:00:32.10,Default,,0,0,0,,\N{\k32}MY {\k26}PARTNER {\k33}JOKED
+Dialogue: 0,0:00:32.10,0:00:32.78,Default,,0,0,0,,\N{\k14}THAT {\k7}THE {\k14}AMOUNT {\k21}OF {\k10}WATER
+Dialogue: 0,0:00:32.78,0:00:33.50,Default,,0,0,0,,\N{\k17}I {\k14}DRANK {\k25}COST {\k14}AS
+Dialogue: 0,0:00:33.50,0:00:34.10,Default,,0,0,0,,\N{\k11}MUCH {\k24}AS {\k24}FILLINE
+Dialogue: 0,0:00:34.10,0:00:34.70,Default,,0,0,0,,\N{\k11}OUR {\k25}SWIMMING {\k22}POOL
+Dialogue: 0,0:00:34.70,0:00:35.11,Default,,0,0,0,,\N{\k17}BACK {\k23}HOME.
+Dialogue: 0,0:00:35.97,0:00:36.79,Default,,0,0,0,,\N{\k12}WE {\k11}ORDERED {\k14}A {\k17}BOTTLE {\k25}OF
+Dialogue: 0,0:00:36.79,0:00:37.47,Default,,0,0,0,,\N{\k8}WINE {\k15}AND {\k10}A {\k14}JUG {\k19}OF
+Dialogue: 0,0:00:37.47,0:00:38.15,Default,,0,0,0,,\N{\k22}WATER {\k21}WHEN {\k11}WE {\k11}SAT
+Dialogue: 0,0:00:38.15,0:00:39.00,Default,,0,0,0,,\N{\k24}DOWN {\k32}AND {\k28}PARTWAY
+Dialogue: 0,0:00:39.00,0:00:39.67,Default,,0,0,0,,\N{\k15}THROUGH {\k14}THE {\k8}MEAL {\k15}I {\k14}ORDERED
+Dialogue: 0,0:00:39.67,0:00:40.78,Default,,0,0,0,,\N{\k24}ANOTHER {\k32}JUG, {\k14}JUST
+Dialogue: 0,0:00:40.78,0:00:41.53,Default,,0,0,0,,\N{\k17}LIKE {\k14}THE {\k11}NIGHT {\k32}BEFORE.
+Dialogue: 0,0:00:42.39,0:00:43.06,Default,,0,0,0,,\N{\k25}WHEN {\k12}MY {\k28}PARTNER
+Dialogue: 0,0:00:43.06,0:00:43.85,Default,,0,0,0,,\N{\k23}RETURNED {\k16}FROM {\k11}THE {\k28}RESTROOM
+Dialogue: 0,0:00:43.85,0:00:44.60,Default,,0,0,0,,\N{\k17}AND {\k17}SAW {\k14}THE {\k24}EXTRA
+Dialogue: 0,0:00:44.60,0:00:45.24,Default,,0,0,0,,\N{\k33}WATER {\k20}ON {\k10}THE
+Dialogue: 0,0:00:45.24,0:00:45.93,Default,,0,0,0,,\N{\k23}TABLE, {\k5}HE
+Dialogue: 0,0:00:45.93,0:00:46.85,Default,,0,0,0,,\N{\k12}LOOKED {\k32}VISIBLY {\k47}IRRITATED.
+Dialogue: 0,0:00:47.74,0:00:48.50,Default,,0,0,0,,\N{\k23}HE {\k26}DIDN'T {\k7}TOUCH {\k17}THE
+Dialogue: 0,0:00:48.50,0:00:49.28,Default,,0,0,0,,\N{\k17}WATER {\k16}FOR {\k9}THE {\k14}REST {\k20}OF
+Dialogue: 0,0:00:49.28,0:00:49.53,Default,,0,0,0,,\N{\k11}THE {\k14}MEAL.
+Dialogue: 0,0:00:50.35,0:00:51.07,Default,,0,0,0,,\N{\k24}AFTER {\k25}DESSERT {\k21}I
+Dialogue: 0,0:00:51.07,0:00:51.84,Default,,0,0,0,,\N{\k16}FINISHED {\k19}MY {\k21}WINE {\k18}AND
+Dialogue: 0,0:00:51.84,0:00:52.50,Default,,0,0,0,,\N{\k13}ICE {\k22}CREAM {\k29}AND
+Dialogue: 0,0:00:52.50,0:00:53.25,Default,,0,0,0,,\N{\k10}THERE {\k10}WAS {\k15}STILL {\k20}ABOUT {\k19}ONE
+Dialogue: 0,0:00:53.25,0:00:54.02,Default,,0,0,0,,\N{\k17}GLASS {\k17}OF {\k17}WATER {\k22}LEFT
+Dialogue: 0,0:00:54.02,0:00:54.42,Default,,0,0,0,,\N{\k15}IN {\k7}THE {\k16}JUG.
+Dialogue: 0,0:00:55.16,0:00:55.88,Default,,0,0,0,,\N{\k35}HE {\k17}ASKED {\k17}IF
+Dialogue: 0,0:00:55.88,0:00:56.61,Default,,0,0,0,,\N{\k7}I {\k15}PLAN {\k12}TO {\k17}DRINK {\k19}IT
+Dialogue: 0,0:00:56.61,0:00:57.28,Default,,0,0,0,,\N{\k20}AND {\k6}I {\k15}SAID {\k24}NO,
+Dialogue: 0,0:00:57.67,0:00:58.32,Default,,0,0,0,,\N{\k10}I {\k11}WAS {\k16}FULL {\k11}AND {\k14}NO
+Dialogue: 0,0:00:58.32,0:00:59.03,Default,,0,0,0,,\N{\k17}LONGER {\k25}THIRSTY {\k28}AFTER
+Dialogue: 0,0:00:59.03,0:00:59.65,Default,,0,0,0,,\N{\k14}THE {\k47}MULTI-COST
+Dialogue: 0,0:00:59.65,0:00:59.92,Default,,0,0,0,,\N{\k26}DINNER.
+Dialogue: 0,0:01:00.75,0:01:01.57,Default,,0,0,0,,\N{\k35}THAT'S {\k10}WHEN {\k10}HE {\k25}SCOLDED
+Dialogue: 0,0:01:01.57,0:01:02.20,Default,,0,0,0,,\N{\k24}ME {\k14}FOR {\k24}ORDERING
+Dialogue: 0,0:01:02.20,0:01:02.88,Default,,0,0,0,,\N{\k25}MORE {\k29}WATER {\k12}IF
+Dialogue: 0,0:01:02.88,0:01:03.61,Default,,0,0,0,,\N{\k9}I {\k32}WASN'T {\k14}GOING {\k17}TO
+Dialogue: 0,0:01:03.61,0:01:04.35,Default,,0,0,0,,\N{\k24}FINISH {\k28}EVERY {\k21}DROP.
+Dialogue: 0,0:01:05.06,0:01:05.70,Default,,0,0,0,,\N{\k17}HE {\k16}POURED {\k29}HIMSELF
+Dialogue: 0,0:01:05.70,0:01:06.62,Default,,0,0,0,,\N{\k15}A {\k18}GLASS, {\k10}DRANK
+Dialogue: 0,0:01:06.62,0:01:07.23,Default,,0,0,0,,\N{\k14}IT {\k28}QUICKLY {\k19}AND
+Dialogue: 0,0:01:07.23,0:01:07.95,Default,,0,0,0,,\N{\k16}SAID {\k9}I {\k18}SHOULD {\k9}HAVE {\k17}ASKED
+Dialogue: 0,0:01:07.95,0:01:08.81,Default,,0,0,0,,\N{\k28}BEFORE {\k28}ORDERING {\k29}MORE,
+Dialogue: 0,0:01:09.14,0:01:09.78,Default,,0,0,0,,\N{\k17}EVEN {\k16}THOUGH {\k9}I {\k20}YOUNG
+Dialogue: 0,0:01:09.78,0:01:10.48,Default,,0,0,0,,\N{\k34}CHILD'S {\k15}GLASS {\k20}HAD
+Dialogue: 0,0:01:10.48,0:01:11.31,Default,,0,0,0,,\N{\k20}ALSO {\k15}BEEN {\k47}EMPTY-EARLY.
+Dialogue: 0,0:01:12.12,0:01:12.85,Default,,0,0,0,,\N{\k35}I {\k17}TOLD {\k20}HIM
+Dialogue: 0,0:01:12.85,0:01:13.64,Default,,0,0,0,,\N{\k7}I {\k26}FELT {\k14}HE {\k11}WAS {\k18}BEING
+Dialogue: 0,0:01:13.64,0:01:14.40,Default,,0,0,0,,\N{\k23}PETTY {\k21}AND {\k8}THAT {\k21}I'M
+Dialogue: 0,0:01:14.40,0:01:15.14,Default,,0,0,0,,\N{\k5}AN {\k18}ADULT {\k21}WHO {\k12}CAN {\k15}ORDER
+Dialogue: 0,0:01:15.14,0:01:16.00,Default,,0,0,0,,\N{\k28}WATER {\k15}WHEN {\k15}I'M {\k26}THIRSTY.
+Dialogue: 0,0:01:16.71,0:01:17.42,Default,,0,0,0,,\N{\k28}I {\k20}ALSO {\k21}SAID
+Dialogue: 0,0:01:17.42,0:01:18.09,Default,,0,0,0,,\N{\k7}I {\k21}SHOULDN'T {\k9}BE {\k16}MADE {\k11}TO
+Dialogue: 0,0:01:18.09,0:01:18.84,Default,,0,0,0,,\N{\k16}FEEL {\k21}GUILTY {\k20}FOR {\k15}LEAVING
+Dialogue: 0,0:01:18.84,0:01:19.71,Default,,0,0,0,,\N{\k17}A {\k24}SMALLER {\k17}MAN {\k28}BEHIND
+Dialogue: 0,0:01:19.71,0:01:20.40,Default,,0,0,0,,\N{\k15}WHEN {\k26}EVERYONE {\k15}AT {\k10}THE
+Dialogue: 0,0:01:20.40,0:01:21.18,Default,,0,0,0,,\N{\k19}TABLE {\k16}HAD {\k21}ALREADY {\k20}HIT
+Dialogue: 0,0:01:21.18,0:01:21.37,Default,,0,0,0,,\N{\k19}ENOUGH.
+Dialogue: 0,0:01:21.93,0:01:22.73,Default,,0,0,0,,\N{\k35}NOW {\k21}I'M {\k21}WONDERING
+Dialogue: 0,0:01:22.73,0:01:23.45,Default,,0,0,0,,\N{\k21}IF {\k8}I {\k14}WAS {\k27}ACTUALLY
+Dialogue: 0,0:01:23.45,0:01:24.20,Default,,0,0,0,,\N{\k14}IN {\k8}THE {\k11}WRONG {\k18}FOR {\k21}ORDERING
+Dialogue: 0,0:01:24.20,0:01:24.98,Default,,0,0,0,,\N{\k23}ANOTHER {\k21}JUG {\k14}OF {\k18}WATER
+Dialogue: 0,0:01:24.98,0:01:26.09,Default,,0,0,0,,\N{\k17}FOR {\k7}THE {\k26}TABLE. {\k21}KNOWING
+Dialogue: 0,0:01:26.09,0:01:26.92,Default,,0,0,0,,\N{\k24}I'D {\k6}LIKE {\k11}A {\k14}DRINK {\k26}MOST
+Dialogue: 0,0:01:26.92,0:01:27.62,Default,,0,0,0,,\N{\k14}OF {\k9}IT {\k29}MYSELF {\k16}BUT
+Dialogue: 0,0:01:27.62,0:01:28.34,Default,,0,0,0,,\N{\k14}MIGHT {\k15}NOT {\k26}FINISH {\k15}IT
+Dialogue: 0,0:01:28.34,0:01:28.68,Default,,0,0,0,,\N{\k34}ENTIRELY.

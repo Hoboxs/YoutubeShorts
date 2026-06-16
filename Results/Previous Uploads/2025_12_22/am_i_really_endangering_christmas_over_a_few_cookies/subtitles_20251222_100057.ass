@@ -1,0 +1,139 @@
+[Script Info]
+Title: Whisper Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.92,0:00:03.68,Default,,0,0,0,,{\an5}I'M HOSTING
+Dialogue: 0,0:00:03.68,0:00:04.29,Default,,0,0,0,,{\an5}CHRISTMAS EVE
+Dialogue: 0,0:00:04.29,0:00:04.90,Default,,0,0,0,,{\an5}AT MY HOME THIS
+Dialogue: 0,0:00:04.90,0:00:05.74,Default,,0,0,0,,{\an5}YEAR, SOMETHING
+Dialogue: 0,0:00:05.74,0:00:06.32,Default,,0,0,0,,{\an5}I'VE DONE FOR
+Dialogue: 0,0:00:06.32,0:00:06.59,Default,,0,0,0,,{\an5}YEARS.
+Dialogue: 0,0:00:06.87,0:00:07.67,Default,,0,0,0,,{\an5}AND MY TRADITION
+Dialogue: 0,0:00:07.67,0:00:08.19,Default,,0,0,0,,{\an5}IS A BIG
+Dialogue: 0,0:00:08.19,0:00:08.74,Default,,0,0,0,,{\an5}DESSERT TABLE
+Dialogue: 0,0:00:08.74,0:00:09.25,Default,,0,0,0,,{\an5}INSTEAD OF
+Dialogue: 0,0:00:09.25,0:00:09.85,Default,,0,0,0,,{\an5}A SINGLE CAKE.
+Dialogue: 0,0:00:10.33,0:00:10.92,Default,,0,0,0,,{\an5}BAKING IS
+Dialogue: 0,0:00:10.92,0:00:11.77,Default,,0,0,0,,{\an5}MY THING, AND
+Dialogue: 0,0:00:11.77,0:00:12.38,Default,,0,0,0,,{\an5}I USUALLY PUT
+Dialogue: 0,0:00:12.38,0:00:13.11,Default,,0,0,0,,{\an5}OUT A WIDE SPREAD
+Dialogue: 0,0:00:13.11,0:00:13.92,Default,,0,0,0,,{\an5}OF HOMEMADE COOKIES
+Dialogue: 0,0:00:13.92,0:00:14.43,Default,,0,0,0,,{\an5}SO EVERYONE
+Dialogue: 0,0:00:14.43,0:00:14.96,Default,,0,0,0,,{\an5}CAN PICK THEIR
+Dialogue: 0,0:00:14.96,0:00:15.30,Default,,0,0,0,,{\an5}FAVORITES.
+Dialogue: 0,0:00:15.83,0:00:16.48,Default,,0,0,0,,{\an5}THIS YEAR
+Dialogue: 0,0:00:16.48,0:00:17.16,Default,,0,0,0,,{\an5}IS A LITTLE DIFFERENT
+Dialogue: 0,0:00:17.16,0:00:18.17,Default,,0,0,0,,{\an5}BECAUSE MY DAUGHTER-IN-LAW
+Dialogue: 0,0:00:18.17,0:00:18.92,Default,,0,0,0,,{\an5}HAS TWO CHILDREN
+Dialogue: 0,0:00:18.92,0:00:19.50,Default,,0,0,0,,{\an5}FROM A PREVIOUS
+Dialogue: 0,0:00:19.50,0:00:19.87,Default,,0,0,0,,{\an5}MARRIAGE.
+Dialogue: 0,0:00:20.35,0:00:21.01,Default,,0,0,0,,{\an5}BOTH UNDER
+Dialogue: 0,0:00:21.01,0:00:21.82,Default,,0,0,0,,{\an5}12, WHO
+Dialogue: 0,0:00:21.82,0:00:22.60,Default,,0,0,0,,{\an5}HAVE A PEANUT ALLERGY.
+Dialogue: 0,0:00:22.94,0:00:23.46,Default,,0,0,0,,{\an5}IT'S NOT
+Dialogue: 0,0:00:23.46,0:00:24.17,Default,,0,0,0,,{\an5}CONTACT-BASED,
+Dialogue: 0,0:00:24.35,0:00:25.03,Default,,0,0,0,,{\an5}BUT IF THEY EAT
+Dialogue: 0,0:00:25.03,0:00:25.53,Default,,0,0,0,,{\an5}PEANUTS THEY
+Dialogue: 0,0:00:25.53,0:00:26.23,Default,,0,0,0,,{\an5}BREAK OUT BADLY
+Dialogue: 0,0:00:26.23,0:00:26.82,Default,,0,0,0,,{\an5}AND SWELL. WELL,
+Dialogue: 0,0:00:26.83,0:00:27.39,Default,,0,0,0,,{\an5}BECAUSE
+Dialogue: 0,0:00:27.39,0:00:28.10,Default,,0,0,0,,{\an5}OF THAT, I
+Dialogue: 0,0:00:28.10,0:00:29.01,Default,,0,0,0,,{\an5}PLANNED AHEAD. I
+Dialogue: 0,0:00:29.01,0:00:29.60,Default,,0,0,0,,{\an5}DECIDED TO
+Dialogue: 0,0:00:29.60,0:00:30.46,Default,,0,0,0,,{\an5}KEEP ANY PEANUT-BASED
+Dialogue: 0,0:00:30.46,0:00:31.03,Default,,0,0,0,,{\an5}COOKIES ON
+Dialogue: 0,0:00:31.03,0:00:31.69,Default,,0,0,0,,{\an5}A SEPARATE TABLE,
+Dialogue: 0,0:00:32.28,0:00:32.96,Default,,0,0,0,,{\an5}CLEARLY LABELED,
+Dialogue: 0,0:00:33.14,0:00:33.75,Default,,0,0,0,,{\an5}AND BAKE THEM
+Dialogue: 0,0:00:33.75,0:00:34.46,Default,,0,0,0,,{\an5}AT DIFFERENT TIMES
+Dialogue: 0,0:00:34.46,0:00:35.71,Default,,0,0,0,,{\an5}TO AVOID CROSS-CONTAMINATION.
+Dialogue: 0,0:00:35.97,0:00:36.71,Default,,0,0,0,,{\an5}EVERYTHING ELSE
+Dialogue: 0,0:00:36.71,0:00:37.28,Default,,0,0,0,,{\an5}WOULD BE COMPLETELY
+Dialogue: 0,0:00:37.28,0:00:37.97,Default,,0,0,0,,{\an5}PEANUT-FREE.
+Dialogue: 0,0:00:38.10,0:00:38.85,Default,,0,0,0,,{\an5}I EXPLAINED
+Dialogue: 0,0:00:38.85,0:00:39.35,Default,,0,0,0,,{\an5}THIS PLAN
+Dialogue: 0,0:00:39.35,0:00:39.88,Default,,0,0,0,,{\an5}TO MY SON,
+Dialogue: 0,0:00:40.06,0:00:40.67,Default,,0,0,0,,{\an5}AND HE WAS
+Dialogue: 0,0:00:40.67,0:00:41.25,Default,,0,0,0,,{\an5}FINE WITH IT.
+Dialogue: 0,0:00:41.35,0:00:41.88,Default,,0,0,0,,{\an5}HE SAID
+Dialogue: 0,0:00:41.88,0:00:42.50,Default,,0,0,0,,{\an5}HE'D REMIND THE
+Dialogue: 0,0:00:42.50,0:00:43.34,Default,,0,0,0,,{\an5}KIDS, WHO
+Dialogue: 0,0:00:43.34,0:00:44.00,Default,,0,0,0,,{\an5}ALREADY MANAGED
+Dialogue: 0,0:00:44.00,0:00:44.52,Default,,0,0,0,,{\an5}THEIR ALLERGIES
+Dialogue: 0,0:00:44.52,0:00:45.21,Default,,0,0,0,,{\an5}AT SCHOOL AND
+Dialogue: 0,0:00:45.21,0:00:45.85,Default,,0,0,0,,{\an5}OTHER EVENTS WITHOUT
+Dialogue: 0,0:00:45.85,0:00:46.20,Default,,0,0,0,,{\an5}ISSUE.
+Dialogue: 0,0:00:46.65,0:00:47.25,Default,,0,0,0,,{\an5}A FEW
+Dialogue: 0,0:00:47.25,0:00:48.24,Default,,0,0,0,,{\an5}DAYS LATER, MY
+Dialogue: 0,0:00:48.24,0:00:48.85,Default,,0,0,0,,{\an5}DAUGHTER-IN-LAW
+Dialogue: 0,0:00:48.85,0:00:49.52,Default,,0,0,0,,{\an5}CALLED AND IMMEDIATELY
+Dialogue: 0,0:00:49.52,0:00:50.07,Default,,0,0,0,,{\an5}SHUT THE
+Dialogue: 0,0:00:50.07,0:00:50.57,Default,,0,0,0,,{\an5}IDEA DOWN.
+Dialogue: 0,0:00:50.78,0:00:51.52,Default,,0,0,0,,{\an5}SHE INSISTED
+Dialogue: 0,0:00:51.52,0:00:52.02,Default,,0,0,0,,{\an5}THERE COULDN'T
+Dialogue: 0,0:00:52.02,0:00:52.60,Default,,0,0,0,,{\an5}BE ANYTHING WITH
+Dialogue: 0,0:00:52.60,0:00:53.14,Default,,0,0,0,,{\an5}PEANUTS IN
+Dialogue: 0,0:00:53.14,0:00:53.75,Default,,0,0,0,,{\an5}THE HOUSE AT ALL
+Dialogue: 0,0:00:53.75,0:00:54.53,Default,,0,0,0,,{\an5}INSTEAD HAVING THOSE
+Dialogue: 0,0:00:54.53,0:00:55.43,Default,,0,0,0,,{\an5}COOKIES
+Dialogue: 0,0:00:55.43,0:00:56.06,Default,,0,0,0,,{\an5}OUT WOULD BE
+Dialogue: 0,0:00:56.06,0:00:56.70,Default,,0,0,0,,{\an5}TEMPTING THE
+Dialogue: 0,0:00:56.70,0:00:57.53,Default,,0,0,0,,{\an5}KIDS I
+Dialogue: 0,0:00:57.53,0:00:58.03,Default,,0,0,0,,{\an5}TOLD HER I
+Dialogue: 0,0:00:58.03,0:00:58.65,Default,,0,0,0,,{\an5}WASN'T COMFORTABLE
+Dialogue: 0,0:00:58.65,0:00:59.39,Default,,0,0,0,,{\an5}SCRAPPING RECIPES
+Dialogue: 0,0:00:59.39,0:01:00.00,Default,,0,0,0,,{\an5}I'VE MADE FOR
+Dialogue: 0,0:01:00.00,0:01:01.21,Default,,0,0,0,,{\an5}YEARS ESPECIALLY
+Dialogue: 0,0:01:01.21,0:01:01.97,Default,,0,0,0,,{\an5}WHEN PRECAUTIONS
+Dialogue: 0,0:01:01.97,0:01:02.56,Default,,0,0,0,,{\an5}WERE ALREADY
+Dialogue: 0,0:01:02.56,0:01:03.21,Default,,0,0,0,,{\an5}IN PLACE AND
+Dialogue: 0,0:01:03.21,0:01:03.88,Default,,0,0,0,,{\an5}OTHER GUESTS ENJOYED
+Dialogue: 0,0:01:03.88,0:01:04.84,Default,,0,0,0,,{\an5}THEM I
+Dialogue: 0,0:01:04.84,0:01:05.50,Default,,0,0,0,,{\an5}SUGGESTED THAT
+Dialogue: 0,0:01:05.50,0:01:06.04,Default,,0,0,0,,{\an5}KEEPING AN EYE
+Dialogue: 0,0:01:06.04,0:01:06.54,Default,,0,0,0,,{\an5}ON THE KIDS
+Dialogue: 0,0:01:06.54,0:01:07.15,Default,,0,0,0,,{\an5}LIKE
+Dialogue: 0,0:01:07.15,0:01:07.73,Default,,0,0,0,,{\an5}THEY DO EVERYWHERE
+Dialogue: 0,0:01:07.73,0:01:08.71,Default,,0,0,0,,{\an5}ELSE WOULD
+Dialogue: 0,0:01:08.71,0:01:09.43,Default,,0,0,0,,{\an5}SOLVE THE PROBLEM
+Dialogue: 0,0:01:09.43,0:01:10.14,Default,,0,0,0,,{\an5}THAT DIDN'T
+Dialogue: 0,0:01:10.14,0:01:10.70,Default,,0,0,0,,{\an5}GO OVER WELL
+Dialogue: 0,0:01:10.70,0:01:11.20,Default,,0,0,0,,{\an5}THE
+Dialogue: 0,0:01:11.20,0:01:11.95,Default,,0,0,0,,{\an5}CALL ESCALATED
+Dialogue: 0,0:01:11.95,0:01:12.71,Default,,0,0,0,,{\an5}QUICKLY AND
+Dialogue: 0,0:01:12.71,0:01:13.37,Default,,0,0,0,,{\an5}SHE ACCUSED ME
+Dialogue: 0,0:01:13.37,0:01:14.00,Default,,0,0,0,,{\an5}OF BEING CARELESS
+Dialogue: 0,0:01:14.00,0:01:14.54,Default,,0,0,0,,{\an5}AND SELFISH
+Dialogue: 0,0:01:14.54,0:01:15.23,Default,,0,0,0,,{\an5}EVEN
+Dialogue: 0,0:01:15.23,0:01:15.73,Default,,0,0,0,,{\an5}CALLING ME
+Dialogue: 0,0:01:15.73,0:01:16.23,Default,,0,0,0,,{\an5}NAMES BEFORE
+Dialogue: 0,0:01:16.23,0:01:16.76,Default,,0,0,0,,{\an5}HANGING UP
+Dialogue: 0,0:01:16.76,0:01:17.34,Default,,0,0,0,,{\an5}LATER
+Dialogue: 0,0:01:17.34,0:01:17.90,Default,,0,0,0,,{\an5}MY
+Dialogue: 0,0:01:17.90,0:01:18.59,Default,,0,0,0,,{\an5}SON REACHED OUT
+Dialogue: 0,0:01:18.59,0:01:19.09,Default,,0,0,0,,{\an5}AND SAID WHILE
+Dialogue: 0,0:01:19.09,0:01:19.64,Default,,0,0,0,,{\an5}HE AGREED THE
+Dialogue: 0,0:01:19.64,0:01:20.37,Default,,0,0,0,,{\an5}SETUP WAS REASONABLE
+Dialogue: 0,0:01:20.37,0:01:21.20,Default,,0,0,0,,{\an5}I
+Dialogue: 0,0:01:21.20,0:01:21.78,Default,,0,0,0,,{\an5}COULD HAVE HANDLED
+Dialogue: 0,0:01:21.78,0:01:22.28,Default,,0,0,0,,{\an5}THE CONVERSATION
+Dialogue: 0,0:01:22.28,0:01:22.84,Default,,0,0,0,,{\an5}WITH MORE
+Dialogue: 0,0:01:22.84,0:01:23.79,Default,,0,0,0,,{\an5}DIPLOMACY NOW
+Dialogue: 0,0:01:23.79,0:01:24.31,Default,,0,0,0,,{\an5}I'M LEFT
+Dialogue: 0,0:01:24.31,0:01:24.85,Default,,0,0,0,,{\an5}FEELING LIKE
+Dialogue: 0,0:01:24.85,0:01:25.54,Default,,0,0,0,,{\an5}WHAT WAS SUPPOSED TO
+Dialogue: 0,0:01:25.54,0:01:26.43,Default,,0,0,0,,{\an5}BE A THOUGHTFUL COMPROMISE
+Dialogue: 0,0:01:26.43,0:01:27.14,Default,,0,0,0,,{\an5}SOMEHOW TURNED
+Dialogue: 0,0:01:27.14,0:01:28.35,Default,,0,0,0,,{\an5}INTO A FAMILY
+Dialogue: 0,0:01:28.35,0:01:28.90,Default,,0,0,0,,{\an5}STANDOFF
+Dialogue: 0,0:01:28.90,0:01:29.54,Default,,0,0,0,,{\an5}RIGHT BEFORE THE
+Dialogue: 0,0:01:29.54,0:01:29.84,Default,,0,0,0,,{\an5}HOLIDAYS.

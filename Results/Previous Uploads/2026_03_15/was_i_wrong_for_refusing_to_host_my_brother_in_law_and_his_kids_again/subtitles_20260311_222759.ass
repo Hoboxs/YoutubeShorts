@@ -1,0 +1,127 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 900
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat-Regular,60,&H00FFFFFF,&H00808080,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,4,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.79,0:00:04.54,Default,,80,80,60,,{\k12}MY {\k28}HUSBAND {\k33}AND
+Dialogue: 0,0:00:04.54,0:00:05.29,Default,,80,80,60,,{\k9}I {\k10}HAVE {\k8}BEEN {\k25}TOGETHER {\k21}FOR
+Dialogue: 0,0:00:05.29,0:00:06.13,Default,,80,80,60,,{\k18}ABOUT {\k31}15 {\k33}YEARS.
+Dialogue: 0,0:00:06.78,0:00:07.01,Default,,80,80,60,,{\k23}HIS
+Dialogue: 0,0:00:07.01,0:00:07.63,Default,,80,80,60,,{\k30}BROTHER {\k17}AND {\k13}HIS
+Dialogue: 0,0:00:07.63,0:00:08.30,Default,,80,80,60,,{\k37}BROTHER {\k16}WIFE {\k12}HAVE
+Dialogue: 0,0:00:08.30,0:00:08.98,Default,,80,80,60,,{\k19}ALSO {\k16}BEEN {\k32}TOGETHER
+Dialogue: 0,0:00:08.98,0:00:09.61,Default,,80,80,60,,{\k16}FOR {\k17}ROUGHLY {\k14}THE {\k15}SAME
+Dialogue: 0,0:00:09.61,0:00:10.24,Default,,80,80,60,,{\k24}AMOUNT {\k16}OF {\k22}TIME.
+Dialogue: 0,0:00:11.08,0:00:11.82,Default,,80,80,60,,{\k16}BOTH {\k16}OF {\k9}OUR {\k32}FAMILIES
+Dialogue: 0,0:00:11.82,0:00:12.43,Default,,80,80,60,,{\k21}HAVE {\k16}TWO {\k24}KIDS.
+Dialogue: 0,0:00:13.38,0:00:14.08,Default,,80,80,60,,{\k8}OURS {\k11}ARE {\k24}7 {\k16}AND
+Dialogue: 0,0:00:14.08,0:00:14.80,Default,,80,80,60,,{\k25}4, {\k46}AND
+Dialogue: 0,0:00:14.80,0:00:15.59,Default,,80,80,60,,{\k11}THEIRS {\k14}ARE {\k16}10 {\k12}AND {\k19}4.
+Dialogue: 0,0:00:16.42,0:00:16.78,Default,,80,80,60,,{\k35}WE
+Dialogue: 0,0:00:16.78,0:00:17.64,Default,,80,80,60,,{\k14}LIVE {\k13}ON {\k8}THE {\k16}SAME {\k33}STREET,
+Dialogue: 0,0:00:17.64,0:00:18.35,Default,,80,80,60,,{\k39}SO {\k32}NATURALLY
+Dialogue: 0,0:00:18.35,0:00:19.10,Default,,80,80,60,,{\k17}THE {\k16}KIDS {\k14}LIKE {\k26}SPENDING
+Dialogue: 0,0:00:19.10,0:00:19.71,Default,,80,80,60,,{\k29}TIME {\k32}TOGETHER
+Dialogue: 0,0:00:19.71,0:00:21.07,Default,,80,80,60,,{\k20}AND {\k25}PLAYING. {\k23}MY
+Dialogue: 0,0:00:21.07,0:00:21.78,Default,,80,80,60,,{\k36}RELATIONSHIP {\k33}WITH
+Dialogue: 0,0:00:21.78,0:00:22.39,Default,,80,80,60,,{\k14}MY {\k31}SISTER-IN-LAW {\k16}ISN
+Dialogue: 0,0:00:22.39,0:00:23.16,Default,,80,80,60,,{\k16}T {\k17}GREAT, {\k21}BUT
+Dialogue: 0,0:00:23.16,0:00:24.44,Default,,80,80,60,,{\k12}IT {\k19}CIVIL. {\k17}WE
+Dialogue: 0,0:00:24.44,0:00:25.28,Default,,80,80,60,,{\k23}MOSTLY {\k16}KEEP {\k16}OUR {\k28}DISTANCE
+Dialogue: 0,0:00:25.28,0:00:25.96,Default,,80,80,60,,{\k25}AND {\k12}LET {\k14}THE {\k16}KIDS
+Dialogue: 0,0:00:25.96,0:00:26.64,Default,,80,80,60,,{\k23}SEE {\k19}EACH {\k10}OTHER {\k14}THROUGH
+Dialogue: 0,0:00:26.64,0:00:27.35,Default,,80,80,60,,{\k12}MY {\k27}HUSBAND {\k19}AND {\k12}HIS
+Dialogue: 0,0:00:27.35,0:00:28.60,Default,,80,80,60,,{\k32}BROTHER. {\k39}OVER
+Dialogue: 0,0:00:28.60,0:00:29.33,Default,,80,80,60,,{\k17}THE {\k11}LAST {\k26}COUPLE {\k17}OF
+Dialogue: 0,0:00:29.33,0:00:30.01,Default,,80,80,60,,{\k17}MONTHS, {\k19}THE {\k14}KIDS {\k16}HAVE
+Dialogue: 0,0:00:30.01,0:00:30.78,Default,,80,80,60,,{\k30}STARTED {\k28}HAVING {\k17}REGULAR
+Dialogue: 0,0:00:30.78,0:00:31.67,Default,,80,80,60,,{\k37}WEEKEND {\k51}PLAYDATES,
+Dialogue: 0,0:00:32.00,0:00:32.70,Default,,80,80,60,,{\k21}WHICH {\k14}I {\k14}THINK {\k20}IS
+Dialogue: 0,0:00:32.70,0:00:33.71,Default,,80,80,60,,{\k17}GREAT. {\k19}THE
+Dialogue: 0,0:00:33.71,0:00:34.38,Default,,80,80,60,,{\k20}ISSUE {\k14}IS {\k9}THAT {\k22}ALMOST
+Dialogue: 0,0:00:34.38,0:00:35.10,Default,,80,80,60,,{\k21}ALL {\k10}OF {\k14}THOSE {\k25}PLAYDATES
+Dialogue: 0,0:00:35.10,0:00:35.70,Default,,80,80,60,,{\k32}HAPPEN {\k14}AT {\k14}OUR
+Dialogue: 0,0:00:35.70,0:00:37.00,Default,,80,80,60,,{\k32}HOUSE. {\k24}WHENEVER
+Dialogue: 0,0:00:37.00,0:00:37.74,Default,,80,80,60,,{\k25}THEY {\k16}COME {\k32}OVER,
+Dialogue: 0,0:00:38.21,0:00:38.92,Default,,80,80,60,,{\k10}MY {\k25}HUSBAND {\k20}AND {\k14}HIS
+Dialogue: 0,0:00:38.92,0:00:39.64,Default,,80,80,60,,{\k21}BROTHER {\k29}USUALLY {\k20}GO
+Dialogue: 0,0:00:39.64,0:00:40.38,Default,,80,80,60,,{\k17}OFF {\k14}TO {\k19}ANOTHER {\k22}ROOM
+Dialogue: 0,0:00:40.38,0:00:41.17,Default,,80,80,60,,{\k9}AND {\k17}PLAY {\k18}VIDEO {\k33}GAMES.
+Dialogue: 0,0:00:41.71,0:00:41.93,Default,,80,80,60,,{\k21}THAT
+Dialogue: 0,0:00:41.93,0:00:42.75,Default,,80,80,60,,{\k16}LEAVES {\k15}ME {\k50}SUPERVISING
+Dialogue: 0,0:00:42.75,0:00:43.57,Default,,80,80,60,,{\k17}FOUR {\k21}KIDS, {\k19}MANAGING
+Dialogue: 0,0:00:43.57,0:00:44.24,Default,,80,80,60,,{\k21}THE {\k17}CHAOS, {\k26}AND
+Dialogue: 0,0:00:44.24,0:00:44.92,Default,,80,80,60,,{\k29}CLEANING {\k21}UP {\k16}THE
+Dialogue: 0,0:00:44.92,0:00:46.24,Default,,80,80,60,,{\k43}MESS {\k14}AFTERWARD.
+Dialogue: 0,0:00:46.24,0:00:46.85,Default,,80,80,60,,{\k17}LAST {\k28}WEEKEND {\k15}WHEN
+Dialogue: 0,0:00:46.85,0:00:47.56,Default,,80,80,60,,{\k11}THEY {\k10}WERE {\k20}OVER {\k28}AGAIN,
+Dialogue: 0,0:00:47.82,0:00:48.75,Default,,80,80,60,,{\k3}I {\k14}HALF-JOKINGLY {\k25}MENTIONED
+Dialogue: 0,0:00:48.75,0:00:49.56,Default,,80,80,60,,{\k17}THAT {\k8}THE {\k17}NEXT {\k35}PLAYDATE
+Dialogue: 0,0:00:49.56,0:00:50.17,Default,,80,80,60,,{\k14}SHOULD {\k25}HAPPEN {\k11}AT {\k10}THEIR
+Dialogue: 0,0:00:50.17,0:00:51.42,Default,,80,80,60,,{\k20}HOUSE. {\k30}I
+Dialogue: 0,0:00:51.42,0:00:52.03,Default,,80,80,60,,{\k15}SAID {\k14}IT {\k7}WOULD {\k10}BE {\k14}NICE
+Dialogue: 0,0:00:52.03,0:00:52.64,Default,,80,80,60,,{\k21}IF {\k20}THINGS {\k17}ROTATED
+Dialogue: 0,0:00:52.84,0:00:53.57,Default,,80,80,60,,{\k21}SO {\k11}I {\k11}COULD {\k28}ALSO
+Dialogue: 0,0:00:53.57,0:00:54.32,Default,,80,80,60,,{\k17}HAVE {\k6}A {\k17}QUIET {\k32}WEEKEND
+Dialogue: 0,0:00:54.32,0:00:55.03,Default,,80,80,60,,{\k38}SOMETIMES {\k17}OR {\k15}JUST
+Dialogue: 0,0:00:55.03,0:00:55.67,Default,,80,80,60,,{\k20}TAKE {\k19}CARE {\k12}OF {\k11}THINGS
+Dialogue: 0,0:00:55.67,0:00:56.50,Default,,80,80,60,,{\k28}AROUND {\k14}THE {\k15}HOUSE {\k24}WITHOUT
+Dialogue: 0,0:00:56.50,0:00:57.57,Default,,80,80,60,,{\k34}CONSTANTLY {\k17}MANAGING {\k50}KIDS.
+Dialogue: 0,0:00:58.38,0:00:58.52,Default,,80,80,60,,{\k14}THE
+Dialogue: 0,0:00:58.52,0:00:59.15,Default,,80,80,60,,{\k19}VERY {\k24}NEXT {\k19}DAY
+Dialogue: 0,0:00:59.15,0:00:59.89,Default,,80,80,60,,{\k14}I {\k16}CAME {\k25}HOME {\k17}FROM
+Dialogue: 0,0:00:59.89,0:01:00.64,Default,,80,80,60,,{\k20}WORK {\k15}AND {\k17}FOUND {\k20}MY
+Dialogue: 0,0:01:00.64,0:01:01.35,Default,,80,80,60,,{\k28}BROTHER-IN-LAW {\k11}THERE
+Dialogue: 0,0:01:01.35,0:01:02.52,Default,,80,80,60,,{\k25}AGAIN. {\k22}HE
+Dialogue: 0,0:01:02.52,0:01:03.32,Default,,80,80,60,,{\k5}AND {\k14}MY {\k20}HUSBAND {\k19}WERE {\k20}PLAYING
+Dialogue: 0,0:01:03.32,0:01:04.04,Default,,80,80,60,,{\k20}VIDEO {\k32}GAMES {\k20}WHILE
+Dialogue: 0,0:01:04.04,0:01:04.65,Default,,80,80,60,,{\k11}THE {\k18}LIVING {\k15}ROOM {\k15}WAS
+Dialogue: 0,0:01:04.65,0:01:05.42,Default,,80,80,60,,{\k21}COVERED {\k21}IN {\k14}TOYS {\k18}FROM
+Dialogue: 0,0:01:05.42,0:01:06.87,Default,,80,80,60,,{\k9}THE {\k16}KIDS {\k27}PLAYING. {\k23}I
+Dialogue: 0,0:01:06.87,0:01:07.68,Default,,80,80,60,,{\k14}WAS {\k21}REALLY {\k44}FRUSTRATED.
+Dialogue: 0,0:01:08.51,0:01:09.21,Default,,80,80,60,,{\k32}EVENTUALLY {\k37}EVERYONE
+Dialogue: 0,0:01:09.21,0:01:09.84,Default,,80,80,60,,{\k15}WENT {\k30}OUTSIDE {\k15}TO
+Dialogue: 0,0:01:09.84,0:01:10.48,Default,,80,80,60,,{\k6}THE {\k28}PLAYGROUND, {\k29}BUT
+Dialogue: 0,0:01:10.48,0:01:11.14,Default,,80,80,60,,{\k14}BY {\k11}THAT {\k20}POINT {\k20}I
+Dialogue: 0,0:01:11.14,0:01:11.90,Default,,80,80,60,,{\k9}WAS {\k26}ALREADY {\k40}IRRITATED.
+Dialogue: 0,0:01:12.79,0:01:13.06,Default,,80,80,60,,{\k26}IT
+Dialogue: 0,0:01:13.06,0:01:13.87,Default,,80,80,60,,{\k14}BEEN {\k11}A {\k16}FEW {\k14}DAYS {\k25}SINCE
+Dialogue: 0,0:01:13.87,0:01:14.12,Default,,80,80,60,,{\k24}THEN.
+Dialogue: 0,0:01:14.79,0:01:15.40,Default,,80,80,60,,{\k12}MY {\k23}HUSBAND {\k24}KEEPS
+Dialogue: 0,0:01:15.40,0:01:16.01,Default,,80,80,60,,{\k29}TELLING {\k20}ME {\k11}THAT
+Dialogue: 0,0:01:16.01,0:01:16.73,Default,,80,80,60,,{\k12}HIS {\k9}NEPHEW {\k28}WANTS {\k21}TO
+Dialogue: 0,0:01:16.73,0:01:17.40,Default,,80,80,60,,{\k10}COME {\k25}OVER {\k30}AGAIN
+Dialogue: 0,0:01:17.40,0:01:18.12,Default,,80,80,60,,{\k23}AND {\k20}TRIES {\k15}TO {\k12}MAKE
+Dialogue: 0,0:01:18.12,0:01:18.84,Default,,80,80,60,,{\k11}ME {\k20}FEEL {\k18}GUILTY {\k21}FOR
+Dialogue: 0,0:01:18.84,0:01:20.20,Default,,80,80,60,,{\k21}SAYING {\k20}NO. {\k26}WHAT
+Dialogue: 0,0:01:20.20,0:01:20.81,Default,,80,80,60,,{\k25}BOTHERS {\k22}ME {\k13}IS
+Dialogue: 0,0:01:20.81,0:01:21.50,Default,,80,80,60,,{\k12}THAT {\k12}THEY {\k17}STILL {\k26}HAVEN
+Dialogue: 0,0:01:21.50,0:01:22.42,Default,,80,80,60,,{\k20}ARRANGED {\k31}ANY {\k40}PLAYDATES
+Dialogue: 0,0:01:22.42,0:01:23.12,Default,,80,80,60,,{\k7}AT {\k7}THEIR {\k21}HOUSE, {\k32}AND
+Dialogue: 0,0:01:23.12,0:01:23.81,Default,,80,80,60,,{\k37}APPARENTLY {\k31}HAVEN
+Dialogue: 0,0:01:23.81,0:01:24.42,Default,,80,80,60,,{\k10}DONE {\k20}SO {\k11}IN {\k18}OVER
+Dialogue: 0,0:01:24.42,0:01:24.64,Default,,80,80,60,,{\k3}A {\k18}MONTH.
+Dialogue: 0,0:01:25.43,0:01:26.18,Default,,80,80,60,,{\k15}I {\k8}NOT {\k19}TRYING {\k14}TO {\k16}STOP
+Dialogue: 0,0:01:26.18,0:01:26.85,Default,,80,80,60,,{\k17}THE {\k14}KIDS {\k15}FROM {\k20}SEEING
+Dialogue: 0,0:01:26.85,0:01:28.12,Default,,80,80,60,,{\k21}EACH {\k14}OTHER. {\k14}I
+Dialogue: 0,0:01:28.12,0:01:28.87,Default,,80,80,60,,{\k11}JUST {\k26}ASKED {\k9}THAT {\k10}THE {\k17}VISITS
+Dialogue: 0,0:01:28.87,0:01:29.73,Default,,80,80,60,,{\k18}ROTATE {\k25}BETWEEN {\k28}HOUSES
+Dialogue: 0,0:01:29.73,0:01:30.59,Default,,80,80,60,,{\k18}SO {\k9}THE {\k57}RESPONSIBILITY
+Dialogue: 0,0:01:30.59,0:01:31.29,Default,,80,80,60,,{\k35}ISN {\k20}ALWAYS {\k14}ON
+Dialogue: 0,0:01:31.29,0:01:31.45,Default,,80,80,60,,{\k15}ME.
+Dialogue: 0,0:01:32.12,0:01:32.95,Default,,80,80,60,,{\k11}NOW {\k10}MY {\k20}HUSBAND {\k15}IS {\k25}ACTING
+Dialogue: 0,0:01:32.95,0:01:33.57,Default,,80,80,60,,{\k20}LIKE {\k18}I {\k9}THE {\k14}ONE
+Dialogue: 0,0:01:33.57,0:01:34.09,Default,,80,80,60,,{\k20}BEING {\k31}UNFAIR.
+Dialogue: 0,0:01:34.98,0:01:35.68,Default,,80,80,60,,{\k14}WAS {\k9}I {\k14}WRONG {\k18}FOR {\k14}PUTTING
+Dialogue: 0,0:01:35.68,0:01:36.29,Default,,80,80,60,,{\k19}MY {\k14}FOOT {\k16}DOWN {\k11}AND
+Dialogue: 0,0:01:36.29,0:01:36.95,Default,,80,80,60,,{\k21}SAYING {\k21}THEY {\k21}SHOULDN
+Dialogue: 0,0:01:36.95,0:01:37.62,Default,,80,80,60,,{\k14}KEEP {\k24}COMING {\k28}OVER
+Dialogue: 0,0:01:37.62,0:01:38.26,Default,,80,80,60,,{\k14}IF {\k15}IT {\k14}ALWAYS {\k20}GOING
+Dialogue: 0,0:01:38.26,0:01:38.87,Default,,80,80,60,,{\k14}TO {\k11}FALL {\k21}ME {\k14}TO
+Dialogue: 0,0:01:38.87,0:01:39.56,Default,,80,80,60,,{\k14}HOST {\k16}AND {\k15}CLEAN {\k21}UP?
